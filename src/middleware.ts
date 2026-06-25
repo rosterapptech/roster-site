@@ -2,7 +2,7 @@ import { defineMiddleware } from 'astro:middleware';
 
 const SUPPORTED = ['de', 'en', 'nl', 'es', 'da', 'sv'] as const;
 type Lang = (typeof SUPPORTED)[number];
-const DEFAULT: Lang = 'en'; // Fallback für nicht unterstützte Sprachen
+const DEFAULT: Lang = 'de'; // Fallback für nicht unterstützte Sprachen
 
 function detectLang(header: string | null): Lang {
   if (!header) return DEFAULT;
@@ -25,6 +25,10 @@ export const onRequest = defineMiddleware(async (ctx, next) => {
     (l) => pathname.startsWith(`/${l}/`) || pathname === `/${l}`
   );
   if (alreadyLocalized) return next();
+
+  // Blog-Artikel-Slugs sind sprachspezifisch → niemals umleiten
+  // (DE-Slugs existieren nicht unter /en/blog/, EN-Slugs nicht unter /blog/)
+  if (pathname.match(/^\/blog\/.+/)) return next();
 
   // Cookie hat Vorrang (wenn User manuell Sprache gewählt hat)
   const cookieLang = ctx.cookies.get('roster-lang')?.value as Lang | undefined;

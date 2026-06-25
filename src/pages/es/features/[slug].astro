@@ -1,18 +1,14 @@
 ---
-export const prerender = true;
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import Vio from '../../../components/Vio.astro';
 import { featureSlugs, featureData, type FeatureSlug } from '../../../config/features';
 
-export function getStaticPaths() {
-  return featureSlugs.map((slug) => ({ params: { slug } }));
-}
-
-const { slug } = Astro.params as { slug: FeatureSlug };
+const { slug } = Astro.params;
 const lang = 'es';
-const feature = featureData[lang][slug];
+const feature = featureData[lang][slug as FeatureSlug];
+if (!feature) return Astro.redirect("/");
 ---
 
 <BaseLayout
