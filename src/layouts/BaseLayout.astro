@@ -74,5 +74,38 @@ const alternates = [
   </head>
   <body>
     <slot />
+    <script>
+      // Aktiviert Scroll-Reveal erst wenn JS läuft → Content immer im DOM (SEO-sicher)
+      document.documentElement.classList.add('js-ready');
+
+      const observer = new IntersectionObserver(
+        (entries) => entries.forEach((e) => {
+          if (e.isIntersecting) {
+            e.target.classList.add('revealed');
+            observer.unobserve(e.target);
+          }
+        }),
+        { threshold: 0.08, rootMargin: '0px 0px -32px 0px' }
+      );
+
+      // Karten & Gitter automatisch mit gestaffelten Delays
+      document.querySelectorAll('.grid, .price-grid, .faq-list, .posts').forEach((wrap) => {
+        wrap.querySelectorAll(':scope > *').forEach((child, i) => {
+          child.setAttribute('data-reveal', '');
+          child.setAttribute('data-delay', String(Math.min(i + 1, 6)));
+          observer.observe(child);
+        });
+      });
+
+      // Überschriften, Abschnitte & Feature-Seiten-Elemente
+      document.querySelectorAll(
+        'section .eyebrow, section > .container > h2, .closing-inner, ' +
+        '.feature-header, .long-desc, .screenshot-area, .back, ' +
+        '.trust-row, .blog-index .eyebrow, .blog-index h1, .blog-index .lede'
+      ).forEach((el) => {
+        el.setAttribute('data-reveal', '');
+        observer.observe(el);
+      });
+    </script>
   </body>
 </html>

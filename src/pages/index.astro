@@ -362,6 +362,12 @@ const schema = {
     display: flex;
     flex-direction: column;
     position: relative;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    cursor: default;
+  }
+  .price:hover {
+    transform: scale(1.04);
+    z-index: 1;
   }
   .price-name {
     font-size: 0.85rem;
@@ -455,8 +461,7 @@ const schema = {
   }
 
   @media (max-width: 860px) {
-    .grid,
-    .pricing .price-grid {
+    .grid {
       grid-template-columns: 1fr 1fr;
     }
     .faq-wrap {
@@ -477,9 +482,28 @@ const schema = {
     .hero-visual {
       order: -1;
     }
-    .grid,
-    .pricing .price-grid {
+    .grid {
       grid-template-columns: 1fr;
+    }
+    .pricing .price-grid {
+      gap: 10px;
+    }
+    .price {
+      padding: 16px 12px;
+    }
+    .price-amount {
+      font-size: 1.5rem;
+      margin: 6px 0;
+    }
+    .price-amount small {
+      font-size: 0.75rem;
+    }
+    .price-name {
+      font-size: 0.72rem;
+      letter-spacing: 0.07em;
+    }
+    .price-note {
+      font-size: 0.78rem;
     }
   }
 </style>
