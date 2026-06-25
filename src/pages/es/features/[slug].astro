@@ -22,35 +22,44 @@ const screenshot = featureScreenshots[slug as FeatureSlug];
   <main class="container feature-page">
     <a href="/es/#features" class="back">← Volver a funciones</a>
 
-    <div class="feature-header">
-      {feature.vio
-        ? <Vio size={56} />
-        : <span class="feat-icon" set:html={feature.icon} />
-      }
-      <h1>{feature.name}</h1>
-      <p class="tagline">{feature.shortDesc}</p>
+    <div class="feature-layout">
+      <div class="feature-text">
+        <div class="feature-header">
+          {feature.vio
+            ? <Vio size={56} />
+            : <span class="feat-icon" set:html={feature.icon} />
+          }
+          <h1>{feature.name}</h1>
+          <p class="tagline">{feature.shortDesc}</p>
+        </div>
+        <p class="long-desc">{feature.longDesc}</p>
+        <a href="https://apps.apple.com/app/roster" class="btn btn-primary cta">Descargar en App Store</a>
+      </div>
+
+      <div class="screenshot-area">
+        <img src={screenshot} alt={} class="screenshot" />
+      </div>
     </div>
-
-    <p class="long-desc">{feature.longDesc}</p>
-
-    <div class="screenshot-area">
-      <img src={screenshot} alt={`${feature.name} – Roster App Screenshot`} class="screenshot" />
-    </div>
-
-    <a href="https://apps.apple.com/app/roster" class="btn btn-primary cta">Descargar en App Store</a>
   </main>
   <Footer lang={lang} />
 </BaseLayout>
 
 <style>
-  .feature-page { max-width: 680px; padding-block: 60px 80px; }
+  .feature-page { max-width: 1000px; padding-block: 60px 80px; }
   .back { color: var(--text-muted); font-size: 0.9rem; }
-  .feature-header { margin-top: 40px; display: flex; flex-direction: column; gap: 12px; }
+  .feature-layout { display: grid; grid-template-columns: 1fr auto; gap: 64px; align-items: center; margin-top: 48px; }
+  .feature-text { display: flex; flex-direction: column; }
+  .feature-header { display: flex; flex-direction: column; gap: 12px; }
   .feat-icon { display: block; }
   .feature-header h1 { margin: 0; }
   .tagline { color: var(--text-muted); font-size: 1.1rem; margin: 0; line-height: 1.6; }
   .long-desc { color: var(--text-muted); line-height: 1.75; margin-top: 28px; font-size: 1rem; }
-  .screenshot-area { margin-top: 48px; border: 1px dashed var(--border); border-radius: 16px; min-height: 320px; display: flex; align-items: center; justify-content: center; background: var(--surface); }
-  .screenshot-placeholder { color: var(--text-dim); font-size: 0.9rem; margin: 0; }
-  .cta { margin-top: 40px; display: inline-block; }
+  .screenshot-area { flex-shrink: 0; }
+  .screenshot { width: 260px; border-radius: 32px; box-shadow: 0 24px 80px -16px rgba(0, 0, 0, 0.6); display: block; }
+  .cta { margin-top: 40px; display: inline-block; align-self: flex-start; }
+  @media (max-width: 720px) {
+    .feature-layout { grid-template-columns: 1fr; gap: 40px; }
+    .screenshot { width: 100%; max-width: 300px; margin-inline: auto; }
+    .cta { align-self: center; }
+  }
 </style>
