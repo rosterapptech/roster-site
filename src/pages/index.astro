@@ -9,6 +9,7 @@ const lang = 'de';
 
 const features = [
   {
+    slug: 'connections',
     name: 'Verbindungen',
     desc: 'Alle deine Beziehungen an einem Ort – mit Beziehungstyp, Schutzstatus und einem schnellen Kontakt-Log.',
     icon: `<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -19,6 +20,7 @@ const features = [
     </svg>`,
   },
   {
+    slug: 'polycule-map',
     name: 'Polycule Map',
     desc: 'Dein Beziehungsnetz als lebendige Karte. Du im Zentrum, alle Verbindungen drumherum, nach Typ farbcodiert.',
     icon: `<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -34,6 +36,7 @@ const features = [
     </svg>`,
   },
   {
+    slug: 'wellness',
     name: 'Wellness',
     desc: 'Behalte STI-Tests und Check-ins im Blick – diskret, lokal, ohne dass es jemand außer dir sieht.',
     icon: `<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -42,6 +45,7 @@ const features = [
     </svg>`,
   },
   {
+    slug: 'reflection',
     name: 'Reflexion',
     desc: 'Ein Journal für Eifersucht, Compersion und alles dazwischen. Zum Sortieren, nicht zum Bewerten.',
     icon: `<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -53,6 +57,7 @@ const features = [
     </svg>`,
   },
   {
+    slug: 'insights',
     name: 'Insights',
     desc: 'Sanfte Muster statt kalter Zahlen: Wo investierst du Energie, wo wird es gerade still?',
     icon: `<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -64,6 +69,7 @@ const features = [
     </svg>`,
   },
   {
+    slug: 'vio',
     name: 'Vio',
     desc: 'Dein kleiner Begleiter, der nachfragt wie es dir geht – mal sanft, mal locker, mal schonungslos ehrlich.',
     vio: true,
@@ -96,12 +102,8 @@ const faqs = [
     a: 'Vio ist dein persönlicher Begleiter in der App – eine Art sanfter innerer Stimme, die dich täglich fragt, wie es dir geht. Mal locker, mal tiefer gehend. Vio merkt sich nichts dauerhaft, alles bleibt auf deinem Gerät.',
   },
   {
-    q: 'Kann ich meine Daten exportieren oder sichern?',
-    a: 'Ein manueller Datenexport ist in Planung.',
-  },
-  {
     q: 'Gibt es eine Android-Version?',
-    a: 'Aktuell nicht – Roster ist eine native iOS-App. Ob und wann Android kommt, ist noch offen. Trag dich auf der Warteliste ein, wenn du benachrichtigt werden möchtest.',
+    a: 'Aktuell nicht – Roster ist eine native iOS-App. Ob und wann Android kommt, ist noch offen.',
   },
   {
     q: 'Was ist der Unterschied zwischen Free und Premium?',
@@ -200,11 +202,11 @@ const schema = {
         <div class="grid">
           {
             features.map((f) => (
-              <div class="card feature">
+              <a href={`/features/${f.slug}`} class="card feature">
                 {f.vio ? <Vio size={34} /> : <span class="feat-icon" set:html={f.icon} />}
                 <h3>{f.name}</h3>
                 <p>{f.desc}</p>
-              </div>
+              </a>
             ))
           }
         </div>
@@ -326,6 +328,16 @@ const schema = {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
+  }
+  .feature {
+    color: var(--text);
+    text-decoration: none;
+    transition: border-color 0.2s ease, transform 0.15s ease;
+  }
+  .feature:hover {
+    text-decoration: none;
+    border-color: var(--purple);
+    transform: translateY(-3px);
   }
   .feature .feat-icon {
     display: block;

@@ -27,7 +27,7 @@ export const ui = {
     'footer.app.privacy': 'Datenschutzerklärung',
     'blog.back': '← Alle Artikel',
     'blog.readmore': 'Weiterlesen →',
-    'blog.headline': 'Aus dem Maschinenraum.',
+    'blog.headline': 'Gedanken. Aufgeschrieben.',
     'blog.lede': 'Klartext zu Nicht-Monogamie, Beziehungspflege und warum eine ruhige App manchmal mehr hilft als ein gutes Gespräch.',
   },
   en: {
@@ -47,7 +47,7 @@ export const ui = {
     'footer.app.privacy': 'Privacy Policy',
     'blog.back': '← All articles',
     'blog.readmore': 'Read more →',
-    'blog.headline': 'From the engine room.',
+    'blog.headline': 'Thoughts, written down.',
     'blog.lede': 'Straight talk on non-monogamy, relationship care, and why a quiet app sometimes helps more than a good conversation.',
   },
   nl: {
@@ -67,7 +67,7 @@ export const ui = {
     'footer.app.privacy': 'Privacybeleid',
     'blog.back': '← Alle artikelen',
     'blog.readmore': 'Lees verder →',
-    'blog.headline': 'Uit de machinekamer.',
+    'blog.headline': 'Gedachten, opgeschreven.',
     'blog.lede': 'Duidelijke taal over niet-monogamie, relatiebeheer en waarom een rustige app soms meer helpt dan een goed gesprek.',
   },
   es: {
@@ -87,7 +87,7 @@ export const ui = {
     'footer.app.privacy': 'Política de privacidad',
     'blog.back': '← Todos los artículos',
     'blog.readmore': 'Leer más →',
-    'blog.headline': 'Desde las entrañas.',
+    'blog.headline': 'Pensamientos escritos.',
     'blog.lede': 'Texto claro sobre no monogamia, cuidado de las relaciones y por qué una app tranquila a veces ayuda más que una buena conversación.',
   },
   da: {
@@ -107,7 +107,7 @@ export const ui = {
     'footer.app.privacy': 'Privatlivspolitik',
     'blog.back': '← Alle artikler',
     'blog.readmore': 'Læs mere →',
-    'blog.headline': 'Fra maskinrummet.',
+    'blog.headline': 'Tanker, skrevet ned.',
     'blog.lede': 'Klar tale om ikke-monogami, relationspleje og hvorfor en rolig app nogle gange hjælper mere end en god samtale.',
   },
   sv: {
@@ -127,7 +127,7 @@ export const ui = {
     'footer.app.privacy': 'Integritetspolicy',
     'blog.back': '← Alla artiklar',
     'blog.readmore': 'Läs mer →',
-    'blog.headline': 'Från maskinrummet.',
+    'blog.headline': 'Tankar, nedskrivna.',
     'blog.lede': 'Klarspråk om icke-monogami, relationsvård och varför en lugn app ibland hjälper mer än ett bra samtal.',
   },
 } as const;

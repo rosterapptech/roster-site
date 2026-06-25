@@ -1,0 +1,59 @@
+---
+export const prerender = true;
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import Vio from '../../../components/Vio.astro';
+import { featureSlugs, featureData, type FeatureSlug } from '../../../config/features';
+
+export function getStaticPaths() {
+  return featureSlugs.map((slug) => ({ params: { slug } }));
+}
+
+const { slug } = Astro.params as { slug: FeatureSlug };
+const lang = 'en';
+const feature = featureData[lang][slug];
+---
+
+<BaseLayout
+  lang={lang}
+  path={`/en/features/${slug}`}
+  title={`${feature.name} – Roster`}
+  description={feature.longDesc}
+>
+  <Header lang={lang} />
+  <main class="container feature-page">
+    <a href="/en/#features" class="back">← Back to features</a>
+
+    <div class="feature-header">
+      {feature.vio
+        ? <Vio size={56} />
+        : <span class="feat-icon" set:html={feature.icon} />
+      }
+      <h1>{feature.name}</h1>
+      <p class="tagline">{feature.shortDesc}</p>
+    </div>
+
+    <p class="long-desc">{feature.longDesc}</p>
+
+    <div class="screenshot-area">
+      <p class="screenshot-placeholder">Screenshot coming soon.</p>
+    </div>
+
+    <a href="https://apps.apple.com/app/roster" class="btn btn-primary cta">Get it on the App Store</a>
+  </main>
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .feature-page { max-width: 680px; padding-block: 60px 80px; }
+  .back { color: var(--text-muted); font-size: 0.9rem; }
+  .feature-header { margin-top: 40px; display: flex; flex-direction: column; gap: 12px; }
+  .feat-icon { display: block; }
+  .feature-header h1 { margin: 0; }
+  .tagline { color: var(--text-muted); font-size: 1.1rem; margin: 0; line-height: 1.6; }
+  .long-desc { color: var(--text-muted); line-height: 1.75; margin-top: 28px; font-size: 1rem; }
+  .screenshot-area { margin-top: 48px; border: 1px dashed var(--border); border-radius: 16px; min-height: 320px; display: flex; align-items: center; justify-content: center; background: var(--surface); }
+  .screenshot-placeholder { color: var(--text-dim); font-size: 0.9rem; margin: 0; }
+  .cta { margin-top: 40px; display: inline-block; }
+</style>

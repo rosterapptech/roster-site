@@ -9,31 +9,37 @@ const lang = 'sv';
 
 const features = [
   {
+    slug: 'connections',
     name: 'Kopplingar',
     desc: 'Alla dina relationer på ett ställe — med typ, skyddsstatus och en snabb kontaktlogg.',
     icon: `<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="13" r="5" stroke="#8b5cf6" stroke-width="2"/><path d="M3 28c0-4.418 4.03-8 9-8s9 3.582 9 8" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round"/><circle cx="25" cy="11" r="4" stroke="#c4b5fd" stroke-width="1.75"/><path d="M20 26c0-3.314 2.686-6 6-6" stroke="#c4b5fd" stroke-width="1.75" stroke-linecap="round"/></svg>`,
   },
   {
+    slug: 'polycule-map',
     name: 'Polycule-karta',
     desc: 'Ditt relationsnätverk som en levande karta. Du i mitten, alla kopplingar runt om dig, färgkodade efter typ.',
     icon: `<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="17" cy="17" r="4" fill="#8b5cf6"/><circle cx="6" cy="9" r="3" stroke="#8b5cf6" stroke-width="1.75"/><circle cx="28" cy="9" r="3" stroke="#c4b5fd" stroke-width="1.75"/><circle cx="6" cy="25" r="3" stroke="#4fd6c2" stroke-width="1.75"/><circle cx="28" cy="25" r="3" stroke="#f0789f" stroke-width="1.75"/><line x1="17" y1="17" x2="6" y2="9" stroke="#8b5cf6" stroke-width="1.5" stroke-opacity="0.6"/><line x1="17" y1="17" x2="28" y2="9" stroke="#c4b5fd" stroke-width="1.5" stroke-opacity="0.6"/><line x1="17" y1="17" x2="6" y2="25" stroke="#4fd6c2" stroke-width="1.5" stroke-opacity="0.6"/><line x1="17" y1="17" x2="28" y2="25" stroke="#f0789f" stroke-width="1.5" stroke-opacity="0.6"/></svg>`,
   },
   {
+    slug: 'wellness',
     name: 'Välmående',
     desc: 'Håll koll på STI-tester och check-ins — diskret, lokalt, synligt bara för dig.',
     icon: `<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M17 29C17 29 5 22 5 13a7 7 0 0 1 12-4.9A7 7 0 0 1 29 13c0 9-12 16-12 16z" stroke="#8b5cf6" stroke-width="2" stroke-linejoin="round"/><path d="M12 17l3 3 6-6" stroke="#c4b5fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
   },
   {
+    slug: 'reflection',
     name: 'Reflektion',
     desc: 'En dagbok för svartsjuka, compersion och allt däremellan. För att sortera, inte för att döma.',
     icon: `<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="6" y="5" width="16" height="24" rx="3" stroke="#8b5cf6" stroke-width="2"/><path d="M22 8h3a3 3 0 0 1 3 3v13a3 3 0 0 1-3 3h-3" stroke="#c4b5fd" stroke-width="1.75"/><line x1="10" y1="11" x2="18" y2="11" stroke="#8b5cf6" stroke-width="1.75" stroke-linecap="round"/><line x1="10" y1="16" x2="18" y2="16" stroke="#8b5cf6" stroke-width="1.75" stroke-linecap="round"/><line x1="10" y1="21" x2="15" y2="21" stroke="#8b5cf6" stroke-width="1.75" stroke-linecap="round"/></svg>`,
   },
   {
+    slug: 'insights',
     name: 'Insikter',
     desc: 'Mjuka mönster istället för kalla siffror: var investerar du energi, var tystnar det?',
     icon: `<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5 24l7-7 5 4 8-10 4 4" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><circle cx="12" cy="17" r="2.5" fill="#8b5cf6"/><circle cx="17" cy="21" r="2.5" fill="#c4b5fd"/><circle cx="25" cy="11" r="2.5" fill="#8b5cf6"/><line x1="5" y1="28" x2="29" y2="28" stroke="#2a2833" stroke-width="1.5"/></svg>`,
   },
   {
+    slug: 'vio',
     name: 'Vio',
     desc: 'Din lille följeslagare som frågar hur du mår — mjukt, avslappnat eller ärligt rakt på sak.',
     vio: true,
@@ -113,11 +119,11 @@ const schema = {
         <p class="lede" style="margin-bottom:48px">Varje flik i Roster tar över en del av den mentala börda som flera relationer medför.</p>
         <div class="grid">
           {features.map((f) => (
-            <div class="card feature">
+            <a href={`/sv/features/${f.slug}`} class="card feature">
               {f.vio ? <Vio size={34} /> : <span class="feat-icon" set:html={f.icon} />}
               <h3>{f.name}</h3>
               <p>{f.desc}</p>
-            </div>
+            </a>
           ))}
         </div>
       </div>
@@ -183,6 +189,8 @@ const schema = {
   .trust-row span { position: relative; padding-left: 20px; }
   .trust-row span::before { content: ''; position: absolute; left: 0; top: 50%; width: 7px; height: 7px; border-radius: 50%; background: var(--accent-teal); transform: translateY(-50%); }
   .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+  .feature { color: var(--text); text-decoration: none; transition: border-color 0.2s ease, transform 0.15s ease; }
+  .feature:hover { text-decoration: none; border-color: var(--purple); transform: translateY(-3px); }
   .feature .feat-icon { display: block; width: 34px; height: 34px; }
   .feature h3 { margin-top: 18px; }
   .feature p { color: var(--text-muted); margin: 0; font-size: 0.96rem; }
