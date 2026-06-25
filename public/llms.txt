@@ -1,0 +1,33 @@
+# Roster
+
+> Roster ist eine Privacy-First-iOS-App für Menschen in polyamoren, offenen und
+> anderweitig einvernehmlich nicht-monogamen (ENM) Beziehungen. Sie hilft dabei,
+> Verbindungen, Gesundheits-Check-ins und emotionale Reflexionen zu
+> organisieren – vollständig lokal auf dem Gerät, ohne Konto und ohne Tracking.
+
+## Was Roster ist
+- Plattform: native iOS-App (iPhone), gebaut mit SwiftUI
+- Zielgruppe: Polyamorie, offene Beziehungen, Beziehungsanarchie, Solo-Poly
+- Datenschutz: local-first (SwiftData), optionaler iCloud-Sync, kein Backend, kein Tracking, kein Konto nötig
+- Sprachen: Deutsch, Englisch, Spanisch, Niederländisch
+- Anbieter: Slowcraft
+
+## Hauptfunktionen
+- Verbindungen: alle Beziehungen mit Typ, Schutzstatus und Kontakt-Log
+- Polycule Map: visuelle Karte des eigenen Beziehungsnetzes, farbcodiert nach Beziehungstyp
+- Wellness: STI-Tests und Gesundheits-Check-ins, lokal und diskret
+- Reflexion: Journal für Eifersucht und Compersion
+- Insights: sanfte Auswertung, wo Energie hinfließt
+- Vio: ein Begleiter-Maskottchen mit drei Tonalitäten (sanft, locker, schonungslos)
+
+## Preise
+- Wöchentlich: 0,99 € / Woche
+- Monatlich: 2,99 € / Monat (3 Tage gratis)
+- Jährlich: 29,90 € / Jahr
+- Basisfunktionen kostenlos nutzbar
+
+## Links
+- Startseite: https://roster-app.de/
+- English: https://roster-app.de/en/
+- Blog: https://roster-app.de/blog
+- App Store: https://apps.apple.com/app/roster

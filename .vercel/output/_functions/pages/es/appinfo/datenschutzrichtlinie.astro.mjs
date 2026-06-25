@@ -1,0 +1,23 @@
+import { c as createComponent, r as renderComponent, a as renderTemplate, m as maybeRenderHead } from '../../../chunks/astro/server_DwLGwedF.mjs';
+import 'piccolore';
+import { $ as $$AppInfoLayout } from '../../../chunks/AppInfoLayout_fF8mKsVs.mjs';
+export { renderers } from '../../../renderers.mjs';
+
+const $$Datenschutzrichtlinie = createComponent(($$result, $$props, $$slots) => {
+  return renderTemplate`${renderComponent($$result, "AppInfoLayout", $$AppInfoLayout, { "lang": "es", "path": "/appinfo/datenschutzrichtlinie", "activeTab": "privacy", "title": "Pol\xEDtica de privacidad \u2013 Roster App", "description": "Pol\xEDtica de privacidad de la app iOS Roster. Almacenamiento local, sin rastreo, sin backend." }, { "default": ($$result2) => renderTemplate` ${maybeRenderHead()}<h1>Política de privacidad</h1> <p class="updated">Actualizado: 23 de junio de 2026</p> <h2>1. Responsable del tratamiento</h2> <p><strong>Elias Wilkening</strong><br>Stettiner Str. 41 · 35410 Hungen · Alemania<br>
+Correo: <a href="mailto:support@rosterapp.tech">support@rosterapp.tech</a></p> <h2>2. Principio: tratamiento local</h2> <p>Roster es una app completamente local. Todo el contenido que introduces se almacena exclusivamente en tu dispositivo. <strong>No existe</strong> ningún servidor de Roster, ningún almacenamiento en la nube por nuestra parte y ninguna transmisión de tu contenido a terceros. Sin rastreo, sin analytics.</p> <h2>3. ¿Qué datos se tratan?</h2> <h3>3.1 Localmente en tu dispositivo</h3> <ul> <li>Perfil: nombre, pronombres, foto de perfil opcional</li> <li>Conexiones: nombre, tipo de relación, notas, acuerdos, hitos, datos de salud, notas que se autodestruyen, estados de ánimo</li> <li>Reflexiones / entradas de diario · Ajustes de la app</li> </ul> <h3>3.2 Datos tratados por Apple</h3> <ul> <li><strong>App Store / StoreKit:</strong> Apple trata tu Apple ID y datos de pago para suscripciones. Solo recibimos confirmaciones anonimizadas.</li> <li><strong>Notificaciones locales:</strong> Los recordatorios se activan localmente — sin transmisión al servidor.</li> <li><strong>PhotosPicker:</strong> Acceso solo a la foto seleccionada — almacenada localmente.</li> <li><strong>AVSpeech (opcional):</strong> Síntesis de voz en el dispositivo — sin transmisión a la nube.</li> </ul> <h3>3.3 Datos que no recopilamos</h3> <ul><li>Datos de ubicación · Contactos · Grabaciones de micrófono · IDs publicitarios (IDFA) · Telemetría de fallos</li></ul> <h2>4. Bases jurídicas</h2> <ul> <li>Art. 6.1.b RGPD (ejecución de contrato)</li> <li>Art. 6.1.f RGPD (interés legítimo)</li> <li>Art. 6.1.a RGPD (consentimiento)</li> </ul> <h2>5. Tus derechos</h2> <p>Tienes derechos conforme a los arts. 15–22 RGPD. Como todos los datos están en tu dispositivo, puedes ejercerlos directamente en la app. También tienes derecho a presentar una reclamación ante una autoridad de control (art. 77 RGPD).</p> <h2>6. Contacto</h2> <p>Preguntas: <a href="mailto:support@rosterapp.tech">support@rosterapp.tech</a></p> ` })}`;
+}, "/Users/eliaswilkening/Desktop/roster-site/src/pages/es/appinfo/datenschutzrichtlinie.astro", void 0);
+
+const $$file = "/Users/eliaswilkening/Desktop/roster-site/src/pages/es/appinfo/datenschutzrichtlinie.astro";
+const $$url = "/es/appinfo/datenschutzrichtlinie";
+
+const _page = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
+  __proto__: null,
+  default: $$Datenschutzrichtlinie,
+  file: $$file,
+  url: $$url
+}, Symbol.toStringTag, { value: 'Module' }));
+
+const page = () => _page;
+
+export { page };

@@ -1,0 +1,182 @@
+/* Selbst gehostete Fonts (kein Google-CDN -> DSGVO-sauber) */
+@import '@fontsource/poppins/300.css';
+@import '@fontsource/poppins/400.css';
+@import '@fontsource/poppins/500.css';
+@import '@fontsource/poppins/600.css';
+@import '@fontsource-variable/fraunces';
+
+:root {
+  /* --- Roster Brand-Tokens --- */
+  --bg: #0a0b0d;
+  --surface: #131217;
+  --surface-2: #1b1a22;
+  --border: #2a2833;
+
+  --purple: #8b5cf6;
+  --purple-deep: #534ab7;
+  --lavender: #c4b5fd;
+
+  /* Beziehungstyp-Akzente fuer die Polycule-Map */
+  --accent-rose: #f0789f;
+  --accent-teal: #4fd6c2;
+
+  --text: #f4f2fb;
+  --text-muted: #9b96ab;
+  --text-dim: #6b6678;
+
+  /* Typo */
+  --font-body: 'Poppins', system-ui, sans-serif;
+  --font-display: 'Fraunces Variable', 'Fraunces', Georgia, serif;
+
+  --maxw: 1120px;
+  --radius: 18px;
+  --radius-sm: 12px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-weight: 400;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  /* Sehr dezentes Glow oben, damit das Schwarz nicht flach wirkt */
+  background-image: radial-gradient(
+    ellipse 80% 50% at 50% -10%,
+    rgba(139, 92, 246, 0.13),
+    transparent 70%
+  );
+  background-repeat: no-repeat;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  line-height: 1.08;
+  letter-spacing: -0.015em;
+  margin: 0 0 0.5em;
+}
+
+h1 {
+  font-size: clamp(2.6rem, 6vw, 4.4rem);
+  font-optical-sizing: auto;
+}
+
+h2 {
+  font-size: clamp(1.9rem, 4vw, 2.8rem);
+}
+
+h3 {
+  font-size: 1.3rem;
+  font-family: var(--font-body);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+p {
+  margin: 0 0 1rem;
+}
+
+a {
+  color: var(--lavender);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  width: 100%;
+  max-width: var(--maxw);
+  margin-inline: auto;
+  padding-inline: 24px;
+}
+
+.eyebrow {
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--purple);
+  margin: 0 0 1rem;
+}
+
+.lede {
+  font-size: 1.18rem;
+  color: var(--text-muted);
+  max-width: 46ch;
+}
+
+section {
+  padding-block: clamp(64px, 9vw, 120px);
+}
+
+/* Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: 1rem;
+  padding: 0.85em 1.5em;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: transform 0.15s ease, background 0.2s ease, border-color 0.2s ease;
+}
+.btn:hover {
+  text-decoration: none;
+  transform: translateY(-2px);
+}
+.btn-primary {
+  background: linear-gradient(135deg, var(--purple), var(--purple-deep));
+  color: #fff;
+  box-shadow: 0 8px 30px -8px rgba(139, 92, 246, 0.6);
+}
+.btn-ghost {
+  background: var(--surface);
+  color: var(--text);
+  border-color: var(--border);
+}
+
+/* Karten */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 28px;
+}
+
+/* Footer-Fokus-/A11y-Grundniveau */
+:focus-visible {
+  outline: 2px solid var(--lavender);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

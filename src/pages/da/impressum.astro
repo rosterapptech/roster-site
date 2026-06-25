@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { contact } from '../../config/site';
+const lang = 'da';
+---
+
+<BaseLayout
+  lang={lang}
+  path="/impressum"
+  title="Impressum – Roster"
+  description="Juridiske oplysninger og udbyderidentifikation for Roster-webstedet."
+  noindex={true}
+>
+  <Header lang={lang} />
+  <main class="prose container">
+    <h1>Impressum</h1>
+    <p class="updated">Oplysninger i henhold til § 5 DDG (tysk lov om digitale tjenester)</p>
+
+    <p>
+      <strong>{contact.name}</strong><br />
+      {contact.company}<br />
+      {contact.addressLine1}<br />
+      {contact.addressLine2}<br />
+      {contact.city}<br />
+      {contact.country}
+    </p>
+
+    <h2>Kontakt</h2>
+    <p>
+      E-mail: <a href={`mailto:${contact.email}`}>{contact.email}</a><br />
+      Telefon: <a href={`tel:${contact.phone.replace(/\s/g, '')}`}>{contact.phone}</a>
+    </p>
+
+    <h2>Moms-id</h2>
+    <p>Momsregistreringsnummer i henhold til § 27 a UStG:<br /><strong>{contact.ustId}</strong></p>
+
+    <h2>Ansvarlig for indholdet i henhold til § 18 stk. 2 MStV</h2>
+    <p><strong>{contact.name}</strong>, adresse som ovenfor.</p>
+
+    <h2>EU-tvistbilæggelse</h2>
+    <p>
+      Europa-Kommissionen stiller en platform til rådighed for online tvistbilæggelse (ODR):
+      <a href="https://ec.europa.eu/consumers/odr/" rel="noopener">ec.europa.eu/consumers/odr</a>.
+      Vi er ikke villige til eller forpligtede til at deltage i tvistbilæggelsesprocedurer ved et forbrugervoldgiftsorgan.
+    </p>
+
+    <h2>Ansvar for indhold</h2>
+    <p>Som tjenesteudbyder er vi ansvarlige for vores eget indhold på disse sider i henhold til § 7 stk. 1 DDG. Vi er ikke forpligtet til at overvåge videresendt eller lagret tredjepartsindhold.</p>
+
+    <h2>Ophavsret</h2>
+    <p>Indhold og værker skabt af sideoperatøren på disse sider er underlagt tysk ophavsret. Reproduktion, redigering, distribution og enhver form for udnyttelse uden for ophavsretlige grænser kræver skriftligt samtykke fra den pågældende forfatter.</p>
+  </main>
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .prose { max-width: 720px; padding-block: 80px; }
+  .prose h1 { margin-bottom: 0.3em; }
+  .updated { color: var(--text-dim); font-size: 0.88rem; margin-bottom: 2em; }
+  .prose h2 { font-size: 1.25rem; margin-top: 2em; }
+  .prose p { color: var(--text-muted); line-height: 1.7; }
+  .prose a { color: var(--accent); }
+</style>

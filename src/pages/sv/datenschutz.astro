@@ -1,0 +1,75 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { contact, websiteFeatures } from '../../config/site';
+const lang = 'sv';
+const today = new Date().toLocaleDateString('sv-SE', { day: 'numeric', month: 'long', year: 'numeric' });
+---
+
+<BaseLayout
+  lang={lang}
+  path="/datenschutz"
+  title="Integritetspolicy – Roster"
+  description="Integritetspolicy för Roster-webbplatsen. Ingen spårning, ingen backend."
+  noindex={true}
+>
+  <Header lang={lang} />
+  <main class="prose container">
+    <h1>Integritetspolicy</h1>
+    <p class="updated">Senast uppdaterad: {today}</p>
+
+    <h2>1. Personuppgiftsansvarig</h2>
+    <p>
+      <strong>{contact.name}</strong><br />
+      {contact.company} · {contact.addressLine1} · {contact.addressLine2} · {contact.city}<br />
+      E-post: <a href={`mailto:${contact.email}`}>{contact.email}</a>
+    </p>
+
+    <h2>2. Denna webbplats</h2>
+    <p>Denna webbplats är marknadsföringspresentationen för Roster iOS-appen. Inga användarkonton skapas, inga formulär behandlas och ingen spårning utförs.</p>
+
+    {websiteFeatures.hosting ? (
+      <h2>3. Hosting och serverloggar</h2>
+      <p>Denna webbplats driftsätts av <strong>{websiteFeatures.hosting}</strong>. Vid besök behandlar hostingleverantören tekniskt nödvändiga serverloggar (t.ex. IP-adress, tidsstämpel, begärd sida). Rättslig grund: Art. 6(1)(f) GDPR.</p>
+    ) : (
+      <h2>3. Hosting och serverloggar</h2>
+      <p>Vid besök behandlar hostingleverantören tekniskt nödvändiga serverloggar (t.ex. IP-adress, tidsstämpel, begärd sida). Rättslig grund: Art. 6(1)(f) GDPR.</p>
+    )}
+
+    <h2>4. Typsnitt</h2>
+    {websiteFeatures.externalFonts ? (
+      <p>Denna webbplats läser in typsnitt från ett externt CDN. Din IP-adress överförs till leverantören. Rättslig grund: Art. 6(1)(f) GDPR.</p>
+    ) : (
+      <p>Alla typsnitt är lokalt inbäddade. Inga externa font-CDN anropas.</p>
+    )}
+
+    {websiteFeatures.analytics && (
+      <h2>5. Analys</h2>
+      <p>Denna webbplats använder <strong>{websiteFeatures.analytics}</strong> för anonymiserad räckviddsmätning. Inga personuppgifter lagras. Rättslig grund: Art. 6(1)(f) GDPR.</p>
+    )}
+
+    {websiteFeatures.cookies && (
+      <h2>Cookies</h2>
+      <p>Denna webbplats använder cookies. Ditt samtycke inhämtas vid ditt första besök. Tekniskt nödvändiga cookies är undantagna från samtycke.</p>
+    )}
+
+    <h2>Roster-appen</h2>
+    <p>
+      Roster lagrar allt innehåll uteslutande på din enhet. Det finns ingen Roster-backend och ingen överföring av ditt innehåll till oss. Den fullständiga integritetspolicyn för appen finns på <a href="/sv/appinfo/datenschutzrichtlinie">rosterapp.tech/sv/appinfo/datenschutzrichtlinie</a>.
+    </p>
+
+    <h2>Dina rättigheter</h2>
+    <p>Du har rättigheterna enligt Art. 15–22 GDPR: tillgång, rättelse, radering, begränsning, dataportabilitet och invändning. Rätt att lämna klagomål till behörig dataskyddsmyndighet (Art. 77 GDPR). Kontakt: <a href={`mailto:${contact.email}`}>{contact.email}</a>.</p>
+  </main>
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .prose { max-width: 720px; padding-block: 80px; }
+  .prose h1 { margin-bottom: 0.3em; }
+  .updated { color: var(--text-dim); font-size: 0.88rem; margin-bottom: 2em; }
+  .prose h2 { font-size: 1.25rem; margin-top: 2em; }
+  .prose p { color: var(--text-muted); line-height: 1.7; }
+  .prose a { color: var(--accent); }
+</style>

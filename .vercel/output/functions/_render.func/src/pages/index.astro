@@ -1,0 +1,473 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import PolyculeMap from '../components/PolyculeMap.astro';
+import Vio from '../components/Vio.astro';
+
+const lang = 'de';
+
+const features = [
+  {
+    name: 'Verbindungen',
+    desc: 'Alle deine Beziehungen an einem Ort – mit Beziehungstyp, Schutzstatus und einem schnellen Kontakt-Log.',
+    icon: `<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="13" r="5" stroke="#8b5cf6" stroke-width="2"/>
+      <path d="M3 28c0-4.418 4.03-8 9-8s9 3.582 9 8" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="25" cy="11" r="4" stroke="#c4b5fd" stroke-width="1.75"/>
+      <path d="M20 26c0-3.314 2.686-6 6-6" stroke="#c4b5fd" stroke-width="1.75" stroke-linecap="round"/>
+    </svg>`,
+  },
+  {
+    name: 'Polycule Map',
+    desc: 'Dein Beziehungsnetz als lebendige Karte. Du im Zentrum, alle Verbindungen drumherum, nach Typ farbcodiert.',
+    icon: `<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="17" cy="17" r="4" fill="#8b5cf6"/>
+      <circle cx="6" cy="9" r="3" stroke="#8b5cf6" stroke-width="1.75"/>
+      <circle cx="28" cy="9" r="3" stroke="#c4b5fd" stroke-width="1.75"/>
+      <circle cx="6" cy="25" r="3" stroke="#4fd6c2" stroke-width="1.75"/>
+      <circle cx="28" cy="25" r="3" stroke="#f0789f" stroke-width="1.75"/>
+      <line x1="17" y1="17" x2="6" y2="9" stroke="#8b5cf6" stroke-width="1.5" stroke-opacity="0.6"/>
+      <line x1="17" y1="17" x2="28" y2="9" stroke="#c4b5fd" stroke-width="1.5" stroke-opacity="0.6"/>
+      <line x1="17" y1="17" x2="6" y2="25" stroke="#4fd6c2" stroke-width="1.5" stroke-opacity="0.6"/>
+      <line x1="17" y1="17" x2="28" y2="25" stroke="#f0789f" stroke-width="1.5" stroke-opacity="0.6"/>
+    </svg>`,
+  },
+  {
+    name: 'Wellness',
+    desc: 'Behalte STI-Tests und Check-ins im Blick – diskret, lokal, ohne dass es jemand außer dir sieht.',
+    icon: `<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M17 29C17 29 5 22 5 13a7 7 0 0 1 12-4.9A7 7 0 0 1 29 13c0 9-12 16-12 16z" stroke="#8b5cf6" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M12 17l3 3 6-6" stroke="#c4b5fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>`,
+  },
+  {
+    name: 'Reflexion',
+    desc: 'Ein Journal für Eifersucht, Compersion und alles dazwischen. Zum Sortieren, nicht zum Bewerten.',
+    icon: `<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <rect x="6" y="5" width="16" height="24" rx="3" stroke="#8b5cf6" stroke-width="2"/>
+      <path d="M22 8h3a3 3 0 0 1 3 3v13a3 3 0 0 1-3 3h-3" stroke="#c4b5fd" stroke-width="1.75"/>
+      <line x1="10" y1="11" x2="18" y2="11" stroke="#8b5cf6" stroke-width="1.75" stroke-linecap="round"/>
+      <line x1="10" y1="16" x2="18" y2="16" stroke="#8b5cf6" stroke-width="1.75" stroke-linecap="round"/>
+      <line x1="10" y1="21" x2="15" y2="21" stroke="#8b5cf6" stroke-width="1.75" stroke-linecap="round"/>
+    </svg>`,
+  },
+  {
+    name: 'Insights',
+    desc: 'Sanfte Muster statt kalter Zahlen: Wo investierst du Energie, wo wird es gerade still?',
+    icon: `<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M5 24l7-7 5 4 8-10 4 4" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="12" cy="17" r="2.5" fill="#8b5cf6"/>
+      <circle cx="17" cy="21" r="2.5" fill="#c4b5fd"/>
+      <circle cx="25" cy="11" r="2.5" fill="#8b5cf6"/>
+      <line x1="5" y1="28" x2="29" y2="28" stroke="#2a2833" stroke-width="1.5"/>
+    </svg>`,
+  },
+  {
+    name: 'Vio',
+    desc: 'Dein kleiner Begleiter, der nachfragt wie es dir geht – mal sanft, mal locker, mal schonungslos ehrlich.',
+    vio: true,
+  },
+];
+
+const faqs = [
+  {
+    q: 'Für wen ist Roster gemacht?',
+    a: 'Für Menschen in polyamoren, offenen oder anderweitig einvernehmlich nicht-monogamen Beziehungen, die den Überblick behalten wollen – ohne Tabellen, ohne Tracking.',
+  },
+  {
+    q: 'Speichert Roster meine Daten in der Cloud?',
+    a: 'Nein. Roster ist local-first: Deine Daten liegen auf deinem Gerät. Es gibt kein Roster-Backend und kein Tracking.',
+  },
+  {
+    q: 'Brauche ich ein Konto?',
+    a: 'Nein. Du lädst die App und legst los. Keine Registrierung, keine E-Mail nötig.',
+  },
+  {
+    q: 'Was kostet Roster?',
+    a: 'Die Basis ist kostenlos nutzbar. Premium gibt es für 0,99 € pro Woche, 2,99 € pro Monat (mit 3 Tagen gratis) oder 29,90 € pro Jahr.',
+  },
+  {
+    q: 'Auf welchen Geräten läuft Roster?',
+    a: 'Roster ist eine native iOS-App für iPhone, gebaut mit SwiftUI. Verfügbar auf Deutsch, Englisch, Spanisch, Niederländisch, Dänisch und Schwedisch.',
+  },
+  {
+    q: 'Was ist Vio?',
+    a: 'Vio ist dein persönlicher Begleiter in der App – eine Art sanfter innerer Stimme, die dich täglich fragt, wie es dir geht. Mal locker, mal tiefer gehend. Vio merkt sich nichts dauerhaft, alles bleibt auf deinem Gerät.',
+  },
+  {
+    q: 'Kann ich meine Daten exportieren oder sichern?',
+    a: 'Ein manueller Datenexport ist in Planung.',
+  },
+  {
+    q: 'Gibt es eine Android-Version?',
+    a: 'Aktuell nicht – Roster ist eine native iOS-App. Ob und wann Android kommt, ist noch offen. Trag dich auf der Warteliste ein, wenn du benachrichtigt werden möchtest.',
+  },
+  {
+    q: 'Was ist der Unterschied zwischen Free und Premium?',
+    a: 'Die kostenlose Version enthält bis zu 3 Verbindungen, das Journal und Vio als täglichen Begleiter. Premium schaltet unbegrenzte Verbindungen, Fotos, Polycule Map, Wellness, Insights, Vibe-Radar, Meilensteine, Burn-after-Read-Notizen und die vollständige Vio-Funktionalität frei.',
+  },
+  {
+    q: 'Ist Roster sicher für sensitive Inhalte wie Beziehungsstatus oder Health-Daten?',
+    a: 'Ja. Roster speichert alles lokal in der App-Sandbox und nutzt die iOS-eigene Geräteverschlüsselung (Data Protection). Niemand außer dir kann auf diese Daten zugreifen – kein Roster-Backend, kein Tracking, kein Cloud-Upload durch uns.',
+  },
+];
+
+// JSON-LD: das macht Roster fuer KI-Systeme und Google maschinenlesbar.
+const schema = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'SoftwareApplication',
+      name: 'Roster',
+      applicationCategory: 'LifestyleApplication',
+      operatingSystem: 'iOS',
+      description:
+        'Privacy-First-App für Menschen in polyamoren und offenen Beziehungen. Organisiere Verbindungen, Check-ins und Reflexionen lokal auf dem Gerät – ohne Konto, ohne Tracking.',
+      inLanguage: ['de', 'en', 'es', 'nl', 'da', 'sv'],
+      offers: [
+        { '@type': 'Offer', price: '0.99', priceCurrency: 'EUR', name: 'Wöchentlich' },
+        { '@type': 'Offer', price: '2.99', priceCurrency: 'EUR', name: 'Monatlich' },
+        { '@type': 'Offer', price: '29.90', priceCurrency: 'EUR', name: 'Jährlich' },
+      ],
+      author: { '@type': 'Organization', name: 'Slowcraft' },
+    },
+    {
+      '@type': 'FAQPage',
+      mainEntity: faqs.map((f) => ({
+        '@type': 'Question',
+        name: f.q,
+        acceptedAnswer: { '@type': 'Answer', text: f.a },
+      })),
+    },
+  ],
+};
+---
+
+<BaseLayout
+  lang={lang}
+  path="/"
+  title="Roster – Beziehungs-App für Polyamorie & offene Beziehungen"
+  description="Roster ist eine Privacy-First-App für polyamore und offene Beziehungen. Organisiere deine Verbindungen, Check-ins und Reflexionen lokal – ohne Konto, ohne Tracking."
+  schema={schema}
+>
+  <Header lang={lang} />
+
+  <main>
+    <!-- HERO -->
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">Privacy-First · iOS</p>
+          <h1>Beziehungen,<br />mit Sorgfalt geführt.</h1>
+          <p class="lede">
+            Roster ist die App für Menschen in polyamoren und offenen
+            Beziehungen. Behalte deine Verbindungen, Check-ins und Gefühle im
+            Blick – lokal auf deinem Gerät, ohne Konto und ohne Tracking.
+          </p>
+          <div class="hero-cta">
+            <a href="https://apps.apple.com/app/roster" class="btn btn-primary"
+              >Im App Store laden</a
+            >
+            <a href="#features" class="btn btn-ghost">Funktionen ansehen</a>
+          </div>
+        </div>
+        <div class="hero-visual">
+          <PolyculeMap />
+        </div>
+      </div>
+    </section>
+
+    <!-- TRUST -->
+    <div class="trust">
+      <div class="container trust-row">
+        <span>Lokal gespeichert</span>
+        <span>Kein Tracking</span>
+        <span>Kein Konto nötig</span>
+        <span>Kein Backend</span>
+      </div>
+    </div>
+
+    <!-- FEATURES -->
+    <section id="features">
+      <div class="container">
+        <p class="eyebrow">Was drin ist</p>
+        <h2>Fünf Räume, ein klarer Kopf.</h2>
+        <p class="lede" style="margin-bottom:48px">
+          Jeder Tab in Roster übernimmt einen Teil der mentalen Last, die
+          mehrere Beziehungen mit sich bringen.
+        </p>
+        <div class="grid">
+          {
+            features.map((f) => (
+              <div class="card feature">
+                {f.vio ? <Vio size={34} /> : <span class="feat-icon" set:html={f.icon} />}
+                <h3>{f.name}</h3>
+                <p>{f.desc}</p>
+              </div>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+
+    <!-- PRICING -->
+    <section id="pricing" class="pricing">
+      <div class="container">
+        <p class="eyebrow">Preise</p>
+        <h2>Fair, ehrlich, kündbar.</h2>
+        <p class="lede" style="margin-bottom:48px">
+          Die Basis ist kostenlos. Premium schaltet Karte, Wellness, Insights und
+          mehr frei.
+        </p>
+        <div class="price-grid">
+          <div class="card price">
+            <span class="price-name">Wöchentlich</span>
+            <span class="price-amount">0,99 €<small>/Woche</small></span>
+            <p class="price-note">Zum Reinschnuppern.</p>
+          </div>
+          <div class="card price">
+            <span class="price-name">Monatlich</span>
+            <span class="price-amount">2,99 €<small>/Monat</small></span>
+            <p class="price-note">Inklusive 3 Tage gratis.</p>
+          </div>
+          <div class="card price featured">
+            <span class="badge">Beliebt</span>
+            <span class="price-name">Jährlich</span>
+            <span class="price-amount">29,90 €<small>/Jahr</small></span>
+            <p class="price-note">Spare über 50 % gegenüber monatlich.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section id="faq">
+      <div class="container faq-wrap">
+        <div>
+          <p class="eyebrow">FAQ</p>
+          <h2>Häufige Fragen</h2>
+        </div>
+        <div class="faq-list">
+          {
+            faqs.map((f) => (
+              <details class="card faq-item">
+                <summary>{f.q}</summary>
+                <p>{f.a}</p>
+              </details>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+
+    <!-- CLOSING CTA -->
+    <section class="closing">
+      <div class="container closing-inner">
+        <Vio size={48} />
+        <h2>Bereit, den Kopf frei zu kriegen?</h2>
+        <a href="https://apps.apple.com/app/roster" class="btn btn-primary"
+          >Roster im App Store laden</a
+        >
+      </div>
+    </section>
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .hero {
+    padding-top: clamp(48px, 7vw, 88px);
+  }
+  .hero-grid {
+    display: grid;
+    grid-template-columns: 1.05fr 0.95fr;
+    align-items: center;
+    gap: 48px;
+  }
+  .hero-cta {
+    display: flex;
+    gap: 14px;
+    margin-top: 32px;
+    flex-wrap: wrap;
+  }
+
+  .trust {
+    border-block: 1px solid var(--border);
+    background: var(--surface);
+  }
+  .trust-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px 40px;
+    justify-content: center;
+    padding-block: 20px;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+  }
+  .trust-row span {
+    position: relative;
+    padding-left: 20px;
+  }
+  .trust-row span::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--accent-teal);
+    transform: translateY(-50%);
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  .feature .feat-icon {
+    display: block;
+    width: 34px;
+    height: 34px;
+  }
+  .feature h3 {
+    margin-top: 18px;
+  }
+  .feature p {
+    color: var(--text-muted);
+    margin: 0;
+    font-size: 0.96rem;
+  }
+
+  .pricing .price-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  .price {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  .price-name {
+    font-size: 0.85rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+  }
+  .price-amount {
+    font-family: var(--font-display);
+    font-size: 2.4rem;
+    margin: 10px 0;
+  }
+  .price-amount small {
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    color: var(--text-dim);
+  }
+  .price-note {
+    color: var(--text-muted);
+    font-size: 0.92rem;
+    margin: 0;
+  }
+  .price.featured {
+    border-color: var(--purple);
+    box-shadow: 0 0 0 1px var(--purple), 0 20px 50px -20px rgba(139, 92, 246, 0.5);
+  }
+  .badge {
+    position: absolute;
+    top: -11px;
+    right: 22px;
+    background: linear-gradient(135deg, var(--purple), var(--purple-deep));
+    color: #fff;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 4px 12px;
+    border-radius: 999px;
+  }
+
+  .faq-wrap {
+    display: grid;
+    grid-template-columns: 0.6fr 1.4fr;
+    gap: 40px;
+    align-items: start;
+  }
+  .faq-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .faq-item {
+    padding: 0;
+  }
+  .faq-item summary {
+    cursor: pointer;
+    list-style: none;
+    padding: 20px 24px;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .faq-item summary::-webkit-details-marker {
+    display: none;
+  }
+  .faq-item summary::after {
+    content: '+';
+    color: var(--purple);
+    font-size: 1.4rem;
+    line-height: 1;
+  }
+  .faq-item[open] summary::after {
+    content: '–';
+  }
+  .faq-item p {
+    padding: 0 24px 22px;
+    margin: 0;
+    color: var(--text-muted);
+  }
+
+  .closing-inner {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 18px;
+  }
+  .closing h2 {
+    max-width: 16ch;
+  }
+
+  @media (max-width: 860px) {
+    .grid,
+    .pricing .price-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+    .faq-wrap {
+      grid-template-columns: 1fr;
+    }
+  }
+  @media (max-width: 720px) {
+    .hero-grid {
+      grid-template-columns: 1fr;
+      text-align: center;
+    }
+    .hero-copy .lede {
+      margin-inline: auto;
+    }
+    .hero-cta {
+      justify-content: center;
+    }
+    .hero-visual {
+      order: -1;
+    }
+    .grid,
+    .pricing .price-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

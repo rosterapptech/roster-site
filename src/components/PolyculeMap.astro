@@ -1,0 +1,128 @@
+---
+// Die Polycule-Map: "du" im Zentrum, Verbindungen auf konzentrischen
+// Ringen, mit Bezier-Kurven verbunden. Farben = Beziehungstypen.
+// Reine SVG + CSS, kein JS noetig. Respektiert prefers-reduced-motion.
+---
+
+<div class="poly" aria-hidden="true">
+  <svg viewBox="0 0 440 440" role="img" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <radialGradient id="core" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#a987f9" />
+        <stop offset="100%" stop-color="#534ab7" />
+      </radialGradient>
+      <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="6" />
+      </filter>
+    </defs>
+
+    <!-- Konzentrische Ringe -->
+    <circle cx="220" cy="220" r="80" class="ring" />
+    <circle cx="220" cy="220" r="150" class="ring" />
+    <circle cx="220" cy="220" r="205" class="ring ring-faint" />
+
+    <!-- Verbindungslinien (Bezier-Boegen) -->
+    <g class="links" fill="none" stroke-width="1.6">
+      <path d="M220,220 C200,170 150,150 132,175" stroke="var(--purple)" />
+      <path d="M220,220 C260,180 300,160 312,196" stroke="var(--accent-rose)" />
+      <path d="M220,220 C250,260 300,280 318,250" stroke="var(--accent-teal)" />
+      <path d="M220,220 C180,260 150,300 128,278" stroke="var(--purple)" />
+      <path d="M220,220 C210,150 205,100 235,92" stroke="var(--accent-rose)" />
+    </g>
+
+    <!-- Aeussere Knoten -->
+    <g class="nodes">
+      <g class="node n1"><circle cx="132" cy="175" r="13" fill="var(--purple)" /></g>
+      <g class="node n2"><circle cx="312" cy="196" r="15" fill="var(--accent-rose)" /></g>
+      <g class="node n3"><circle cx="318" cy="250" r="11" fill="var(--accent-teal)" /></g>
+      <g class="node n4"><circle cx="128" cy="278" r="12" fill="var(--purple)" /></g>
+      <g class="node n5"><circle cx="235" cy="92" r="10" fill="var(--accent-rose)" /></g>
+    </g>
+
+    <!-- Zentrum: "du" -->
+    <circle cx="220" cy="220" r="34" fill="url(#core)" filter="url(#soft)" opacity="0.5" />
+    <circle cx="220" cy="220" r="26" fill="url(#core)" class="core" />
+    <text x="220" y="225" text-anchor="middle" class="core-label">du</text>
+  </svg>
+</div>
+
+<style>
+  .poly {
+    width: 100%;
+    max-width: 440px;
+    margin-inline: auto;
+  }
+  .poly svg {
+    width: 100%;
+    height: auto;
+    overflow: visible;
+  }
+  .ring {
+    fill: none;
+    stroke: var(--border);
+    stroke-width: 1;
+  }
+  .ring-faint {
+    stroke: var(--border);
+    opacity: 0.45;
+  }
+  .links path {
+    stroke-linecap: round;
+    stroke-dasharray: 320;
+    stroke-dashoffset: 320;
+    opacity: 0.75;
+    animation: draw 1.4s ease forwards;
+  }
+  .links path:nth-child(2) { animation-delay: 0.15s; }
+  .links path:nth-child(3) { animation-delay: 0.3s; }
+  .links path:nth-child(4) { animation-delay: 0.45s; }
+  .links path:nth-child(5) { animation-delay: 0.6s; }
+
+  .node {
+    transform-box: fill-box;
+    transform-origin: center;
+    opacity: 0;
+    animation: pop 0.5s ease forwards, float 6s ease-in-out infinite;
+  }
+  .node circle {
+    filter: drop-shadow(0 0 8px currentColor);
+  }
+  .n1 { animation-delay: 0.5s, 0.5s; }
+  .n2 { animation-delay: 0.65s, 1.2s; }
+  .n3 { animation-delay: 0.8s, 0.4s; }
+  .n4 { animation-delay: 0.95s, 1.6s; }
+  .n5 { animation-delay: 1.1s, 0.9s; }
+
+  .core {
+    transform-box: fill-box;
+    transform-origin: center;
+    animation: breathe 5s ease-in-out infinite;
+  }
+  .core-label {
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-weight: 600;
+    fill: #fff;
+  }
+
+  @keyframes draw {
+    to { stroke-dashoffset: 0; }
+  }
+  @keyframes pop {
+    from { opacity: 0; transform: scale(0); }
+    to { opacity: 1; transform: scale(1); }
+  }
+  @keyframes float {
+    0%, 100% { translate: 0 0; }
+    50% { translate: 0 -6px; }
+  }
+  @keyframes breathe {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .links path { stroke-dashoffset: 0; }
+    .node { opacity: 1; }
+  }
+</style>

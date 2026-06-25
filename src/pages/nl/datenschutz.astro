@@ -1,0 +1,75 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { contact, websiteFeatures } from '../../config/site';
+const lang = 'nl';
+const today = new Date().toLocaleDateString('nl-NL', { day: 'numeric', month: 'long', year: 'numeric' });
+---
+
+<BaseLayout
+  lang={lang}
+  path="/datenschutz"
+  title="Privacybeleid – Roster"
+  description="Privacybeleid voor de Roster-website. Geen tracking, geen backend."
+  noindex={true}
+>
+  <Header lang={lang} />
+  <main class="prose container">
+    <h1>Privacybeleid</h1>
+    <p class="updated">Bijgewerkt: {today}</p>
+
+    <h2>1. Verwerkingsverantwoordelijke</h2>
+    <p>
+      <strong>{contact.name}</strong><br />
+      {contact.company} · {contact.addressLine1} · {contact.addressLine2} · {contact.city}<br />
+      E-mail: <a href={`mailto:${contact.email}`}>{contact.email}</a>
+    </p>
+
+    <h2>2. Deze website</h2>
+    <p>Deze website is de marketingpresentatie van de Roster iOS-app. Er worden geen gebruikersaccounts aangemaakt, geen formulieren verwerkt en geen tracking uitgevoerd.</p>
+
+    {websiteFeatures.hosting ? (
+      <h2>3. Hosting &amp; serverlogboeken</h2>
+      <p>Deze website wordt gehost door <strong>{websiteFeatures.hosting}</strong>. Bij een bezoek verwerkt de hostingprovider technisch noodzakelijke serverlogboeken (bijv. IP-adres, tijdstempel, opgevraagde pagina). Rechtsgrondslag: Art. 6 lid 1 sub f AVG.</p>
+    ) : (
+      <h2>3. Hosting &amp; serverlogboeken</h2>
+      <p>Bij een bezoek verwerkt de hostingprovider technisch noodzakelijke serverlogboeken (bijv. IP-adres, tijdstempel, opgevraagde pagina). Rechtsgrondslag: Art. 6 lid 1 sub f AVG.</p>
+    )}
+
+    <h2>4. Lettertypen</h2>
+    {websiteFeatures.externalFonts ? (
+      <p>Deze website laadt lettertypen van een extern CDN. Uw IP-adres wordt doorgegeven aan de aanbieder. Rechtsgrondslag: Art. 6 lid 1 sub f AVG.</p>
+    ) : (
+      <p>Alle lettertypen zijn lokaal ingebonden. Er worden geen externe font-CDN's aangesproken.</p>
+    )}
+
+    {websiteFeatures.analytics && (
+      <h2>5. Analyse</h2>
+      <p>Deze website maakt gebruik van <strong>{websiteFeatures.analytics}</strong> voor geanonimiseerde bereiksmeting. Er worden geen persoonsgegevens opgeslagen. Rechtsgrondslag: Art. 6 lid 1 sub f AVG.</p>
+    )}
+
+    {websiteFeatures.cookies && (
+      <h2>Cookies</h2>
+      <p>Deze website gebruikt cookies. Bij uw eerste bezoek wordt uw toestemming gevraagd. Technisch noodzakelijke cookies zijn vrijgesteld van toestemming.</p>
+    )}
+
+    <h2>De Roster-app</h2>
+    <p>
+      Roster slaat alle inhoud uitsluitend op uw apparaat op. Er is geen Roster-backend en geen overdracht van uw inhoud aan ons. Het volledige privacybeleid van de app is beschikbaar op <a href="/nl/appinfo/datenschutzrichtlinie">rosterapp.tech/nl/appinfo/datenschutzrichtlinie</a>.
+    </p>
+
+    <h2>Uw rechten</h2>
+    <p>U heeft de rechten op grond van Art. 15–22 AVG: inzage, rectificatie, verwijdering, beperking, gegevensoverdraagbaarheid en bezwaar. Klachtrecht bij de bevoegde gegevensbeschermingsautoriteit (Art. 77 AVG). Contact: <a href={`mailto:${contact.email}`}>{contact.email}</a>.</p>
+  </main>
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .prose { max-width: 720px; padding-block: 80px; }
+  .prose h1 { margin-bottom: 0.3em; }
+  .updated { color: var(--text-dim); font-size: 0.88rem; margin-bottom: 2em; }
+  .prose h2 { font-size: 1.25rem; margin-top: 2em; }
+  .prose p { color: var(--text-muted); line-height: 1.7; }
+  .prose a { color: var(--accent); }
+</style>

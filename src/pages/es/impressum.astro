@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { contact } from '../../config/site';
+const lang = 'es';
+---
+
+<BaseLayout
+  lang={lang}
+  path="/impressum"
+  title="Aviso legal – Roster"
+  description="Aviso legal e identificación del proveedor para el sitio web de Roster."
+  noindex={true}
+>
+  <Header lang={lang} />
+  <main class="prose container">
+    <h1>Aviso legal</h1>
+    <p class="updated">Información conforme al § 5 DDG (Ley alemana de servicios digitales)</p>
+
+    <p>
+      <strong>{contact.name}</strong><br />
+      {contact.company}<br />
+      {contact.addressLine1}<br />
+      {contact.addressLine2}<br />
+      {contact.city}<br />
+      {contact.country}
+    </p>
+
+    <h2>Contacto</h2>
+    <p>
+      Correo electrónico: <a href={`mailto:${contact.email}`}>{contact.email}</a><br />
+      Teléfono: <a href={`tel:${contact.phone.replace(/\s/g, '')}`}>{contact.phone}</a>
+    </p>
+
+    <h2>NIF/IVA</h2>
+    <p>Número de identificación fiscal conforme al § 27 a UStG:<br /><strong>{contact.ustId}</strong></p>
+
+    <h2>Responsable del contenido conforme al § 18 párr. 2 MStV</h2>
+    <p><strong>{contact.name}</strong>, dirección como arriba.</p>
+
+    <h2>Resolución de disputas en la UE</h2>
+    <p>
+      La Comisión Europea ofrece una plataforma para la resolución de litigios en línea (ODR):
+      <a href="https://ec.europa.eu/consumers/odr/" rel="noopener">ec.europa.eu/consumers/odr</a>.
+      No estamos dispuestos ni obligados a participar en procedimientos de resolución de disputas ante una junta de arbitraje de consumidores.
+    </p>
+
+    <h2>Responsabilidad por los contenidos</h2>
+    <p>Como proveedor de servicios, somos responsables de nuestros propios contenidos en estas páginas de acuerdo con la legislación general conforme al § 7 párr. 1 DDG. No estamos obligados a supervisar información de terceros transmitida o almacenada.</p>
+
+    <h2>Derechos de autor</h2>
+    <p>Los contenidos y obras creados por el operador del sitio en estas páginas están sujetos a la ley alemana de derechos de autor. La reproducción, edición, distribución y cualquier tipo de explotación fuera de los límites de la ley de derechos de autor requieren el consentimiento escrito del autor correspondiente.</p>
+  </main>
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .prose { max-width: 720px; padding-block: 80px; }
+  .prose h1 { margin-bottom: 0.3em; }
+  .updated { color: var(--text-dim); font-size: 0.88rem; margin-bottom: 2em; }
+  .prose h2 { font-size: 1.25rem; margin-top: 2em; }
+  .prose p { color: var(--text-muted); line-height: 1.7; }
+  .prose a { color: var(--accent); }
+</style>

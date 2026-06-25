@@ -1,0 +1,78 @@
+---
+import '../styles/global.css';
+import type { Lang } from '../i18n/ui';
+
+interface Props {
+  title: string;
+  description: string;
+  lang?: Lang;
+  /** Pfad ohne Sprachpraefix, z.B. "/" oder "/blog" – fuer hreflang */
+  path?: string;
+  /** Optionales JSON-LD-Objekt (z.B. SoftwareApplication, Article) */
+  schema?: Record<string, unknown>;
+  /** Soll diese Seite indexiert werden? Rechtsseiten z.B. auf noindex. */
+  noindex?: boolean;
+}
+
+const {
+  title,
+  description,
+  lang = 'de',
+  path = '/',
+  schema,
+  noindex = false,
+} = Astro.props;
+
+const site = Astro.site ?? new URL('https://roster-app.de');
+const canonical = new URL(lang === 'de' ? path : `/${lang}${path}`, site).href;
+
+const alternates = [
+  { hreflang: 'de', href: new URL(path, site).href },
+  { hreflang: 'en', href: new URL(`/en${path}`, site).href },
+  { hreflang: 'nl', href: new URL(`/nl${path}`, site).href },
+  { hreflang: 'es', href: new URL(`/es${path}`, site).href },
+  { hreflang: 'da', href: new URL(`/da${path}`, site).href },
+  { hreflang: 'sv', href: new URL(`/sv${path}`, site).href },
+  { hreflang: 'x-default', href: new URL(path, site).href },
+];
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
+
+    {alternates.map((a) => (
+      <link rel="alternate" hreflang={a.hreflang} href={a.href} />
+    ))}
+
+    <!-- Open Graph / Social -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={new URL('/og.png', site).href} />
+    <meta property="og:locale" content={lang === 'de' ? 'de_DE' : 'en_US'} />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- JSON-LD: macht die Seite fuer KI-Systeme maschinenlesbar -->
+    {schema && (
+      <script
+        type="application/ld+json"
+        set:html={JSON.stringify(schema)}
+      />
+    )}
+
+    <slot name="head" />
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>
