@@ -3,12 +3,13 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import Vio from '../../../components/Vio.astro';
-import { featureSlugs, featureData, type FeatureSlug } from '../../../config/features';
+import { featureData, featureScreenshots, type FeatureSlug } from '../../../config/features';
 
 const { slug } = Astro.params;
 const lang = 'nl';
 const feature = featureData[lang][slug as FeatureSlug];
 if (!feature) return Astro.redirect("/");
+const screenshot = featureScreenshots[slug as FeatureSlug];
 ---
 
 <BaseLayout
@@ -33,7 +34,7 @@ if (!feature) return Astro.redirect("/");
     <p class="long-desc">{feature.longDesc}</p>
 
     <div class="screenshot-area">
-      <p class="screenshot-placeholder">Screenshot komt binnenkort.</p>
+      <img src={screenshot} alt={`${feature.name} – Roster App Screenshot`} class="screenshot" />
     </div>
 
     <a href="https://apps.apple.com/app/roster" class="btn btn-primary cta">Download in de App Store</a>

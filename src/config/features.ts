@@ -19,6 +19,15 @@ const iconWellness = `<svg width="48" height="48" viewBox="0 0 34 34" fill="none
 const iconReflection = `<svg width="48" height="48" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="6" y="5" width="16" height="24" rx="3" stroke="#8b5cf6" stroke-width="2"/><path d="M22 8h3a3 3 0 0 1 3 3v13a3 3 0 0 1-3 3h-3" stroke="#c4b5fd" stroke-width="1.75"/><line x1="10" y1="11" x2="18" y2="11" stroke="#8b5cf6" stroke-width="1.75" stroke-linecap="round"/><line x1="10" y1="16" x2="18" y2="16" stroke="#8b5cf6" stroke-width="1.75" stroke-linecap="round"/><line x1="10" y1="21" x2="15" y2="21" stroke="#8b5cf6" stroke-width="1.75" stroke-linecap="round"/></svg>`;
 const iconInsights = `<svg width="48" height="48" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5 24l7-7 5 4 8-10 4 4" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><circle cx="12" cy="17" r="2.5" fill="#8b5cf6"/><circle cx="17" cy="21" r="2.5" fill="#c4b5fd"/><circle cx="25" cy="11" r="2.5" fill="#8b5cf6"/><line x1="5" y1="28" x2="29" y2="28" stroke="#2a2833" stroke-width="1.5"/></svg>`;
 
+export const featureScreenshots: Record<FeatureSlug, string> = {
+  connections: '/roster-screenshots/Verbindungen.PNG',
+  'polycule-map': '/roster-screenshots/Polycule map.PNG',
+  wellness: '/roster-screenshots/wellness.PNG',
+  reflection: '/roster-screenshots/reflexion.PNG',
+  insights: '/roster-screenshots/Insights.PNG',
+  vio: '/roster-screenshots/Vio.PNG',
+};
+
 export const featureIcons: Record<FeatureSlug, string | null> = {
   connections: iconConnections,
   'polycule-map': iconPolyculeMap,

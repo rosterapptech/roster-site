@@ -3,12 +3,13 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import Vio from '../../components/Vio.astro';
-import { featureSlugs, featureData, type FeatureSlug } from '../../config/features';
+import { featureData, featureScreenshots, type FeatureSlug } from '../../config/features';
 
 const { slug } = Astro.params;
 const lang = 'de';
 const feature = featureData[lang][slug as FeatureSlug];
 if (!feature) return Astro.redirect('/');
+const screenshot = featureScreenshots[slug as FeatureSlug];
 ---
 
 <BaseLayout
@@ -33,7 +34,7 @@ if (!feature) return Astro.redirect('/');
     <p class="long-desc">{feature.longDesc}</p>
 
     <div class="screenshot-area">
-      <p class="screenshot-placeholder">Screenshot folgt in Kürze.</p>
+      <img src={screenshot} alt={`${feature.name} – Roster App Screenshot`} class="screenshot" />
     </div>
 
     <a href="https://apps.apple.com/app/roster" class="btn btn-primary cta">Im App Store laden</a>
@@ -76,18 +77,14 @@ if (!feature) return Astro.redirect('/');
   }
   .screenshot-area {
     margin-top: 48px;
-    border: 1px dashed var(--border);
-    border-radius: 16px;
-    min-height: 320px;
     display: flex;
-    align-items: center;
     justify-content: center;
-    background: var(--surface);
   }
-  .screenshot-placeholder {
-    color: var(--text-dim);
-    font-size: 0.9rem;
-    margin: 0;
+  .screenshot {
+    width: 100%;
+    max-width: 320px;
+    border-radius: 32px;
+    box-shadow: 0 24px 80px -16px rgba(0, 0, 0, 0.6);
   }
   .cta {
     margin-top: 40px;
