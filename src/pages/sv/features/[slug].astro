@@ -33,6 +33,11 @@ const screenshot = featureScreenshots[slug as FeatureSlug];
           <p class="tagline">{feature.shortDesc}</p>
         </div>
         <p class="long-desc">{feature.longDesc}</p>
+        {feature.bullets && feature.bullets.length > 0 && (
+          <ul class="feature-bullets">
+            {feature.bullets.map((b) => <li>{b}</li>)}
+          </ul>
+        )}
         <a href="https://apps.apple.com/app/roster" class="btn btn-primary cta">Hämta i App Store</a>
       </div>
 
