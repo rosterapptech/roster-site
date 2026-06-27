@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import Analytics from '@vercel/analytics/astro';
 import type { Lang } from '../i18n/ui';
 
 interface Props {
@@ -74,6 +75,7 @@ const alternates = [
   </head>
   <body>
     <slot />
+    <Analytics />
     <script>
       // Aktiviert Scroll-Reveal erst wenn JS läuft → Content immer im DOM (SEO-sicher)
       document.documentElement.classList.add('js-ready');
