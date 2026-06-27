@@ -49,6 +49,11 @@ const today = new Date().toLocaleDateString('nl-NL', { day: 'numeric', month: 'l
       <p>Deze website maakt gebruik van <strong>{websiteFeatures.analytics}</strong> voor geanonimiseerde bereiksmeting. Er worden geen persoonsgegevens opgeslagen. Rechtsgrondslag: Art. 6 lid 1 sub f AVG.</p>
     )}
 
+    {websiteFeatures.thirdCountryTransfer && (
+      <h2>Doorgifte naar derde landen (VS)</h2>
+      <p>Hosting en bereikmeting verlopen via <strong>{websiteFeatures.hosting ?? 'Vercel'}</strong> (Vercel Inc., VS). Daarbij kunnen persoonsgegevens — met name uw IP-adres — naar de VS worden doorgegeven. Vercel Inc. is gecertificeerd onder het <strong>EU-VS Data Privacy Framework</strong>; aanvullend gelden EU-modelcontractbepalingen (art. 46 AVG) als passende waarborg. Rechtsgrondslag: art. 6 lid 1 onder f juncto art. 44 e.v. AVG.</p>
+    )}
+
     {websiteFeatures.cookies && (
       <h2>Cookies</h2>
       <p>Deze website gebruikt cookies. Bij uw eerste bezoek wordt uw toestemming gevraagd. Technisch noodzakelijke cookies zijn vrijgesteld van toestemming.</p>

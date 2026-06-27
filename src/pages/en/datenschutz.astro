@@ -49,6 +49,11 @@ const today = new Date().toLocaleDateString('en-GB', { day: 'numeric', month: 'l
       <p>This website uses <strong>{websiteFeatures.analytics}</strong> for anonymised reach measurement. No personal data is stored. Legal basis: Art. 6(1)(f) GDPR.</p>
     )}
 
+    {websiteFeatures.thirdCountryTransfer && (
+      <h2>International Data Transfers (USA)</h2>
+      <p>Hosting and reach measurement are provided by <strong>{websiteFeatures.hosting ?? 'Vercel'}</strong> (Vercel Inc., USA). In this context, personal data — in particular your IP address — may be transferred to the USA. Vercel Inc. is certified under the <strong>EU-US Data Privacy Framework</strong>; EU Standard Contractual Clauses (Art. 46 GDPR) additionally serve as appropriate safeguards. Legal basis: Art. 6(1)(f) in conjunction with Art. 44 et seq. GDPR.</p>
+    )}
+
     {websiteFeatures.cookies && (
       <h2>Cookies</h2>
       <p>This website uses cookies. Your consent is requested on your first visit. Technically necessary cookies are exempt from consent.</p>

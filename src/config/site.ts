@@ -24,6 +24,10 @@ export const websiteFeatures = {
   // Set to null = no analytics (section is omitted from privacy policy).
   analytics: 'Vercel Analytics' as string | null,
 
+  // Is the hosting/analytics provider based outside the EU (e.g. Vercel = USA)?
+  // true renders the mandatory "international data transfer" section (Art. 44 ff. GDPR).
+  thirdCountryTransfer: true,
+
   // Cookie consent / cookie banner.
   cookies: false,
 

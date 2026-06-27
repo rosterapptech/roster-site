@@ -49,6 +49,11 @@ const today = new Date().toLocaleDateString('da-DK', { day: 'numeric', month: 'l
       <p>Dette websted bruger <strong>{websiteFeatures.analytics}</strong> til anonymiseret rækkeviddemåling. Der gemmes ingen personoplysninger. Retsgrundlag: Art. 6(1)(f) GDPR.</p>
     )}
 
+    {websiteFeatures.thirdCountryTransfer && (
+      <h2>Overførsel til tredjelande (USA)</h2>
+      <p>Hosting og rækkeviddemåling sker via <strong>{websiteFeatures.hosting ?? 'Vercel'}</strong> (Vercel Inc., USA). I den forbindelse kan personoplysninger – navnlig din IP-adresse – blive overført til USA. Vercel Inc. er certificeret under <strong>EU-US Data Privacy Framework</strong>; derudover gælder EU's standardkontraktbestemmelser (art. 46 GDPR) som fornødne garantier. Retsgrundlag: art. 6, stk. 1, litra f, jf. art. 44 ff. GDPR.</p>
+    )}
+
     {websiteFeatures.cookies && (
       <h2>Cookies</h2>
       <p>Dette websted bruger cookies. Dit samtykke indhentes ved dit første besøg. Teknisk nødvendige cookies er undtaget fra samtykke.</p>

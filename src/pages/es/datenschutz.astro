@@ -49,6 +49,11 @@ const today = new Date().toLocaleDateString('es-ES', { day: 'numeric', month: 'l
       <p>Este sitio web utiliza <strong>{websiteFeatures.analytics}</strong> para la medición anónima del alcance. No se almacenan datos personales. Base jurídica: Art. 6(1)(f) RGPD.</p>
     )}
 
+    {websiteFeatures.thirdCountryTransfer && (
+      <h2>Transferencias a terceros países (EE. UU.)</h2>
+      <p>El alojamiento y la medición de audiencia se realizan a través de <strong>{websiteFeatures.hosting ?? 'Vercel'}</strong> (Vercel Inc., EE. UU.). En este contexto, pueden transferirse datos personales —en particular tu dirección IP— a EE. UU. Vercel Inc. está certificada conforme al <strong>Marco de Privacidad de Datos UE-EE. UU.</strong>; además, las Cláusulas Contractuales Tipo de la UE (art. 46 RGPD) sirven como garantía adecuada. Base jurídica: art. 6, apdo. 1, letra f, en relación con los art. 44 y ss. RGPD.</p>
+    )}
+
     {websiteFeatures.cookies && (
       <h2>Cookies</h2>
       <p>Este sitio web utiliza cookies. Se solicitará su consentimiento en su primera visita. Las cookies técnicamente necesarias están exentas del consentimiento.</p>

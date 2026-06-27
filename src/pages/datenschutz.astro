@@ -53,6 +53,11 @@ const today = new Date().toLocaleDateString('de-DE', { day: 'numeric', month: 'l
       <p>Diese Website nutzt <strong>{websiteFeatures.analytics}</strong> für anonymisierte Reichweitenmessung. Es werden keine personenbezogenen Daten gespeichert. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO.</p>
     )}
 
+    {websiteFeatures.thirdCountryTransfer && (
+      <h2>Übermittlung in Drittländer (USA)</h2>
+      <p>Hosting und Reichweitenmessung erfolgen über <strong>{websiteFeatures.hosting ?? 'Vercel'}</strong> (Vercel Inc., USA). Dabei können personenbezogene Daten – insbesondere deine IP-Adresse – in die USA übermittelt werden. Vercel Inc. ist unter dem <strong>EU-US Data Privacy Framework</strong> zertifiziert; ergänzend bestehen EU-Standardvertragsklauseln (Art. 46 DSGVO) als geeignete Garantie. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f i. V. m. Art. 44 ff. DSGVO.</p>
+    )}
+
     {websiteFeatures.cookies && (
       <h2>Cookies</h2>
       <p>Diese Website setzt Cookies. Beim ersten Besuch wird dein Einverständnis eingeholt. Technisch notwendige Cookies sind von der Einwilligung ausgenommen.</p>

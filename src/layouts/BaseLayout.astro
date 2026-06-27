@@ -24,7 +24,7 @@ const {
   noindex = false,
 } = Astro.props;
 
-const site = Astro.site ?? new URL('https://roster-app.de');
+const site = Astro.site ?? new URL('https://rosterapp.tech');
 const canonical = new URL(lang === 'de' ? path : `/${lang}${path}`, site).href;
 
 const alternates = [

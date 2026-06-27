@@ -49,6 +49,11 @@ const today = new Date().toLocaleDateString('sv-SE', { day: 'numeric', month: 'l
       <p>Denna webbplats använder <strong>{websiteFeatures.analytics}</strong> för anonymiserad räckviddsmätning. Inga personuppgifter lagras. Rättslig grund: Art. 6(1)(f) GDPR.</p>
     )}
 
+    {websiteFeatures.thirdCountryTransfer && (
+      <h2>Överföring till tredjeland (USA)</h2>
+      <p>Hosting och räckviddsmätning sker via <strong>{websiteFeatures.hosting ?? 'Vercel'}</strong> (Vercel Inc., USA). I detta sammanhang kan personuppgifter – särskilt din IP-adress – överföras till USA. Vercel Inc. är certifierat enligt <strong>EU-US Data Privacy Framework</strong>; därutöver gäller EU:s standardavtalsklausuler (art. 46 GDPR) som lämpliga skyddsåtgärder. Rättslig grund: art. 6.1 f jämförd med art. 44 ff. GDPR.</p>
+    )}
+
     {websiteFeatures.cookies && (
       <h2>Cookies</h2>
       <p>Denna webbplats använder cookies. Ditt samtycke inhämtas vid ditt första besök. Tekniskt nödvändiga cookies är undantagna från samtycke.</p>
