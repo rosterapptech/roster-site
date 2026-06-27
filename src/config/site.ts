@@ -18,11 +18,11 @@ export const contact = {
 export const websiteFeatures = {
   // Hosting provider name shown in the privacy policy server-logs section.
   // Set to null if not yet decided.
-  hosting: null as string | null,
+  hosting: 'Vercel' as string | null,
 
   // Analytics tool, e.g. 'Plausible', 'Fathom', 'Vercel Analytics'.
   // Set to null = no analytics (section is omitted from privacy policy).
-  analytics: null as string | null,
+  analytics: 'Vercel Analytics' as string | null,
 
   // Cookie consent / cookie banner.
   cookies: false,
