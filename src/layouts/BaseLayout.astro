@@ -13,6 +13,12 @@ interface Props {
   schema?: Record<string, unknown>;
   /** Soll diese Seite indexiert werden? Rechtsseiten z.B. auf noindex. */
   noindex?: boolean;
+  /**
+   * Explizite hreflang-Alternates (volle URLs). Noetig fuer Seiten mit
+   * sprachspezifischen Slugs (z.B. Blog), wo `/${lang}${path}` nicht stimmt.
+   * Wenn nicht gesetzt, werden die Alternates aus `path` abgeleitet.
+   */
+  alternates?: { hreflang: string; href: string }[];
 }
 
 const {
@@ -22,12 +28,22 @@ const {
   path = '/',
   schema,
   noindex = false,
+  alternates: alternatesProp,
 } = Astro.props;
 
 const site = Astro.site ?? new URL('https://rosterapp.tech');
 const canonical = new URL(lang === 'de' ? path : `/${lang}${path}`, site).href;
 
-const alternates = [
+const ogLocale = {
+  de: 'de_DE',
+  en: 'en_US',
+  nl: 'nl_NL',
+  es: 'es_ES',
+  da: 'da_DK',
+  sv: 'sv_SE',
+}[lang] ?? 'de_DE';
+
+const alternates = alternatesProp ?? [
   { hreflang: 'de', href: new URL(path, site).href },
   { hreflang: 'en', href: new URL(`/en${path}`, site).href },
   { hreflang: 'nl', href: new URL(`/nl${path}`, site).href },
@@ -60,7 +76,7 @@ const alternates = [
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     <meta property="og:image" content={new URL('/og.png', site).href} />
-    <meta property="og:locale" content={lang === 'de' ? 'de_DE' : 'en_US'} />
+    <meta property="og:locale" content={ogLocale} />
     <meta name="twitter:card" content="summary_large_image" />
 
     <!-- JSON-LD: macht die Seite fuer KI-Systeme maschinenlesbar -->

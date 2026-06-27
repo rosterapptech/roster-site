@@ -9,7 +9,7 @@
 - Plattform: native iOS-App (iPhone), gebaut mit SwiftUI
 - Zielgruppe: Polyamorie, offene Beziehungen, Beziehungsanarchie, Solo-Poly
 - Datenschutz: local-first (SwiftData), optionaler iCloud-Sync, kein Backend, kein Tracking, kein Konto nötig
-- Sprachen: Deutsch, Englisch, Spanisch, Niederländisch
+- Sprachen: Deutsch, Englisch, Spanisch, Niederländisch, Dänisch, Schwedisch
 - Anbieter: Slowcraft
 
 ## Hauptfunktionen
@@ -27,7 +27,7 @@
 - Basisfunktionen kostenlos nutzbar
 
 ## Links
-- Startseite: https://roster-app.de/
-- English: https://roster-app.de/en/
-- Blog: https://roster-app.de/blog
+- Startseite: https://rosterapp.tech/
+- English: https://rosterapp.tech/en/
+- Blog: https://rosterapp.tech/blog
 - App Store: https://apps.apple.com/app/roster

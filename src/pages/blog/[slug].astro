@@ -4,14 +4,23 @@ import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import { getCollection, render } from 'astro:content';
 import { t } from '../../i18n/ui';
+import { blogAlternates } from '../../i18n/blogAlternates';
 
-const { slug } = Astro.params;
+export const prerender = true;
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts
+    .filter((p) => p.data.lang === 'de')
+    .map((post) => ({ params: { slug: post.id }, props: { post } }));
+}
+
+const { post } = Astro.props;
 const posts = await getCollection('blog');
-const post = posts.find((p) => p.data.lang === 'de' && p.id === slug);
-if (!post) return Astro.redirect('/blog');
 const { Content } = await render(post);
 const lang = 'de';
 const tr = t(lang);
+const alternates = blogAlternates(posts, post, Astro.site!);
 
 const fmt = (d: Date) =>
   d.toLocaleDateString('de-DE', { year: 'numeric', month: 'long', day: 'numeric' });
@@ -34,6 +43,7 @@ const schema = {
   title={`${post.data.title} – Roster`}
   description={post.data.description}
   schema={schema}
+  alternates={alternates}
 >
   <Header lang={lang} />
   <main class="container article">

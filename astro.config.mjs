@@ -17,6 +17,11 @@ export default defineConfig({
   },
   integrations: [
     sitemap({
+      // Rechtsseiten sind auf noindex – nicht ins Sitemap aufnehmen,
+      // sonst widerspruechliche Signale (crawl me + don't index me).
+      filter: (page) =>
+        !/\/(datenschutz|impressum)\/?$/.test(page) &&
+        !page.includes('/appinfo/'),
       i18n: {
         defaultLocale: 'de',
         locales: {

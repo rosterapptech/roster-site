@@ -26,5 +26,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-# Domain nach Go-Live anpassen:
-Sitemap: https://roster-app.de/sitemap-index.xml
+Sitemap: https://rosterapp.tech/sitemap-index.xml
