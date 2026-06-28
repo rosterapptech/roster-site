@@ -19,6 +19,12 @@ interface Props {
    * Wenn nicht gesetzt, werden die Alternates aus `path` abgeleitet.
    */
   alternates?: { hreflang: string; href: string }[];
+  /** og:type – 'website' (Default) oder 'article' fuer Blog-Beitraege. */
+  ogType?: string;
+  /** ISO-Datum: setzt article:published_time (nur bei ogType 'article' sinnvoll). */
+  publishedTime?: string;
+  /** ISO-Datum: setzt article:modified_time. */
+  modifiedTime?: string;
 }
 
 const {
@@ -29,6 +35,9 @@ const {
   schema,
   noindex = false,
   alternates: alternatesProp,
+  ogType = 'website',
+  publishedTime,
+  modifiedTime,
 } = Astro.props;
 
 const site = Astro.site ?? new URL('https://rosterapp.tech');
@@ -71,12 +80,18 @@ const alternates = alternatesProp ?? [
     ))}
 
     <!-- Open Graph / Social -->
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={ogType} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     <meta property="og:image" content={new URL('/og.png', site).href} />
     <meta property="og:locale" content={ogLocale} />
+    {ogType === 'article' && publishedTime && (
+      <meta property="article:published_time" content={publishedTime} />
+    )}
+    {ogType === 'article' && modifiedTime && (
+      <meta property="article:modified_time" content={modifiedTime} />
+    )}
     <meta name="twitter:card" content="summary_large_image" />
 
     <!-- JSON-LD: macht die Seite fuer KI-Systeme maschinenlesbar -->

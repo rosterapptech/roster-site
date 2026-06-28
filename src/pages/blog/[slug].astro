@@ -5,6 +5,7 @@ import Footer from '../../components/Footer.astro';
 import { getCollection, render } from 'astro:content';
 import { t } from '../../i18n/ui';
 import { blogAlternates } from '../../i18n/blogAlternates';
+import { blogBreadcrumb } from '../../i18n/breadcrumbs';
 
 export const prerender = true;
 
@@ -25,8 +26,7 @@ const alternates = blogAlternates(posts, post, Astro.site!);
 const fmt = (d: Date) =>
   d.toLocaleDateString('de-DE', { year: 'numeric', month: 'long', day: 'numeric' });
 
-const schema = {
-  '@context': 'https://schema.org',
+const articleSchema = {
   '@type': 'Article',
   headline: post.data.title,
   description: post.data.description,
@@ -34,6 +34,11 @@ const schema = {
   ...(post.data.updatedDate && { dateModified: post.data.updatedDate.toISOString() }),
   author: { '@type': 'Organization', name: post.data.author },
   inLanguage: lang,
+};
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@graph': [articleSchema, blogBreadcrumb(lang, post.data.title, post.id, Astro.site!)],
 };
 ---
 
@@ -44,6 +49,9 @@ const schema = {
   description={post.data.description}
   schema={schema}
   alternates={alternates}
+  ogType="article"
+  publishedTime={post.data.pubDate.toISOString()}
+  modifiedTime={post.data.updatedDate?.toISOString()}
 >
   <Header lang={lang} />
   <main class="container article">

@@ -30,6 +30,10 @@ export const onRequest = defineMiddleware(async (ctx, next) => {
   // (DE-Slugs existieren nicht unter /en/blog/, EN-Slugs nicht unter /blog/)
   if (pathname.match(/^\/blog\/.+/)) return next();
 
+  // Feature-Detailseiten sind vorgerendert (statisch) → keine Sprach-Weiterleitung.
+  // Verhindert zudem, dass die Middleware beim Prerender unnoetig Request-Header liest.
+  if (pathname.match(/^\/features\/.+/)) return next();
+
   // Cookie hat Vorrang (wenn User manuell Sprache gewählt hat)
   const cookieLang = ctx.cookies.get('roster-lang')?.value as Lang | undefined;
   const lang = (cookieLang && SUPPORTED.includes(cookieLang))

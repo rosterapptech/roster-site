@@ -4,6 +4,7 @@ import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import Vio from '../../../components/Vio.astro';
 import { featureData, featureScreenshots, featureSlugs, type FeatureSlug } from '../../../config/features';
+import { featureBreadcrumb } from '../../../i18n/breadcrumbs';
 
 export const prerender = true;
 
@@ -18,6 +19,11 @@ const lang = 'en';
 const feature = featureData[lang][slug as FeatureSlug];
 if (!feature) return Astro.redirect("/");
 const screenshot = featureScreenshots[slug as FeatureSlug];
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@graph': [featureBreadcrumb(lang, feature.name, slug as string, Astro.site!)],
+};
 ---
 
 <BaseLayout
@@ -25,6 +31,7 @@ const screenshot = featureScreenshots[slug as FeatureSlug];
   path={`/features/${slug}`}
   title={`${feature.name} – Roster`}
   description={feature.longDesc}
+  schema={schema}
 >
   <Header lang={lang} />
   <main class="container feature-page">
