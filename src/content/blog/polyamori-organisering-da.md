@@ -9,7 +9,7 @@ tags: ['Polyamori', 'Organisation', 'Relationsstyring', 'Hverdag']
 
 Polyamori diskuteres ofte ud fra følelserne – [jalousi](/blog/jalousi-polyamori), [compersion](/blog/compersion-laere), kærlighed i flertal. Den meget praktiske side taler næsten ingen om: organisationen. Hvem der har flere relationer, jonglerer med flere aftaler, flere vigtige datoer, flere overenskomster og flere mennesker, hvis behov tæller. At holde alt det i hovedet bliver hurtigt den egentlige udfordring.
 
-Denne artikel viser dig, hvordan du strukturerer dit relationsliv uden at det føles som administration frem for forbindelse.
+Denne artikel viser dig, hvordan du strukturerer dit relationsliv uden at det føles som administration frem for forbindelse. Er du mere optaget af, hvordan du aktivt styrer flere forhold i hverdagen, findes der en dedikeret guide til det i [Håndtere flere forhold på samme tid](/blog/styre-flere-forhold).
 
 ## Hvorfor organisation i polyamori ikke dræber romantikken
 

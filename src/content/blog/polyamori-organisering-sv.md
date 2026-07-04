@@ -9,7 +9,7 @@ tags: ['Polyamori', 'Organisation', 'Relationshantering', 'Vardag']
 
 Polyamori diskuteras ofta utifrån känslorna – [svartsjuka](/blog/svaartsjuka-polyamori), [compersion](/blog/compersion-lara), kärlek i plural. Den helt praktiska sidan talar nästan ingen om: organisationen. Den som har flera relationer jonglerar med fler bokningar, fler viktiga datum, fler överenskommelser och fler människor vars behov räknas. Att hålla allt det i huvudet blir snabbt den verkliga utmaningen.
 
-Den här artikeln visar dig hur du strukturerar ditt relationsliv utan att det känns som administration snarare än samhörighet.
+Den här artikeln visar dig hur du strukturerar ditt relationsliv utan att det känns som administration snarare än samhörighet. Är du mer intresserad av hur du aktivt styr flera relationer i vardagen finns en egen guide om det i [Hantera flera relationer samtidigt](/blog/hantera-flera-relationer).
 
 ## Varför organisation i polyamori inte dödar romantiken
 

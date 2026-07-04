@@ -9,7 +9,7 @@ tags: ['Poliamor', 'Organización', 'Gestión de relaciones', 'Vida cotidiana']
 
 El poliamor se discute a menudo desde las emociones – [celos](/blog/celos-poliamoria), [compersión](/blog/compersion-aprender), amor en plural. Casi nadie habla de un aspecto completamente práctico: la organización. Quien tiene varias relaciones hace malabares con más citas, más fechas importantes, más acuerdos y más personas cuyas necesidades cuentan. Mantener todo eso en la cabeza se convierte rápidamente en el verdadero reto.
 
-Este artículo te muestra cómo estructurar tu vida relacional sin que parezca gestión en lugar de conexión.
+Este artículo te muestra cómo estructurar tu vida relacional sin que parezca gestión en lugar de conexión. Si lo que te interesa es más bien cómo dirigir activamente varias relaciones en el día a día, hay una guía dedicada a eso en [Gestionar varias relaciones a la vez](/blog/gestionar-varias-relaciones).
 
 ## Por qué la organización en el poliamor no mata el romance
 

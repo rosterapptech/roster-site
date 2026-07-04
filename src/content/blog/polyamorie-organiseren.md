@@ -9,7 +9,7 @@ tags: ['Polyamorie', 'Organisatie', 'Relatiebeheer', 'Dagelijks leven']
 
 Polyamorie wordt vaak besproken vanuit de gevoelens – [jaloezie](/blog/jaloezie-polyamorie), [compersion](/blog/compersion-leren), liefde in het meervoud. Over een heel praktisch onderdeel spreekt bijna niemand: de organisatie. Wie meerdere relaties voert, jongleert met meer afspraken, meer belangrijke data, meer overeenkomsten en meer mensen wiens behoeften tellen. Dat allemaal in je hoofd houden wordt al snel de echte uitdaging.
 
-Dit artikel laat je zien hoe je je relatieleven structureert zonder dat het aanvoelt als beheer in plaats van verbinding.
+Dit artikel laat je zien hoe je je relatieleven structureert zonder dat het aanvoelt als beheer in plaats van verbinding. Ben je vooral op zoek naar hoe je meerdere relaties dagelijks actief aanstuurt, kijk dan bij de aparte gids [Meerdere relaties tegelijk managen](/blog/meerdere-relaties-managen).
 
 ## Waarom organisatie in polyamorie de romantiek niet doodt
 

@@ -9,7 +9,7 @@ tags: ['Polyamory', 'Organisation', 'Relationship management', 'Everyday life']
 
 Polyamory is often discussed in terms of feelings – [jealousy](/blog/jealousy-polyamory), [compersion](/blog/compersion-learning), love in the plural. Very few people talk about the entirely practical side: organisation. When you have multiple relationships, you are juggling more appointments, more important dates, more agreements, and more people whose needs matter. Keeping all of that in your head quickly becomes the real challenge.
 
-This article shows you how to structure your relationship life without it feeling like administration instead of connection.
+This article shows you how to structure your relationship life without it feeling like administration instead of connection. If you're more interested in how to actively steer multiple relationships day to day, there's a dedicated guide at [Managing Multiple Relationships](/blog/managing-multiple-relationships).
 
 ## Why organisation in polyamory does not kill romance
 

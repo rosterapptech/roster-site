@@ -9,7 +9,7 @@ tags: ['Polyamorie', 'Organisation', 'Beziehungsmanagement', 'Alltag']
 
 Polyamorie wird oft über die Gefühle diskutiert – [Eifersucht](/blog/eifersucht-polyamorie), [Compersion](/blog/compersion-lernen), Liebe im Plural. Über einen ganz praktischen Teil spricht kaum jemand: die Organisation. Wer mehrere Beziehungen führt, jongliert mit mehr Terminen, mehr wichtigen Daten, mehr Vereinbarungen und mehr Menschen, deren Bedürfnisse zählen. Das im Kopf zu behalten, wird schnell zur eigentlichen Herausforderung.
 
-Dieser Artikel zeigt dir, wie du dein Beziehungsleben strukturierst, ohne dass es sich nach Verwaltung statt nach Verbindung anfühlt.
+Dieser Artikel zeigt dir, wie du dein Beziehungsleben strukturierst, ohne dass es sich nach Verwaltung statt nach Verbindung anfühlt. Wenn dich eher die Frage beschäftigt, wie du mehrere Beziehungen im Alltag aktiv steuerst, findest du dazu einen eigenen Leitfaden unter [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen).
 
 ## Warum Organisation in der Polyamorie keine Romantik tötet
 
