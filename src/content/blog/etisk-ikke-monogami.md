@@ -31,7 +31,7 @@ Mangler en af disse tre søjler, er det ikke ENM, men blot utroskab med flere pe
 
 **Relationsanarki:** En holdning, der forhandler hvert forhold individuelt, uden at forudsætte faste kategorier eller hierarkier.
 
-Læs mere om de enkelte begreber og andre underformer i [Polyamori-ordbogen](/blog/polyamori-ordbog).
+Læs mere om de enkelte begreber og andre underformer i [Polyamori-ordbogen](/da/blog/polyamori-ordbog).
 
 ## Hvorfor paraplybegrebet er nyttigt
 
@@ -43,11 +43,11 @@ ENM som overordnet begreb er særligt praktisk, når man vil tale om fælles gru
 
 **"ENM betyder, at man undgår ægte forpligtelse."** Mange ENM-former, ikke mindst polyamori, indebærer dybe, langvarige følelsesmæssige bånd til flere mennesker samtidig.
 
-**"ENM fungerer kun uden jalousi."** Jalousi forekommer også i ENM-forhold – forskellen ligger i, hvor åbent og konstruktivt der bliver håndteret med det. Læs mere i artiklen [Jalousi i polyamori](/blog/jalousi-polyamori).
+**"ENM fungerer kun uden jalousi."** Jalousi forekommer også i ENM-forhold – forskellen ligger i, hvor åbent og konstruktivt der bliver håndteret med det. Læs mere i artiklen [Jalousi i polyamori](/da/blog/jalousi-polyamori).
 
 ## Sådan finder du den rette ENM-stil til dig selv
 
-Der findes ingen "rigtig" form for ENM – kun den form, der passer til dine egne behov, kapacitet og værdier. Den, der er ny på området, finder en god start i artiklen [Polyamori for begyndere](/blog/polyamori-for-begyndere), selvom polyamori kun er én af flere ENM-former.
+Der findes ingen "rigtig" form for ENM – kun den form, der passer til dine egne behov, kapacitet og værdier. Den, der er ny på området, finder en god start i artiklen [Polyamori for begyndere](/da/blog/polyamori-for-begyndere), selvom polyamori kun er én af flere ENM-former.
 
 ## Struktur til ENM-forhold i praksis
 

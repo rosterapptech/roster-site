@@ -19,9 +19,9 @@ Et klassisk vetoret fungerer sådan: én person i et eksisterende (ofte kaldet "
 
 **Det ignorerer den tredje persons autonomi.** Den person, hvis forhold bliver afsluttet, havde som regel ingen stemme i beslutningen – vedkommendes følelser og investering bliver reelt gjort ugyldige.
 
-**Det erstatter samtykke med kontrol.** I stedet for at alle tre personer forhandler i fællesskab om, hvad der fungerer for alle, bestemmer én person over de to andres forhold. Læs mere om forskellen mellem kontrol og ægte aftale i artiklen [Regler vs. aftaler i polyamori](/blog/regler-aftaler-polyamori).
+**Det erstatter samtykke med kontrol.** I stedet for at alle tre personer forhandler i fællesskab om, hvad der fungerer for alle, bestemmer én person over de to andres forhold. Læs mere om forskellen mellem kontrol og ægte aftale i artiklen [Regler vs. aftaler i polyamori](/da/blog/regler-aftaler-polyamori).
 
-**Det flytter det egentlige problem.** Et ønske om et veto opstår som regel af usikkerhed eller jalousi i det eksisterende forhold. Vetoet behandler dog ikke denne usikkerhed, men fjerner blot dens årsag udefra – uden at bearbejde den underliggende følelse. Læs mere i artiklen [Jalousi i polyamori](/blog/jalousi-polyamori).
+**Det flytter det egentlige problem.** Et ønske om et veto opstår som regel af usikkerhed eller jalousi i det eksisterende forhold. Vetoet behandler dog ikke denne usikkerhed, men fjerner blot dens årsag udefra – uden at bearbejde den underliggende følelse. Læs mere i artiklen [Jalousi i polyamori](/da/blog/jalousi-polyamori).
 
 **Det skaber strukturel ulighed.** Forhold med vetoret etablerer automatisk et hierarki, hvor én forbindelse til enhver tid kan tilbagekaldes, og den anden ikke – uanset hvor dybt det "tilbagekaldelige" forhold reelt er.
 
@@ -48,7 +48,7 @@ Et vetoret føles for nogle som tryghed, især i den indledende fase af at åbne
 
 ## Hold aftaler fair og synlige
 
-Aftaler fungerer bedst, når de er klare og synlige for alle involverede, i stedet for at forblive implicitte eller ensidige. **Roster** hjælper med at notere fair, i fællesskab forhandlede aftaler for hver forbindelse i dit [polycule](/blog/hvad-er-et-polycule) – gennemsigtigt for alle, gemt lokalt på din enhed.
+Aftaler fungerer bedst, når de er klare og synlige for alle involverede, i stedet for at forblive implicitte eller ensidige. **Roster** hjælper med at notere fair, i fællesskab forhandlede aftaler for hver forbindelse i dit [polycule](/da/blog/hvad-er-et-polycule) – gennemsigtigt for alle, gemt lokalt på din enhed.
 
 ## Ofte stillede spørgsmål
 

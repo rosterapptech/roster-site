@@ -19,7 +19,7 @@ Dicho de otra manera: el poliamor es una estructura de relación; la anarquía r
 
 ## El poliamor en detalle
 
-El poliamor trata de múltiples relaciones románticas paralelas. Muchas personas poliamorosas trabajan con estructuras: quizás hay una nesting partner con quien conviven y otras relaciones además. Algunas constelaciones poliamorosas son explícitamente **jerárquicas** – con parejas primarias y secundarias donde ciertas relaciones tienen prioridad. Otras son **igualitarias** y tratan todas las relaciones con igual valor. El punto clave: el poliamor no dice nada sobre si rechazas o utilizas jerarquías. Para más sobre los conceptos básicos, consulta nuestro [glosario del poliamor](/blog/glosario-poliamoria).
+El poliamor trata de múltiples relaciones románticas paralelas. Muchas personas poliamorosas trabajan con estructuras: quizás hay una nesting partner con quien conviven y otras relaciones además. Algunas constelaciones poliamorosas son explícitamente **jerárquicas** – con parejas primarias y secundarias donde ciertas relaciones tienen prioridad. Otras son **igualitarias** y tratan todas las relaciones con igual valor. El punto clave: el poliamor no dice nada sobre si rechazas o utilizas jerarquías. Para más sobre los conceptos básicos, consulta nuestro [glosario del poliamor](/es/blog/glosario-poliamoria).
 
 ## La anarquía relacional en detalle
 

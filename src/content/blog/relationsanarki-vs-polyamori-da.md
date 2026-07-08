@@ -19,7 +19,7 @@ Sagt på en anden måde: polyamori er en relationsform; relationsanarki er en re
 
 ## Polyamori i detaljer
 
-Polyamori handler om flere parallelle kærlighedsrelationer. Mange polyamorøse mennesker arbejder med strukturer: der er måske en nesting-partner, man bor sammen med, og yderligere relationer ved siden af. Nogle polyamorøse konstellationer er udtrykkeligt **hierarkiske** – med primære og sekundære partnere, hvor visse relationer prioriteres. Andre er **egalitære** og behandler alle relationer som ligeværdige. Det centrale punkt: polyamori siger intet om, hvorvidt du afviser eller bruger hierarkier. Se vores [polyamori-ordbog](/blog/polyamori-ordbog) for mere om grundbegreberne.
+Polyamori handler om flere parallelle kærlighedsrelationer. Mange polyamorøse mennesker arbejder med strukturer: der er måske en nesting-partner, man bor sammen med, og yderligere relationer ved siden af. Nogle polyamorøse konstellationer er udtrykkeligt **hierarkiske** – med primære og sekundære partnere, hvor visse relationer prioriteres. Andre er **egalitære** og behandler alle relationer som ligeværdige. Det centrale punkt: polyamori siger intet om, hvorvidt du afviser eller bruger hierarkier. Se vores [polyamori-ordbog](/da/blog/polyamori-ordbog) for mere om grundbegreberne.
 
 ## Relationsanarki i detaljer
 

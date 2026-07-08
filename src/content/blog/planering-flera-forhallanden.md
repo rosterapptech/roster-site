@@ -39,7 +39,7 @@ En enkel men effektiv överenskommelse: meddela nya planer i god tid (till exemp
 
 ## Hur mycket öppenhet behövs?
 
-Det beror mycket på vald relationsmodell. Den som lever enligt [kitchen table-polyamori](/blog/kitchen-table-vs-parallel-polyamori-sv) delar ofta öppet när man spenderar tid med vem. Den som är mer [parallellt](/blog/kitchen-table-vs-parallel-polyamori-sv) organiserad behöver oftast bara informationen "jag är inte tillgänglig den dagen" – utan detaljer. Båda är legitima, så länge den valda nivån av öppenhet är överenskommen med alla inblandade.
+Det beror mycket på vald relationsmodell. Den som lever enligt [kitchen table-polyamori](/sv/blog/kitchen-table-vs-parallel-polyamori-sv) delar ofta öppet när man spenderar tid med vem. Den som är mer [parallellt](/sv/blog/kitchen-table-vs-parallel-polyamori-sv) organiserad behöver oftast bara informationen "jag är inte tillgänglig den dagen" – utan detaljer. Båda är legitima, så länge den valda nivån av öppenhet är överenskommen med alla inblandade.
 
 ## När planer krockar
 
@@ -47,11 +47,11 @@ Krockar sker förr eller senare, även med ett bra system – sjukdom, spontana 
 
 ## Schemaläggning och känslomässig rättvisa
 
-Ett rent tidshanteringssystem räcker inte om den underliggande fördelningen ständigt känns orättvis. Den som märker att ett förhållande strukturellt alltid kommer i andra hand bör ta upp det innan agg byggs upp. Läs mer om den större frågan bakom detta i artikeln [Hantera flera relationer](/blog/hantera-flera-relationer).
+Ett rent tidshanteringssystem räcker inte om den underliggande fördelningen ständigt känns orättvis. Den som märker att ett förhållande strukturellt alltid kommer i andra hand bör ta upp det innan agg byggs upp. Läs mer om den större frågan bakom detta i artikeln [Hantera flera relationer](/sv/blog/hantera-flera-relationer).
 
 ## Roster som centralt system
 
-**Roster** är byggt just för det här problemet: en app som visualiserar ditt [polycule](/blog/vad-ar-ett-polycule), noterar viktiga avtal och detaljer för varje koppling, och med vibe-radarn visar vilket förhållande som just nu behöver uppmärksamhet – innan en schemakonflikt blir en känslomässig konflikt. All data stannar lokalt på din enhet, helt utan konto eller molnkrav.
+**Roster** är byggt just för det här problemet: en app som visualiserar ditt [polycule](/sv/blog/vad-ar-ett-polycule), noterar viktiga avtal och detaljer för varje koppling, och med vibe-radarn visar vilket förhållande som just nu behöver uppmärksamhet – innan en schemakonflikt blir en känslomässig konflikt. All data stannar lokalt på din enhet, helt utan konto eller molnkrav.
 
 ## Vanliga frågor
 

@@ -7,7 +7,7 @@ translationKey: 'breakups-polyamory'
 tags: ['Polyamory', 'Breakups', 'Metamour', 'Communication']
 ---
 
-**In short:** A breakup in polyamory rarely affects just two people – it usually ripples through the whole [polycule](/blog/what-is-a-polycule): [metamours](/blog/metamour-relationships), shared friendships, and existing relationships that keep going in parallel. Grief over an ending connection isn't mutually exclusive with happiness in other relationships – both can be present at once. Open communication with everyone affected is what separates a chaotic ending from a respectful one.
+**In short:** A breakup in polyamory rarely affects just two people – it usually ripples through the whole [polycule](/en/blog/what-is-a-polycule): [metamours](/en/blog/metamour-relationships), shared friendships, and existing relationships that keep going in parallel. Grief over an ending connection isn't mutually exclusive with happiness in other relationships – both can be present at once. Open communication with everyone affected is what separates a chaotic ending from a respectful one.
 
 Breakups hurt, no matter the relationship structure. But in polyamory, there's an extra layer: a breakup rarely affects only the two people directly involved. It ripples out to metamours, shared friendships, and sometimes the entire network of relationships.
 
@@ -31,7 +31,7 @@ One feeling that surprises many people: you can be genuinely happy about another
 
 ## Practical questions after a breakup
 
-**What happens to shared agreements?** Arrangements that applied to the whole polycule – around [scheduling](/blog/scheduling-multiple-relationships) or health, for instance – often need renegotiating after a breakup, since the underlying situation has changed.
+**What happens to shared agreements?** Arrangements that applied to the whole polycule – around [scheduling](/en/blog/scheduling-multiple-relationships) or health, for instance – often need renegotiating after a breakup, since the underlying situation has changed.
 
 **How do you communicate it outward?** Friends and family who know about the whole polycule usually need a short, clear explanation, rather than letting rumors fill the gap.
 

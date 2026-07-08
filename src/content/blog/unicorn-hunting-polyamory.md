@@ -38,7 +38,7 @@ If you're a couple opening up and want to date together, a few concrete principl
 - **Treat a new person as a full individual with her own agency**, not as an addition to your existing relationship. She has her own needs, her own pace, and the right to say no.
 - **Don't demand exclusivity you're not offering yourselves.** If you two remain each other's priority as a couple, it's unfair to expect the new person to give up other connections.
 - **Involve her in making the rules**, instead of presenting her with finished ones. Agreements that affect a person should be made with her – not just about her.
-- **Don't hold veto power over her autonomy.** For more on why veto arrangements are problematic in polyamory, see our article on [veto power in polyamory](/blog/veto-power-polyamory).
+- **Don't hold veto power over her autonomy.** For more on why veto arrangements are problematic in polyamory, see our article on [veto power in polyamory](/en/blog/veto-power-polyamory).
 - **Ask yourselves honestly whether you're looking for a person or trying to fill a gap.** The difference between "we want to meet someone we can build something new with" and "we want someone who fits our existing life" is subtle, but it matters a lot.
 
 ## If you recognize the pattern in yourselves

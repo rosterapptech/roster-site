@@ -7,7 +7,7 @@ translationKey: 'breakups-polyamory'
 tags: ['Poliamor', 'Rupturas', 'Metamour', 'Comunicación']
 ---
 
-**En resumen:** Una ruptura en el poliamor rara vez afecta solo a dos personas: normalmente repercute en todo el [polycule](/blog/que-es-un-polycule): en los [metamours](/blog/metamour-relaciones), en amistades compartidas y en relaciones existentes que siguen adelante en paralelo. El duelo por una conexión que termina no es incompatible con la felicidad en otras relaciones; ambas cosas pueden estar presentes a la vez. La comunicación abierta con todas las personas afectadas es lo que marca la diferencia entre un final caótico y uno respetuoso.
+**En resumen:** Una ruptura en el poliamor rara vez afecta solo a dos personas: normalmente repercute en todo el [polycule](/es/blog/que-es-un-polycule): en los [metamours](/es/blog/metamour-relaciones), en amistades compartidas y en relaciones existentes que siguen adelante en paralelo. El duelo por una conexión que termina no es incompatible con la felicidad en otras relaciones; ambas cosas pueden estar presentes a la vez. La comunicación abierta con todas las personas afectadas es lo que marca la diferencia entre un final caótico y uno respetuoso.
 
 Las rupturas duelen, sea cual sea la estructura de la relación. Pero en el poliamor hay una capa adicional: una ruptura rara vez afecta solo a las dos personas directamente implicadas. Tiene efectos sobre los metamours, las amistades compartidas y, a veces, sobre toda la red de relaciones.
 
@@ -31,7 +31,7 @@ Un sentimiento que sorprende a muchas personas: se puede estar genuinamente cont
 
 ## Preguntas prácticas después de una ruptura
 
-**¿Qué pasa con los acuerdos compartidos?** Los pactos que aplicaban a todo el polycule —por ejemplo, sobre [planificación](/blog/planificar-varias-relaciones) o salud— suelen tener que renegociarse tras una ruptura, porque la situación de partida ha cambiado.
+**¿Qué pasa con los acuerdos compartidos?** Los pactos que aplicaban a todo el polycule —por ejemplo, sobre [planificación](/es/blog/planificar-varias-relaciones) o salud— suelen tener que renegociarse tras una ruptura, porque la situación de partida ha cambiado.
 
 **¿Cómo se comunica hacia afuera?** Los amigos y la familia que conocen todo el polycule suelen necesitar una explicación breve y clara, en lugar de dejar que los rumores llenen el vacío.
 

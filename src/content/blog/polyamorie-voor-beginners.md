@@ -13,7 +13,7 @@ Misschien heb je gemerkt dat het klassieke relatiemodel voor jou niet helemaal g
 
 Polyamorie betekent consensueel meerdere liefdesrelaties tegelijkertijd voeren, waarbij alle betrokkenen ervan weten. Het sleutelwoord is **consensueel**: polyamorie is het tegenovergestelde van vreemdgaan. Het gaat om eerlijkheid, transparantie en het samen vormgeven van relaties – niet om geheimhouding.
 
-Polyamorie is een van de vele vormen van ethische niet-monogamie (ENM). Daartoe behoren ook open relaties, [relatieAnarchie](/blog/relatieAnarchie-vs-polyamorie) en swingen. Wat ze allemaal gemeen hebben: toestemming en communicatie.
+Polyamorie is een van de vele vormen van ethische niet-monogamie (ENM). Daartoe behoren ook open relaties, [relatieAnarchie](/nl/blog/relatieAnarchie-vs-polyamorie) en swingen. Wat ze allemaal gemeen hebben: toestemming en communicatie.
 
 ## De hardnekkigste mythes
 
@@ -23,7 +23,7 @@ Polyamorie is een van de vele vormen van ethische niet-monogamie (ENM). Daartoe 
 
 **"Het gaat alleen om seks."** Polyamorie draait om liefde en relatie, niet primair om seks. Sommige poly-relaties zijn zelfs niet seksueel.
 
-**"Als je poly bent, ben je nooit jaloers."** Ook polyamoreuze mensen zijn jaloers. Het verschil zit in de open omgang ermee – meer daarover in ons artikel over [jaloezie](/blog/jaloezie-polyamorie).
+**"Als je poly bent, ben je nooit jaloers."** Ook polyamoreuze mensen zijn jaloers. Het verschil zit in de open omgang ermee – meer daarover in ons artikel over [jaloezie](/nl/blog/jaloezie-polyamorie).
 
 ## De eerste stappen
 
@@ -33,7 +33,7 @@ Voordat je met anderen over polyamorie spreekt, loont het naar binnen kijken. Wa
 
 ### 2. Leer het vocabulaire
 
-Metamour, compersion, polycule, NRE – de begrippen helpen je jezelf uit te drukken en anderen te begrijpen. Onze [woordenlijst](/blog/polyamorie-woordenlijst) geeft je een goed startpunt.
+Metamour, compersion, polycule, NRE – de begrippen helpen je jezelf uit te drukken en anderen te begrijpen. Onze [woordenlijst](/nl/blog/polyamorie-woordenlijst) geeft je een goed startpunt.
 
 ### 3. Communiceer eerlijk – vanaf het begin
 
@@ -41,7 +41,7 @@ Of je nu een bestaande relatie wilt openen of nieuw poly wilt beginnen: eerlijkh
 
 ### 4. Reken op gevoelens – ook oncomfortabele
 
-[Jaloezie](/blog/jaloezie-polyamorie), onzekerheid, overweldiging horen er vaak bij, zeker in het begin. Dat is geen teken van mislukken, maar deel van het leerproces. Gevoelens zijn wegwijzers, geen stopborden.
+[Jaloezie](/nl/blog/jaloezie-polyamorie), onzekerheid, overweldiging horen er vaak bij, zeker in het begin. Dat is geen teken van mislukken, maar deel van het leerproces. Gevoelens zijn wegwijzers, geen stopborden.
 
 ### 5. Doe het rustig aan
 

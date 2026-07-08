@@ -7,7 +7,7 @@ translationKey: 'kitchen-table-vs-parallel-polyamory'
 tags: ['Polyamorie', 'Relatievormen', 'Metamour', 'Communicatie']
 ---
 
-**Kort gezegd:** Kitchen table polyamorie en parallelle polyamorie beschrijven hoe hecht de mensen in een [polycule](/blog/wat-is-een-polycule) met elkaar verbonden zijn. Bij kitchen table zit iedereen figuurlijk aan dezelfde keukentafel – je kent elkaar, brengt tijd samen door en onderhoudt ook contact met [metamours](/blog/metamour-relatie). Bij parallelle polyamorie lopen de relaties onafhankelijk naast elkaar, met weinig tot geen direct contact tussen de partners van je partners. Geen van beide is "beter" – wat telt, is wat past bij jouw persoonlijkheid en leven.
+**Kort gezegd:** Kitchen table polyamorie en parallelle polyamorie beschrijven hoe hecht de mensen in een [polycule](/nl/blog/wat-is-een-polycule) met elkaar verbonden zijn. Bij kitchen table zit iedereen figuurlijk aan dezelfde keukentafel – je kent elkaar, brengt tijd samen door en onderhoudt ook contact met [metamours](/nl/blog/metamour-relatie). Bij parallelle polyamorie lopen de relaties onafhankelijk naast elkaar, met weinig tot geen direct contact tussen de partners van je partners. Geen van beide is "beter" – wat telt, is wat past bij jouw persoonlijkheid en leven.
 
 Zodra een polycule uit meer dan twee personen bestaat, komt vroeg of laat de vraag op: hoeveel contact moet er eigenlijk zijn tussen alle betrokkenen? Die vraag heeft inmiddels een naam gekregen – kitchen table polyamorie en parallelle polyamorie zijn de twee bekendste antwoorden.
 

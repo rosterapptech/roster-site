@@ -7,7 +7,7 @@ translationKey: 'breakups-polyamory'
 tags: ['Polyamorie', 'Relatiebreuk', 'Metamour', 'Communicatie']
 ---
 
-**Kort gezegd:** Een breuk binnen polyamorie raakt zelden slechts twee mensen – meestal heeft het effect op het hele [polycule](/blog/wat-is-een-polycule): op [metamours](/blog/metamour-relatie), op gedeelde vriendschappen en op bestaande relaties die parallel doorlopen. Verdriet om een eindigende connectie sluit geluk in andere relaties niet uit – beide mogen tegelijk aanwezig zijn. Open communicatie met iedereen die het aangaat maakt het verschil tussen een chaotisch en een respectvol einde.
+**Kort gezegd:** Een breuk binnen polyamorie raakt zelden slechts twee mensen – meestal heeft het effect op het hele [polycule](/nl/blog/wat-is-een-polycule): op [metamours](/nl/blog/metamour-relatie), op gedeelde vriendschappen en op bestaande relaties die parallel doorlopen. Verdriet om een eindigende connectie sluit geluk in andere relaties niet uit – beide mogen tegelijk aanwezig zijn. Open communicatie met iedereen die het aangaat maakt het verschil tussen een chaotisch en een respectvol einde.
 
 Breuken doen pijn, ongeacht de relatievorm. Binnen polyamorie komt er echter een extra laag bij: een breuk raakt zelden alleen de twee direct betrokken personen. Het heeft impact op metamours, gedeelde vriendschappen en soms op het hele netwerk van relaties.
 
@@ -31,7 +31,7 @@ Een gevoel dat velen verrast: je kunt oprecht blij zijn met een andere, nog best
 
 ## Praktische vragen na een breuk
 
-**Wat gebeurt er met gedeelde afspraken?** Afspraken die voor het hele polycule golden – bijvoorbeeld over [planning](/blog/planning-meerdere-relaties) of gezondheid – moeten na een breuk vaak opnieuw worden uitonderhandeld, omdat de uitgangssituatie is veranderd.
+**Wat gebeurt er met gedeelde afspraken?** Afspraken die voor het hele polycule golden – bijvoorbeeld over [planning](/nl/blog/planning-meerdere-relaties) of gezondheid – moeten na een breuk vaak opnieuw worden uitonderhandeld, omdat de uitgangssituatie is veranderd.
 
 **Hoe communiceer je het naar buiten?** Vrienden en familie die van het hele polycule weten, hebben vaak genoeg aan een korte, duidelijke uitleg, in plaats van dat geruchten het gat opvullen.
 

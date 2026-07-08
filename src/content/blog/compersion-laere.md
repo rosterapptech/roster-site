@@ -45,7 +45,7 @@ Compersion og jalousi skiftes ofte til at komme. Når du noterer begge følelser
 
 ## Compersion og jalousi er ikke modstandere
 
-Det er fristende at se compersion som "endemålet" og [jalousi](/blog/jalousi-polyamori) som en fejl. Det er mere nyttigt at forstå begge som to sider af det samme følelsesmæssige arbejde. Jalousi viser dig et behov; compersion viser dig din forbundethed. Ærlig omgang med jalousi skaber ofte først det rum, hvori compersion overhovedet kan vokse.
+Det er fristende at se compersion som "endemålet" og [jalousi](/da/blog/jalousi-polyamori) som en fejl. Det er mere nyttigt at forstå begge som to sider af det samme følelsesmæssige arbejde. Jalousi viser dig et behov; compersion viser dig din forbundethed. Ærlig omgang med jalousi skaber ofte først det rum, hvori compersion overhovedet kan vokse.
 
 ## Ofte stillede spørgsmål
 

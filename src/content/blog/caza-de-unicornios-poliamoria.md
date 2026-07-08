@@ -38,7 +38,7 @@ Si sois una pareja que se abre y queréis buscar juntos, unos cuantos principios
 - **Tratad a la nueva persona como un individuo completo con su propia capacidad de decisión**, no como un añadido a vuestra relación existente. Tiene sus propias necesidades, su propio ritmo y el derecho a decir que no.
 - **No exijáis una exclusividad que vosotros mismos no ofrecéis.** Si como pareja seguís siendo prioridad el uno para el otro, es injusto esperar que la nueva persona renuncie a otras conexiones.
 - **Incluidla en la creación de las reglas**, en lugar de presentarle reglas ya cerradas. Los acuerdos que afectan a una persona deben hacerse con ella, no solo sobre ella.
-- **No os reservéis un derecho de veto sobre su autonomía.** Puedes leer más sobre por qué el derecho de veto es problemático en el poliamor en nuestro artículo sobre [el derecho de veto en el poliamor](/blog/derecho-veto-poliamor).
+- **No os reservéis un derecho de veto sobre su autonomía.** Puedes leer más sobre por qué el derecho de veto es problemático en el poliamor en nuestro artículo sobre [el derecho de veto en el poliamor](/es/blog/derecho-veto-poliamor).
 - **Preguntaos con honestidad si buscáis a una persona o queréis llenar un hueco.** La diferencia entre "queremos conocer a alguien con quien pueda crecer algo propio" y "buscamos a alguien que encaje en nuestra vida ya existente" es sutil, pero decisiva.
 
 ## Si os reconocéis en el patrón

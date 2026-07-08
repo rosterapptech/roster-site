@@ -38,7 +38,7 @@ Hvis I som par åbner op og gerne vil date sammen, hjælper et par konkrete prin
 - **Behandl en ny person som et helt menneske med egen handlekraft**, ikke som et supplement til jeres eksisterende forhold. Hun har egne behov, sit eget tempo og retten til at sige nej.
 - **Kræv ikke eksklusivitet, som I ikke selv tilbyder.** Hvis I som par fortsat er hinandens prioritet, er det urimeligt at forvente, at den nye person opgiver andre forbindelser.
 - **Inddrag hende i at fastlægge reglerne** i stedet for at præsentere færdige regler for hende. Aftaler, der påvirker en person, bør laves sammen med hende – ikke bare om hende.
-- **Undgå at have vetoret over hendes autonomi.** Læs mere om, hvorfor vetoret er problematisk i polyamori, i vores artikel om [vetoret i polyamori](/blog/vetoret-polyamori).
+- **Undgå at have vetoret over hendes autonomi.** Læs mere om, hvorfor vetoret er problematisk i polyamori, i vores artikel om [vetoret i polyamori](/da/blog/vetoret-polyamori).
 - **Spørg jer selv ærligt, om I leder efter en person, eller om I vil udfylde et hul.** Forskellen mellem "vi vil gerne lære nogen at kende, som noget eget kan udvikle sig med" og "vi leder efter en, der passer ind i vores eksisterende liv" er subtil, men afgørende.
 
 ## Hvis I genkender mønstret hos jer selv

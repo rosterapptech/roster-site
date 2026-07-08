@@ -21,7 +21,7 @@ Varias encuestas y estudios de los últimos años, sobre todo de Estados Unidos,
 
 ## Por qué es difícil precisar las cifras exactas
 
-**Diferencias de definición.** Según si un estudio agrupa el poliamor, las relaciones abiertas y el intercambio de parejas o los mide por separado, los resultados varían de forma considerable. Más sobre estos términos en [No monogamia ética](/blog/no-monogamia-etica).
+**Diferencias de definición.** Según si un estudio agrupa el poliamor, las relaciones abiertas y el intercambio de parejas o los mide por separado, los resultados varían de forma considerable. Más sobre estos términos en [No monogamia ética](/es/blog/no-monogamia-etica).
 
 **Cifra oculta por reticencia.** No todas las personas que viven en poliamor están dispuestas a declararlo abiertamente en una encuesta, sobre todo en regiones o profesiones donde la no monogamia está estigmatizada o incluso conlleva desventajas reales.
 
@@ -33,7 +33,7 @@ La investigación sugiere que las relaciones de ENM aparecen prácticamente en t
 
 ## Qué significa esto para ti
 
-Estas cifras son útiles sobre todo en un sentido: muestran que las personas que viven en poliamor no son un grupo minúsculo y marginal, sino parte de un espectro creciente y cada vez más visible de estructuras de relación. Quien vive en poliamor, o se lo está planteando, está mucho menos solo de lo que a veces sugiere la percepción pública. Un buen punto de partida para quienes son nuevos en este campo es el artículo [Poliamor para principiantes](/blog/poliamoria-para-principiantes).
+Estas cifras son útiles sobre todo en un sentido: muestran que las personas que viven en poliamor no son un grupo minúsculo y marginal, sino parte de un espectro creciente y cada vez más visible de estructuras de relación. Quien vive en poliamor, o se lo está planteando, está mucho menos solo de lo que a veces sugiere la percepción pública. Un buen punto de partida para quienes son nuevos en este campo es el artículo [Poliamor para principiantes](/es/blog/poliamoria-para-principiantes).
 
 ## Más visibilidad, no necesariamente más casos
 
@@ -41,7 +41,7 @@ Es más probable que la creciente visibilidad social del poliamor —a través d
 
 ## Estructura para tu propio polycule, más allá de las estadísticas
 
-Sea cual sea la prevalencia estadística del poliamor, quien mantiene varias relaciones necesita herramientas prácticas para gestionarlas. **Roster** te ayuda a visualizar tu [polycule](/blog/que-es-un-polycule) y a mantener el control de citas y acuerdos, con independencia de cuánta otra gente viva de forma similar. Todos los datos permanecen locales en tu dispositivo.
+Sea cual sea la prevalencia estadística del poliamor, quien mantiene varias relaciones necesita herramientas prácticas para gestionarlas. **Roster** te ayuda a visualizar tu [polycule](/es/blog/que-es-un-polycule) y a mantener el control de citas y acuerdos, con independencia de cuánta otra gente viva de forma similar. Todos los datos permanecen locales en tu dispositivo.
 
 ## Preguntas frecuentes
 

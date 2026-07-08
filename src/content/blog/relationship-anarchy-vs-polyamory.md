@@ -19,7 +19,7 @@ Put differently: polyamory is a relationship structure; relationship anarchy is 
 
 ## Polyamory in detail
 
-Polyamory is about multiple parallel romantic relationships. Many polyamorous people work with structures: there might be a nesting partner they live with and further relationships alongside. Some polyamorous constellations are explicitly **hierarchical** – with primary and secondary partners where certain relationships take precedence. Others are **egalitarian** and treat all relationships as equally valued. The key point: polyamory says nothing about whether you reject or use hierarchies. For more on the core vocabulary, see our [polyamory glossary](/blog/polyamory-glossary).
+Polyamory is about multiple parallel romantic relationships. Many polyamorous people work with structures: there might be a nesting partner they live with and further relationships alongside. Some polyamorous constellations are explicitly **hierarchical** – with primary and secondary partners where certain relationships take precedence. Others are **egalitarian** and treat all relationships as equally valued. The key point: polyamory says nothing about whether you reject or use hierarchies. For more on the core vocabulary, see our [polyamory glossary](/en/blog/polyamory-glossary).
 
 ## Relationship anarchy in detail
 

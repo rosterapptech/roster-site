@@ -38,11 +38,11 @@ Denna definition gör det tydligt: det finns inget som heter "lite polyamorös u
 
 ## Från otrohet till en ärlig öppning
 
-Vissa par upptäcker först genom otrohet att en person känner sig dragen till icke-monogami. Det kan bli utgångspunkten för en ärlig öppning – men bara om förtroendebrottet först benämns för vad det var, istället för att i efterhand omtolkas som "egentligen redan polyamori". Den som verkligen vill röra sig mot polyamori eller [etisk icke-monogami](/blog/etisk-icke-monogami) hittar en bra start i artikeln [Polyamori för nybörjare](/blog/polyamori-for-nyborjare).
+Vissa par upptäcker först genom otrohet att en person känner sig dragen till icke-monogami. Det kan bli utgångspunkten för en ärlig öppning – men bara om förtroendebrottet först benämns för vad det var, istället för att i efterhand omtolkas som "egentligen redan polyamori". Den som verkligen vill röra sig mot polyamori eller [etisk icke-monogami](/sv/blog/etisk-icke-monogami) hittar en bra start i artikeln [Polyamori för nybörjare](/sv/blog/polyamori-for-nyborjare).
 
 ## Att strukturellt säkra ärligheten
 
-Det bästa skyddet mot missförstånd är öppenhet från början: tydliga [överenskommelser istället för ensidiga regler](/blog/regler-overenskommelser-polyamori), öppen kommunikation om nya kopplingar och en gemensam förståelse för vad som är tillåtet i den enskilda relationen. **Roster** hjälper dig att notera just dessa överenskommelser för varje koppling i ditt [polycule](/blog/vad-ar-ett-polycule) – transparent för alla inblandade och sparat lokalt på din enhet.
+Det bästa skyddet mot missförstånd är öppenhet från början: tydliga [överenskommelser istället för ensidiga regler](/sv/blog/regler-overenskommelser-polyamori), öppen kommunikation om nya kopplingar och en gemensam förståelse för vad som är tillåtet i den enskilda relationen. **Roster** hjälper dig att notera just dessa överenskommelser för varje koppling i ditt [polycule](/sv/blog/vad-ar-ett-polycule) – transparent för alla inblandade och sparat lokalt på din enhet.
 
 ## Vanliga frågor
 

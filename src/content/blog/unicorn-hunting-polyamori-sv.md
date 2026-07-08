@@ -38,7 +38,7 @@ Om ni som par öppnar upp och vill träffa nya partners tillsammans hjälper nå
 - **Behandla en ny person som en fullständig individ med egen handlingskraft**, inte som ett tillägg till er befintliga relation. Hon har egna behov, ett eget tempo och rätten att säga nej.
 - **Kräv inte exklusivitet som ni inte själva erbjuder.** Om ni som par fortsätter vara varandras prioritet är det orättvist att förvänta er att den nya personen avstår från andra kopplingar.
 - **Involvera henne i att ta fram reglerna** i stället för att presentera färdiga regler för henne. Överenskommelser som påverkar en person bör göras tillsammans med henne – inte bara om henne.
-- **Ge er inte vetorätt över hennes autonomi.** Läs mer om varför vetorätt är problematiskt inom polyamori i vår artikel om [vetorätt i polyamori](/blog/veto-polyamori).
+- **Ge er inte vetorätt över hennes autonomi.** Läs mer om varför vetorätt är problematiskt inom polyamori i vår artikel om [vetorätt i polyamori](/sv/blog/veto-polyamori).
 - **Fråga er ärligt om ni letar efter en person eller vill fylla en lucka.** Skillnaden mellan "vi vill lära känna någon som något eget kan växa fram med" och "vi letar efter någon som passar in i vårt befintliga liv" är subtil men avgörande.
 
 ## Om ni känner igen mönstret hos er själva

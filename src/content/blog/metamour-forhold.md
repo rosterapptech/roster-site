@@ -7,7 +7,7 @@ translationKey: 'metamour-relationships'
 tags: ['Metamour', 'Polyamori', 'Kommunikation', 'Relationsformer']
 ---
 
-**Kort sagt:** En metamour er din partners partner – en person, du ikke selv har et romantisk forhold til, men som er en del af dit udvidede [polycule](/blog/hvad-er-et-polycule). Hvor tæt dette forhold bliver, er helt åbent: fra tæt venskab til "vi kender knap hinanden" er begge dele normalt og gyldigt. Det afgørende er ikke nærhed i sig selv, men respekt, klar kommunikation og realistiske forventninger.
+**Kort sagt:** En metamour er din partners partner – en person, du ikke selv har et romantisk forhold til, men som er en del af dit udvidede [polycule](/da/blog/hvad-er-et-polycule). Hvor tæt dette forhold bliver, er helt åbent: fra tæt venskab til "vi kender knap hinanden" er begge dele normalt og gyldigt. Det afgørende er ikke nærhed i sig selv, men respekt, klar kommunikation og realistiske forventninger.
 
 De fleste, der er nye i polyamori, støder hurtigt på begrebet **metamour** – og spørgsmålet om, hvad man egentlig skal stille op med denne person. Skal man kunne lide hinanden? Skal man overhovedet mødes? Og hvad, hvis man simpelthen ikke kan udstå hinanden? Denne artikel giver overblik over de vigtigste metamour-dynamikker og viser, hvordan forholdet kan blive mere afslappet for alle involverede.
 
@@ -27,7 +27,7 @@ Ingen af disse modeller er "mere udviklet" end en anden. Introverte mennesker, e
 
 ## Typiske udfordringer med metamours
 
-**Sammenligning og konkurrencefølelse.** Det er menneskeligt ubevidst at sammenligne sig med sin metamour – hvem får mere tid, hvem bliver nævnt oftest, hvem "vinder" på en eller anden vag måde. At tage den følelse alvorligt uden at handle på den er et vigtigt skridt. Læs mere om at håndtere disse følelser i artiklen [Jalousi i polyamori](/blog/jalousi-polyamori).
+**Sammenligning og konkurrencefølelse.** Det er menneskeligt ubevidst at sammenligne sig med sin metamour – hvem får mere tid, hvem bliver nævnt oftest, hvem "vinder" på en eller anden vag måde. At tage den følelse alvorligt uden at handle på den er et vigtigt skridt. Læs mere om at håndtere disse følelser i artiklen [Jalousi i polyamori](/da/blog/jalousi-polyamori).
 
 **Den fælles partner som mellemmand.** Nogle kommunikerer kun med hinanden gennem den fælles partner i stedet for direkte. Det overbelaster personen i midten og forvrænger ofte, hvad der egentlig skal siges. Direkte kontakt – selvom det føles ubehageligt i starten – letter alle på sigt.
 

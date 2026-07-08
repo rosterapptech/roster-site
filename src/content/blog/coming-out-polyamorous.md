@@ -13,7 +13,7 @@ Coming out as polyamorous differs from other kinds of coming out in a lot of way
 
 ## Why a polyamory coming-out is different
 
-Unlike sexual orientation, a polyamory coming-out often affects not just your own life, but directly the lives of your partners too – and their respective wishes for openness or discretion have to be considered. More on the broader topic in [Privacy in Polyamory](/blog/polyamory-privacy).
+Unlike sexual orientation, a polyamory coming-out often affects not just your own life, but directly the lives of your partners too – and their respective wishes for openness or discretion have to be considered. More on the broader topic in [Privacy in Polyamory](/en/blog/polyamory-privacy).
 
 ## The three most common paths
 
@@ -26,7 +26,7 @@ Unlike sexual orientation, a polyamory coming-out often affects not just your ow
 ## Preparing for the conversation
 
 - **Keep expectations realistic.** Not every reaction will be immediately positive – some people need time to work through prejudices shaped by clichés about polyamory.
-- **Come prepared with resources.** It helps to be able to calmly explain what polyamory actually means and how it differs from clichés – referencing the [Polyamory Glossary](/blog/polyamory-glossary) can help with detail questions.
+- **Come prepared with resources.** It helps to be able to calmly explain what polyamory actually means and how it differs from clichés – referencing the [Polyamory Glossary](/en/blog/polyamory-glossary) can help with detail questions.
 - **You don't have to justify yourself.** A coming-out is a disclosure, not a defense. You don't need to justify your relationship structure, only explain it.
 - **Set boundaries for the conversation.** It's entirely legitimate to keep certain details (like partners' names) to yourself for now.
 
@@ -34,7 +34,7 @@ Unlike sexual orientation, a polyamory coming-out often affects not just your ow
 
 **Concern instead of rejection.** Many first reactions are more worried ("are you sure this is good for you?") than dismissive. That can often be resolved with patience and good answers.
 
-**Comparison to cheating.** A common first reaction is asking whether this is "basically cheating with permission." More on that in [Polyamory vs. Cheating](/blog/polyamory-vs-cheating), which explains the difference clearly.
+**Comparison to cheating.** A common first reaction is asking whether this is "basically cheating with permission." More on that in [Polyamory vs. Cheating](/en/blog/polyamory-vs-cheating), which explains the difference clearly.
 
 **Curiosity instead of judgment.** Some reactions are simply curious, without being judgmental – it's worth treating open questions as an opportunity rather than an attack.
 
@@ -48,7 +48,7 @@ Not every conversation goes smoothly. Some family members or friends need time; 
 
 ## Structure while you're opening up
 
-While you decide who to tell and how much, it helps to keep track of your own [polycule](/blog/what-is-a-polycule) – who knows what, which openness agreements apply where. **Roster** helps you keep all of that in one place, entirely local and with no account required.
+While you decide who to tell and how much, it helps to keep track of your own [polycule](/en/blog/what-is-a-polycule) – who knows what, which openness agreements apply where. **Roster** helps you keep all of that in one place, entirely local and with no account required.
 
 ## Frequently asked questions
 
@@ -56,7 +56,7 @@ While you decide who to tell and how much, it helps to keep track of your own [p
 No. Coming out is a personal decision, not a requirement. Many people live happily with selective or reserved openness.
 
 **How do I explain polyamory to someone who's never heard of it?**
-The simplest way is with the core principle: multiple consensual, honest romantic relationships at the same time. Referencing the [Polyamory Glossary](/blog/polyamory-glossary) helps with detail questions.
+The simplest way is with the core principle: multiple consensual, honest romantic relationships at the same time. Referencing the [Polyamory Glossary](/en/blog/polyamory-glossary) helps with detail questions.
 
 **What if my family reacts negatively?**
 Give the reaction room without having to justify yourself. Some people need time – others never change their minds, which says more about them than about you.

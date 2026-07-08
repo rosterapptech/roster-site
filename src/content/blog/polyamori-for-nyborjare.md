@@ -13,7 +13,7 @@ Kanske har du märkt att den klassiska relationsmodellen inte riktigt känns rä
 
 Polyamori innebär att ha flera kärleksrelationer samtidigt med alla involverades samtycke och vetskap. Nyckelordet är **frivilligt**: polyamori är motsatsen till otrohet. Det handlar om ärlighet, transparens och att forma relationer tillsammans – inte om hemligheter.
 
-Polyamori är en av många former av etisk icke-monogami (ENM). Det inkluderar också öppna relationer, [relationsanarki](/blog/relationsanarki-vs-polyamori-sv) och swinging. Vad de alla har gemensamt: samtycke och kommunikation.
+Polyamori är en av många former av etisk icke-monogami (ENM). Det inkluderar också öppna relationer, [relationsanarki](/sv/blog/relationsanarki-vs-polyamori-sv) och swinging. Vad de alla har gemensamt: samtycke och kommunikation.
 
 ## De mest envisa myterna
 
@@ -23,7 +23,7 @@ Polyamori är en av många former av etisk icke-monogami (ENM). Det inkluderar o
 
 **"Det handlar bara om sex."** Polyamori kretsar kring kärlek och relation, inte primärt kring sex. Vissa poly-relationer är inte ens sexuella.
 
-**"Om du är poly är du aldrig svartsjuk."** Polyamorös människor är också svartsjuka. Skillnaden ligger i det öppna sättet att hantera det – mer om det i vår artikel om [svartsjuka](/blog/svaartsjuka-polyamori).
+**"Om du är poly är du aldrig svartsjuk."** Polyamorös människor är också svartsjuka. Skillnaden ligger i det öppna sättet att hantera det – mer om det i vår artikel om [svartsjuka](/sv/blog/svaartsjuka-polyamori).
 
 ## De första stegen
 
@@ -33,7 +33,7 @@ Innan du pratar med andra om polyamori är det värt att titta inåt. Vad lockar
 
 ### 2. Lär dig vokabulären
 
-Metamour, compersion, polycule, NRE – begreppen hjälper dig att uttrycka dig och förstå andra. Vår [ordlista](/blog/polyamori-ordlista) ger dig en bra startpunkt.
+Metamour, compersion, polycule, NRE – begreppen hjälper dig att uttrycka dig och förstå andra. Vår [ordlista](/sv/blog/polyamori-ordlista) ger dig en bra startpunkt.
 
 ### 3. Kommunicera ärligt – från början
 
@@ -41,7 +41,7 @@ Oavsett om du vill öppna en befintlig relation eller starta poly från grunden:
 
 ### 4. Räkna med känslor – även obekväma
 
-[Svartsjuka](/blog/svaartsjuka-polyamori), osäkerhet och att känna sig överväldigad hör ofta med, särskilt i början. Det är inte ett tecken på misslyckande utan en del av inlärningsprocessen. Känslor är vägvisare, inte stoppsignaler.
+[Svartsjuka](/sv/blog/svaartsjuka-polyamori), osäkerhet och att känna sig överväldigad hör ofta med, särskilt i början. Det är inte ett tecken på misslyckande utan en del av inlärningsprocessen. Känslor är vägvisare, inte stoppsignaler.
 
 ### 5. Ta det lugnt
 

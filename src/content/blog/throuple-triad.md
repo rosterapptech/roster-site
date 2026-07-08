@@ -29,7 +29,7 @@ There are essentially two paths:
 
 **Uneven relationship intensity.** Rarely do all three connections develop at exactly the same pace or intensity – that's normal, but it should be discussed openly rather than implicitly demoting one person.
 
-**Scheduling for three.** When do all three meet together, and when in pairs? Clear agreements prevent anyone from feeling excluded. More on systems for this in [Scheduling Multiple Relationships](/blog/scheduling-multiple-relationships).
+**Scheduling for three.** When do all three meet together, and when in pairs? Clear agreements prevent anyone from feeling excluded. More on systems for this in [Scheduling Multiple Relationships](/en/blog/scheduling-multiple-relationships).
 
 **Conflict dynamics between three people.** Conflicts between two people in a throuple automatically involve the third – that can help (more perspectives) or hurt (coalition-forming), depending on how openly it's communicated.
 
@@ -43,11 +43,11 @@ There are essentially two paths:
 
 ## Not every throuple stays a threesome forever
 
-Like any relationship structure, a triad can change: some stay stable for years, others evolve into a more open structure with more relationships, others split into separate relationships. None of these outcomes automatically means "failure" – see also [Breakups in Polyamory](/blog/breakups-polyamory).
+Like any relationship structure, a triad can change: some stay stable for years, others evolve into a more open structure with more relationships, others split into separate relationships. None of these outcomes automatically means "failure" – see also [Breakups in Polyamory](/en/blog/breakups-polyamory).
 
 ## Structure for three-person relationships
 
-Especially with three equal connections, it's worth keeping track of dates, agreements, and the mood in each individual relationship. **Roster** visualizes your [polycule](/blog/what-is-a-polycule) and helps make sure none of the three connections falls out of view – all stored locally on your device.
+Especially with three equal connections, it's worth keeping track of dates, agreements, and the mood in each individual relationship. **Roster** visualizes your [polycule](/en/blog/what-is-a-polycule) and helps make sure none of the three connections falls out of view – all stored locally on your device.
 
 ## Frequently asked questions
 

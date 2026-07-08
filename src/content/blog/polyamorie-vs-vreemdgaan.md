@@ -38,11 +38,11 @@ Deze definitie maakt duidelijk: er bestaat geen "een beetje polyamoor zonder dat
 
 ## Van vreemdgaan naar een eerlijke opening
 
-Sommige stellen ontdekken pas door ontrouw dat iemand zich aangetrokken voelt tot non-monogamie. Dat kan het startpunt zijn voor een eerlijke opening – maar alleen als de vertrouwensbreuk eerst wordt benoemd voor wat die was, in plaats van die achteraf te herduiden als "eigenlijk al polyamorie". Wie echt naar polyamorie of [ethische non-monogamie](/blog/ethische-non-monogamie) wil overstappen, vindt een goed startpunt in het artikel [Polyamorie voor beginners](/blog/polyamorie-voor-beginners).
+Sommige stellen ontdekken pas door ontrouw dat iemand zich aangetrokken voelt tot non-monogamie. Dat kan het startpunt zijn voor een eerlijke opening – maar alleen als de vertrouwensbreuk eerst wordt benoemd voor wat die was, in plaats van die achteraf te herduiden als "eigenlijk al polyamorie". Wie echt naar polyamorie of [ethische non-monogamie](/nl/blog/ethische-non-monogamie) wil overstappen, vindt een goed startpunt in het artikel [Polyamorie voor beginners](/nl/blog/polyamorie-voor-beginners).
 
 ## Eerlijkheid structureel verankeren
 
-De beste bescherming tegen misverstanden is transparantie vanaf het begin: duidelijke [afspraken in plaats van eenzijdige regels](/blog/polyamorie-regels-afspraken), open communicatie over nieuwe connecties en een gedeeld begrip van wat wel en niet mag binnen elke relatie. **Roster** helpt je precies deze afspraken vast te leggen voor elke connectie in jouw [polycule](/blog/wat-is-een-polycule) – transparant voor iedereen die erbij betrokken is en lokaal opgeslagen op je apparaat.
+De beste bescherming tegen misverstanden is transparantie vanaf het begin: duidelijke [afspraken in plaats van eenzijdige regels](/nl/blog/polyamorie-regels-afspraken), open communicatie over nieuwe connecties en een gedeeld begrip van wat wel en niet mag binnen elke relatie. **Roster** helpt je precies deze afspraken vast te leggen voor elke connectie in jouw [polycule](/nl/blog/wat-is-een-polycule) – transparant voor iedereen die erbij betrokken is en lokaal opgeslagen op je apparaat.
 
 ## Veelgestelde vragen
 
