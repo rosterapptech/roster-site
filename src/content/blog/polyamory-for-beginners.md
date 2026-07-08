@@ -13,7 +13,7 @@ Maybe you have noticed that the classic relationship model does not feel quite r
 
 Polyamory means consensually having multiple romantic relationships at the same time, with everyone involved being aware. The key word is **consensual**: polyamory is the opposite of cheating. It is about honesty, transparency and shaping relationships together – not secrecy.
 
-Polyamory is one of many forms of ethical non-monogamy (ENM). These also include open relationships, [relationship anarchy](/blog/relationship-anarchy-vs-polyamory) and swinging. What they all share: consent and communication.
+Polyamory is one of many forms of ethical non-monogamy (ENM). These also include open relationships, [relationship anarchy](/en/blog/relationship-anarchy-vs-polyamory) and swinging. What they all share: consent and communication.
 
 ## The most persistent myths
 
@@ -23,7 +23,7 @@ Polyamory is one of many forms of ethical non-monogamy (ENM). These also include
 
 **"It is just about sex."** Polyamory is about love and relationship, not primarily about sex. Some poly relationships are not even sexual.
 
-**"If you are poly, you are never jealous."** Polyamorous people feel jealous too. The difference is in dealing with it openly – more on that in our article on [jealousy](/blog/jealousy-polyamory).
+**"If you are poly, you are never jealous."** Polyamorous people feel jealous too. The difference is in dealing with it openly – more on that in our article on [jealousy](/en/blog/jealousy-polyamory).
 
 ## The first steps
 
@@ -33,7 +33,7 @@ Before you talk to others about polyamory, it is worth looking inward. What draw
 
 ### 2. Learn the vocabulary
 
-Metamour, compersion, polycule, NRE – the terms help you express yourself and understand others. Our [glossary](/blog/polyamory-glossary) gives you a good starting point.
+Metamour, compersion, polycule, NRE – the terms help you express yourself and understand others. Our [glossary](/en/blog/polyamory-glossary) gives you a good starting point.
 
 ### 3. Communicate honestly – from the beginning
 
@@ -41,7 +41,7 @@ Whether you want to open an existing relationship or start poly from scratch: ho
 
 ### 4. Expect feelings – including uncomfortable ones
 
-[Jealousy](/blog/jealousy-polyamory), insecurity and feeling overwhelmed are often part of it, especially at the start. This is not a sign of failure but part of the learning process. Feelings are signposts, not stop signs.
+[Jealousy](/en/blog/jealousy-polyamory), insecurity and feeling overwhelmed are often part of it, especially at the start. This is not a sign of failure but part of the learning process. Feelings are signposts, not stop signs.
 
 ### 5. Take it slowly
 
@@ -55,7 +55,7 @@ Do not expect to get everything right immediately. Nobody does. Polyamory is a l
 
 ## A tool for the beginning
 
-Once theory becomes lived practice, more people, appointments and details come together than you can hold in your head. **Roster** was built for exactly this moment: an app that helps you [organise](/blog/polyamory-organising) your connections, reflect on your feelings in a private journal, and keep the overview – completely local on your device, without an account and without tracking. Especially at the start, when so much is new, having a calm, private place for it can be a real relief.
+Once theory becomes lived practice, more people, appointments and details come together than you can hold in your head. **Roster** was built for exactly this moment: an app that helps you [organise](/en/blog/polyamory-organising) your connections, reflect on your feelings in a private journal, and keep the overview – completely local on your device, without an account and without tracking. Especially at the start, when so much is new, having a calm, private place for it can be a real relief.
 
 ## You do not have to figure this out alone
 

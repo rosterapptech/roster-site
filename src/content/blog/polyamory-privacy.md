@@ -7,7 +7,7 @@ translationKey: 'polyamory-privacy'
 tags: ['Privacy', 'Polyamory', 'Data protection', 'Security']
 ---
 
-Relationship data is among the most sensitive there is: who is with whom, sexual health, boundaries, intimate details, the [polycule](/blog/what-is-a-polycule) as a whole. In polyamory this concerns not just you, but also your partners and their metamours. All the more surprising how rarely privacy is discussed in this context.
+Relationship data is among the most sensitive there is: who is with whom, sexual health, boundaries, intimate details, the [polycule](/en/blog/what-is-a-polycule) as a whole. In polyamory this concerns not just you, but also your partners and their metamours. All the more surprising how rarely privacy is discussed in this context.
 
 This article explains why privacy matters especially in non-monogamous relationships – and how to genuinely protect your data.
 

@@ -21,7 +21,7 @@ Verschillende enquêtes en studies van de afgelopen jaren, vooral uit de VS, sch
 
 ## Waarom exacte cijfers moeilijk vast te stellen zijn
 
-**Verschillen in definitie.** Afhankelijk van of een studie polyamorie, open relaties en swingen samen of apart meet, verschillen de resultaten aanzienlijk. Meer over de begrippen in het artikel [Ethische non-monogamie](/blog/ethische-non-monogamie).
+**Verschillen in definitie.** Afhankelijk van of een studie polyamorie, open relaties en swingen samen of apart meet, verschillen de resultaten aanzienlijk. Meer over de begrippen in het artikel [Ethische non-monogamie](/nl/blog/ethische-non-monogamie).
 
 **Dark number door terughoudendheid.** Niet iedereen die polyamoor leeft, is bereid dat openlijk aan te geven in een enquête – zeker in regio's of beroepsvelden waar non-monogamie wordt gestigmatiseerd of zelfs nadelen met zich meebrengt.
 
@@ -33,7 +33,7 @@ Onderzoek suggereert dat ENM-relaties voorkomen in vrijwel alle leeftijdsgroepen
 
 ## Wat dit voor jou betekent
 
-Deze cijfers zijn vooral op één punt nuttig: ze laten zien dat mensen die polyamoor leven geen piepklein randgroepje zijn, maar deel van een groeiend, steeds zichtbaarder spectrum aan relatievormen. Wie zelf polyamoor leeft of erover nadenkt, is daarmee veel minder alleen dan de publieke perceptie soms suggereert. Een goed startpunt voor wie nieuw is in dit veld vind je in het artikel [Polyamorie voor beginners](/blog/polyamorie-voor-beginners).
+Deze cijfers zijn vooral op één punt nuttig: ze laten zien dat mensen die polyamoor leven geen piepklein randgroepje zijn, maar deel van een groeiend, steeds zichtbaarder spectrum aan relatievormen. Wie zelf polyamoor leeft of erover nadenkt, is daarmee veel minder alleen dan de publieke perceptie soms suggereert. Een goed startpunt voor wie nieuw is in dit veld vind je in het artikel [Polyamorie voor beginners](/nl/blog/polyamorie-voor-beginners).
 
 ## Groeiende zichtbaarheid in plaats van groeiend aantal
 
@@ -41,7 +41,7 @@ Het is waarschijnlijker dat de toenemende maatschappelijke zichtbaarheid van pol
 
 ## Structuur voor jouw eigen polycule, los van statistieken
 
-Hoe wijdverbreid polyamorie statistisch ook is – wie zelf meerdere relaties onderhoudt, heeft praktische hulpmiddelen daarvoor nodig. **Roster** helpt je [polycule](/blog/wat-is-een-polycule) te visualiseren en het overzicht te behouden over afspraken en overeenkomsten, los van hoeveel andere mensen vergelijkbaar leven. Alle data blijft lokaal op je apparaat.
+Hoe wijdverbreid polyamorie statistisch ook is – wie zelf meerdere relaties onderhoudt, heeft praktische hulpmiddelen daarvoor nodig. **Roster** helpt je [polycule](/nl/blog/wat-is-een-polycule) te visualiseren en het overzicht te behouden over afspraken en overeenkomsten, los van hoeveel andere mensen vergelijkbaar leven. Alle data blijft lokaal op je apparaat.
 
 ## Veelgestelde vragen
 

@@ -29,7 +29,7 @@ Det finns i grunden två vägar:
 
 **Ojämn relationsintensitet.** Sällan utvecklas alla tre kopplingar exakt lika snabbt eller lika intensivt – det är normalt, men bör diskuteras öppet istället för att implicit nedgradera en person.
 
-**Schemaläggning för tre.** När träffas alla tre tillsammans, och när två och två? Tydliga överenskommelser förhindrar att någon känner sig utestängd. Läs mer om system för detta i artikeln [Schemaläggning med flera förhållanden](/blog/planering-flera-forhallanden).
+**Schemaläggning för tre.** När träffas alla tre tillsammans, och när två och två? Tydliga överenskommelser förhindrar att någon känner sig utestängd. Läs mer om system för detta i artikeln [Schemaläggning med flera förhållanden](/sv/blog/planering-flera-forhallanden).
 
 **Konfliktdynamik mellan tre.** Konflikter mellan två personer i ett throuple berör automatiskt även den tredje – det kan avlasta (fler perspektiv) eller belasta (koalitionsbildning), beroende på hur öppet det kommuniceras.
 
@@ -43,11 +43,11 @@ Det finns i grunden två vägar:
 
 ## Inte alla throuples förblir tre för alltid
 
-Precis som alla relationsformer kan en triad förändras: vissa förblir stabila i flera år, andra utvecklas till en öppnare struktur med fler relationer, ytterligare andra delas upp i separata relationer. Ingen av dessa utgångar betyder automatiskt ett "misslyckande" – se även artikeln [Uppbrott i polyamori](/blog/uppbrott-polyamori).
+Precis som alla relationsformer kan en triad förändras: vissa förblir stabila i flera år, andra utvecklas till en öppnare struktur med fler relationer, ytterligare andra delas upp i separata relationer. Ingen av dessa utgångar betyder automatiskt ett "misslyckande" – se även artikeln [Uppbrott i polyamori](/sv/blog/uppbrott-polyamori).
 
 ## Struktur för relationer mellan tre
 
-Just med tre jämlika kopplingar är det värt att hålla koll på avtal, tider och stämningen i varje enskild relation. **Roster** visualiserar ditt [polycule](/blog/vad-ar-ett-polycule) och hjälper till att se till att ingen av de tre kopplingarna tappas ur sikte – allt sparat lokalt på din enhet.
+Just med tre jämlika kopplingar är det värt att hålla koll på avtal, tider och stämningen i varje enskild relation. **Roster** visualiserar ditt [polycule](/sv/blog/vad-ar-ett-polycule) och hjälper till att se till att ingen av de tre kopplingarna tappas ur sikte – allt sparat lokalt på din enhet.
 
 ## Vanliga frågor
 

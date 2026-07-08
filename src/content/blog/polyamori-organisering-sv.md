@@ -7,9 +7,9 @@ translationKey: 'polyamory-organising'
 tags: ['Polyamori', 'Organisation', 'Relationshantering', 'Vardag']
 ---
 
-Polyamori diskuteras ofta utifrån känslorna – [svartsjuka](/blog/svaartsjuka-polyamori), [compersion](/blog/compersion-lara), kärlek i plural. Den helt praktiska sidan talar nästan ingen om: organisationen. Den som har flera relationer jonglerar med fler bokningar, fler viktiga datum, fler överenskommelser och fler människor vars behov räknas. Att hålla allt det i huvudet blir snabbt den verkliga utmaningen.
+Polyamori diskuteras ofta utifrån känslorna – [svartsjuka](/sv/blog/svaartsjuka-polyamori), [compersion](/sv/blog/compersion-lara), kärlek i plural. Den helt praktiska sidan talar nästan ingen om: organisationen. Den som har flera relationer jonglerar med fler bokningar, fler viktiga datum, fler överenskommelser och fler människor vars behov räknas. Att hålla allt det i huvudet blir snabbt den verkliga utmaningen.
 
-Den här artikeln visar dig hur du strukturerar ditt relationsliv utan att det känns som administration snarare än samhörighet. Är du mer intresserad av hur du aktivt styr flera relationer i vardagen finns en egen guide om det i [Hantera flera relationer samtidigt](/blog/hantera-flera-relationer).
+Den här artikeln visar dig hur du strukturerar ditt relationsliv utan att det känns som administration snarare än samhörighet. Är du mer intresserad av hur du aktivt styr flera relationer i vardagen finns en egen guide om det i [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer).
 
 ## Varför organisation i polyamori inte dödar romantiken
 
@@ -41,7 +41,7 @@ Det knepigaste: förbindelser förskjuts omärkligt. En ny relation med sin New 
 
 **Ditt huvud ensamt:** Fungerar med två relationer; bryter ner med fler.
 
-**En app byggd specifikt för detta ändamål:** Det är här **Roster** kommer in. Roster är en app som är utvecklad specifikt för att organisera polyamorös och icke-monogama relationer. Du kan registrera viktiga detaljer för varje förbindelse, visualisera ditt [polycule](/blog/vad-ar-ett-polycule) på en karta, använda Vibe Radar för att se hur varje relation mår, och reflektera i en dagbok. Det avgörande: all data stannar lokalt på din enhet – inget konto, ingen server, ingen spårning. Varför detta betyder så mycket för oss förklarar vi i vår artikel om [polyamori och integritet](/blog/polyamori-integritet).
+**En app byggd specifikt för detta ändamål:** Det är här **Roster** kommer in. Roster är en app som är utvecklad specifikt för att organisera polyamorös och icke-monogama relationer. Du kan registrera viktiga detaljer för varje förbindelse, visualisera ditt [polycule](/sv/blog/vad-ar-ett-polycule) på en karta, använda Vibe Radar för att se hur varje relation mår, och reflektera i en dagbok. Det avgörande: all data stannar lokalt på din enhet – inget konto, ingen server, ingen spårning. Varför detta betyder så mycket för oss förklarar vi i vår artikel om [polyamori och integritet](/sv/blog/polyamori-integritet).
 
 ## Organisation är omsorg
 

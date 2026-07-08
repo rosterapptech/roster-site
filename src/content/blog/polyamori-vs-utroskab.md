@@ -38,11 +38,11 @@ Denne definition gør det klart: Der findes ikke noget, der hedder "lidt polyamo
 
 ## Fra utroskab til ærlig åbning
 
-Nogle par opdager først gennem utroskab, at en person føler sig tiltrukket af ikke-monogami. Det kan blive udgangspunktet for en ærlig åbning – men kun hvis tillidsbruddet først bliver kaldt det, det var, i stedet for bagudrettet at blive omtolket til "egentlig allerede polyamori". Den, der virkelig ønsker at bevæge sig mod polyamori eller [etisk ikke-monogami](/blog/etisk-ikke-monogami), finder en god start i artiklen [Polyamori for begyndere](/blog/polyamori-for-begyndere).
+Nogle par opdager først gennem utroskab, at en person føler sig tiltrukket af ikke-monogami. Det kan blive udgangspunktet for en ærlig åbning – men kun hvis tillidsbruddet først bliver kaldt det, det var, i stedet for bagudrettet at blive omtolket til "egentlig allerede polyamori". Den, der virkelig ønsker at bevæge sig mod polyamori eller [etisk ikke-monogami](/da/blog/etisk-ikke-monogami), finder en god start i artiklen [Polyamori for begyndere](/da/blog/polyamori-for-begyndere).
 
 ## Sikring af ærlighed strukturelt
 
-Den bedste beskyttelse mod misforståelser er åbenhed fra begyndelsen: klare [aftaler i stedet for ensidige regler](/blog/regler-aftaler-polyamori), åben kommunikation om nye forbindelser og en fælles forståelse af, hvad der er tilladt i det enkelte forhold. **Roster** hjælper med at notere netop disse aftaler for hver forbindelse i dit [polycule](/blog/hvad-er-et-polycule) – gennemsigtigt for alle involverede og gemt lokalt på din enhed.
+Den bedste beskyttelse mod misforståelser er åbenhed fra begyndelsen: klare [aftaler i stedet for ensidige regler](/da/blog/regler-aftaler-polyamori), åben kommunikation om nye forbindelser og en fælles forståelse af, hvad der er tilladt i det enkelte forhold. **Roster** hjælper med at notere netop disse aftaler for hver forbindelse i dit [polycule](/da/blog/hvad-er-et-polycule) – gennemsigtigt for alle involverede og gemt lokalt på din enhed.
 
 ## Ofte stillede spørgsmål
 

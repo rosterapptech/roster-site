@@ -39,7 +39,7 @@ Een simpele maar effectieve afspraak: nieuwe plannen ruim van tevoren aankondige
 
 ## Hoeveel transparantie is nodig?
 
-Dat hangt sterk af van het gekozen relatiemodel. Wie leeft volgens [kitchen table polyamorie](/blog/kitchen-table-vs-parallel-polyamorie-nl) deelt vaak openlijk wanneer wie met wie tijd doorbrengt. Wie meer [parallel](/blog/kitchen-table-vs-parallel-polyamorie-nl) georganiseerd is, heeft meestal genoeg aan "ik ben die dag niet beschikbaar" – zonder details. Beide zijn legitiem, zolang het gekozen niveau van transparantie met iedereen is afgestemd.
+Dat hangt sterk af van het gekozen relatiemodel. Wie leeft volgens [kitchen table polyamorie](/nl/blog/kitchen-table-vs-parallel-polyamorie-nl) deelt vaak openlijk wanneer wie met wie tijd doorbrengt. Wie meer [parallel](/nl/blog/kitchen-table-vs-parallel-polyamorie-nl) georganiseerd is, heeft meestal genoeg aan "ik ben die dag niet beschikbaar" – zonder details. Beide zijn legitiem, zolang het gekozen niveau van transparantie met iedereen is afgestemd.
 
 ## Wanneer afspraken botsen
 
@@ -47,11 +47,11 @@ Botsingen gebeuren ondanks een goed systeem uiteindelijk toch – ziekte, sponta
 
 ## Planning en emotionele eerlijkheid
 
-Een puur tijdmanagementsysteem is niet genoeg als de onderliggende verdeling structureel oneerlijk aanvoelt. Wie merkt dat een relatie structureel altijd tekortkomt, moet dat bespreken voordat er wrok ontstaat. Meer over het grotere vraagstuk erachter in het artikel [Meerdere relaties managen](/blog/meerdere-relaties-managen).
+Een puur tijdmanagementsysteem is niet genoeg als de onderliggende verdeling structureel oneerlijk aanvoelt. Wie merkt dat een relatie structureel altijd tekortkomt, moet dat bespreken voordat er wrok ontstaat. Meer over het grotere vraagstuk erachter in het artikel [Meerdere relaties managen](/nl/blog/meerdere-relaties-managen).
 
 ## Roster als centraal systeem
 
-**Roster** is precies voor dit probleem gebouwd: een app die je [polycule](/blog/wat-is-een-polycule) visualiseert, belangrijke afspraken en details bij elke connectie vastlegt en met de vibe-radar laat zien welke relatie nu aandacht nodig heeft – voordat een planningsconflict een emotioneel conflict wordt. Alle data blijft daarbij lokaal op je apparaat, zonder account of cloud-verplichting.
+**Roster** is precies voor dit probleem gebouwd: een app die je [polycule](/nl/blog/wat-is-een-polycule) visualiseert, belangrijke afspraken en details bij elke connectie vastlegt en met de vibe-radar laat zien welke relatie nu aandacht nodig heeft – voordat een planningsconflict een emotioneel conflict wordt. Alle data blijft daarbij lokaal op je apparaat, zonder account of cloud-verplichting.
 
 ## Veelgestelde vragen
 

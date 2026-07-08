@@ -9,7 +9,7 @@ tags: ['Polyamory', 'Relationship management', 'Time management', 'Communication
 
 **In short:** Managing multiple relationships at once means allocating time deliberately instead of hoping it works itself out, agreeing on clear communication rhythms with each partner, and regularly and honestly checking whether your emotional capacity still matches the number of connections you're holding. There's no formula that works for everyone – but there are systems that make the difference between chaos and reliability.
 
-How many relationships are you currently in – two, three, more? The question almost everyone in polyamory eventually asks isn't "whether" but "how". How do you actually manage that without anyone feeling neglected or burning yourself out? This article is a practical guide to exactly that – if you're looking for tools to keep track of it all, see [Organising Polyamory](/blog/polyamory-organising).
+How many relationships are you currently in – two, three, more? The question almost everyone in polyamory eventually asks isn't "whether" but "how". How do you actually manage that without anyone feeling neglected or burning yourself out? This article is a practical guide to exactly that – if you're looking for tools to keep track of it all, see [Organising Polyamory](/en/blog/polyamory-organising).
 
 ## Managing doesn't mean controlling
 
@@ -47,7 +47,7 @@ The most underestimated factor: time can be divided up, emotional capacity can't
 
 ## Tools that help with managing
 
-Systems need somewhere to live – a shared calendar, a notebook, or a dedicated app. **Roster** was built exactly for this: you can log time rhythms and important details for each connection, visualise your [polycule](/blog/what-is-a-polycule), and use the Vibe Radar to see at a glance which relationship needs attention right now. All data stays local on your device. For how to turn this into a full system for day-to-day overview, see [Organising Polyamory](/blog/polyamory-organising).
+Systems need somewhere to live – a shared calendar, a notebook, or a dedicated app. **Roster** was built exactly for this: you can log time rhythms and important details for each connection, visualise your [polycule](/en/blog/what-is-a-polycule), and use the Vibe Radar to see at a glance which relationship needs attention right now. All data stays local on your device. For how to turn this into a full system for day-to-day overview, see [Organising Polyamory](/en/blog/polyamory-organising).
 
 ## Frequently asked questions
 
@@ -58,10 +58,10 @@ With fixed time slots instead of random planning, regular check-ins per relation
 There's no fixed number. What matters is your emotional capacity, not the count itself – some people manage two well, others five, depending on time, energy and life circumstances.
 
 **How do I deal with jealousy while managing multiple partners?**
-Jealousy isn't a sign of bad management – it's a normal feeling that needs communication. More on this in [Jealousy in Polyamory](/blog/jealousy-polyamory).
+Jealousy isn't a sign of bad management – it's a normal feeling that needs communication. More on this in [Jealousy in Polyamory](/en/blog/jealousy-polyamory).
 
 **What's the difference between managing relationships and keeping track of them?**
-Managing is about the daily systems – time, communication, emotional capacity. Keeping track is more about logging details and dates. Both complement each other; see [Organising Polyamory](/blog/polyamory-organising).
+Managing is about the daily systems – time, communication, emotional capacity. Keeping track is more about logging details and dates. Both complement each other; see [Organising Polyamory](/en/blog/polyamory-organising).
 
 **Which app helps with managing multiple relationships?**
 Roster is built specifically to organise polyamorous relationships, helping you keep track of time rhythms, details, and the balance between connections – fully local and without an account.

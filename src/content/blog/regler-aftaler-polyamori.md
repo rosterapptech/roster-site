@@ -21,7 +21,7 @@ Næppe noget emne skaber så meget diskussion i polyamori som spørgsmålet om, 
 
 **De begrænser autonomi.** Regler, der lader én person bestemme over en andens følelser eller adfærd (f.eks. et forbud mod at blive forelsket), er reelt umulige at håndhæve – følelser lader sig ikke styre ved regel.
 
-**De opstår ofte af frygt frem for omsorg.** Mange regler skal lindre jalousi eller usikkerhed i et eksisterende par, men flytter blot det egentlige problem over på den nye person i stedet for at tackle det direkte. Læs mere i artiklen [Jalousi i polyamori](/blog/jalousi-polyamori).
+**De opstår ofte af frygt frem for omsorg.** Mange regler skal lindre jalousi eller usikkerhed i et eksisterende par, men flytter blot det egentlige problem over på den nye person i stedet for at tackle det direkte. Læs mere i artiklen [Jalousi i polyamori](/da/blog/jalousi-polyamori).
 
 **De bakkes ikke op af alle.** Den, der ikke fik lov at være med til at udforme en regel, overholder den sjældnere reelt – ikke af ond vilje, men fordi manglende medbestemmelse sjældent fører til ægte accept.
 
@@ -35,9 +35,9 @@ Næppe noget emne skaber så meget diskussion i polyamori som spørgsmålet om, 
 ## Eksempler på fornuftige aftaler
 
 - **Sundhed:** Regelmæssige STI-test og åben kommunikation om nye seksuelle kontakter – beskytter alle uden at kontrollere nogen.
-- **Tid:** Hvor meget forvarsel kræves der til nye planer? Læs mere i artiklen [Terminplanlægning ved flere forhold](/blog/planlaegning-flere-forhold).
+- **Tid:** Hvor meget forvarsel kræves der til nye planer? Læs mere i artiklen [Terminplanlægning ved flere forhold](/da/blog/planlaegning-flere-forhold).
 - **Kommunikation:** Hvordan og hvornår præsenteres nye forbindelser for, eller i det mindste nævnes over for, eksisterende partnere?
-- **Nærhed mellem metamours:** Praktiseres der mest [kitchen table eller parallel](/blog/kitchen-table-vs-parallel-polyamori-da) – og hvor meget kontakt ønsker alle involverede egentlig?
+- **Nærhed mellem metamours:** Praktiseres der mest [kitchen table eller parallel](/da/blog/kitchen-table-vs-parallel-polyamori-da) – og hvor meget kontakt ønsker alle involverede egentlig?
 
 ## Når regler alligevel er ønskede
 
@@ -45,7 +45,7 @@ Nogle grænser er ikke urimelige regler, men legitime personlige grænser – f.
 
 ## Hold styr på jeres aftaler
 
-Aftaler, der ikke bliver noteret nogen steder, udviskes med tiden – alle husker dem lidt forskelligt. **Roster** giver plads til at notere vigtige aftaler for hver forbindelse i dit [polycule](/blog/hvad-er-et-polycule), så intet går tabt i hukommelsens tåge. Alle data forbliver lokale på din enhed.
+Aftaler, der ikke bliver noteret nogen steder, udviskes med tiden – alle husker dem lidt forskelligt. **Roster** giver plads til at notere vigtige aftaler for hver forbindelse i dit [polycule](/da/blog/hvad-er-et-polycule), så intet går tabt i hukommelsens tåge. Alle data forbliver lokale på din enhed.
 
 ## Ofte stillede spørgsmål
 

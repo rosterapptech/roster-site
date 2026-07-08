@@ -9,7 +9,7 @@ tags: ['Poliamor', 'Gestión de relaciones', 'Gestión del tiempo', 'Comunicaci�
 
 **En resumen:** gestionar varias relaciones a la vez significa repartir el tiempo de forma consciente en lugar de esperar que todo encaje solo, acordar con cada pareja ritmos claros de comunicación y revisar con regularidad y honestidad si tu capacidad emocional sigue estando a la altura del número de vínculos que mantienes. No existe una fórmula que funcione para todo el mundo, pero sí hay sistemas que marcan la diferencia entre el caos y la fiabilidad.
 
-¿Cuántas relaciones llevas ahora mismo: dos, tres, más? La pregunta que casi todo el mundo en el poliamor se hace tarde o temprano no es "si" sino "cómo". ¿Cómo se gestiona eso sin que nadie se sienta descuidado y sin quemarte tú mismo? Este artículo es una guía práctica para exactamente eso; si lo que buscas son herramientas para no perder el hilo, tienes el artículo [Organizar el poliamor](/blog/poliamoria-organizar).
+¿Cuántas relaciones llevas ahora mismo: dos, tres, más? La pregunta que casi todo el mundo en el poliamor se hace tarde o temprano no es "si" sino "cómo". ¿Cómo se gestiona eso sin que nadie se sienta descuidado y sin quemarte tú mismo? Este artículo es una guía práctica para exactamente eso; si lo que buscas son herramientas para no perder el hilo, tienes el artículo [Organizar el poliamor](/es/blog/poliamoria-organizar).
 
 ## Gestionar no es controlar
 
@@ -47,7 +47,7 @@ El factor más subestimado: el tiempo se puede repartir, la capacidad emocional 
 
 ## Herramientas que ayudan a gestionar
 
-Los sistemas necesitan un lugar donde vivir: un calendario compartido, una libreta o una app especializada. **Roster** se creó exactamente para esto: puedes anotar ritmos de tiempo y detalles importantes de cada relación, visualizar tu [polycule](/blog/que-es-un-polycule) y usar el Vibe Radar para ver de un vistazo qué relación necesita atención ahora mismo. Todos los datos permanecen locales en tu dispositivo. Para convertir esto en un sistema completo de control diario, consulta [Organizar el poliamor](/blog/poliamoria-organizar).
+Los sistemas necesitan un lugar donde vivir: un calendario compartido, una libreta o una app especializada. **Roster** se creó exactamente para esto: puedes anotar ritmos de tiempo y detalles importantes de cada relación, visualizar tu [polycule](/es/blog/que-es-un-polycule) y usar el Vibe Radar para ver de un vistazo qué relación necesita atención ahora mismo. Todos los datos permanecen locales en tu dispositivo. Para convertir esto en un sistema completo de control diario, consulta [Organizar el poliamor](/es/blog/poliamoria-organizar).
 
 ## Preguntas frecuentes
 
@@ -58,10 +58,10 @@ Con franjas horarias fijas en lugar de planificación al azar, check-ins regular
 No hay un número fijo. Lo determinante es tu capacidad emocional, no la cantidad en sí: algunas personas gestionan bien dos relaciones, otras cinco, según el tiempo, la energía y las circunstancias vitales.
 
 **¿Cómo manejo los celos mientras gestiono varias parejas?**
-Los celos no son una señal de mala gestión, sino un sentimiento normal que necesita comunicación. Más sobre esto en [Celos en el poliamor](/blog/celos-poliamoria).
+Los celos no son una señal de mala gestión, sino un sentimiento normal que necesita comunicación. Más sobre esto en [Celos en el poliamor](/es/blog/celos-poliamoria).
 
 **¿Cuál es la diferencia entre gestionar relaciones y llevar el control de ellas?**
-Gestionar tiene que ver con los sistemas diarios: tiempo, comunicación, capacidad emocional. Llevar el control tiene más que ver con registrar detalles y fechas. Ambas cosas se complementan, ver [Organizar el poliamor](/blog/poliamoria-organizar).
+Gestionar tiene que ver con los sistemas diarios: tiempo, comunicación, capacidad emocional. Llevar el control tiene más que ver con registrar detalles y fechas. Ambas cosas se complementan, ver [Organizar el poliamor](/es/blog/poliamoria-organizar).
 
 **¿Qué app ayuda a gestionar varias relaciones?**
 Roster está diseñada específicamente para organizar relaciones poliamorosas y te ayuda a llevar el control de los ritmos de tiempo, los detalles y el equilibrio entre relaciones, todo de forma local y sin necesidad de cuenta.

@@ -19,11 +19,11 @@ Long-distance polyamory bundles two challenges at once: the emotional work of ma
 
 **Uneven time distribution becomes more visible.** Whoever lives in the same city inevitably gets more spontaneous, everyday time than a long-distance partner – which can make the distant person feel structurally disadvantaged. Honest conversations about how both sides experience the distribution matter more than trying to mathematically equalize time.
 
-**Visits need deliberate planning.** Unlike relationships nearby, a long-distance visit can't be rescheduled spontaneously. More on systems for this in [Scheduling Multiple Relationships](/blog/scheduling-multiple-relationships).
+**Visits need deliberate planning.** Unlike relationships nearby, a long-distance visit can't be rescheduled spontaneously. More on systems for this in [Scheduling Multiple Relationships](/en/blog/scheduling-multiple-relationships).
 
 **Time zones complicate spontaneous communication.** With larger time differences, a fixed, recurring communication rhythm helps more than trying to be spontaneously available.
 
-**Jealousy can feel different.** Anyone who knows another partner gets more everyday closeness "in person" sometimes experiences jealousy as more spatial than emotional. More on handling that in [Jealousy in Polyamory](/blog/jealousy-polyamory).
+**Jealousy can feel different.** Anyone who knows another partner gets more everyday closeness "in person" sometimes experiences jealousy as more spatial than emotional. More on handling that in [Jealousy in Polyamory](/en/blog/jealousy-polyamory).
 
 ## How to actively build closeness across distance
 
@@ -38,7 +38,7 @@ Long-distance relationships rarely stay long-distance forever – a move, a new 
 
 ## Structure for connections across distance
 
-Anyone maintaining multiple relationships with different levels of geographic closeness especially benefits from a central overview of dates, visit plans, and the mood in each connection. **Roster** visualizes your [polycule](/blog/what-is-a-polycule) regardless of distance and uses the vibe radar to help you see which relationship – near or far – needs attention right now. All data stays local on your device.
+Anyone maintaining multiple relationships with different levels of geographic closeness especially benefits from a central overview of dates, visit plans, and the mood in each connection. **Roster** visualizes your [polycule](/en/blog/what-is-a-polycule) regardless of distance and uses the vibe radar to help you see which relationship – near or far – needs attention right now. All data stays local on your device.
 
 ## Frequently asked questions
 

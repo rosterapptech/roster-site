@@ -21,7 +21,7 @@ Los **acuerdos**, en cambio, se construyen conjuntamente, entre todas las person
 
 **Restringen la autonomía.** Las reglas que dejan que una persona decida los sentimientos o el comportamiento de otra (como prohibir enamorarse) son prácticamente imposibles de hacer cumplir: los sentimientos no se controlan por decreto.
 
-**Suelen nacer del miedo, no del cuidado.** Muchas reglas buscan aliviar los celos o la inseguridad dentro de una pareja existente, pero solo desplazan el problema real hacia la nueva persona, en lugar de abordarlo directamente. Más sobre esto en el artículo [Celos en el poliamor](/blog/celos-poliamoria).
+**Suelen nacer del miedo, no del cuidado.** Muchas reglas buscan aliviar los celos o la inseguridad dentro de una pareja existente, pero solo desplazan el problema real hacia la nueva persona, en lugar de abordarlo directamente. Más sobre esto en el artículo [Celos en el poliamor](/es/blog/celos-poliamoria).
 
 **No las respalda todo el mundo.** Quien no pudo ayudar a definir una regla suele cumplirla con menos consistencia, no por mala fe, sino porque la falta de voz rara vez genera un consentimiento real.
 
@@ -35,9 +35,9 @@ Los **acuerdos**, en cambio, se construyen conjuntamente, entre todas las person
 ## Ejemplos de acuerdos razonables
 
 - **Salud:** pruebas de ITS periódicas y comunicación abierta sobre nuevos contactos sexuales, algo que protege a todos sin controlar a nadie.
-- **Tiempo:** ¿cuánto margen de aviso hace falta para planes nuevos? Más en el artículo [Planificar el tiempo con varias relaciones](/blog/planificar-varias-relaciones).
+- **Tiempo:** ¿cuánto margen de aviso hace falta para planes nuevos? Más en el artículo [Planificar el tiempo con varias relaciones](/es/blog/planificar-varias-relaciones).
 - **Comunicación:** ¿cómo y cuándo se presentan, o al menos se mencionan, las conexiones nuevas a las parejas existentes?
-- **Cercanía entre metamours:** ¿se vive más en modo [kitchen table o paralelo](/blog/kitchen-table-vs-poliamoria-paralela), y cuánto contacto quiere realmente cada persona implicada?
+- **Cercanía entre metamours:** ¿se vive más en modo [kitchen table o paralelo](/es/blog/kitchen-table-vs-poliamoria-paralela), y cuánto contacto quiere realmente cada persona implicada?
 
 ## Cuando sí conviene tener reglas
 
@@ -45,7 +45,7 @@ Algunos límites no son reglas injustas, sino límites personales legítimos; po
 
 ## Mantén el control sobre tus acuerdos
 
-Los acuerdos que no se anotan en ningún sitio tienden a difuminarse con el tiempo: cada persona los recuerda un poco distinto. **Roster** te da un lugar para registrar los acuerdos clave de cada conexión en tu [polycule](/blog/que-es-un-polycule), para que nada se pierda entre la niebla de la memoria. Todos los datos permanecen locales en tu dispositivo.
+Los acuerdos que no se anotan en ningún sitio tienden a difuminarse con el tiempo: cada persona los recuerda un poco distinto. **Roster** te da un lugar para registrar los acuerdos clave de cada conexión en tu [polycule](/es/blog/que-es-un-polycule), para que nada se pierda entre la niebla de la memoria. Todos los datos permanecen locales en tu dispositivo.
 
 ## Preguntas frecuentes
 

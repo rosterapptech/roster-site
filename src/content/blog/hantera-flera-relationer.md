@@ -9,7 +9,7 @@ tags: ['Polyamori', 'Relationshantering', 'Tidshantering', 'Kommunikation']
 
 **Kort sagt:** Att hantera flera relationer samtidigt handlar om att fördela tiden medvetet i stället för att hoppas att det löser sig av sig självt, att komma överens om tydliga kommunikationsrytmer med varje partner, och att regelbundet och ärligt kolla om din emotionella kapacitet fortfarande matchar antalet relationer du bär. Det finns ingen formel som fungerar för alla – men det finns system som gör skillnaden mellan kaos och pålitlighet.
 
-Hur många relationer har du just nu – två, tre, fler? Frågan som nästan alla i polyamori förr eller senare ställer sig handlar inte om "om", utan om "hur". Hur hanterar man det egentligen utan att någon känner sig försummad eller att man själv går i väggen? Den här artikeln är en praktisk guide till just det – letar du mest efter verktyg för att hålla koll, se [Organisera polyamori](/blog/polyamori-organisering-sv).
+Hur många relationer har du just nu – två, tre, fler? Frågan som nästan alla i polyamori förr eller senare ställer sig handlar inte om "om", utan om "hur". Hur hanterar man det egentligen utan att någon känner sig försummad eller att man själv går i väggen? Den här artikeln är en praktisk guide till just det – letar du mest efter verktyg för att hålla koll, se [Organisera polyamori](/sv/blog/polyamori-organisering-sv).
 
 ## Att hantera är inte detsamma som att kontrollera
 
@@ -47,7 +47,7 @@ Den mest underskattade faktorn: tid kan fördelas, emotionell kapacitet kan inte
 
 ## Verktyg som hjälper till att hantera
 
-System behöver en plats att leva på – en delad kalender, en anteckningsbok eller en specialiserad app. **Roster** är byggd exakt för detta: du kan skriva ner tidsrytmer och viktiga detaljer för varje relation, visualisera din [polycule](/blog/vad-ar-ett-polycule) och med Vibe Radar se på en gång vilken relation som behöver uppmärksamhet just nu. All data stannar lokalt på din enhet. Hur du gör detta till ett komplett system för daglig överblick kan du läsa mer om i [Organisera polyamori](/blog/polyamori-organisering-sv).
+System behöver en plats att leva på – en delad kalender, en anteckningsbok eller en specialiserad app. **Roster** är byggd exakt för detta: du kan skriva ner tidsrytmer och viktiga detaljer för varje relation, visualisera din [polycule](/sv/blog/vad-ar-ett-polycule) och med Vibe Radar se på en gång vilken relation som behöver uppmärksamhet just nu. All data stannar lokalt på din enhet. Hur du gör detta till ett komplett system för daglig överblick kan du läsa mer om i [Organisera polyamori](/sv/blog/polyamori-organisering-sv).
 
 ## Vanliga frågor
 
@@ -58,10 +58,10 @@ Med fasta tidsblock i stället för slumpmässig planering, regelbundna check-in
 Det finns inget fast antal. Din emotionella kapacitet är avgörande, inte antalet i sig – vissa hanterar två bra, andra fem, beroende på tid, energi och livssituation.
 
 **Hur hanterar jag svartsjuka när jag har flera partner samtidigt?**
-Svartsjuka är inte ett tecken på dålig hantering utan en normal känsla som behöver kommunikation. Läs mer i [Svartsjuka i polyamori](/blog/svaartsjuka-polyamori).
+Svartsjuka är inte ett tecken på dålig hantering utan en normal känsla som behöver kommunikation. Läs mer i [Svartsjuka i polyamori](/sv/blog/svaartsjuka-polyamori).
 
 **Vad är skillnaden mellan att hantera relationer och att hålla koll på dem?**
-Att hantera handlar om de dagliga systemen – tid, kommunikation, emotionell kapacitet. Att hålla koll handlar mer om att anteckna detaljer och datum. Båda kompletterar varandra, se [Organisera polyamori](/blog/polyamori-organisering-sv).
+Att hantera handlar om de dagliga systemen – tid, kommunikation, emotionell kapacitet. Att hålla koll handlar mer om att anteckna detaljer och datum. Båda kompletterar varandra, se [Organisera polyamori](/sv/blog/polyamori-organisering-sv).
 
 **Vilken app hjälper till att hantera flera relationer?**
 Roster är särskilt utvecklad för att organisera polyamorösa relationer och hjälper dig hålla koll på tidsrytmer, detaljer och balansen mellan relationer – helt lokalt och utan konto.

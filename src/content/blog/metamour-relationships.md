@@ -7,7 +7,7 @@ translationKey: 'metamour-relationships'
 tags: ['Metamour', 'Polyamory', 'Communication', 'Relationship structures']
 ---
 
-**In short:** A metamour is your partner's partner – someone you don't have a romantic relationship with yourself, but who's part of your extended [polycule](/blog/what-is-a-polycule). How close this relationship gets is entirely open: anywhere from close friendship to "we barely know each other" is normal and valid. What matters isn't closeness itself, but respect, clear communication, and realistic expectations.
+**In short:** A metamour is your partner's partner – someone you don't have a romantic relationship with yourself, but who's part of your extended [polycule](/en/blog/what-is-a-polycule). How close this relationship gets is entirely open: anywhere from close friendship to "we barely know each other" is normal and valid. What matters isn't closeness itself, but respect, clear communication, and realistic expectations.
 
 Anyone new to polyamory tends to run into the term **metamour** pretty quickly – and the question of what to actually do with this person. Do you have to like them? Do you even have to meet? And what if you simply can't stand each other? This article breaks down the key metamour dynamics and shows how the relationship can feel easier for everyone involved.
 
@@ -27,7 +27,7 @@ None of these models is "more advanced" than another. Introverted people, or any
 
 ## Common challenges with metamours
 
-**Comparison and feelings of competition.** It's human to unconsciously compare yourself to your metamour – who gets more time, who gets mentioned more often, who "wins" in some vague sense. Taking that feeling seriously without acting on it is an important step. For more on handling these feelings, see [Jealousy in Polyamory](/blog/jealousy-polyamory).
+**Comparison and feelings of competition.** It's human to unconsciously compare yourself to your metamour – who gets more time, who gets mentioned more often, who "wins" in some vague sense. Taking that feeling seriously without acting on it is an important step. For more on handling these feelings, see [Jealousy in Polyamory](/en/blog/jealousy-polyamory).
 
 **Using the shared partner as a go-between.** Some people only communicate with each other through the shared partner instead of directly. That overloads the person in the middle and often distorts what actually needs to be said. Direct contact – even if it feels awkward at first – relieves everyone in the long run.
 

@@ -7,7 +7,7 @@ translationKey: 'breakups-polyamory'
 tags: ['Polyamori', 'Brud', 'Metamour', 'Kommunikation']
 ---
 
-**Kort sagt:** Et brud i polyamori berører sjældent kun to mennesker – det påvirker som regel hele [polyculet](/blog/hvad-er-et-polycule): [metamours](/blog/metamour-forhold), fælles venskaber og eksisterende forhold, der fortsætter parallelt. Sorg over en forbindelse, der ender, udelukker ikke lykke i andre forhold – begge dele må gerne være til stede samtidig. Åben kommunikation med alle berørte gør forskellen mellem en kaotisk og en respektfuld afslutning.
+**Kort sagt:** Et brud i polyamori berører sjældent kun to mennesker – det påvirker som regel hele [polyculet](/da/blog/hvad-er-et-polycule): [metamours](/da/blog/metamour-forhold), fælles venskaber og eksisterende forhold, der fortsætter parallelt. Sorg over en forbindelse, der ender, udelukker ikke lykke i andre forhold – begge dele må gerne være til stede samtidig. Åben kommunikation med alle berørte gør forskellen mellem en kaotisk og en respektfuld afslutning.
 
 Brud gør ondt, uanset relationsform. Men i polyamori kommer der et ekstra lag: et brud berører sjældent kun de to direkte involverede personer. Det har konsekvenser for metamours, fælles venskaber og nogle gange for hele netværket af forhold.
 
@@ -31,7 +31,7 @@ En følelse, der overrasker mange: man kan være ægte glad for et andet, fortsa
 
 ## Praktiske spørgsmål efter et brud
 
-**Hvad sker der med fælles aftaler?** Aftaler, der gjaldt for hele polyculet – f.eks. om [terminplanlægning](/blog/planlaegning-flere-forhold) eller sundhed – skal ofte genforhandles efter et brud, fordi udgangssituationen har ændret sig.
+**Hvad sker der med fælles aftaler?** Aftaler, der gjaldt for hele polyculet – f.eks. om [terminplanlægning](/da/blog/planlaegning-flere-forhold) eller sundhed – skal ofte genforhandles efter et brud, fordi udgangssituationen har ændret sig.
 
 **Hvordan kommunikerer man det udadtil?** Venner og familie, der kender til hele polyculet, har ofte brug for en kort, klar forklaring, i stedet for at rygter fylder hullet.
 

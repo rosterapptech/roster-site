@@ -32,7 +32,7 @@ El solo-poly suele atraer a personas que:
 - valoran mucho su autonomía y su propio espacio,
 - no quieren que una relación tenga automáticamente prioridad sobre otras o sobre su propia vida,
 - prefieren vivir solas y tomar sus propias decisiones sobre su vida cotidiana,
-- se sienten atraídas por la [anarquía relacional](/blog/anarquia-relacional-vs-poliamoria), ya que ambos conceptos cuestionan las jerarquías,
+- se sienten atraídas por la [anarquía relacional](/es/blog/anarquia-relacional-vs-poliamoria), ya que ambos conceptos cuestionan las jerarquías,
 - tras un divorcio o cuando los hijos se han ido, quieren vivir conscientemente de forma independiente.
 
 ## ¿Cómo es la vida cotidiana?
@@ -44,7 +44,7 @@ Esto hace especialmente importantes dos cosas:
 1. **Comunicación clara.** Como el solo-poly se desvía de los guiones relacionales habituales, es importante ser transparente desde el principio sobre cómo vives las relaciones – para que nadie asuma en silencio una escalada hacia la convivencia que tú no estás planeando.
 2. **Tu propio control.** Sin un calendario familiar compartido necesitas un sistema que se adapte a tu independencia – uno que sea tuyo y no esté vinculado a ninguna relación en particular.
 
-Exactamente aquí **Roster** encaja bien con el solo-poly: la app está centrada en ti, no en un hogar o una relación principal. Mantienes todas tus conexiones a la vista en un lugar privado – detalles importantes, radar de vibras de cada relación, reflexiones – sin que ninguna conexión sea estructuralmente colocada por encima de otra. Y como todo permanece localmente en tu dispositivo, tu independencia queda protegida también en materia de [privacidad](/blog/poliamoria-privacidad).
+Exactamente aquí **Roster** encaja bien con el solo-poly: la app está centrada en ti, no en un hogar o una relación principal. Mantienes todas tus conexiones a la vista en un lugar privado – detalles importantes, radar de vibras de cada relación, reflexiones – sin que ninguna conexión sea estructuralmente colocada por encima de otra. Y como todo permanece localmente en tu dispositivo, tu independencia queda protegida también en materia de [privacidad](/es/blog/poliamoria-privacidad).
 
 ## La independencia y la cercanía no se excluyen
 

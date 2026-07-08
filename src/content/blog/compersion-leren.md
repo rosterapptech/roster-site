@@ -45,7 +45,7 @@ Compersion en jaloezie wisselen elkaar vaak af. Wanneer je beide gevoelens notee
 
 ## Compersion en jaloezie zijn geen tegenstanders
 
-Het is verleidelijk om compersion te zien als het "einddoel" en [jaloezie](/blog/jaloezie-polyamorie) als falen. Het is nuttiger om beide te begrijpen als twee kanten van hetzelfde emotionele werk. Jaloezie laat je een behoefte zien; compersion laat je je verbondenheid zien. Eerlijk omgaan met jaloezie schept vaak pas de ruimte waarin compersion kan groeien.
+Het is verleidelijk om compersion te zien als het "einddoel" en [jaloezie](/nl/blog/jaloezie-polyamorie) als falen. Het is nuttiger om beide te begrijpen als twee kanten van hetzelfde emotionele werk. Jaloezie laat je een behoefte zien; compersion laat je je verbondenheid zien. Eerlijk omgaan met jaloezie schept vaak pas de ruimte waarin compersion kan groeien.
 
 ## Veelgestelde vragen
 

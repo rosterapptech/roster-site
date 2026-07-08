@@ -21,7 +21,7 @@ Few topics generate as much discussion in polyamory as the question of which arr
 
 **They restrict autonomy.** Rules that let one person dictate another's feelings or behavior (like banning falling in love) are essentially unenforceable – feelings can't be controlled by decree.
 
-**They often come from fear rather than care.** Many rules are meant to ease jealousy or insecurity within an existing couple, but they only shift the actual problem onto the new person instead of addressing it directly. For more on this, see [Jealousy in Polyamory](/blog/jealousy-polyamory).
+**They often come from fear rather than care.** Many rules are meant to ease jealousy or insecurity within an existing couple, but they only shift the actual problem onto the new person instead of addressing it directly. For more on this, see [Jealousy in Polyamory](/en/blog/jealousy-polyamory).
 
 **They aren't owned by everyone.** Someone who wasn't allowed to help shape a rule tends to follow it less consistently – not out of spite, but because lacking a say rarely produces real buy-in.
 
@@ -35,9 +35,9 @@ Few topics generate as much discussion in polyamory as the question of which arr
 ## Examples of reasonable agreements
 
 - **Health:** Regular STI testing and open communication about new sexual contacts – protects everyone without controlling anyone.
-- **Time:** How much lead time is needed for new plans? More on that in [Scheduling Multiple Relationships](/blog/scheduling-multiple-relationships).
+- **Time:** How much lead time is needed for new plans? More on that in [Scheduling Multiple Relationships](/en/blog/scheduling-multiple-relationships).
 - **Communication:** How and when are new connections introduced to, or at least mentioned to, existing partners?
-- **Closeness between metamours:** Is the polycule more [kitchen table or parallel](/blog/kitchen-table-vs-parallel-polyamory) – and how much contact does everyone actually want?
+- **Closeness between metamours:** Is the polycule more [kitchen table or parallel](/en/blog/kitchen-table-vs-parallel-polyamory) – and how much contact does everyone actually want?
 
 ## When rules are still wanted
 
@@ -45,7 +45,7 @@ Some boundaries aren't unfair rules but legitimate personal limits – for insta
 
 ## Keeping track of your agreements
 
-Agreements that aren't written down anywhere tend to blur over time – everyone remembers them slightly differently. **Roster** gives you a place to record key agreements for every connection in your [polycule](/blog/what-is-a-polycule), so nothing gets lost in the fog of memory. All data stays local on your device.
+Agreements that aren't written down anywhere tend to blur over time – everyone remembers them slightly differently. **Roster** gives you a place to record key agreements for every connection in your [polycule](/en/blog/what-is-a-polycule), so nothing gets lost in the fog of memory. All data stays local on your device.
 
 ## Frequently asked questions
 

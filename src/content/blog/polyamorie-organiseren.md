@@ -7,9 +7,9 @@ translationKey: 'polyamory-organising'
 tags: ['Polyamorie', 'Organisatie', 'Relatiebeheer', 'Dagelijks leven']
 ---
 
-Polyamorie wordt vaak besproken vanuit de gevoelens – [jaloezie](/blog/jaloezie-polyamorie), [compersion](/blog/compersion-leren), liefde in het meervoud. Over een heel praktisch onderdeel spreekt bijna niemand: de organisatie. Wie meerdere relaties voert, jongleert met meer afspraken, meer belangrijke data, meer overeenkomsten en meer mensen wiens behoeften tellen. Dat allemaal in je hoofd houden wordt al snel de echte uitdaging.
+Polyamorie wordt vaak besproken vanuit de gevoelens – [jaloezie](/nl/blog/jaloezie-polyamorie), [compersion](/nl/blog/compersion-leren), liefde in het meervoud. Over een heel praktisch onderdeel spreekt bijna niemand: de organisatie. Wie meerdere relaties voert, jongleert met meer afspraken, meer belangrijke data, meer overeenkomsten en meer mensen wiens behoeften tellen. Dat allemaal in je hoofd houden wordt al snel de echte uitdaging.
 
-Dit artikel laat je zien hoe je je relatieleven structureert zonder dat het aanvoelt als beheer in plaats van verbinding. Ben je vooral op zoek naar hoe je meerdere relaties dagelijks actief aanstuurt, kijk dan bij de aparte gids [Meerdere relaties tegelijk managen](/blog/meerdere-relaties-managen).
+Dit artikel laat je zien hoe je je relatieleven structureert zonder dat het aanvoelt als beheer in plaats van verbinding. Ben je vooral op zoek naar hoe je meerdere relaties dagelijks actief aanstuurt, kijk dan bij de aparte gids [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen).
 
 ## Waarom organisatie in polyamorie de romantiek niet doodt
 
@@ -41,7 +41,7 @@ Het lastigste punt: verbindingen verschuiven ongemerkt. Een nieuwe relatie met z
 
 **Je hoofd alleen:** Werkt bij twee relaties, breekt af bij meer.
 
-**Een app die speciaal voor dit doel is gebouwd:** Daar komt **Roster** van pas. Roster is een app die speciaal is ontwikkeld voor het organiseren van polyamoreuze en niet-monogame relaties. Je kunt voor elke verbinding belangrijke details vastleggen, je [polycule](/blog/wat-is-een-polycule) visualiseren op een kaart, met de Vibe Radar zien hoe elke relatie ervoor staat, en reflecteren in een dagboek. Het cruciale punt: alle gegevens blijven lokaal op je apparaat – geen account, geen server, geen tracking. Waarom dit ons zo belangrijk is, lees je in ons artikel over [polyamorie en privacy](/blog/polyamorie-privacy).
+**Een app die speciaal voor dit doel is gebouwd:** Daar komt **Roster** van pas. Roster is een app die speciaal is ontwikkeld voor het organiseren van polyamoreuze en niet-monogame relaties. Je kunt voor elke verbinding belangrijke details vastleggen, je [polycule](/nl/blog/wat-is-een-polycule) visualiseren op een kaart, met de Vibe Radar zien hoe elke relatie ervoor staat, en reflecteren in een dagboek. Het cruciale punt: alle gegevens blijven lokaal op je apparaat – geen account, geen server, geen tracking. Waarom dit ons zo belangrijk is, lees je in ons artikel over [polyamorie en privacy](/nl/blog/polyamorie-privacy).
 
 ## Organisatie is zorg
 

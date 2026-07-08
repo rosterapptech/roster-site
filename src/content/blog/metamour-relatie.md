@@ -7,7 +7,7 @@ translationKey: 'metamour-relationships'
 tags: ['Metamour', 'Polyamorie', 'Communicatie', 'Relatievormen']
 ---
 
-**Kort gezegd:** Een metamour is de partner van je partner – iemand met wie je zelf geen romantische relatie hebt, maar die wel deel uitmaakt van jouw uitgebreide [polycule](/blog/wat-is-een-polycule). Hoe hecht deze band wordt, is helemaal open: van goede vriendschap tot "we kennen elkaar nauwelijks" is allebei normaal en geldig. Wat telt is niet nabijheid op zich, maar respect, duidelijke communicatie en realistische verwachtingen.
+**Kort gezegd:** Een metamour is de partner van je partner – iemand met wie je zelf geen romantische relatie hebt, maar die wel deel uitmaakt van jouw uitgebreide [polycule](/nl/blog/wat-is-een-polycule). Hoe hecht deze band wordt, is helemaal open: van goede vriendschap tot "we kennen elkaar nauwelijks" is allebei normaal en geldig. Wat telt is niet nabijheid op zich, maar respect, duidelijke communicatie en realistische verwachtingen.
 
 Wie voor het eerst met polyamorie te maken krijgt, struikelt al snel over de term **metamour** – en over de vraag wat je met deze persoon aan moet. Moet je elkaar aardig vinden? Moet je elkaar zelfs ontmoeten? En wat als jullie elkaar simpelweg niet kunnen luchten? Dit artikel zet de belangrijkste metamour-dynamieken op een rij en laat zien hoe de band voor iedereen ontspannener wordt.
 
@@ -27,7 +27,7 @@ Geen van deze modellen is "verder ontwikkeld" dan een ander. Introverte mensen, 
 
 ## Typische uitdagingen met metamours
 
-**Vergelijking en concurrentiegevoel.** Het is menselijk om jezelf onbewust te vergelijken met je metamour – wie krijgt meer tijd, wie wordt vaker genoemd, wie "wint" er gevoelsmatig. Dit gevoel serieus nemen zonder ernaar te handelen is een belangrijke stap. Meer over de omgang met deze gevoelens in het artikel [Jaloezie in polyamorie](/blog/jaloezie-polyamorie).
+**Vergelijking en concurrentiegevoel.** Het is menselijk om jezelf onbewust te vergelijken met je metamour – wie krijgt meer tijd, wie wordt vaker genoemd, wie "wint" er gevoelsmatig. Dit gevoel serieus nemen zonder ernaar te handelen is een belangrijke stap. Meer over de omgang met deze gevoelens in het artikel [Jaloezie in polyamorie](/nl/blog/jaloezie-polyamorie).
 
 **De gedeelde partner als tussenpersoon.** Sommige mensen communiceren alleen via de gedeelde partner met elkaar, in plaats van rechtstreeks. Dat overbelast de persoon in het midden en vervormt vaak wat er eigenlijk gezegd moet worden. Direct contact – ook al voelt dat in het begin ongemakkelijk – ontlast op de lange termijn iedereen.
 

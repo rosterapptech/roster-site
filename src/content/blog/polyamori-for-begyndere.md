@@ -13,7 +13,7 @@ Måske har du opdaget, at det klassiske relationsmodel ikke føles helt rigtigt 
 
 Polyamori betyder at have flere kærlighedsrelationer på samme tid med alles samtykke, og at alle involverede er bevidste om det. Det afgørende ord er **frivilligt**: polyamori er det modsatte af at snyde. Det handler om ærlighed, gennemsigtighed og at forme relationer i fællesskab – ikke om hemmelighedskræmmeri.
 
-Polyamori er én af mange former for etisk ikke-monogami (ENM). Det inkluderer også åbne forhold, [relationsanarki](/blog/relationsanarki-vs-polyamori-da) og swinging. Hvad de alle har til fælles: samtykke og kommunikation.
+Polyamori er én af mange former for etisk ikke-monogami (ENM). Det inkluderer også åbne forhold, [relationsanarki](/da/blog/relationsanarki-vs-polyamori-da) og swinging. Hvad de alle har til fælles: samtykke og kommunikation.
 
 ## De mest hårdnakkede myter
 
@@ -23,7 +23,7 @@ Polyamori er én af mange former for etisk ikke-monogami (ENM). Det inkluderer o
 
 **"Det handler kun om sex."** Polyamori drejer sig om kærlighed og relation, ikke primært om sex. Nogle poly-relationer er ikke engang seksuelle.
 
-**"Hvis du er poly, er du aldrig jaloux."** Polyamorøse mennesker er også jaloux. Forskellen ligger i den åbne omgang med det – mere om det i vores artikel om [jalousi](/blog/jalousi-polyamori).
+**"Hvis du er poly, er du aldrig jaloux."** Polyamorøse mennesker er også jaloux. Forskellen ligger i den åbne omgang med det – mere om det i vores artikel om [jalousi](/da/blog/jalousi-polyamori).
 
 ## De første skridt
 
@@ -33,7 +33,7 @@ Inden du taler med andre om polyamori, er det værd at kigge indad. Hvad tiltræ
 
 ### 2. Lær vokabularet
 
-Metamour, compersion, polycule, NRE – begreberne hjælper dig med at udtrykke dig og forstå andre. Vores [ordbog](/blog/polyamori-ordbog) giver dig et godt udgangspunkt.
+Metamour, compersion, polycule, NRE – begreberne hjælper dig med at udtrykke dig og forstå andre. Vores [ordbog](/da/blog/polyamori-ordbog) giver dig et godt udgangspunkt.
 
 ### 3. Kommuniker ærligt – fra begyndelsen
 
@@ -41,7 +41,7 @@ Uanset om du vil åbne et eksisterende forhold eller starte poly fra bunden: ær
 
 ### 4. Regn med følelser – også ubehagelige
 
-[Jalousi](/blog/jalousi-polyamori), usikkerhed og overvældelse hører ofte med, særligt i starten. Det er ikke et tegn på fiasko, men en del af læringsprocessen. Følelser er vejvisere, ikke stopskilte.
+[Jalousi](/da/blog/jalousi-polyamori), usikkerhed og overvældelse hører ofte med, særligt i starten. Det er ikke et tegn på fiasko, men en del af læringsprocessen. Følelser er vejvisere, ikke stopskilte.
 
 ### 5. Tag det langsomt
 
@@ -55,7 +55,7 @@ Forvent ikke at gøre alt rigtigt med det samme. Ingen gør det. Polyamori er en
 
 ## Et redskab til begyndelsen
 
-Når teorien bliver levet praksis, kommer der hurtigt flere mennesker, aftaler og detaljer til, end man kan holde i hovedet. **Roster** er bygget til præcis dette øjeblik: en app, der hjælper dig med at [organisere](/blog/polyamori-organisering-da) dine forbindelser, reflektere over dine følelser i en privat dagbog og bevare overblikket – fuldstændig lokalt på din enhed, uden konto og uden sporing. Særligt i starten, hvor meget er nyt, kan det lette byrden at have et roligt, privat sted til det.
+Når teorien bliver levet praksis, kommer der hurtigt flere mennesker, aftaler og detaljer til, end man kan holde i hovedet. **Roster** er bygget til præcis dette øjeblik: en app, der hjælper dig med at [organisere](/da/blog/polyamori-organisering-da) dine forbindelser, reflektere over dine følelser i en privat dagbog og bevare overblikket – fuldstændig lokalt på din enhed, uden konto og uden sporing. Særligt i starten, hvor meget er nyt, kan det lette byrden at have et roligt, privat sted til det.
 
 ## Du behøver ikke finde ud af det alene
 

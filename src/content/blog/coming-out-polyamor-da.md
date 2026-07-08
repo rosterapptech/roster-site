@@ -13,7 +13,7 @@ At komme ud som polyamor adskiller sig på mange måder fra andre former for com
 
 ## Hvorfor et polyamori-coming-out er anderledes
 
-I modsætning til seksuel orientering berører et polyamori-coming-out ofte ikke kun ens eget liv, men direkte også ens partneres liv – og deres ønsker om åbenhed eller diskretion skal tænkes med. Læs mere om det bredere emne i artiklen [Privatliv i polyamori](/blog/polyamori-privatliv).
+I modsætning til seksuel orientering berører et polyamori-coming-out ofte ikke kun ens eget liv, men direkte også ens partneres liv – og deres ønsker om åbenhed eller diskretion skal tænkes med. Læs mere om det bredere emne i artiklen [Privatliv i polyamori](/da/blog/polyamori-privatliv).
 
 ## De tre mest almindelige veje
 
@@ -26,7 +26,7 @@ I modsætning til seksuel orientering berører et polyamori-coming-out ofte ikke
 ## Forberedelse til samtalen
 
 - **Hold forventningerne realistiske.** Ikke alle reaktioner vil være positive med det samme – nogle mennesker har brug for tid til at nedbryde fordomme, der er formet af klichéer om polyamori.
-- **Vær forberedt med informationskilder.** Det hjælper at kunne forklare roligt, hvad polyamori egentlig betyder, og hvordan det adskiller sig fra klichéer – f.eks. med henvisning til [Polyamori-ordbogen](/blog/polyamori-ordbog).
+- **Vær forberedt med informationskilder.** Det hjælper at kunne forklare roligt, hvad polyamori egentlig betyder, og hvordan det adskiller sig fra klichéer – f.eks. med henvisning til [Polyamori-ordbogen](/da/blog/polyamori-ordbog).
 - **Du behøver ikke retfærdiggøre dig selv.** Et coming out er en meddelelse, ikke et forsvar. Du behøver ikke retfærdiggøre din relationsform, kun forklare den.
 - **Sæt grænser for samtalen.** Det er helt legitimt at holde visse detaljer (f.eks. partneres navne) for dig selv indtil videre.
 
@@ -34,7 +34,7 @@ I modsætning til seksuel orientering berører et polyamori-coming-out ofte ikke
 
 **Bekymring frem for afvisning.** Mange første reaktioner er nærmere bekymrede ("er du sikker på, at det er godt for dig?") end afvisende. Det kan ofte løses med tålmodighed og gode svar.
 
-**Sammenligning med utroskab.** En almindelig første reaktion er spørgsmålet om, hvorvidt det ikke "egentlig er utroskab med tilladelse". Læs mere i artiklen [Polyamori vs. utroskab](/blog/polyamori-vs-utroskab), som forklarer forskellen klart.
+**Sammenligning med utroskab.** En almindelig første reaktion er spørgsmålet om, hvorvidt det ikke "egentlig er utroskab med tilladelse". Læs mere i artiklen [Polyamori vs. utroskab](/da/blog/polyamori-vs-utroskab), som forklarer forskellen klart.
 
 **Nysgerrighed frem for dom.** Nogle reaktioner er bare nysgerrige, uden at være dømmende – her er det værd at se åbne spørgsmål som en chance frem for et angreb.
 
@@ -48,7 +48,7 @@ Ikke alle samtaler forløber gnidningsfrit. Nogle familiemedlemmer eller venner 
 
 ## Struktur, mens du åbner dig
 
-Mens du beslutter, hvem du fortæller hvad, hjælper det at bevare overblikket over dit eget [polycule](/blog/hvad-er-et-polycule) – hvem ved hvad, hvilke aftaler om åbenhed gælder hvor. **Roster** hjælper dig med at samle alt dette ét sted, helt lokalt og uden konto.
+Mens du beslutter, hvem du fortæller hvad, hjælper det at bevare overblikket over dit eget [polycule](/da/blog/hvad-er-et-polycule) – hvem ved hvad, hvilke aftaler om åbenhed gælder hvor. **Roster** hjælper dig med at samle alt dette ét sted, helt lokalt og uden konto.
 
 ## Ofte stillede spørgsmål
 
@@ -56,7 +56,7 @@ Mens du beslutter, hvem du fortæller hvad, hjælper det at bevare overblikket o
 Nej. Et coming out er en personlig beslutning, ikke et krav. Mange mennesker lever tilfredse med selektiv eller tilbageholdende åbenhed.
 
 **Hvordan forklarer jeg polyamori til nogen, der aldrig har hørt om det?**
-Nemmest med kerneprincippet: flere gensidigt aftalte, ærlige kærlighedsforhold på samme tid. En henvisning til [Polyamori-ordbogen](/blog/polyamori-ordbog) hjælper med detaljespørgsmål.
+Nemmest med kerneprincippet: flere gensidigt aftalte, ærlige kærlighedsforhold på samme tid. En henvisning til [Polyamori-ordbogen](/da/blog/polyamori-ordbog) hjælper med detaljespørgsmål.
 
 **Hvad hvis min familie reagerer afvisende?**
 Giv reaktionen plads uden at skulle retfærdiggøre dig selv. Nogle mennesker har brug for tid – andre ændrer aldrig mening, hvilket siger mere om dem end om dig.

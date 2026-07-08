@@ -7,9 +7,9 @@ translationKey: 'polyamory-organising'
 tags: ['Poliamor', 'Organización', 'Gestión de relaciones', 'Vida cotidiana']
 ---
 
-El poliamor se discute a menudo desde las emociones – [celos](/blog/celos-poliamoria), [compersión](/blog/compersion-aprender), amor en plural. Casi nadie habla de un aspecto completamente práctico: la organización. Quien tiene varias relaciones hace malabares con más citas, más fechas importantes, más acuerdos y más personas cuyas necesidades cuentan. Mantener todo eso en la cabeza se convierte rápidamente en el verdadero reto.
+El poliamor se discute a menudo desde las emociones – [celos](/es/blog/celos-poliamoria), [compersión](/es/blog/compersion-aprender), amor en plural. Casi nadie habla de un aspecto completamente práctico: la organización. Quien tiene varias relaciones hace malabares con más citas, más fechas importantes, más acuerdos y más personas cuyas necesidades cuentan. Mantener todo eso en la cabeza se convierte rápidamente en el verdadero reto.
 
-Este artículo te muestra cómo estructurar tu vida relacional sin que parezca gestión en lugar de conexión. Si lo que te interesa es más bien cómo dirigir activamente varias relaciones en el día a día, hay una guía dedicada a eso en [Gestionar varias relaciones a la vez](/blog/gestionar-varias-relaciones).
+Este artículo te muestra cómo estructurar tu vida relacional sin que parezca gestión en lugar de conexión. Si lo que te interesa es más bien cómo dirigir activamente varias relaciones en el día a día, hay una guía dedicada a eso en [Gestionar varias relaciones a la vez](/es/blog/gestionar-varias-relaciones).
 
 ## Por qué la organización en el poliamor no mata el romance
 
@@ -41,7 +41,7 @@ El punto más delicado: las conexiones se desplazan sin que te des cuenta. Una n
 
 **Tu cabeza sola:** Funciona con dos relaciones; se rompe con más.
 
-**Una app construida específicamente para este propósito:** Ahí es donde entra **Roster**. Roster es una app desarrollada específicamente para organizar relaciones poliamorosas y no monógamas. Puedes registrar detalles importantes para cada conexión, visualizar tu [polycule](/blog/que-es-un-polycule) en un mapa, usar el Vibe Radar para ver cómo está cada relación, y reflexionar en un diario. Lo crucial: todos los datos permanecen localmente en tu dispositivo – sin cuenta, sin servidor, sin rastreo. Por qué esto nos importa tanto lo explicamos en nuestro artículo sobre [poliamor y privacidad](/blog/poliamoria-privacidad).
+**Una app construida específicamente para este propósito:** Ahí es donde entra **Roster**. Roster es una app desarrollada específicamente para organizar relaciones poliamorosas y no monógamas. Puedes registrar detalles importantes para cada conexión, visualizar tu [polycule](/es/blog/que-es-un-polycule) en un mapa, usar el Vibe Radar para ver cómo está cada relación, y reflexionar en un diario. Lo crucial: todos los datos permanecen localmente en tu dispositivo – sin cuenta, sin servidor, sin rastreo. Por qué esto nos importa tanto lo explicamos en nuestro artículo sobre [poliamor y privacidad](/es/blog/poliamoria-privacidad).
 
 ## Organizar es cuidar
 

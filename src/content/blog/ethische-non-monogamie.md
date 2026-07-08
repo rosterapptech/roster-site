@@ -31,7 +31,7 @@ Ontbreekt een van deze drie pijlers, dan is het geen ENM, maar simpelweg vreemdg
 
 **Relatie-anarchie:** Een houding die elke relatie individueel onderhandelt, zonder vaste categorieën of hiërarchieën vooraf aan te nemen.
 
-Meer over deze termen en andere subvormen in de [Polyamorie-woordenlijst](/blog/polyamorie-woordenlijst).
+Meer over deze termen en andere subvormen in de [Polyamorie-woordenlijst](/nl/blog/polyamorie-woordenlijst).
 
 ## Waarom de overkoepelende term nuttig is
 
@@ -43,11 +43,11 @@ ENM als koepelterm is vooral handig als je het wilt hebben over gedeelde uitgang
 
 **"ENM betekent dat je geen echte binding aangaat."** Veel ENM-vormen, met polyamorie voorop, omvatten diepe, langdurige emotionele banden met meerdere mensen tegelijk.
 
-**"ENM werkt alleen zonder jaloezie."** Jaloezie komt ook in ENM-relaties voor – het verschil zit in hoe open en constructief ermee wordt omgegaan. Meer hierover in het artikel [Jaloezie in polyamorie](/blog/jaloezie-polyamorie).
+**"ENM werkt alleen zonder jaloezie."** Jaloezie komt ook in ENM-relaties voor – het verschil zit in hoe open en constructief ermee wordt omgegaan. Meer hierover in het artikel [Jaloezie in polyamorie](/nl/blog/jaloezie-polyamorie).
 
 ## De juiste ENM-stijl voor jezelf vinden
 
-Er is geen "juiste" vorm van ENM – alleen de vorm die past bij je eigen behoeften, capaciteit en waarden. Wie nieuw is in dit veld vindt een goed startpunt in het artikel [Polyamorie voor beginners](/blog/polyamorie-voor-beginners), ook al is polyamorie maar één van meerdere ENM-vormen.
+Er is geen "juiste" vorm van ENM – alleen de vorm die past bij je eigen behoeften, capaciteit en waarden. Wie nieuw is in dit veld vindt een goed startpunt in het artikel [Polyamorie voor beginners](/nl/blog/polyamorie-voor-beginners), ook al is polyamorie maar één van meerdere ENM-vormen.
 
 ## Structuur voor ENM-relaties in de praktijk
 
