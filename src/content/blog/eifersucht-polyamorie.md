@@ -5,6 +5,15 @@ pubDate: 2026-06-26
 lang: 'de'
 translationKey: 'jealousy-polyamory'
 tags: ['Eifersucht', 'Polyamorie', 'Emotionen', 'Kommunikation']
+faq:
+  - q: 'Ist Eifersucht in der Polyamorie normal?'
+    a: 'Ja, absolut. Auch erfahrene poly Menschen empfinden Eifersucht. Entscheidend ist nicht, ob sie auftritt, sondern wie man mit ihr umgeht.'
+  - q: 'Verschwindet Eifersucht mit der Zeit?'
+    a: 'Sie wird bei den meisten deutlich schwächer, weil sich das Nervensystem an die Situation gewöhnt. Komplett verschwinden tut sie selten – das muss sie aber auch nicht.'
+  - q: 'Wie kann ich meinem Partner sagen, dass ich eifersüchtig bin, ohne Streit?'
+    a: 'Sprich über dein Bedürfnis statt über einen Vorwurf: „Ich brauche gerade mehr Nähe" funktioniert besser als „Du kümmerst dich nicht um mich".'
+  - q: 'Was ist das Gegenteil von Eifersucht?'
+    a: 'Compersion – die Freude darüber, dass dein Partner mit jemand anderem glücklich ist.'
 ---
 
 „Und was ist mit der Eifersucht?" – das ist mit Abstand die häufigste Frage, die poly lebende Menschen zu hören bekommen. Dahinter steckt ein Missverständnis: dass Polyamorie nur funktioniert, wenn man keine Eifersucht empfindet. Das stimmt nicht. Auch poly Menschen sind eifersüchtig. Der Unterschied liegt nicht im Fehlen des Gefühls, sondern im Umgang damit.
@@ -38,6 +47,8 @@ Eifersucht fühlt sich im Moment riesig und chaotisch an. Sie aufzuschreiben sor
 ## 6. Erlaube dir, das Gegenteil zu üben
 
 Compersion – die Freude über das Glück deines Partners mit einem anderen Menschen – kommt bei den wenigsten von allein. Sie lässt sich aber üben. Ein erster Schritt: Achte bewusst auf die Momente, in denen es dir leicht fällt, dich mitzufreuen, und mach dir klar, dass das Glück deines Partners dir nichts wegnimmt.
+
+Eifersucht ist übrigens selten das einzige, was bei mehreren Beziehungen unter Druck gerät – oft steckt dahinter auch schlicht zu wenig Struktur im Alltag. Wie du Zeit, Kommunikation und Kapazität über mehrere Verbindungen hinweg fair verteilst, liest du im Artikel [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen).
 
 ## 7. Gib dir Zeit – Gewöhnung ist real
 

@@ -5,6 +5,15 @@ pubDate: 2026-06-26
 lang: 'nl'
 translationKey: 'jealousy-polyamory'
 tags: ['Jaloezie', 'Polyamorie', 'Emoties', 'Communicatie']
+faq:
+  - q: 'Is jaloezie normaal in polyamorie?'
+    a: 'Ja, absoluut. Ook ervaren polyamore mensen voelen jaloezie. Wat telt is niet óf het verschijnt, maar hoe je ermee omgaat.'
+  - q: 'Verdwijnt jaloezie met de tijd?'
+    a: 'Voor de meesten wordt het aanzienlijk minder naarmate het zenuwstelsel went aan de situatie. Volledig verdwijnen doet het zelden – maar dat hoeft ook niet.'
+  - q: 'Hoe zeg ik mijn partner dat ik jaloers ben zonder ruzie?'
+    a: 'Praat over je behoefte in plaats van een verwijt: "Ik heb nu meer nabijheid nodig" werkt beter dan "Jij geeft niets om mij".'
+  - q: 'Wat is het tegenovergestelde van jaloezie?'
+    a: 'Compersion – de vreugde dat je partner gelukkig is met iemand anders.'
 ---
 
 "Maar hoe zit het dan met jaloezie?" – dat is verreweg de meest gestelde vraag aan mensen die polyamoor leven. Erachter zit een misverstand: dat polyamorie alleen werkt als je geen jaloezie voelt. Dat klopt niet. Ook polyamore mensen zijn jaloers. Het verschil zit niet in de afwezigheid van het gevoel, maar in hoe ermee wordt omgegaan.
@@ -38,6 +47,8 @@ Jaloezie voelt op het moment enorm en chaotisch. Het opschrijven sorteert het. N
 ## 6. Oefen het tegenovergestelde
 
 Compersion – de vreugde over het geluk van je partner met iemand anders – komt bij de meesten niet vanzelf. Maar het kan worden geoefend. Een eerste stap: let bewust op de momenten waarop het makkelijk is om mee te genieten, en bedenk dat het geluk van je partner jou niets afneemt.
+
+Jaloezie is trouwens zelden het enige dat onder druk komt te staan bij meerdere relaties – vaak zit er ook simpelweg te weinig structuur in de dagelijkse praktijk achter. Hoe je tijd, communicatie en capaciteit eerlijk verdeelt over meerdere verbindingen, lees je in het artikel [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen).
 
 ## 7. Geef jezelf tijd – gewenning is reëel
 

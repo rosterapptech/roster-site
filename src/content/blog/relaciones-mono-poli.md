@@ -11,6 +11,8 @@ tags: ['Poliamor', 'Mono-Poli', 'Modelos de relación', 'Comunicación']
 
 El poliamor no significa lo mismo para todo el mundo: a veces solo una persona en la relación quiere o necesita varias parejas, mientras que la otra elige de forma deliberada quedarse con un único vínculo. Este modelo se llama mono-poli y a menudo se pasa por alto en la comunidad porque no es ni monogamia clásica ni poliamor simétrico.
 
+Este artículo parte de que ambas partes ya han acordado juntas este modelo asimétrico. Si todavía estáis al principio de ese camino —si solo una persona se identifica ahora mismo como poli, mientras la otra no está segura o es claramente monógama—, la conversación que viene antes es otra: cómo plantear siquiera el tema de abrir la relación. Eso lo tratamos en el artículo [Abrir la relación: cómo empezar la conversación](/es/blog/abrir-relacion-convencer-pareja).
+
 ## ¿Qué es una relación mono-poli?
 
 En una configuración mono-poli, una persona (la parte "poli") tiene varias relaciones románticas o sexuales al mismo tiempo, mientras que la otra (la parte "mono") elige conscientemente la exclusividad dentro de esa única relación, sin buscar más parejas por su cuenta. Es un modelo propio y válido, no una fase transitoria en la que la persona mona "acabará siendo poli también".

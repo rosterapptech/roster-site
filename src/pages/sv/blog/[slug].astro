@@ -36,9 +36,24 @@ const articleSchema = {
   inLanguage: lang,
 };
 
+const faqSchema = post.data.faq?.length
+  ? {
+      '@type': 'FAQPage',
+      mainEntity: post.data.faq.map((f) => ({
+        '@type': 'Question',
+        name: f.q,
+        acceptedAnswer: { '@type': 'Answer', text: f.a },
+      })),
+    }
+  : null;
+
 const schema = {
   '@context': 'https://schema.org',
-  '@graph': [articleSchema, blogBreadcrumb(lang, post.data.title, post.id, Astro.site!)],
+  '@graph': [
+    articleSchema,
+    blogBreadcrumb(lang, post.data.title, post.id, Astro.site!),
+    ...(faqSchema ? [faqSchema] : []),
+  ],
 };
 ---
 

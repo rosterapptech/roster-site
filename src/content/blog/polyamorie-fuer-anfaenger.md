@@ -55,7 +55,7 @@ Erwarte nicht, dass du alles sofort richtig machst. Niemand tut das. Polyamorie 
 
 ## Ein Werkzeug für den Anfang
 
-Wenn aus der Theorie gelebte Praxis wird, kommen schnell mehr Menschen, Termine und Details zusammen, als man im Kopf behalten kann. **Roster** wurde genau für diesen Moment gebaut: eine App, die dir hilft, deine Verbindungen zu [organisieren](/blog/polyamorie-organisieren-ueberblick), deine Gefühle in einem privaten Journal zu reflektieren und den Überblick zu behalten – komplett lokal auf deinem Gerät, ohne Konto und ohne Tracking. Gerade am Anfang, wenn vieles neu ist, kann es entlasten, einen ruhigen, privaten Ort dafür zu haben.
+Wenn aus der Theorie gelebte Praxis wird, kommen schnell mehr Menschen, Termine und Details zusammen, als man im Kopf behalten kann. **Roster** wurde genau für diesen Moment gebaut: eine App, die dir hilft, deine Verbindungen zu [organisieren](/blog/mehrere-beziehungen-managen), deine Gefühle in einem privaten Journal zu reflektieren und den Überblick zu behalten – komplett lokal auf deinem Gerät, ohne Konto und ohne Tracking. Gerade am Anfang, wenn vieles neu ist, kann es entlasten, einen ruhigen, privaten Ort dafür zu haben.
 
 ## Du musst das nicht allein herausfinden
 

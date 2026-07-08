@@ -11,6 +11,8 @@ tags: ['Polyamorie', 'Mono-Poly', 'Relatievormen', 'Communicatie']
 
 Poly is niet voor iedereen hetzelfde – soms wil of heeft maar één persoon in de relatie meerdere partners nodig, terwijl de ander heel bewust bij één verbinding wil blijven. Dit model heet mono-poly en wordt in de community vaak over het hoofd gezien, omdat het noch klassiek monogaam, noch symmetrisch polyamoor is.
 
+Dit artikel gaat ervan uit dat beide kanten samen al voor dit asymmetrische model hebben gekozen. Sta je nog aan het begin van dat traject – identificeert nu pas één persoon zich als poly, terwijl de ander nog onzeker of duidelijk monogaam is –, dan gaat het eerst om het gesprek daarvoor: hoe je het onderwerp "relatie openen" überhaupt bespreekbaar maakt, lees je in het artikel [Relatie openen: hoe je het gesprek begint](/nl/blog/relatie-openen-partner-overtuigen).
+
 ## Wat is een mono-poly relatie?
 
 In een mono-poly constellatie heeft één persoon (de "poly" partner) meerdere romantische of seksuele relaties tegelijk, terwijl de ander (de "mono" partner) bewust kiest voor exclusiviteit binnen deze ene relatie – zonder zelf andere partners te zoeken. Dit is een volwaardig, eigenstandig model en geen overgangsfase waarin de mono partner "ooit ook poly wordt".

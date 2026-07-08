@@ -12,6 +12,7 @@ const blog = defineCollection({
     translationKey: z.string().optional(),
     author: z.string().default('Slowcraft'),
     tags: z.array(z.string()).default([]),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).optional(),
   }),
 });
 

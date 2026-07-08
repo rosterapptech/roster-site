@@ -49,7 +49,7 @@ Muchas personas se mueven entre estos conceptos con el tiempo – lo cual es com
 
 ## Cualquier modelo que elijas – mantener el control importa
 
-Ya sea que vivas el poliamor de forma clásica o estés descubriendo la anarquía relacional: en ambos casos gestionas múltiples conexiones significativas que necesitan atención y cuidado. **Roster** está construido deliberadamente sin jerarquía impuesta – tú decides qué tipo de conexión registras, completamente en tus propios términos. La app se adapta a tu definición de relación, no al revés. Cómo mantener el control lo explicamos en nuestro artículo sobre [organizar varias relaciones](/blog/poliamoria-organizar).
+Ya sea que vivas el poliamor de forma clásica o estés descubriendo la anarquía relacional: en ambos casos gestionas múltiples conexiones significativas que necesitan atención y cuidado. **Roster** está construido deliberadamente sin jerarquía impuesta – tú decides qué tipo de conexión registras, completamente en tus propios términos. La app se adapta a tu definición de relación, no al revés. Cómo mantener el control lo explicamos en nuestro artículo sobre [organizar varias relaciones](/es/blog/gestionar-varias-relaciones).
 
 ## Preguntas frecuentes
 

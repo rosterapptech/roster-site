@@ -11,6 +11,8 @@ tags: ['Polyamori', 'Mono-Poly', 'Forholdsmodeller', 'Kommunikation']
 
 Poly betyder ikke det samme for alle – nogle gange er det kun den ene person i forholdet, der ønsker eller har brug for flere partnere, mens den anden helt bevidst vil blive ved én forbindelse. Denne model hedder mono-poly og bliver ofte overset i community'et, fordi den hverken er klassisk monogam eller symmetrisk polyamorøs.
 
+Denne artikel forudsætter, at begge sider allerede sammen har landet på denne asymmetriske model. Står I stadig ved begyndelsen af den vej – identificerer kun den ene af jer sig lige nu som poly, mens den anden er usikker eller tydeligt monogam –, handler det først om samtalen forinden: Hvordan du overhovedet tager emnet "åbne forholdet" op, kan du læse i artiklen [Åbne forholdet: Sådan starter du samtalen](/da/blog/aabne-forhold-overbevise-partner).
+
 ## Hvad er et mono-poly-forhold?
 
 I en mono-poly-konstellation har den ene person (den "poly" partner) flere romantiske eller seksuelle forhold samtidig, mens den anden (den "mono" partner) bevidst vælger eksklusivitet inden for dette ene forhold – uden selv at søge flere partnere. Det er en selvstændig, gyldig model og ikke en overgangsfase, hvor den mono partner "på et tidspunkt også bliver poly".

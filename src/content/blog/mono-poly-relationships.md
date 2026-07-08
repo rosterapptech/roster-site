@@ -11,6 +11,8 @@ tags: ['Polyamory', 'Mono-Poly', 'Relationship Structures', 'Communication']
 
 Poly doesn't mean the same thing for everyone – sometimes only one person in the relationship wants or needs multiple partners, while the other is quite deliberate about staying with a single connection. This model is called mono-poly, and it's often overlooked in the community because it's neither classically monogamous nor symmetrically polyamorous.
 
+This article assumes both sides have already settled on this asymmetric model together. If you're still at the beginning of that road – where only one of you currently identifies as poly, while the other is unsure or clearly monogamous – the conversation that comes first is a different one: how to even raise the topic of opening up. That's covered in [Opening Up Your Relationship: Starting the Conversation](/en/blog/opening-up-relationship-partner-not-poly).
+
 ## What is a mono-poly relationship?
 
 In a mono-poly setup, one person (the "poly" partner) has several romantic or sexual relationships at the same time, while the other (the "mono" partner) deliberately chooses exclusivity within this one relationship – without seeking further partners themselves. This is its own valid model, not a transitional phase where the mono partner is expected to "eventually go poly too".

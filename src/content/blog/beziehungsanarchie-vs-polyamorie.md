@@ -49,7 +49,7 @@ Viele Menschen bewegen sich übrigens im Laufe der Zeit zwischen diesen Konzepte
 
 ## Egal welches Modell – der Überblick zählt
 
-Ob du nun klassisch poly lebst oder Beziehungsanarchie für dich entdeckst: In beiden Fällen führst du mehrere bedeutsame Verbindungen, die Aufmerksamkeit und Fürsorge brauchen. **Roster** ist bewusst offen gebaut – du legst selbst fest, welche Art von Verbindung du festhältst, ganz ohne vorgegebene Hierarchie. So passt die App zu deiner Definition von Beziehung, nicht umgekehrt. Wie du dabei den Überblick behältst, liest du in unserem Artikel über das [Organisieren mehrerer Beziehungen](/blog/polyamorie-organisieren-ueberblick).
+Ob du nun klassisch poly lebst oder Beziehungsanarchie für dich entdeckst: In beiden Fällen führst du mehrere bedeutsame Verbindungen, die Aufmerksamkeit und Fürsorge brauchen. **Roster** ist bewusst offen gebaut – du legst selbst fest, welche Art von Verbindung du festhältst, ganz ohne vorgegebene Hierarchie. So passt die App zu deiner Definition von Beziehung, nicht umgekehrt. Wie du dabei den Überblick behältst, liest du in unserem Artikel über das [Organisieren mehrerer Beziehungen](/blog/mehrere-beziehungen-managen).
 
 ## Häufige Fragen
 

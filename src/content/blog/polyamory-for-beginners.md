@@ -55,7 +55,7 @@ Do not expect to get everything right immediately. Nobody does. Polyamory is a l
 
 ## A tool for the beginning
 
-Once theory becomes lived practice, more people, appointments and details come together than you can hold in your head. **Roster** was built for exactly this moment: an app that helps you [organise](/blog/polyamory-organising) your connections, reflect on your feelings in a private journal, and keep the overview – completely local on your device, without an account and without tracking. Especially at the start, when so much is new, having a calm, private place for it can be a real relief.
+Once theory becomes lived practice, more people, appointments and details come together than you can hold in your head. **Roster** was built for exactly this moment: an app that helps you [organise](/en/blog/managing-multiple-relationships) your connections, reflect on your feelings in a private journal, and keep the overview – completely local on your device, without an account and without tracking. Especially at the start, when so much is new, having a calm, private place for it can be a real relief.
 
 ## You do not have to figure this out alone
 

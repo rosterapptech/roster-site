@@ -49,7 +49,7 @@ Many people move between these concepts over time – which is completely normal
 
 ## Whatever model you choose – staying organised matters
 
-Whether you live classically poly or are discovering relationship anarchy: in both cases you are managing multiple meaningful connections that need attention and care. **Roster** is deliberately built without imposed hierarchy – you decide what type of connection you record, entirely on your own terms. The app fits your definition of relationship, not the other way around. How to keep the overview is covered in our article on [organising multiple relationships](/blog/polyamory-organising).
+Whether you live classically poly or are discovering relationship anarchy: in both cases you are managing multiple meaningful connections that need attention and care. **Roster** is deliberately built without imposed hierarchy – you decide what type of connection you record, entirely on your own terms. The app fits your definition of relationship, not the other way around. How to keep the overview is covered in our article on [organising multiple relationships](/en/blog/managing-multiple-relationships).
 
 ## Common questions
 

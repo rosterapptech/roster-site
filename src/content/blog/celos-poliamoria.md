@@ -5,6 +5,15 @@ pubDate: 2026-06-26
 lang: 'es'
 translationKey: 'jealousy-polyamory'
 tags: ['Celos', 'Poliamor', 'Emociones', 'Comunicación']
+faq:
+  - q: '¿Son normales los celos en el poliamor?'
+    a: 'Sí, absolutamente. Incluso las personas poliamorosas con experiencia sienten celos. Lo que importa no es si aparecen, sino cómo se gestionan.'
+  - q: '¿Desaparecen los celos con el tiempo?'
+    a: 'Para la mayoría se vuelven significativamente más leves a medida que el sistema nervioso se adapta a la situación. Desaparecer por completo es raro, pero tampoco es necesario.'
+  - q: '¿Cómo le digo a mi pareja que estoy celoso/a sin que haya pelea?'
+    a: 'Habla de tu necesidad en lugar de un reproche: "Ahora mismo necesito más cercanía" funciona mejor que "No te importo".'
+  - q: '¿Cuál es lo contrario de los celos?'
+    a: 'La compersión: la alegría de que tu pareja sea feliz con otra persona.'
 ---
 
 "¿Y qué pasa con los celos?" Es, con diferencia, la pregunta que más escuchan las personas que viven de forma poliamorosa. Detrás hay un malentendido: que el poliamor solo funciona si no sientes celos. Eso no es verdad. Las personas poliamorosas también sienten celos. La diferencia no está en la ausencia del sentimiento, sino en cómo se gestiona.
@@ -38,6 +47,8 @@ Los celos se sienten enormes y caóticos en el momento. Escribirlos los ordena. 
 ## 6. Permítete practicar lo contrario
 
 La compersión —la alegría por la felicidad de tu pareja con otra persona— no surge sola en la mayoría de las personas. Pero se puede practicar. Un primer paso: fíjate conscientemente en los momentos en que te resulta fácil alegrarte con alguien, y recuérdate que la felicidad de tu pareja no te quita nada.
+
+Los celos rara vez son lo único que se tensa cuando hay varias relaciones a la vez: a menudo el verdadero culpable es, simplemente, la falta de estructura en el día a día. Cómo repartir tiempo, comunicación y capacidad de forma justa entre varias conexiones lo explicamos en el artículo [Gestionar varias relaciones a la vez](/es/blog/gestionar-varias-relaciones).
 
 ## 7. Date tiempo: la habituación es real
 

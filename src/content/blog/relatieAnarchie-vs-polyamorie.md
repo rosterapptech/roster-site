@@ -49,7 +49,7 @@ Veel mensen bewegen trouwens in de loop van de tijd tussen deze concepten – wa
 
 ## Welk model je ook kiest – overzicht houden telt
 
-Of je nu klassiek poly leeft of relatieAnarchie ontdekt: in beide gevallen onderhoud je meerdere betekenisvolle verbindingen die aandacht en zorg nodig hebben. **Roster** is bewust gebouwd zonder opgelegde hiërarchie – jij bepaalt zelf welk type verbinding je vastlegt, volledig op jouw eigen voorwaarden. De app past bij jouw definitie van relatie, niet andersom. Hoe je het overzicht bewaart, lees je in ons artikel over het [organiseren van meerdere relaties](/blog/polyamorie-organiseren).
+Of je nu klassiek poly leeft of relatieAnarchie ontdekt: in beide gevallen onderhoud je meerdere betekenisvolle verbindingen die aandacht en zorg nodig hebben. **Roster** is bewust gebouwd zonder opgelegde hiërarchie – jij bepaalt zelf welk type verbinding je vastlegt, volledig op jouw eigen voorwaarden. De app past bij jouw definitie van relatie, niet andersom. Hoe je het overzicht bewaart, lees je in ons artikel over het [organiseren van meerdere relaties](/nl/blog/meerdere-relaties-managen).
 
 ## Veelgestelde vragen
 

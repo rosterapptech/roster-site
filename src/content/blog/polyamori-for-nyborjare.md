@@ -55,7 +55,7 @@ Förvänta dig inte att göra allt rätt direkt. Ingen gör det. Polyamori är e
 
 ## Ett verktyg för starten
 
-När teorin övergår till levd praktik samlas snabbt fler människor, tider och detaljer än man kan hålla i huvudet. **Roster** är byggt för just det ögonblicket: en app som hjälper dig att [organisera](/blog/polyamori-organisering-sv) dina förbindelser, reflektera över dina känslor i en privat dagbok och behålla överblicken – helt lokalt på din enhet, utan konto och utan spårning. Särskilt i början, när så mycket är nytt, kan det vara en lättnad att ha ett lugnt, privat ställe för det.
+När teorin övergår till levd praktik samlas snabbt fler människor, tider och detaljer än man kan hålla i huvudet. **Roster** är byggt för just det ögonblicket: en app som hjälper dig att [organisera](/sv/blog/hantera-flera-relationer) dina förbindelser, reflektera över dina känslor i en privat dagbok och behålla överblicken – helt lokalt på din enhet, utan konto och utan spårning. Särskilt i början, när så mycket är nytt, kan det vara en lättnad att ha ett lugnt, privat ställe för det.
 
 ## Du behöver inte lista ut det ensam
 

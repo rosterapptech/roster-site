@@ -55,7 +55,7 @@ Verwacht niet dat je alles meteen goed doet. Niemand doet dat. Polyamorie is een
 
 ## Een hulpmiddel voor het begin
 
-Wanneer theorie geleefde praktijk wordt, komen er al snel meer mensen, afspraken en details bij dan je in je hoofd kunt houden. **Roster** is gebouwd voor precies dit moment: een app die je helpt je verbindingen te [organiseren](/blog/polyamorie-organiseren), je gevoelens te reflecteren in een privédagboek en het overzicht te bewaren – volledig lokaal op je apparaat, zonder account en zonder tracking. Zeker in het begin, als veel nieuw is, kan het opluchten om daarvoor een rustige, privéplek te hebben.
+Wanneer theorie geleefde praktijk wordt, komen er al snel meer mensen, afspraken en details bij dan je in je hoofd kunt houden. **Roster** is gebouwd voor precies dit moment: een app die je helpt je verbindingen te [organiseren](/nl/blog/meerdere-relaties-managen), je gevoelens te reflecteren in een privédagboek en het overzicht te bewaren – volledig lokaal op je apparaat, zonder account en zonder tracking. Zeker in het begin, als veel nieuw is, kan het opluchten om daarvoor een rustige, privéplek te hebben.
 
 ## Je hoeft dit niet alleen uit te zoeken
 

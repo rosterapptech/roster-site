@@ -11,6 +11,8 @@ tags: ['Polyamorie', 'Mono-Poly', 'Beziehungsmodelle', 'Kommunikation']
 
 Poly ist nicht gleich Poly – manchmal will oder braucht nur eine Person in der Beziehung mehrere Partner, während die andere ganz bewusst bei einer einzigen Verbindung bleiben möchte. Dieses Modell heißt Mono-Poly und wird in der Community oft übersehen, weil es weder klassisch monogam noch symmetrisch polyamor ist.
 
+Dieser Artikel setzt voraus, dass beide Seiten sich bereits auf dieses asymmetrische Modell verständigt haben. Steht ihr noch am Anfang dieses Wegs – identifiziert sich also gerade erst eine Person als poly, während die andere noch unsicher oder klar monogam ist –, geht es zunächst um das Gespräch davor: Wie du das Thema "Beziehung öffnen" überhaupt ansprichst, liest du im Artikel [Beziehung öffnen: Wie du das Gespräch beginnst](/blog/beziehung-oeffnen-partner-ueberzeugen).
+
 ## Was ist eine Mono-Poly-Beziehung?
 
 In einer Mono-Poly-Konstellation hat eine Person (die "poly" Person) mehrere romantische oder sexuelle Beziehungen gleichzeitig, während die andere Person (die "mono" Person) sich bewusst für Exklusivität innerhalb dieser einen Beziehung entscheidet – ohne selbst weitere Partner zu suchen. Das ist ein eigenständiges, gültiges Modell und keine Übergangsphase, bei der die mono Person "irgendwann auch poly wird".

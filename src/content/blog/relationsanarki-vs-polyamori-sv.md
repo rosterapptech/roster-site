@@ -49,7 +49,7 @@ Många människor rör sig för övrigt mellan dessa koncept med tiden – vilke
 
 ## Oavsett modell – att hålla koll spelar roll
 
-Oavsett om du lever klassiskt poly eller håller på att upptäcka relationsanarki: i båda fallen hanterar du flera meningsfulla förbindelser som behöver uppmärksamhet och omsorg. **Roster** är medvetet byggd utan påtvingad hierarki – du bestämmer själv vilken typ av förbindelse du registrerar, helt på dina egna villkor. Appen passar din definition av relation, inte tvärtom. Hur du håller koll förklarar vi i vår artikel om att [organisera flera relationer](/blog/polyamori-organisering-sv).
+Oavsett om du lever klassiskt poly eller håller på att upptäcka relationsanarki: i båda fallen hanterar du flera meningsfulla förbindelser som behöver uppmärksamhet och omsorg. **Roster** är medvetet byggd utan påtvingad hierarki – du bestämmer själv vilken typ av förbindelse du registrerar, helt på dina egna villkor. Appen passar din definition av relation, inte tvärtom. Hur du håller koll förklarar vi i vår artikel om att [organisera flera relationer](/sv/blog/hantera-flera-relationer).
 
 ## Vanliga frågor
 

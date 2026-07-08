@@ -5,6 +5,15 @@ pubDate: 2026-06-26
 lang: 'en'
 translationKey: 'jealousy-polyamory'
 tags: ['Jealousy', 'Polyamory', 'Emotions', 'Communication']
+faq:
+  - q: 'Is jealousy normal in polyamory?'
+    a: 'Yes, absolutely. Even experienced polyamorous people feel jealous. What matters is not whether it appears but how you handle it.'
+  - q: 'Does jealousy fade over time?'
+    a: 'For most people it becomes significantly weaker as the nervous system adjusts to the situation. It rarely disappears completely – but it does not have to.'
+  - q: 'How do I tell my partner I am jealous without starting a fight?'
+    a: 'Talk about your need rather than an accusation: "I need more closeness right now" works better than "You do not care about me".'
+  - q: 'What is the opposite of jealousy?'
+    a: "Compersion – the joy that your partner is happy with someone else."
 ---
 
 "But what about jealousy?" – that is by far the most common question polyamorous people get asked. Behind it lies a misunderstanding: that polyamory only works if you feel no jealousy. That is not true. Polyamorous people feel jealous too. The difference is not in the absence of the feeling, but in how it is handled.
@@ -38,6 +47,8 @@ Jealousy feels huge and chaotic in the moment. Writing it down sorts it out. Not
 ## 6. Allow yourself to practise the opposite
 
 Compersion – the joy over your partner's happiness with someone else – does not come naturally for most people. But it can be practised. A first step: consciously notice the moments when it feels easy to share in someone's joy, and remind yourself that your partner's happiness takes nothing away from you.
+
+Jealousy is rarely the only thing under pressure once you have several relationships – often the real culprit is simply too little structure in everyday life. For how to fairly distribute time, communication, and capacity across multiple connections, see [Managing Multiple Relationships](/en/blog/managing-multiple-relationships).
 
 ## 7. Give yourself time – habituation is real
 

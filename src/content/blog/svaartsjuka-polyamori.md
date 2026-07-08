@@ -5,6 +5,15 @@ pubDate: 2026-06-26
 lang: 'sv'
 translationKey: 'jealousy-polyamory'
 tags: ['Svartsjuka', 'Polyamori', 'Känslor', 'Kommunikation']
+faq:
+  - q: 'Är svartsjuka normalt i polyamori?'
+    a: 'Ja, absolut. Även erfarna polyamorös människor känner svartsjuka. Det avgörande är inte om den uppstår, utan hur man hanterar den.'
+  - q: 'Försvinner svartsjukan med tiden?'
+    a: 'För de flesta blir den betydligt svagare allt eftersom nervsystemet anpassar sig till situationen. Att försvinna helt sker sällan – men det behöver den inte heller.'
+  - q: 'Hur berättar jag för min partner att jag är svartsjuk utan bråk?'
+    a: 'Tala om ditt behov snarare än en anklagelse: "Jag behöver mer närhet just nu" fungerar bättre än "Du bryr dig inte om mig".'
+  - q: 'Vad är motsatsen till svartsjuka?'
+    a: 'Compersion – glädjen av att din partner är lycklig med någon annan.'
 ---
 
 "Men vad händer med svartsjukan?" – det är överlägset den vanligaste frågan som polyamorös levande människor får höra. Bakom den ligger ett missförstånd: att polyamori bara fungerar om man inte känner svartsjuka. Det stämmer inte. Polyamorös människor är också svartsjuka. Skillnaden ligger inte i frånvaron av känslan, utan i hur den hanteras.
@@ -38,6 +47,8 @@ Svartsjukan känns enorm och kaotisk i stunden. Att skriva ned den sorterar den.
 ## 6. Tillåt dig att öva på motsatsen
 
 Compersion – glädjen över din partners lycka med någon annan – kommer inte naturligt för de flesta. Men det kan övas. Ett första steg: lägg medvetet märke till de ögonblick då det är lätt att glädjas med någon, och påminn dig om att din partners lycka inte tar något ifrån dig.
+
+Svartsjuka är för övrigt sällan det enda som pressas när man har flera relationer – ofta ligger det egentliga problemet i för lite struktur i vardagen. Hur du fördelar tid, kommunikation och kapacitet rättvist mellan flera förbindelser kan du läsa om i artikeln [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer).
 
 ## 7. Ge dig själv tid – vänjning är verklig
 

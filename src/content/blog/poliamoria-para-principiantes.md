@@ -55,7 +55,7 @@ No esperes hacerlo todo bien de inmediato. Nadie lo hace. El poliamor es un cami
 
 ## Una herramienta para el comienzo
 
-Cuando la teoría se convierte en práctica vivida, rápidamente se acumulan más personas, citas y detalles de los que se pueden mantener en la cabeza. **Roster** fue construido exactamente para ese momento: una app que te ayuda a [organizar](/blog/poliamoria-organizar) tus conexiones, reflexionar sobre tus sentimientos en un diario privado y mantener el control – completamente local en tu dispositivo, sin cuenta y sin rastreo. Especialmente al principio, cuando tanto es nuevo, puede ser un alivio tener un lugar tranquilo y privado para ello.
+Cuando la teoría se convierte en práctica vivida, rápidamente se acumulan más personas, citas y detalles de los que se pueden mantener en la cabeza. **Roster** fue construido exactamente para ese momento: una app que te ayuda a [organizar](/es/blog/gestionar-varias-relaciones) tus conexiones, reflexionar sobre tus sentimientos en un diario privado y mantener el control – completamente local en tu dispositivo, sin cuenta y sin rastreo. Especialmente al principio, cuando tanto es nuevo, puede ser un alivio tener un lugar tranquilo y privado para ello.
 
 ## No tienes que descubrirlo solo/a
 

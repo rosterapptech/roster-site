@@ -5,6 +5,15 @@ pubDate: 2026-06-26
 lang: 'da'
 translationKey: 'jealousy-polyamory'
 tags: ['Jalousi', 'Polyamori', 'Følelser', 'Kommunikation']
+faq:
+  - q: 'Er jalousi normalt i polyamori?'
+    a: 'Ja, absolut. Selv erfarne polyamorøse mennesker mærker jalousi. Det afgørende er ikke, om den opstår, men hvordan man håndterer den.'
+  - q: 'Forsvinder jalousien med tiden?'
+    a: 'For de fleste bliver den betydeligt svagere, efterhånden som nervesystemet tilpasser sig situationen. At forsvinde fuldstændigt sker sjældent – men det behøver den heller ikke.'
+  - q: 'Hvordan fortæller jeg min partner, at jeg er jaloux, uden at det ender i skænderi?'
+    a: 'Tal om dit behov frem for en bebrejdelse: "Jeg har brug for mere nærhed lige nu" virker bedre end "Du er ligeglad med mig".'
+  - q: 'Hvad er modsætningen til jalousi?'
+    a: 'Compersion – glæden over, at din partner er lykkelig med en anden.'
 ---
 
 "Men hvad med jalousien?" – det er langt det hyppigste spørgsmål, som polyamorøst levende mennesker får stillet. Bag det ligger en misforståelse: at polyamori kun fungerer, hvis man ikke føler jalousi. Det passer ikke. Polyamorøse mennesker er også jaloux. Forskellen er ikke fraværet af følelsen, men måden, den håndteres på.
@@ -38,6 +47,8 @@ Jalousien føles enorm og kaotisk i øjeblikket. At skrive den ned sorterer den.
 ## 6. Tillad dig selv at øve det modsatte
 
 Compersion – glæden over din partners lykke med en anden – kommer ikke af sig selv for de fleste. Men det kan øves. Et første skridt: læg bevidst mærke til de øjeblikke, hvor det er let at glæde sig med nogen, og mind dig selv om, at din partners lykke ikke tager noget fra dig.
+
+Jalousi er i øvrigt sjældent det eneste, der kommer under pres, når man har flere forhold – ofte er den egentlige årsag simpelthen for lidt struktur i hverdagen. Hvordan du fordeler tid, kommunikation og kapacitet fair mellem flere forbindelser, kan du læse i artiklen [Styr flere forhold på én gang](/da/blog/styre-flere-forhold).
 
 ## 7. Giv dig selv tid – tilvænning er reel
 

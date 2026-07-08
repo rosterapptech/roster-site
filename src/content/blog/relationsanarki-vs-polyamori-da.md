@@ -49,7 +49,7 @@ Mange mennesker bevæger sig i øvrigt mellem disse koncepter over tid – det e
 
 ## Uanset model – overblikket tæller
 
-Uanset om du lever klassisk poly eller opdager relationsanarki: i begge tilfælde har du flere betydningsfulde forbindelser, der kræver opmærksomhed og omsorg. **Roster** er bevidst bygget uden påtvunget hierarki – du bestemmer selv, hvilken type forbindelse du registrerer, helt på dine egne præmisser. Appen passer til din definition af relation, ikke omvendt. Hvordan du bevarer overblikket, kan du læse i vores artikel om [organisering af flere relationer](/blog/polyamori-organisering-da).
+Uanset om du lever klassisk poly eller opdager relationsanarki: i begge tilfælde har du flere betydningsfulde forbindelser, der kræver opmærksomhed og omsorg. **Roster** er bevidst bygget uden påtvunget hierarki – du bestemmer selv, hvilken type forbindelse du registrerer, helt på dine egne præmisser. Appen passer til din definition af relation, ikke omvendt. Hvordan du bevarer overblikket, kan du læse i vores artikel om [organisering af flere relationer](/da/blog/styre-flere-forhold).
 
 ## Ofte stillede spørgsmål
 

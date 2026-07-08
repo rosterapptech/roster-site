@@ -25,6 +25,8 @@ The trick is bringing it up early and casually, not as a big, stiff announcement
 
 A positive test result is uncomfortable, but it is not a relationship emergency. The most important step is prompt, direct communication to everyone who could be affected – including your partners' partners, when relevant. Keep it factual: what the result means, what the next steps are, and what it means for shared activities in the meantime. Avoid assigning blame – most infections cannot be traced with certainty, and pointing fingers helps no one. A network where people feel safe being honest about positive results is healthier than one where fear of reactions keeps people quiet. For the medical details, talk to a doctor or a sexual health clinic – this is about the communication, not the treatment.
 
+For how to actually keep track of test dates and agreements across multiple connections – including the ones with metamours – without losing your mind, see [STI Testing With Multiple Partners: How to Keep Track in Polyamory](/en/blog/sti-tracking-polyamory-wellness).
+
 ## Testing as self-care, not a source of shame
 
 A test result says nothing about your worth as a person or a partner. It is a data point, like any other routine blood test. Getting tested means taking responsibility – that deserves recognition, not shame. That is exactly why it helps to treat testing as casually as any other routine: an appointment on the calendar, a result you log and share with the right people. The **Roster** app has a Wellness section built for this, where you can privately track testing appointments and results entirely on your device – visible only to you, and a simple way to stay on top of when your next check-in is due.
