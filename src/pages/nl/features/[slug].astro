@@ -3,7 +3,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import Vio from '../../../components/Vio.astro';
-import { featureData, featureScreenshots, featureSlugs, type FeatureSlug } from '../../../config/features';
+import { featureData, featureSlugs, type FeatureSlug } from '../../../config/features';
 import { featureBreadcrumb } from '../../../i18n/breadcrumbs';
 
 export const prerender = true;
@@ -18,7 +18,6 @@ const { slug } = Astro.params;
 const lang = 'nl';
 const feature = featureData[lang][slug as FeatureSlug];
 if (!feature) return Astro.redirect("/");
-const screenshot = featureScreenshots[slug as FeatureSlug];
 
 const schema = {
   '@context': 'https://schema.org',
@@ -55,12 +54,6 @@ const schema = {
         )}
         <a href="https://apps.apple.com/app/roster-polyamory-tracker/id6786782804" class="btn btn-primary cta">Download in de App Store</a>
       </div>
-
-      {screenshot && (
-        <div class="screenshot-area">
-          <img src={screenshot} alt={`${feature.name} – Roster App Screenshot`} class="screenshot" />
-        </div>
-      )}
     </div>
   </main>
   <Footer lang={lang} />
@@ -69,19 +62,16 @@ const schema = {
 <style>
   .feature-page { max-width: 1000px; padding-block: 60px 80px; }
   .back { color: var(--text-muted); font-size: 0.9rem; }
-  .feature-layout { display: grid; grid-template-columns: 1fr auto; gap: 64px; align-items: center; margin-top: 48px; }
+  .feature-layout { max-width: 640px; margin-top: 48px; }
   .feature-text { display: flex; flex-direction: column; }
   .feature-header { display: flex; flex-direction: column; gap: 12px; }
   .feat-icon { display: block; }
   .feature-header h1 { margin: 0; }
   .tagline { color: var(--text-muted); font-size: 1.1rem; margin: 0; line-height: 1.6; }
   .long-desc { color: var(--text-muted); line-height: 1.75; margin-top: 28px; font-size: 1rem; }
-  .screenshot-area { flex-shrink: 0; }
-  .screenshot { width: 260px; border-radius: 32px; box-shadow: 0 24px 80px -16px rgba(0, 0, 0, 0.6); display: block; }
   .cta { margin-top: 40px; display: inline-block; align-self: flex-start; }
   @media (max-width: 720px) {
-    .feature-layout { grid-template-columns: 1fr; gap: 40px; }
-    .screenshot { width: 100%; max-width: 300px; margin-inline: auto; }
+    .feature-layout { gap: 40px; }
     .cta { align-self: center; }
   }
 </style>
