@@ -50,6 +50,7 @@ const ogLocale = {
   es: 'es_ES',
   da: 'da_DK',
   sv: 'sv_SE',
+  pt: 'pt_BR',
 }[lang] ?? 'de_DE';
 
 const alternates = alternatesProp ?? [
@@ -59,6 +60,7 @@ const alternates = alternatesProp ?? [
   { hreflang: 'es', href: new URL(`/es${path}`, site).href },
   { hreflang: 'da', href: new URL(`/da${path}`, site).href },
   { hreflang: 'sv', href: new URL(`/sv${path}`, site).href },
+  { hreflang: 'pt-BR', href: new URL(`/pt${path}`, site).href },
   { hreflang: 'x-default', href: new URL(path, site).href },
 ];
 ---

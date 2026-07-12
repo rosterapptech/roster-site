@@ -1,7 +1,12 @@
 ---
-// Die Polycule-Map: "du" im Zentrum, Verbindungen auf konzentrischen
+// Die Polycule-Map: Label im Zentrum, Verbindungen auf konzentrischen
 // Ringen, mit Bezier-Kurven verbunden. Farben = Beziehungstypen.
 // Reine SVG + CSS, kein JS noetig. Respektiert prefers-reduced-motion.
+interface Props {
+  /** Text im Zentrums-Node, z.B. "du" / "you" / "tú" – je nach Sprache. */
+  label?: string;
+}
+const { label = 'du' } = Astro.props;
 ---
 
 <div class="poly" aria-hidden="true">
@@ -42,10 +47,10 @@
       </g>
     </g>
 
-    <!-- Zentrum: "du" (statisch im Mittelpunkt) -->
+    <!-- Zentrum: Label (statisch im Mittelpunkt) -->
     <circle cx="220" cy="220" r="34" fill="url(#core)" filter="url(#soft)" opacity="0.5" />
     <circle cx="220" cy="220" r="26" fill="url(#core)" class="core" />
-    <text x="220" y="225" text-anchor="middle" class="core-label">du</text>
+    <text x="220" y="225" text-anchor="middle" class="core-label">{label}</text>
   </svg>
 </div>
 

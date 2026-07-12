@@ -3,7 +3,7 @@ import type { Lang } from './ui';
 
 type Post = CollectionEntry<'blog'>;
 
-const ORDER: Lang[] = ['de', 'en', 'nl', 'es', 'da', 'sv'];
+const ORDER: Lang[] = ['de', 'en', 'nl', 'es', 'da', 'sv', 'pt'];
 
 /** URL-Pfad eines Artikels: DE ohne Praefix, alle anderen mit /{lang}. */
 function postPath(post: Post): string {

@@ -1,0 +1,80 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { contact, websiteFeatures } from '../../config/site';
+const lang = 'pt';
+const today = new Date().toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric' });
+---
+
+<BaseLayout
+  lang={lang}
+  path="/datenschutz"
+  title="Política de privacidade – Roster"
+  description="Política de privacidade do site do Roster. Sem cookies, sem backend."
+  noindex={true}
+>
+  <Header lang={lang} />
+  <main class="prose container">
+    <h1>Política de privacidade</h1>
+    <p class="updated">Última atualização: {today}</p>
+
+    <h2>1. Responsável pelo tratamento de dados</h2>
+    <p>
+      <strong>{contact.name}</strong><br />
+      {contact.company} · {contact.addressLine1} · {contact.addressLine2} · {contact.city}<br />
+      E-mail: <a href={`mailto:${contact.email}`}>{contact.email}</a>
+    </p>
+
+    <h2>2. Este site</h2>
+    <p>Este site é a apresentação de marketing do app Roster para iOS. Não são criadas contas de usuário, nenhum formulário é processado e nenhum cookie é instalado. Para uma medição de audiência anonimizada, usamos uma ferramenta de análise que respeita a privacidade (veja a seção «Análise»).</p>
+
+    {websiteFeatures.hosting ? (
+      <h2>3. Hospedagem e logs do servidor</h2>
+      <p>Este site é hospedado em <strong>{websiteFeatures.hosting}</strong>. Ao visitar o site, o provedor de hospedagem processa logs técnicos do servidor (por ex. endereço IP, carimbo de data/hora, página solicitada). Base legal: Art. 6(1)(f) RGPD.</p>
+    ) : (
+      <h2>3. Hospedagem e logs do servidor</h2>
+      <p>Ao visitar o site, o provedor de hospedagem processa logs técnicos do servidor (por ex. endereço IP, carimbo de data/hora, página solicitada). Base legal: Art. 6(1)(f) RGPD.</p>
+    )}
+
+    <h2>4. Fontes tipográficas</h2>
+    {websiteFeatures.externalFonts ? (
+      <p>Este site carrega fontes de uma CDN externa. Seu endereço IP é transmitido ao provedor. Base legal: Art. 6(1)(f) RGPD.</p>
+    ) : (
+      <p>Todas as fontes tipográficas estão incorporadas localmente. Nenhuma CDN de fontes externa é acessada.</p>
+    )}
+
+    {websiteFeatures.analytics && (
+      <h2>5. Análise</h2>
+      <p>Este site utiliza <strong>{websiteFeatures.analytics}</strong> para medição anônima de audiência. Nenhum dado pessoal é armazenado. Base legal: Art. 6(1)(f) RGPD.</p>
+    )}
+
+    {websiteFeatures.thirdCountryTransfer && (
+      <h2>Transferências para terceiros países (EUA)</h2>
+      <p>A hospedagem e a medição de audiência são realizadas através da <strong>{websiteFeatures.hosting ?? 'Vercel'}</strong> (Vercel Inc., EUA). Nesse contexto, dados pessoais — em particular seu endereço IP — podem ser transferidos para os EUA. A Vercel Inc. é certificada de acordo com o <strong>Data Privacy Framework UE-EUA</strong>; além disso, as Cláusulas Contratuais Padrão da UE (art. 46 RGPD) servem como garantia adequada. Base legal: art. 6, § 1, letra f, em conjunto com os arts. 44 e seguintes do RGPD.</p>
+    )}
+
+    {websiteFeatures.cookies && (
+      <h2>Cookies</h2>
+      <p>Este site utiliza cookies. Seu consentimento será solicitado na sua primeira visita. Cookies tecnicamente necessários estão isentos de consentimento.</p>
+    )}
+
+    <h2>O app Roster</h2>
+    <p>
+      O Roster armazena todo o conteúdo exclusivamente no seu dispositivo. Não existe backend do Roster nem transmissão do seu conteúdo para nós. A política de privacidade completa do app está disponível em <a href="/pt/appinfo/datenschutzrichtlinie">rosterapp.tech/pt/appinfo/datenschutzrichtlinie</a>.
+    </p>
+
+    <h2>Seus direitos</h2>
+    <p>Você tem os direitos previstos nos Arts. 15–22 do RGPD: acesso, retificação, exclusão, limitação, portabilidade e oposição. Direito de apresentar reclamação junto à autoridade de proteção de dados competente (Art. 77 RGPD). Contato: <a href={`mailto:${contact.email}`}>{contact.email}</a>.</p>
+  </main>
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .prose { max-width: 720px; padding-block: 80px; }
+  .prose h1 { margin-bottom: 0.3em; }
+  .updated { color: var(--text-dim); font-size: 0.88rem; margin-bottom: 2em; }
+  .prose h2 { font-size: 1.25rem; margin-top: 2em; }
+  .prose p { color: var(--text-muted); line-height: 1.7; }
+  .prose a { color: var(--accent); }
+</style>

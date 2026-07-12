@@ -17,10 +17,10 @@ const { lang, title, description, path, activeTab } = Astro.props;
 const base = lang === 'de' ? '' : `/${lang}`;
 
 const tabs = [
-  { key: 'support',    href: `${base}/appinfo/support`,               label: { de: 'Support', en: 'Support', nl: 'Support', es: 'Soporte', da: 'Support', sv: 'Support' } },
-  { key: 'privacy',    href: `${base}/appinfo/datenschutzrichtlinie`, label: { de: 'Datenschutz', en: 'Privacy', nl: 'Privacy', es: 'Privacidad', da: 'Privatliv', sv: 'Integritet' } },
-  { key: 'terms',      href: `${base}/appinfo/agb`,                   label: { de: 'AGB', en: 'Terms', nl: 'Voorwaarden', es: 'Condiciones', da: 'Vilkår', sv: 'Villkor' } },
-  { key: 'impressum',  href: `${base}/appinfo/impressum`,             label: { de: 'Impressum', en: 'Imprint', nl: 'Impressum', es: 'Aviso legal', da: 'Impressum', sv: 'Impressum' } },
+  { key: 'support',    href: `${base}/appinfo/support`,               label: { de: 'Support', en: 'Support', nl: 'Support', es: 'Soporte', da: 'Support', sv: 'Support', pt: 'Suporte' } },
+  { key: 'privacy',    href: `${base}/appinfo/datenschutzrichtlinie`, label: { de: 'Datenschutz', en: 'Privacy', nl: 'Privacy', es: 'Privacidad', da: 'Privatliv', sv: 'Integritet', pt: 'Privacidade' } },
+  { key: 'terms',      href: `${base}/appinfo/agb`,                   label: { de: 'AGB', en: 'Terms', nl: 'Voorwaarden', es: 'Condiciones', da: 'Vilkår', sv: 'Villkor', pt: 'Termos' } },
+  { key: 'impressum',  href: `${base}/appinfo/impressum`,             label: { de: 'Impressum', en: 'Imprint', nl: 'Impressum', es: 'Aviso legal', da: 'Impressum', sv: 'Impressum', pt: 'Aviso legal' } },
 ];
 ---
 

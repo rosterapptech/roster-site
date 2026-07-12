@@ -1,6 +1,6 @@
 import { defineMiddleware } from 'astro:middleware';
 
-const SUPPORTED = ['de', 'en', 'nl', 'es', 'da', 'sv'] as const;
+const SUPPORTED = ['de', 'en', 'nl', 'es', 'da', 'sv', 'pt'] as const;
 type Lang = (typeof SUPPORTED)[number];
 const DEFAULT: Lang = 'de'; // Fallback für nicht unterstützte Sprachen
 

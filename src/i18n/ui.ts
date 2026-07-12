@@ -5,6 +5,7 @@ export const languages = {
   es: 'Español',
   da: 'Dansk',
   sv: 'Svenska',
+  pt: 'Português (BR)',
 } as const;
 
 export const defaultLang = 'de';
@@ -135,6 +136,27 @@ export const ui = {
     'blog.readmore': 'Läs mer →',
     'blog.headline': 'Tankar, nedskrivna.',
     'blog.lede': 'Klarspråk om icke-monogami, relationsvård och varför en lugn app ibland hjälper mer än ett bra samtal.',
+  },
+  pt: {
+    'nav.features': 'Funcionalidades',
+    'nav.pricing': 'Preços',
+    'nav.blog': 'Blog',
+    'nav.cta': 'Baixar na App Store',
+    'footer.tagline': 'Relacionamentos, cuidados com atenção.',
+    'footer.legal': 'Legal',
+    'footer.impressum': 'Aviso legal',
+    'footer.datenschutz': 'Privacidade',
+    'footer.madeby': 'Um projeto da Slowcraft.',
+    'footer.privacy': 'Armazenado localmente. Sem rastreamento. Sem conta necessária.',
+    'footer.language': 'Idioma',
+    'footer.app': 'App',
+    'footer.app.agb': 'Termos',
+    'footer.app.privacy': 'Política de Privacidade',
+    'footer.app.support': 'Suporte',
+    'blog.back': '← Todos os artigos',
+    'blog.readmore': 'Continuar lendo →',
+    'blog.headline': 'Pensamentos, registrados.',
+    'blog.lede': 'Conversa franca sobre não-monogamia, cuidado com relacionamentos e por que um app discreto às vezes ajuda mais do que uma boa conversa.',
   },
 } as const;
 

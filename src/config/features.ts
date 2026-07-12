@@ -1,5 +1,5 @@
 export type FeatureSlug = 'connections' | 'polycule-map' | 'wellness' | 'reflection' | 'insights' | 'vio' | 'safe-call' | 'notifications' | 'vibe-radar';
-export type Lang = 'de' | 'en' | 'nl' | 'es' | 'da' | 'sv';
+export type Lang = 'de' | 'en' | 'nl' | 'es' | 'da' | 'sv' | 'pt';
 
 export const featureSlugs: FeatureSlug[] = [
   'connections', 'polycule-map', 'wellness', 'reflection', 'insights', 'vio', 'safe-call', 'notifications', 'vibe-radar',
@@ -746,6 +746,123 @@ export const featureData: Record<Lang, Record<FeatureSlug, FeatureContent>> = {
         'Individuellt justerbar känslighet per person',
         'Kan slås av och på globalt',
         'Visas som en subtil indikator direkt i personrutnätet',
+      ],
+      icon: iconVibeRadar,
+    },
+  },
+  pt: {
+    connections: {
+      name: 'Conexões',
+      shortDesc: 'Todos os seus relacionamentos em um só lugar – com tipo, status de proteção e um registro rápido de contato.',
+      longDesc: 'Todas as pessoas importantes em um só lugar. Para cada conexão você define o tipo de relacionamento, status de sexo seguro e notas rápidas — tudo local no seu dispositivo, nada na nuvem.',
+      bullets: [
+        'Grade de pessoas com foto ou iniciais e indicador de vibe',
+        'Saudação personalizada que se adapta ao horário do dia',
+        'Campo de busca e botão flutuante para adicionar pessoas rapidamente',
+        'Gesto de deslizar para registrar contato como "visto hoje"',
+        'Marcação de favoritos para suas conexões mais próximas',
+      ],
+      icon: iconConnections,
+    },
+    'polycule-map': {
+      name: 'Mapa do Polycule',
+      shortDesc: 'Sua rede de relacionamentos como um mapa vivo. Você no centro, todas as conexões ao redor, codificadas por cor.',
+      longDesc: 'Veja sua rede em um piscar de olhos. O Mapa do Polycule mostra todas as suas conexões como um grafo interativo — você no centro, parceiros e metamours ao redor, com cores por tipo de relacionamento.',
+      bullets: [
+        'Rede-ego com anéis concêntricos',
+        'Anel interno: conexões próximas – anel externo: mais leves',
+        'Arcos entre pares para conexões cruzadas como relações de metamour',
+        'Pan-zoom nativo com gestos de pinça',
+        'Toque em uma linha para ver o tipo de conexão',
+      ],
+      icon: iconPolyculeMap,
+    },
+    wellness: {
+      name: 'Bem-estar',
+      shortDesc: 'Acompanhe testes de IST e check-ins – discreto, local, invisível para todos menos você.',
+      longDesc: 'Notas de saúde discretas para relacionamentos responsáveis. Registre testes de IST, conversas sobre sexo seguro e check-ins — criptografado no seu dispositivo, invisível para todos menos você.',
+      bullets: [
+        'Registrar testes de IST e check-ins de saúde',
+        'Próximo teste pendente com lembrete automático',
+        'Linha do tempo cronológica de todos os registros',
+        'Filtro por pessoa: todas ou uma específica',
+        'Link direto das notificações para o check-in',
+      ],
+      icon: iconWellness,
+    },
+    reflection: {
+      name: 'Reflexão',
+      shortDesc: 'Um diário para ciúme, compersão e tudo o que fica no meio. Para organizar, não para julgar.',
+      longDesc: 'Um diário para tudo o que você ainda não consegue colocar em palavras. Ciúme, compersão, confusão — deixe tudo estar aqui, sem julgamento e sem um algoritmo classificando por você.',
+      bullets: [
+        'Registros de descompressão ordenados por data',
+        'Visualização detalhada e de edição por registro',
+        'Vínculo opcional com uma pessoa específica',
+        'Sem pontuação, sem algoritmo — só espaço',
+      ],
+      icon: iconReflection,
+    },
+    insights: {
+      name: 'Insights',
+      shortDesc: 'Padrões suaves em vez de números frios: onde você investe energia, onde tudo fica quieto?',
+      longDesc: 'Padrões suaves em vez de números frios. Insights mostra onde você tem investido energia ultimamente e onde as coisas ficaram mais quietas — sem pontuação, sem avaliações, só observações honestas.',
+      bullets: [
+        'Resumo semanal com reinício automático toda segunda-feira',
+        'Insights clicáveis com vínculo pessoal às pessoas',
+        'Cartão do Vio integrado (quando o Vio está ativado)',
+        'Sem pontuações ou avaliações — só observações',
+      ],
+      icon: iconInsights,
+    },
+    vio: {
+      name: 'Vio',
+      shortDesc: 'Seu pequeno companheiro que pergunta como você está – às vezes suave, às vezes leve, às vezes brutalmente honesto.',
+      longDesc: 'Vio é seu companheiro de IA que passa por você todos os dias. O tom se adapta: às vezes leve, às vezes mais profundo. Tudo fica no seu dispositivo — o Vio não guarda memória de nada.',
+      bullets: [
+        'Fluxo de conversa: introdução → destaques → preocupações → encerramento',
+        'Escolha de tom: leve / suave / brutalmente honesto (Premium)',
+        'Cartão semanal de insights com resumo pessoal',
+        'VioRoast: roast baseado em dados da sua semana (Premium)',
+        'Voz TTS local no seu dispositivo (Premium)',
+      ],
+      vio: true,
+    },
+    'safe-call': {
+      name: 'Chamada Segura',
+      shortDesc: 'Defina de antemão quem entra em ação – e um prazo até você dar sinal de vida.',
+      longDesc: 'Uma rede de segurança discreta para encontros com pessoas novas. Escolha um contato de confiança, defina um prazo de check-in e o Roster avisa discretamente se você ficar em silêncio — sem alarde, sem drama.',
+      bullets: [
+        'Escolha uma pessoa e um contato de confiança da sua agenda',
+        'Defina um prazo de check-in com data e hora',
+        'Contagem regressiva ativa durante a sessão em curso',
+        'Notificação discreta quando o prazo expira',
+        'Preparação de emergência com um toque para o contato de confiança',
+      ],
+      icon: iconSafeCall,
+    },
+    notifications: {
+      name: 'Notificações',
+      shortDesc: 'Lembretes discretos que sabem quando aparecer – e quando não aparecer.',
+      longDesc: 'O Roster te avisa exatamente quando é útil: quando um teste de IST vence, um prazo de chamada segura se aproxima ou uma conexão ficou quieta por um tempo. Tudo local, sem servidor push.',
+      bullets: [
+        'Verificação discreta quando uma conexão fica quieta por muito tempo',
+        'Lembrete de bem-estar quando um teste vence',
+        'Lembrete de prazo de chamada segura pouco antes de expirar',
+        'Link direto para a tela relevante no app',
+        '100% local — sem servidor push, sem backend',
+      ],
+      icon: iconNotifications,
+    },
+    'vibe-radar': {
+      name: 'Vibe Radar',
+      shortDesc: 'Um indicador discreto por conexão – veja em um piscar de olhos quem precisa de atenção agora.',
+      longDesc: 'O Vibe Radar calcula um status suave para cada conexão — ensolarado, nublado, chuvoso ou silêncio de rádio — baseado no ritmo, último contato e sua própria avaliação. Sem pontuação, só um olhar honesto.',
+      bullets: [
+        'Quatro níveis de status: ensolarado / nublado / chuvoso / silêncio de rádio',
+        'Baseado no ritmo, último contato e qualidade da vibe',
+        'Sensibilidade ajustável individualmente por pessoa',
+        'Pode ser ativado e desativado globalmente',
+        'Aparece como indicador sutil direto na grade de pessoas',
       ],
       icon: iconVibeRadar,
     },
