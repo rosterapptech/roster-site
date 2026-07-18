@@ -9,7 +9,10 @@ const SITE = 'https://rosterapp.tech';
 export default defineConfig({
   site: SITE,
   output: 'server',
-  adapter: vercel(),
+  // edgeMiddleware: Middleware laeuft auch fuer prerenderte/statische Seiten
+  // (sonst wuerde die Spracherkennung fuer die deutschen Hauptseiten nicht
+  // mehr greifen, sobald diese statisch ausgeliefert werden).
+  adapter: vercel({ edgeMiddleware: true }),
   i18n: {
     defaultLocale: 'de',
     locales: ['de', 'en', 'nl', 'es', 'da', 'sv', 'pt'],

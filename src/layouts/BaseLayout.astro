@@ -2,6 +2,7 @@
 import '../styles/global.css';
 import Analytics from '@vercel/analytics/astro';
 import type { Lang } from '../i18n/ui';
+import { withSlash } from '../i18n/url';
 
 interface Props {
   title: string;
@@ -41,7 +42,8 @@ const {
 } = Astro.props;
 
 const site = Astro.site ?? new URL('https://rosterapp.tech');
-const canonical = new URL(lang === 'de' ? path : `/${lang}${path}`, site).href;
+const slashPath = withSlash(path);
+const canonical = new URL(lang === 'de' ? slashPath : `/${lang}${slashPath}`, site).href;
 
 const ogLocale = {
   de: 'de_DE',
@@ -54,15 +56,38 @@ const ogLocale = {
 }[lang] ?? 'de_DE';
 
 const alternates = alternatesProp ?? [
-  { hreflang: 'de', href: new URL(path, site).href },
-  { hreflang: 'en', href: new URL(`/en${path}`, site).href },
-  { hreflang: 'nl', href: new URL(`/nl${path}`, site).href },
-  { hreflang: 'es', href: new URL(`/es${path}`, site).href },
-  { hreflang: 'da', href: new URL(`/da${path}`, site).href },
-  { hreflang: 'sv', href: new URL(`/sv${path}`, site).href },
-  { hreflang: 'pt-BR', href: new URL(`/pt${path}`, site).href },
-  { hreflang: 'x-default', href: new URL(path, site).href },
+  { hreflang: 'de', href: new URL(slashPath, site).href },
+  { hreflang: 'en', href: new URL(`/en${slashPath}`, site).href },
+  { hreflang: 'nl', href: new URL(`/nl${slashPath}`, site).href },
+  { hreflang: 'es', href: new URL(`/es${slashPath}`, site).href },
+  { hreflang: 'da', href: new URL(`/da${slashPath}`, site).href },
+  { hreflang: 'sv', href: new URL(`/sv${slashPath}`, site).href },
+  { hreflang: 'pt-BR', href: new URL(`/pt${slashPath}`, site).href },
+  { hreflang: 'x-default', href: new URL(slashPath, site).href },
 ];
+
+// Organization/WebSite als eigenstaendige Entitaeten – auf jeder Seite gleich,
+// damit Suchmaschinen und KI-Systeme einen stabilen Knowledge-Graph-Anker haben.
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'Organization',
+      '@id': new URL('/#organization', site).href,
+      name: 'Roster',
+      url: site.href,
+      logo: new URL('/favicon.svg', site).href,
+      sameAs: ['https://apps.apple.com/app/roster-polyamory-tracker/id6786782804'],
+    },
+    {
+      '@type': 'WebSite',
+      '@id': new URL('/#website', site).href,
+      url: site.href,
+      name: 'Roster',
+      publisher: { '@id': new URL('/#organization', site).href },
+    },
+  ],
+};
 ---
 
 <!doctype html>
@@ -95,6 +120,12 @@ const alternates = alternatesProp ?? [
       <meta property="article:modified_time" content={modifiedTime} />
     )}
     <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- JSON-LD: Organization/WebSite als stabile Entitaeten, auf jeder Seite -->
+    <script
+      type="application/ld+json"
+      set:html={JSON.stringify(organizationSchema)}
+    />
 
     <!-- JSON-LD: macht die Seite fuer KI-Systeme maschinenlesbar -->
     {schema && (

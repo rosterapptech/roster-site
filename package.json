@@ -5,9 +5,11 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
+    "prebuild": "node scripts/check-blog-links.mjs",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "check-blog-links": "node scripts/check-blog-links.mjs"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.0.0",

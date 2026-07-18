@@ -1,7 +1,8 @@
 import { t, type Lang } from './ui';
+import { withSlash } from './url';
 
 const homeUrl = (lang: Lang) => (lang === 'de' ? '/' : `/${lang}/`);
-const blogUrl = (lang: Lang) => (lang === 'de' ? '/blog' : `/${lang}/blog`);
+const blogUrl = (lang: Lang) => withSlash(lang === 'de' ? '/blog' : `/${lang}/blog`);
 const featuresUrl = (lang: Lang) => (lang === 'de' ? '/#features' : `/${lang}/#features`);
 
 function list(site: URL, items: { name: string; path: string }[]) {
@@ -19,7 +20,7 @@ function list(site: URL, items: { name: string; path: string }[]) {
 /** BreadcrumbList-Node (ohne @context, fuer Einbettung in @graph). */
 export function blogBreadcrumb(lang: Lang, title: string, id: string, site: URL) {
   const tr = t(lang);
-  const path = lang === 'de' ? `/blog/${id}` : `/${lang}/blog/${id}`;
+  const path = withSlash(lang === 'de' ? `/blog/${id}` : `/${lang}/blog/${id}`);
   return list(site, [
     { name: 'Roster', path: homeUrl(lang) },
     { name: tr('nav.blog'), path: blogUrl(lang) },
@@ -30,7 +31,7 @@ export function blogBreadcrumb(lang: Lang, title: string, id: string, site: URL)
 /** BreadcrumbList-Node (ohne @context, fuer Einbettung in @graph). */
 export function featureBreadcrumb(lang: Lang, name: string, slug: string, site: URL) {
   const tr = t(lang);
-  const path = lang === 'de' ? `/features/${slug}` : `/${lang}/features/${slug}`;
+  const path = withSlash(lang === 'de' ? `/features/${slug}` : `/${lang}/features/${slug}`);
   return list(site, [
     { name: 'Roster', path: homeUrl(lang) },
     { name: tr('nav.features'), path: featuresUrl(lang) },

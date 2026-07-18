@@ -1,5 +1,6 @@
 import type { CollectionEntry } from 'astro:content';
 import type { Lang } from './ui';
+import { withSlash } from './url';
 
 type Post = CollectionEntry<'blog'>;
 
@@ -7,9 +8,11 @@ const ORDER: Lang[] = ['de', 'en', 'nl', 'es', 'da', 'sv', 'pt'];
 
 /** URL-Pfad eines Artikels: DE ohne Praefix, alle anderen mit /{lang}. */
 function postPath(post: Post): string {
-  return post.data.lang === 'de'
-    ? `/blog/${post.id}`
-    : `/${post.data.lang}/blog/${post.id}`;
+  return withSlash(
+    post.data.lang === 'de'
+      ? `/blog/${post.id}`
+      : `/${post.data.lang}/blog/${post.id}`,
+  );
 }
 
 /**
