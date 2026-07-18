@@ -1,0 +1,251 @@
+---
+export const prerender = true;
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import PolyQuiz, { type QuizQuestion, type QuizResultTier } from '../../components/PolyQuiz.astro';
+import { QUIZ_SLUG } from '../../i18n/quizPath';
+
+const lang = 'da';
+const APP_STORE_URL = 'https://apps.apple.com/app/roster-polyamory-tracker/id6786782804';
+
+const questions: QuizQuestion[] = [
+  {
+    text: 'Hvis din partner forelsker sig i en anden, er din første tanke nok…',
+    answers: [
+      { text: 'Det ville gøre mig dybt usikker – jeg ville have brug for straks at vide, at jeg stadig er nummer ét.', points: 0 },
+      { text: 'Jeg ville bekymre mig, men grundlæggende prøve at rumme det.', points: 1 },
+      { text: 'Jeg ville være nysgerrig efter, hvordan det føles for alle involverede – selv om der er en rest af usikkerhed.', points: 2 },
+      { text: 'Jeg ville glæde mig på deres vegne, så længe det ikke skader vores forhold.', points: 3 },
+    ],
+  },
+  {
+    text: 'Din forestilling om "den ene store kærlighed" er…',
+    answers: [
+      { text: 'Præcis det, jeg leder efter – én person at dele mit liv med.', points: 0 },
+      { text: 'Fint, men jeg ved ikke, om jeg har brug for det.', points: 1 },
+      { text: 'Ret fremmed – jeg tror ikke, kærlighed kan begrænses til én person.', points: 2 },
+      { text: 'Et begreb, der ikke rigtig giver mening for mig – jeg kan elske flere mennesker dybt på samme tid.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hvor vigtig er seksuel eksklusivitet for dig i et fast forhold?',
+    answers: [
+      { text: 'Meget vigtig – sex med andre ville føles som et tillidsbrud.', points: 0 },
+      { text: 'Vigtig, men til forhandling under visse omstændigheder.', points: 1 },
+      { text: 'Ikke særlig vigtig – så længe der kommunikeres åbent, er det ikke et problem for mig.', points: 2 },
+      { text: 'Ikke vigtig – jeg forbinder ikke automatisk kærlighed med seksuel eksklusivitet.', points: 3 },
+    ],
+  },
+  {
+    text: 'Din partner har en date med en anden i aften. Hvad føler du?',
+    answers: [
+      { text: 'Ren stress – jeg ville gøre alt for at forhindre det.', points: 0 },
+      { text: 'En utryg fornemmelse, som jeg ville prøve at holde for mig selv.', points: 1 },
+      { text: 'Blandede følelser – lidt usikkerhed, men også ægte nysgerrighed efter, hvordan aftenen gik.', points: 2 },
+      { text: 'Forventning til de historier, de kommer hjem med.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hvordan håndterer du generelt jalousi?',
+    answers: [
+      { text: 'Jeg undgår så vidt muligt situationer, der kan udløse jalousi.', points: 0 },
+      { text: 'Jeg lægger mærke til den, men taler sjældent åbent om den.', points: 1 },
+      { text: 'Jeg sætter ord på den og prøver at forstå, hvad der egentlig ligger bag.', points: 2 },
+      { text: 'Jeg ser den som information om mig selv, ikke som et stopsignal for andre.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hvor meget frirum har du brug for i et forhold?',
+    answers: [
+      { text: 'Ikke meget – jeg bruger helst min tid med én person.', points: 0 },
+      { text: 'Lidt egen tid, men hverdagen er tydeligt centreret om ét forhold.', points: 1 },
+      { text: 'Ret meget – egne venskaber, hobbyer og nærhed uden for forholdet betyder noget for mig.', points: 2 },
+      { text: 'Rigtig meget – jeg vil frit kunne fordele min tid, energi og nærhed på flere mennesker.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hvad synes du om faste aftaler i forhold (fx safer-sex-regler, overnatninger)?',
+    answers: [
+      { text: 'Regler er en selvfølge for mig – eksklusivitet er grundlæggende den eneste regel, jeg har brug for.', points: 0 },
+      { text: 'Jeg synes, klare aftaler er vigtige, men tænker mest i ét forhold.', points: 1 },
+      { text: 'Jeg synes, aftaler giver mening, så længe de forhandles i fællesskab og ikke bunder i kontrol.', points: 2 },
+      { text: 'Jeg foretrækker få, fleksible aftaler – hvert forhold bør have lov til at finde sin egen form.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hvordan reagerer du, hvis planer må ændres på grund af din partners forhold til en anden?',
+    answers: [
+      { text: 'Det ville genere mig meget – jeg forventer at have prioritet.', points: 0 },
+      { text: 'Jeg ville synes, det var ubehageligt, men acceptere det, hvis det sker sjældent.', points: 1 },
+      { text: 'Ikke noget stort problem, så længe der kommunikeres åbent og i god tid.', points: 2 },
+      { text: 'Helt normalt – tid kan fordeles fair uden at nogen automatisk går forud.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hvilken forholdsstruktur lyder mest rigtig for dig?',
+    answers: [
+      { text: 'To mennesker, der er alt for hinanden.', points: 0 },
+      { text: 'Et primært forhold, hvor begge tydeligt er hinandens førsteprioritet.', points: 1 },
+      { text: 'Et primært forhold med plads til andre, mindre forpligtende forbindelser.', points: 2 },
+      { text: 'Flere ligeværdige forhold uden fast hierarki.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hvor vigtig er planlægningssikkerhed (kalender, faste tider) for dig i forhold?',
+    answers: [
+      { text: 'Meget vigtig – spontane ændringer af planer på grund af andre forhold ville stresse mig.', points: 0 },
+      { text: 'Vigtig, men jeg kan leve med lejlighedsvise ændringer.', points: 1 },
+      { text: 'Middel – jeg kan godt lide at koordinere flere mennesker i kalenderen, selvom det kræver organisering.', points: 2 },
+      { text: 'Jeg ser god organisering mere som en spændende del end en byrde – at koordinere flere forhold generer mig ikke.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hvad tænker du om følelsesmæssig nærhed til flere mennesker samtidig?',
+    answers: [
+      { text: 'Jeg tror, ægte følelsesmæssig dybde kun er mulig med én person ad gangen.', points: 0 },
+      { text: 'Jeg kan forestille mig det i teorien, men det føles fremmed for mig.', points: 1 },
+      { text: 'Jeg tror, det er muligt, selvom det kræver meget selvrefleksion.', points: 2 },
+      { text: 'Jeg oplever allerede det, eller kan sagtens forestille mig det for mig selv.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hvad beskriver bedst din nuværende motivation for at tage denne test?',
+    answers: [
+      { text: 'Ren nysgerrighed – polyamori er egentlig ikke en mulighed for mig personligt.', points: 0 },
+      { text: 'Jeg er usikker på, om det kunne være noget for mig.', points: 1 },
+      { text: 'Jeg har beskæftiget mig med emnet et stykke tid og vil gerne have mere klarhed.', points: 2 },
+      { text: 'Jeg lever allerede polyamorøst eller er ret sikker på, at det passer til mig.', points: 3 },
+    ],
+  },
+];
+
+const results: QuizResultTier[] = [
+  {
+    min: 0,
+    max: 12,
+    eyebrow: 'Dit resultat',
+    title: 'Monogami passer nok bedre til dig lige nu',
+    desc: 'Dine svar peger på, at eksklusivitet, pålidelighed og fokus på ét forhold giver dig tryghed. Det er hverken bedre eller dårligere end polyamori – bare et andet svar på det samme spørgsmål: hvordan vil jeg elske? Hvis emnet stadig interesserer dig, skader det aldrig at læse mere om det.',
+    ctaGhostLabel: 'Hvad er polyamori egentlig? →',
+    ctaGhostHref: '/da/blog/hvad-er-polyamori',
+  },
+  {
+    min: 13,
+    max: 24,
+    eyebrow: 'Dit resultat',
+    title: 'Du er åben – med et par åbne spørgsmål',
+    desc: 'Hos dig er der allerede en del poly-typiske værdier til stede: nysgerrighed, vilje til at kommunikere, ønske om mere frirum. Samtidig er der stadig åbne spørgsmål – og det er helt okay. Polyamori starter sjældent med et færdigt svar, men med ærlige samtaler: med dig selv og med de mennesker, der betyder noget for dig.',
+    ctaGhostLabel: 'Se Roster i App Store',
+    ctaGhostHref: APP_STORE_URL,
+  },
+  {
+    min: 25,
+    max: 36,
+    eyebrow: 'Dit resultat',
+    title: 'Polyamori kunne passe godt til dig',
+    desc: 'Dine svar viser mange af de grundholdninger, der bærer polyamorøse forhold: du ser ikke kærlighed som en begrænset ressource, du kan rumme usikkerhed, og du ser kommunikation som et redskab snarere end en pligt. Hvis du (eller dit netværk) vil bevare overblikket over flere forhold – det er dét, Roster er lavet til.',
+    ctaLabel: 'Hent Roster i App Store',
+    ctaHref: APP_STORE_URL,
+  },
+];
+
+const relatedPosts = [
+  { slug: 'hvad-er-polyamori', title: 'Polyamori: Hvad er det egentlig? Betydning, definition og det grundlæggende' },
+  { slug: 'jalousi-polyamori', title: 'Jalousi i polyamore relationer: 7 strategier der virkelig hjælper' },
+  { slug: 'polyamori-vs-aben-forhold', title: 'Polyamori vs. åbent forhold: Hvad er forskellen?' },
+];
+
+const alternates = [
+  { hreflang: 'de', href: `https://rosterapp.tech/${QUIZ_SLUG.de}` },
+  { hreflang: 'en', href: `https://rosterapp.tech/en/${QUIZ_SLUG.en}` },
+  { hreflang: 'nl', href: `https://rosterapp.tech/nl/${QUIZ_SLUG.nl}` },
+  { hreflang: 'es', href: `https://rosterapp.tech/es/${QUIZ_SLUG.es}` },
+  { hreflang: 'da', href: `https://rosterapp.tech/da/${QUIZ_SLUG.da}` },
+  { hreflang: 'sv', href: `https://rosterapp.tech/sv/${QUIZ_SLUG.sv}` },
+  { hreflang: 'pt-BR', href: `https://rosterapp.tech/pt/${QUIZ_SLUG.pt}` },
+  { hreflang: 'x-default', href: `https://rosterapp.tech/${QUIZ_SLUG.de}` },
+];
+---
+
+<BaseLayout
+  lang={lang}
+  path={`/${QUIZ_SLUG.da}`}
+  title="Polyamori-test: Passer polyamori til dig? | Roster"
+  description="Find ud af på 12 spørgsmål, om polyamori kunne passe til dig. Anonymt og gratis – dine svar forlader aldrig din browser."
+  alternates={alternates}
+>
+  <Header lang={lang} />
+
+  <main>
+    <section class="quiz-section">
+      <div class="container">
+        <PolyQuiz
+          title="Passer polyamori til dig?"
+          intro="12 spørgsmål, besvaret ærligt. Ingen konto, ingen e-mail – dine svar bliver i din browser og bliver hverken gemt eller uploadet."
+          metaLine="12 spørgsmål · ca. 3 minutter · ingen tilmelding, ingen lagring"
+          startLabel="Start testen"
+          stepTemplate="Spørgsmål {n} af {total}"
+          nextLabel="Næste"
+          backLabel="Tilbage"
+          resultLabel="Se mit resultat"
+          restartLabel="Tag testen igen"
+          noscriptText="Denne test kræver JavaScript – resultatet beregnes udelukkende i din browser, uden at noget sendes til en server."
+          questions={questions}
+          results={results}
+        />
+      </div>
+    </section>
+
+    <section class="related">
+      <div class="container">
+        <p class="eyebrow">Mere om emnet</p>
+        <div class="related-grid">
+          {
+            relatedPosts.map((p) => (
+              <a href={`/da/blog/${p.slug}`} class="card related-card">
+                {p.title}
+              </a>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .quiz-section {
+    padding-top: clamp(48px, 7vw, 88px);
+  }
+  .related {
+    padding-top: 0;
+  }
+  .related .eyebrow {
+    text-align: center;
+    display: block;
+  }
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    max-width: 900px;
+    margin-inline: auto;
+  }
+  .related-card {
+    color: var(--text);
+    font-size: 0.92rem;
+    text-decoration: none;
+  }
+  .related-card:hover {
+    border-color: var(--purple);
+    text-decoration: none;
+  }
+  @media (max-width: 720px) {
+    .related-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

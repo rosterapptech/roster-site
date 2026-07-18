@@ -1,0 +1,251 @@
+---
+export const prerender = true;
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import PolyQuiz, { type QuizQuestion, type QuizResultTier } from '../../components/PolyQuiz.astro';
+import { QUIZ_SLUG } from '../../i18n/quizPath';
+
+const lang = 'en';
+const APP_STORE_URL = 'https://apps.apple.com/app/roster-polyamory-tracker/id6786782804';
+
+const questions: QuizQuestion[] = [
+  {
+    text: 'If your partner falls for someone else, your first thought is most likely…',
+    answers: [
+      { text: "I'd feel deeply insecure — I'd need to know right away that I'm still number one.", points: 0 },
+      { text: "I'd worry, but I'd try to sit with it.", points: 1 },
+      { text: "I'd be curious how it feels for everyone involved — even with some lingering uncertainty.", points: 2 },
+      { text: "I'd feel happy for them, as long as it doesn't hurt our relationship.", points: 3 },
+    ],
+  },
+  {
+    text: 'Your idea of "the one great love" is…',
+    answers: [
+      { text: 'Exactly what I\'m looking for — one person to share my life with.', points: 0 },
+      { text: "Nice, but I'm not sure I need that.", points: 1 },
+      { text: "Kind of foreign to me — I don't think love can be limited to one person.", points: 2 },
+      { text: "A concept that doesn't really make sense to me — I can love several people deeply at once.", points: 3 },
+    ],
+  },
+  {
+    text: 'How important is sexual exclusivity to you in a committed relationship?',
+    answers: [
+      { text: "Very important — sex with someone else would feel like a betrayal of trust.", points: 0 },
+      { text: 'Important, but negotiable under certain circumstances.', points: 1 },
+      { text: "Not that important — as long as it's openly communicated, it's not a problem for me.", points: 2 },
+      { text: "Not important — I don't automatically link love to sexual exclusivity.", points: 3 },
+    ],
+  },
+  {
+    text: 'Your partner has a date with someone else tonight. What do you feel?',
+    answers: [
+      { text: "Pure stress — I'd do everything I could to prevent it.", points: 0 },
+      { text: "An uneasy feeling I'd try to keep to myself.", points: 1 },
+      { text: 'Mixed feelings — some uncertainty, but genuine curiosity about how the evening goes.', points: 2 },
+      { text: 'I look forward to hearing the stories they bring back.', points: 3 },
+    ],
+  },
+  {
+    text: 'How do you generally deal with jealousy?',
+    answers: [
+      { text: 'I avoid situations that might trigger jealousy as much as I can.', points: 0 },
+      { text: 'I notice it but rarely talk about it openly.', points: 1 },
+      { text: "I name it and try to understand what's actually behind it.", points: 2 },
+      { text: 'I see it as information about myself, not a stop sign for other people.', points: 3 },
+    ],
+  },
+  {
+    text: 'How much personal space do you need in a relationship?',
+    answers: [
+      { text: "Not much — I'd rather spend my time with one person.", points: 0 },
+      { text: 'Some time to myself, but daily life is clearly built around one relationship.', points: 1 },
+      { text: 'Quite a bit — my own friendships, hobbies and closeness outside the relationship matter to me.', points: 2 },
+      { text: 'A lot — I want to freely share my time, energy and closeness with several people.', points: 3 },
+    ],
+  },
+  {
+    text: 'How do you feel about fixed agreements in relationships (e.g. safer-sex rules, sleepovers)?',
+    answers: [
+      { text: 'Rules are a given for me — exclusivity is basically the only rule I need.', points: 0 },
+      { text: "I think clear agreements matter, but I'm thinking in terms of one relationship.", points: 1 },
+      { text: "I think agreements make sense as long as they're negotiated together, not born out of control.", points: 2 },
+      { text: "I prefer few, flexible agreements — every relationship should be allowed to find its own shape.", points: 3 },
+    ],
+  },
+  {
+    text: "How do you react when plans have to shift because of your partner's relationship with someone else?",
+    answers: [
+      { text: 'That would really bother me — I expect to be the priority.', points: 0 },
+      { text: "I'd find it uncomfortable, but I'd accept it if it's rare.", points: 1 },
+      { text: "Not a big deal, as long as it's communicated openly and early.", points: 2 },
+      { text: 'Completely normal — time can be shared fairly without anyone automatically coming first.', points: 3 },
+    ],
+  },
+  {
+    text: 'Which relationship structure sounds most right to you?',
+    answers: [
+      { text: 'Two people who are everything to each other.', points: 0 },
+      { text: "One primary relationship where both people are clearly each other's priority.", points: 1 },
+      { text: 'One primary relationship with room for other, less binding connections.', points: 2 },
+      { text: 'Several equal relationships, without a fixed hierarchy.', points: 3 },
+    ],
+  },
+  {
+    text: 'How important is scheduling certainty (calendars, fixed times) in relationships to you?',
+    answers: [
+      { text: 'Very important — sudden changes of plan because of other relationships would stress me out.', points: 0 },
+      { text: 'Important, but I can live with occasional changes.', points: 1 },
+      { text: 'Medium — I like coordinating several people in a calendar, even if it takes some organizing.', points: 2 },
+      { text: 'I see good organization as an interesting part of it rather than a burden — coordinating multiple relationships doesn\'t bother me.', points: 3 },
+    ],
+  },
+  {
+    text: 'What do you think about emotional closeness with several people at once?',
+    answers: [
+      { text: 'I think real emotional depth is only possible with one person at a time.', points: 0 },
+      { text: 'I can imagine it in theory, but it feels foreign to me.', points: 1 },
+      { text: "I think it's possible, though it takes a lot of self-reflection.", points: 2 },
+      { text: 'I already experience this, or can very easily imagine it for myself.', points: 3 },
+    ],
+  },
+  {
+    text: 'What best describes your motivation for taking this quiz?',
+    answers: [
+      { text: "Pure curiosity — polyamory really isn't an option for me personally.", points: 0 },
+      { text: "I'm not sure whether this could be something for me.", points: 1 },
+      { text: "I've been thinking about this for a while and want more clarity.", points: 2 },
+      { text: "I already live polyamorously, or I'm pretty sure it's right for me.", points: 3 },
+    ],
+  },
+];
+
+const results: QuizResultTier[] = [
+  {
+    min: 0,
+    max: 12,
+    eyebrow: 'Your result',
+    title: 'Monogamy is probably the better fit for you right now',
+    desc: "Your answers point to exclusivity, reliability and focusing on one partnership as what gives you security. That's not better or worse than polyamory — just a different answer to the same question: how do I want to love? If you're still curious about the topic, there's no harm in reading more.",
+    ctaGhostLabel: 'What is polyamory, anyway? →',
+    ctaGhostHref: '/en/blog/what-is-polyamory',
+  },
+  {
+    min: 13,
+    max: 24,
+    eyebrow: 'Your result',
+    title: "You're open — with a few open questions",
+    desc: "A lot of poly-typical values are already there for you: curiosity, willingness to communicate, wanting more personal space. At the same time, some questions are still open — and that's completely fine. Polyamory rarely starts with a finished answer, but with honest conversations — with yourself and with the people who matter to you.",
+    ctaGhostLabel: 'Take a look at Roster',
+    ctaGhostHref: APP_STORE_URL,
+  },
+  {
+    min: 25,
+    max: 36,
+    eyebrow: 'Your result',
+    title: 'Polyamory could be a great fit for you',
+    desc: "Your answers show a lot of the mindset that makes polyamorous relationships work: you don't see love as a limited resource, you can sit with uncertainty, and you see communication as a tool rather than a chore. If you (or your network) want to keep track of multiple relationships — that's exactly what Roster is built for.",
+    ctaLabel: 'Get Roster on the App Store',
+    ctaHref: APP_STORE_URL,
+  },
+];
+
+const relatedPosts = [
+  { slug: 'what-is-polyamory', title: 'What Is Polyamory? Meaning, Definition and the Basics Explained' },
+  { slug: 'jealousy-polyamory', title: 'Jealousy in Polyamorous Relationships: 7 Strategies That Actually Help' },
+  { slug: 'polyamory-vs-open-relationship', title: "Polyamory vs. Open Relationship: What's the Difference?" },
+];
+
+const alternates = [
+  { hreflang: 'de', href: `https://rosterapp.tech/${QUIZ_SLUG.de}` },
+  { hreflang: 'en', href: `https://rosterapp.tech/en/${QUIZ_SLUG.en}` },
+  { hreflang: 'nl', href: `https://rosterapp.tech/nl/${QUIZ_SLUG.nl}` },
+  { hreflang: 'es', href: `https://rosterapp.tech/es/${QUIZ_SLUG.es}` },
+  { hreflang: 'da', href: `https://rosterapp.tech/da/${QUIZ_SLUG.da}` },
+  { hreflang: 'sv', href: `https://rosterapp.tech/sv/${QUIZ_SLUG.sv}` },
+  { hreflang: 'pt-BR', href: `https://rosterapp.tech/pt/${QUIZ_SLUG.pt}` },
+  { hreflang: 'x-default', href: `https://rosterapp.tech/${QUIZ_SLUG.de}` },
+];
+---
+
+<BaseLayout
+  lang={lang}
+  path={`/${QUIZ_SLUG.en}`}
+  title="Polyamory Quiz: Is Polyamory Right for You? | Roster"
+  description="Find out in 12 questions whether polyamory could be right for you. Anonymous and free — your answers never leave your browser."
+  alternates={alternates}
+>
+  <Header lang={lang} />
+
+  <main>
+    <section class="quiz-section">
+      <div class="container">
+        <PolyQuiz
+          title="Is Polyamory Right for You?"
+          intro="12 questions, answered honestly. No account, no email — your answers stay in your browser and are never stored or uploaded."
+          metaLine="12 questions · about 3 minutes · no sign-up, nothing saved"
+          startLabel="Start the quiz"
+          stepTemplate="Question {n} of {total}"
+          nextLabel="Next"
+          backLabel="Back"
+          resultLabel="See my result"
+          restartLabel="Take the quiz again"
+          noscriptText="This quiz needs JavaScript — the scoring runs entirely in your browser, nothing is sent to a server."
+          questions={questions}
+          results={results}
+        />
+      </div>
+    </section>
+
+    <section class="related">
+      <div class="container">
+        <p class="eyebrow">More on this topic</p>
+        <div class="related-grid">
+          {
+            relatedPosts.map((p) => (
+              <a href={`/en/blog/${p.slug}`} class="card related-card">
+                {p.title}
+              </a>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .quiz-section {
+    padding-top: clamp(48px, 7vw, 88px);
+  }
+  .related {
+    padding-top: 0;
+  }
+  .related .eyebrow {
+    text-align: center;
+    display: block;
+  }
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    max-width: 900px;
+    margin-inline: auto;
+  }
+  .related-card {
+    color: var(--text);
+    font-size: 0.92rem;
+    text-decoration: none;
+  }
+  .related-card:hover {
+    border-color: var(--purple);
+    text-decoration: none;
+  }
+  @media (max-width: 720px) {
+    .related-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

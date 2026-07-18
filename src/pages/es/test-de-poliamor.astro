@@ -1,0 +1,251 @@
+---
+export const prerender = true;
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import PolyQuiz, { type QuizQuestion, type QuizResultTier } from '../../components/PolyQuiz.astro';
+import { QUIZ_SLUG } from '../../i18n/quizPath';
+
+const lang = 'es';
+const APP_STORE_URL = 'https://apps.apple.com/app/roster-polyamory-tracker/id6786782804';
+
+const questions: QuizQuestion[] = [
+  {
+    text: 'Si tu pareja se enamora de otra persona, tu primer pensamiento sería probablemente…',
+    answers: [
+      { text: 'Me sentiría profundamente inseguro/a – necesitaría saber enseguida que sigo siendo el/la número uno.', points: 0 },
+      { text: 'Me preocuparía, pero intentaría sobrellevarlo.', points: 1 },
+      { text: 'Sentiría curiosidad por cómo se siente para todas las personas implicadas, aunque quede algo de inseguridad.', points: 2 },
+      { text: 'Me alegraría por ellos, siempre que no dañe nuestra relación.', points: 3 },
+    ],
+  },
+  {
+    text: 'Tu idea de "el gran amor" es…',
+    answers: [
+      { text: 'Exactamente lo que busco: una sola persona con quien compartir mi vida.', points: 0 },
+      { text: 'Bonita, pero no sé si la necesito.', points: 1 },
+      { text: 'Bastante ajena – creo que el amor no se puede limitar a una sola persona.', points: 2 },
+      { text: 'Un concepto que no tiene mucho sentido para mí – puedo amar profundamente a varias personas a la vez.', points: 3 },
+    ],
+  },
+  {
+    text: '¿Qué tan importante es para ti la exclusividad sexual en una relación estable?',
+    answers: [
+      { text: 'Muy importante – tener sexo con otra persona sería una traición de confianza.', points: 0 },
+      { text: 'Importante, pero negociable en ciertas circunstancias.', points: 1 },
+      { text: 'No demasiado – mientras se comunique con honestidad, no es un problema para mí.', points: 2 },
+      { text: 'Poco importante – no relaciono el amor necesariamente con la exclusividad sexual.', points: 3 },
+    ],
+  },
+  {
+    text: 'Tu pareja tiene una cita con otra persona esta noche. ¿Qué sientes?',
+    answers: [
+      { text: 'Puro estrés – haría todo lo posible para que no pasara.', points: 0 },
+      { text: 'Una sensación incómoda que intentaría guardarme para mí.', points: 1 },
+      { text: 'Sentimientos encontrados – algo de inseguridad, pero también curiosidad genuina por cómo fue la noche.', points: 2 },
+      { text: 'Ganas de escuchar las historias que traiga.', points: 3 },
+    ],
+  },
+  {
+    text: '¿Cómo sueles manejar los celos?',
+    answers: [
+      { text: 'Evito en la medida de lo posible las situaciones que puedan provocar celos.', points: 0 },
+      { text: 'Los noto, pero rara vez hablo de ellos abiertamente.', points: 1 },
+      { text: 'Los nombro e intento entender qué hay realmente detrás.', points: 2 },
+      { text: 'Los veo como información sobre mí, no como una señal de stop para los demás.', points: 3 },
+    ],
+  },
+  {
+    text: '¿Cuánto espacio propio necesitas en una relación?',
+    answers: [
+      { text: 'No mucho – prefiero pasar mi tiempo con una sola persona.', points: 0 },
+      { text: 'Algo de tiempo para mí, pero mi día a día gira claramente en torno a una relación.', points: 1 },
+      { text: 'Bastante – mis propias amistades, aficiones y cercanía fuera de la relación son importantes para mí.', points: 2 },
+      { text: 'Mucho – quiero repartir libremente mi tiempo, energía y cercanía entre varias personas.', points: 3 },
+    ],
+  },
+  {
+    text: '¿Qué opinas de los acuerdos fijos en las relaciones (p. ej. reglas de sexo seguro, pasar la noche fuera)?',
+    answers: [
+      { text: 'Las reglas son algo natural para mí – la exclusividad es básicamente la única regla que necesito.', points: 0 },
+      { text: 'Creo que los acuerdos claros son importantes, pero pienso más en términos de una sola relación.', points: 1 },
+      { text: 'Creo que los acuerdos tienen sentido siempre que se negocien juntos y no nazcan del control.', points: 2 },
+      { text: 'Prefiero pocos acuerdos, flexibles – cada relación debería poder encontrar su propia forma.', points: 3 },
+    ],
+  },
+  {
+    text: '¿Cómo reaccionas cuando hay que cambiar planes por la relación de tu pareja con otra persona?',
+    answers: [
+      { text: 'Me molestaría mucho – espero tener prioridad.', points: 0 },
+      { text: 'Me resultaría incómodo, pero lo aceptaría si es algo poco frecuente.', points: 1 },
+      { text: 'No es gran problema, siempre que se comunique con antelación y honestidad.', points: 2 },
+      { text: 'Totalmente normal – el tiempo se puede repartir con justicia sin que nadie tenga prioridad automática.', points: 3 },
+    ],
+  },
+  {
+    text: '¿Qué estructura de relación te suena más adecuada?',
+    answers: [
+      { text: 'Dos personas que lo son todo la una para la otra.', points: 0 },
+      { text: 'Una relación principal en la que ambas personas están claramente en primer lugar.', points: 1 },
+      { text: 'Una relación principal con espacio para otras conexiones menos vinculantes.', points: 2 },
+      { text: 'Varias relaciones equivalentes, sin jerarquía fija.', points: 3 },
+    ],
+  },
+  {
+    text: '¿Qué tan importante es para ti la seguridad en la planificación (calendario, horarios fijos) en las relaciones?',
+    answers: [
+      { text: 'Muy importante – los cambios de planes repentinos por otras relaciones me estresarían.', points: 0 },
+      { text: 'Importante, pero puedo vivir con cambios ocasionales.', points: 1 },
+      { text: 'Media – me gusta coordinar a varias personas en el calendario, aunque requiera organización.', points: 2 },
+      { text: 'Veo la buena organización más como una parte interesante que como una carga – coordinar varias relaciones no me supone un problema.', points: 3 },
+    ],
+  },
+  {
+    text: '¿Qué piensas sobre la cercanía emocional con varias personas a la vez?',
+    answers: [
+      { text: 'Creo que la verdadera profundidad emocional solo es posible con una persona a la vez.', points: 0 },
+      { text: 'Puedo imaginármelo en teoría, pero me resulta ajeno.', points: 1 },
+      { text: 'Creo que es posible, aunque requiere mucha autorreflexión.', points: 2 },
+      { text: 'Ya lo vivo así, o puedo imaginármelo muy bien para mí.', points: 3 },
+    ],
+  },
+  {
+    text: '¿Qué describe mejor tu motivación actual para hacer este test?',
+    answers: [
+      { text: 'Pura curiosidad – el poliamor realmente no es una opción para mí.', points: 0 },
+      { text: 'No estoy seguro/a de si esto podría ser algo para mí.', points: 1 },
+      { text: 'Llevo tiempo pensando en el tema y quiero tener más claridad.', points: 2 },
+      { text: 'Ya vivo de forma poliamorosa o estoy bastante seguro/a de que encaja conmigo.', points: 3 },
+    ],
+  },
+];
+
+const results: QuizResultTier[] = [
+  {
+    min: 0,
+    max: 12,
+    eyebrow: 'Tu resultado',
+    title: 'La monogamia probablemente encaja mejor contigo ahora mismo',
+    desc: 'Tus respuestas apuntan a que la exclusividad, la fiabilidad y centrarte en una sola relación te dan seguridad. Eso no es ni mejor ni peor que el poliamor – solo otra respuesta a la misma pregunta: ¿cómo quiero amar? Si aun así el tema te interesa, nunca está de más leer más al respecto.',
+    ctaGhostLabel: '¿Qué es el poliamor exactamente? →',
+    ctaGhostHref: '/es/blog/que-es-el-poliamor',
+  },
+  {
+    min: 13,
+    max: 24,
+    eyebrow: 'Tu resultado',
+    title: 'Estás abierto/a – con algunas preguntas pendientes',
+    desc: 'En ti ya hay bastantes valores típicos del poliamor: curiosidad, disposición a comunicarte, deseo de más espacio propio. Al mismo tiempo, todavía hay preguntas abiertas, y eso está totalmente bien. El poliamor rara vez empieza con una respuesta cerrada, sino con conversaciones sinceras: contigo mismo/a y con las personas que te importan.',
+    ctaGhostLabel: 'Echa un vistazo a Roster',
+    ctaGhostHref: APP_STORE_URL,
+  },
+  {
+    min: 25,
+    max: 36,
+    eyebrow: 'Tu resultado',
+    title: 'El poliamor podría encajar bien contigo',
+    desc: 'Tus respuestas muestran muchas de las actitudes que sostienen las relaciones poliamorosas: no ves el amor como un recurso limitado, sabes convivir con la incertidumbre y ves la comunicación como una herramienta, no como una carga. Si tú (o tu red de relaciones) queréis mantener el control sobre varias relaciones, para eso está hecho Roster.',
+    ctaLabel: 'Descargar Roster en la App Store',
+    ctaHref: APP_STORE_URL,
+  },
+];
+
+const relatedPosts = [
+  { slug: 'que-es-el-poliamor', title: 'Poliamor: ¿qué es exactamente? Significado, definición y lo esencial' },
+  { slug: 'celos-poliamoria', title: 'Los celos en las relaciones poliamorosas: 7 estrategias que realmente ayudan' },
+  { slug: 'poliamoria-vs-relacion-abierta', title: 'Poliamoria vs. relación abierta: ¿Cuál es la diferencia?' },
+];
+
+const alternates = [
+  { hreflang: 'de', href: `https://rosterapp.tech/${QUIZ_SLUG.de}` },
+  { hreflang: 'en', href: `https://rosterapp.tech/en/${QUIZ_SLUG.en}` },
+  { hreflang: 'nl', href: `https://rosterapp.tech/nl/${QUIZ_SLUG.nl}` },
+  { hreflang: 'es', href: `https://rosterapp.tech/es/${QUIZ_SLUG.es}` },
+  { hreflang: 'da', href: `https://rosterapp.tech/da/${QUIZ_SLUG.da}` },
+  { hreflang: 'sv', href: `https://rosterapp.tech/sv/${QUIZ_SLUG.sv}` },
+  { hreflang: 'pt-BR', href: `https://rosterapp.tech/pt/${QUIZ_SLUG.pt}` },
+  { hreflang: 'x-default', href: `https://rosterapp.tech/${QUIZ_SLUG.de}` },
+];
+---
+
+<BaseLayout
+  lang={lang}
+  path={`/${QUIZ_SLUG.es}`}
+  title="Test de poliamor: ¿Encaja el poliamor contigo? | Roster"
+  description="Descubre en 12 preguntas si el poliamor podría encajar contigo. Anónimo y gratuito – tus respuestas nunca salen de tu navegador."
+  alternates={alternates}
+>
+  <Header lang={lang} />
+
+  <main>
+    <section class="quiz-section">
+      <div class="container">
+        <PolyQuiz
+          title="¿Encaja el poliamor contigo?"
+          intro="12 preguntas, respondidas con sinceridad. Sin cuenta, sin correo electrónico – tus respuestas se quedan en tu navegador y no se guardan ni se suben a ningún sitio."
+          metaLine="12 preguntas · unos 3 minutos · sin registro, sin almacenamiento"
+          startLabel="Empezar el test"
+          stepTemplate="Pregunta {n} de {total}"
+          nextLabel="Siguiente"
+          backLabel="Atrás"
+          resultLabel="Ver mi resultado"
+          restartLabel="Repetir el test"
+          noscriptText="Este test necesita JavaScript – el resultado se calcula por completo en tu navegador, sin enviar nada a un servidor."
+          questions={questions}
+          results={results}
+        />
+      </div>
+    </section>
+
+    <section class="related">
+      <div class="container">
+        <p class="eyebrow">Más sobre este tema</p>
+        <div class="related-grid">
+          {
+            relatedPosts.map((p) => (
+              <a href={`/es/blog/${p.slug}`} class="card related-card">
+                {p.title}
+              </a>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .quiz-section {
+    padding-top: clamp(48px, 7vw, 88px);
+  }
+  .related {
+    padding-top: 0;
+  }
+  .related .eyebrow {
+    text-align: center;
+    display: block;
+  }
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    max-width: 900px;
+    margin-inline: auto;
+  }
+  .related-card {
+    color: var(--text);
+    font-size: 0.92rem;
+    text-decoration: none;
+  }
+  .related-card:hover {
+    border-color: var(--purple);
+    text-decoration: none;
+  }
+  @media (max-width: 720px) {
+    .related-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

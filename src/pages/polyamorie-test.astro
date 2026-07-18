@@ -1,0 +1,251 @@
+---
+export const prerender = true;
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import PolyQuiz, { type QuizQuestion, type QuizResultTier } from '../components/PolyQuiz.astro';
+import { QUIZ_SLUG } from '../i18n/quizPath';
+
+const lang = 'de';
+const APP_STORE_URL = 'https://apps.apple.com/app/roster-polyamory-tracker/id6786782804';
+
+const questions: QuizQuestion[] = [
+  {
+    text: 'Wenn dein:e Partner:in sich in eine andere Person verliebt, ist dein erster Gedanke am ehesten …',
+    answers: [
+      { text: 'Das würde mich zutiefst verunsichern – ich bräuchte danach völlige Klarheit, dass ich immer noch die Nummer eins bin.', points: 0 },
+      { text: 'Ich würde mir Sorgen machen, aber grundsätzlich versuchen, es auszuhalten.', points: 1 },
+      { text: 'Ich wäre neugierig, wie sich das für alle Beteiligten anfühlt – auch wenn ein Rest Unsicherheit bleibt.', points: 2 },
+      { text: 'Ich würde mich mitfreuen, solange es unserer Beziehung nicht schadet.', points: 3 },
+    ],
+  },
+  {
+    text: 'Deine Vorstellung von „der einen großen Liebe" ist …',
+    answers: [
+      { text: 'Genau das, wonach ich suche – eine einzige Person, mit der ich mein Leben teile.', points: 0 },
+      { text: 'Schön, aber ich weiß nicht, ob ich das für mich brauche.', points: 1 },
+      { text: 'Eher fremd – ich glaube, Liebe lässt sich nicht auf eine Person begrenzen.', points: 2 },
+      { text: 'Ein Konzept, das für mich keinen Sinn ergibt – ich kann mehrere Menschen gleichzeitig tief lieben.', points: 3 },
+    ],
+  },
+  {
+    text: 'Wie wichtig ist dir sexuelle Exklusivität in einer festen Beziehung?',
+    answers: [
+      { text: 'Sehr wichtig – Sex mit anderen wäre für mich ein Vertrauensbruch.', points: 0 },
+      { text: 'Wichtig, aber unter bestimmten Umständen verhandelbar.', points: 1 },
+      { text: 'Nicht besonders – solange offen kommuniziert wird, ist das für mich kein Problem.', points: 2 },
+      { text: 'Unwichtig – ich verbinde Liebe nicht zwangsläufig mit sexueller Exklusivität.', points: 3 },
+    ],
+  },
+  {
+    text: 'Dein:e Partner:in hat heute Abend ein Date mit jemand anderem. Was fühlst du?',
+    answers: [
+      { text: 'Puren Stress – ich würde alles tun, damit das nicht passiert.', points: 0 },
+      { text: 'Ein mulmiges Gefühl, das ich versuchen würde, für mich zu behalten.', points: 1 },
+      { text: 'Gemischte Gefühle – etwas Unsicherheit, aber auch echtes Interesse, wie der Abend war.', points: 2 },
+      { text: 'Vorfreude auf die Geschichten, die sie/er mitbringt.', points: 3 },
+    ],
+  },
+  {
+    text: 'Wie gehst du grundsätzlich mit Eifersucht um?',
+    answers: [
+      { text: 'Ich vermeide Situationen, die Eifersucht auslösen könnten, so gut es geht.', points: 0 },
+      { text: 'Ich merke sie, sage aber selten offen etwas dazu.', points: 1 },
+      { text: 'Ich spreche sie an und versuche zu verstehen, was eigentlich dahintersteckt.', points: 2 },
+      { text: 'Ich sehe sie als Info über mich selbst, nicht als Stoppsignal für andere.', points: 3 },
+    ],
+  },
+  {
+    text: 'Wie viel Freiraum brauchst du in einer Beziehung?',
+    answers: [
+      { text: 'Nicht viel – ich verbringe meine Zeit am liebsten mit einer Person.', points: 0 },
+      { text: 'Etwas eigene Zeit, aber der Alltag ist klar auf eine Beziehung ausgerichtet.', points: 1 },
+      { text: 'Recht viel – eigene Freundschaften, Hobbys und Nähe außerhalb der Beziehung sind mir wichtig.', points: 2 },
+      { text: 'Sehr viel – ich will meine Zeit, Energie und Nähe frei auf mehrere Menschen verteilen können.', points: 3 },
+    ],
+  },
+  {
+    text: 'Wie stehst du zu festen Absprachen in Beziehungen (z. B. Safer-Sex-Regeln, Übernachtungen)?',
+    answers: [
+      { text: 'Regeln sind für mich selbstverständlich – Exklusivität ist im Grunde die einzige Regel, die ich brauche.', points: 0 },
+      { text: 'Ich finde klare Absprachen wichtig, denke aber eher in einer Zweierbeziehung.', points: 1 },
+      { text: 'Ich finde Vereinbarungen sinnvoll, solange sie gemeinsam ausgehandelt werden und nicht aus Kontrolle entstehen.', points: 2 },
+      { text: 'Ich bevorzuge wenige, flexible Vereinbarungen – jede Beziehung sollte ihre eigene Form finden dürfen.', points: 3 },
+    ],
+  },
+  {
+    text: 'Wie reagierst du, wenn Pläne wegen der Beziehung deines/deiner Partner:in mit jemand anderem verschoben werden müssen?',
+    answers: [
+      { text: 'Das würde mich sehr stören – ich erwarte, dass ich Priorität habe.', points: 0 },
+      { text: 'Ich fände es unangenehm, würde es aber akzeptieren, wenn es selten vorkommt.', points: 1 },
+      { text: 'Kein großes Problem, solange offen und rechtzeitig kommuniziert wird.', points: 2 },
+      { text: 'Völlig normal – Zeit lässt sich fair aufteilen, ohne dass jemand automatisch Vorrang hat.', points: 3 },
+    ],
+  },
+  {
+    text: 'Welche Beziehungsstruktur klingt für dich am stimmigsten?',
+    answers: [
+      { text: 'Zwei Menschen, die sich gegenseitig alles sind.', points: 0 },
+      { text: 'Eine Hauptbeziehung, in der beide klar an erster Stelle stehen.', points: 1 },
+      { text: 'Eine Hauptbeziehung mit Raum für weitere, weniger verbindliche Verbindungen.', points: 2 },
+      { text: 'Mehrere gleichwertige Beziehungen, ohne feste Hierarchie.', points: 3 },
+    ],
+  },
+  {
+    text: 'Wie wichtig ist dir Planungssicherheit (Kalender, feste Zeiten) in Beziehungen?',
+    answers: [
+      { text: 'Sehr wichtig – spontane Planänderungen wegen anderer Beziehungen würden mich stressen.', points: 0 },
+      { text: 'Wichtig, aber ich kann mit gelegentlichen Änderungen leben.', points: 1 },
+      { text: 'Mittel – ich mag es, wenn mehrere Menschen im Kalender koordiniert werden, auch wenn es Organisation braucht.', points: 2 },
+      { text: 'Ich sehe gute Organisation eher als spannenden Teil als als Last – mehrere Beziehungen zu koordinieren macht mir nichts aus.', points: 3 },
+    ],
+  },
+  {
+    text: 'Wie denkst du über emotionale Nähe zu mehreren Menschen gleichzeitig?',
+    answers: [
+      { text: 'Ich glaube, echte emotionale Tiefe ist nur mit einer Person gleichzeitig möglich.', points: 0 },
+      { text: 'Ich kann mir das theoretisch vorstellen, aber es fühlt sich für mich fremd an.', points: 1 },
+      { text: 'Ich glaube, das ist möglich, auch wenn es viel Selbstreflexion braucht.', points: 2 },
+      { text: 'Ich erlebe das bereits so oder kann es mir sehr gut für mich vorstellen.', points: 3 },
+    ],
+  },
+  {
+    text: 'Was beschreibt deine aktuelle Motivation für diesen Test am besten?',
+    answers: [
+      { text: 'Reine Neugier – für mich persönlich kommt Polyamorie eigentlich nicht infrage.', points: 0 },
+      { text: 'Ich bin unsicher, ob das etwas für mich sein könnte.', points: 1 },
+      { text: 'Ich beschäftige mich schon länger mit dem Thema und will mehr Klarheit.', points: 2 },
+      { text: 'Ich lebe bereits polyamor oder bin mir ziemlich sicher, dass es zu mir passt.', points: 3 },
+    ],
+  },
+];
+
+const results: QuizResultTier[] = [
+  {
+    min: 0,
+    max: 12,
+    eyebrow: 'Dein Ergebnis',
+    title: 'Monogamie passt aktuell wahrscheinlich besser zu dir',
+    desc: 'Deine Antworten zeigen: Exklusivität, Verlässlichkeit und der Fokus auf eine Partnerschaft geben dir Sicherheit. Das ist weder besser noch schlechter als Polyamorie – nur eine andere Antwort auf dieselbe Frage: Wie will ich lieben? Falls dich das Thema trotzdem interessiert, schadet es nie, mehr darüber zu lesen.',
+    ctaGhostLabel: 'Was ist Polyamorie überhaupt? →',
+    ctaGhostHref: '/blog/was-ist-polyamorie',
+  },
+  {
+    min: 13,
+    max: 24,
+    eyebrow: 'Dein Ergebnis',
+    title: 'Du bist offen – mit ein paar Fragezeichen',
+    desc: 'Bei dir ist schon einiges an poly-typischen Werten da: Neugier, Kommunikationsbereitschaft, der Wunsch nach mehr Freiraum. Gleichzeitig gibt es noch offene Fragen – und das ist völlig okay. Polyamorie beginnt selten mit einer fertigen Antwort, sondern mit ehrlichen Gesprächen: mit dir selbst und mit den Menschen, die dir wichtig sind.',
+    ctaGhostLabel: 'Roster im App Store ansehen',
+    ctaGhostHref: APP_STORE_URL,
+  },
+  {
+    min: 25,
+    max: 36,
+    eyebrow: 'Dein Ergebnis',
+    title: 'Polyamorie könnte gut zu dir passen',
+    desc: 'Deine Antworten zeigen viele Grundhaltungen, die polyamore Beziehungen tragen: Du denkst Liebe nicht als begrenzte Ressource, kannst mit Unsicherheit umgehen und siehst Kommunikation eher als Werkzeug denn als Pflicht. Falls du (oder dein Netzwerk) den Überblick über mehrere Beziehungen behalten wollt – dafür ist Roster gebaut.',
+    ctaLabel: 'Roster im App Store laden',
+    ctaHref: APP_STORE_URL,
+  },
+];
+
+const relatedPosts = [
+  { slug: 'was-ist-polyamorie', title: 'Polyamorie: Was ist das? Bedeutung, Definition und die wichtigsten Grundlagen' },
+  { slug: 'eifersucht-polyamorie', title: 'Eifersucht in polyamoren Beziehungen: 7 Strategien, die wirklich helfen' },
+  { slug: 'polyamorie-vs-offene-beziehung', title: 'Polyamorie vs. offene Beziehung: Wo liegt der Unterschied?' },
+];
+
+const alternates = [
+  { hreflang: 'de', href: `https://rosterapp.tech/${QUIZ_SLUG.de}` },
+  { hreflang: 'en', href: `https://rosterapp.tech/en/${QUIZ_SLUG.en}` },
+  { hreflang: 'nl', href: `https://rosterapp.tech/nl/${QUIZ_SLUG.nl}` },
+  { hreflang: 'es', href: `https://rosterapp.tech/es/${QUIZ_SLUG.es}` },
+  { hreflang: 'da', href: `https://rosterapp.tech/da/${QUIZ_SLUG.da}` },
+  { hreflang: 'sv', href: `https://rosterapp.tech/sv/${QUIZ_SLUG.sv}` },
+  { hreflang: 'pt-BR', href: `https://rosterapp.tech/pt/${QUIZ_SLUG.pt}` },
+  { hreflang: 'x-default', href: `https://rosterapp.tech/${QUIZ_SLUG.de}` },
+];
+---
+
+<BaseLayout
+  lang={lang}
+  path={`/${QUIZ_SLUG.de}`}
+  title="Polyamorie-Test: Passt Polyamorie zu dir? | Roster"
+  description="Finde in 12 Fragen heraus, ob Polyamorie zu dir passen könnte. Anonym und kostenlos – deine Antworten verlassen nie deinen Browser."
+  alternates={alternates}
+>
+  <Header lang={lang} />
+
+  <main>
+    <section class="quiz-section">
+      <div class="container">
+        <PolyQuiz
+          title="Passt Polyamorie zu dir?"
+          intro="12 Fragen, ehrlich beantwortet. Kein Konto, keine E-Mail – deine Antworten bleiben in deinem Browser und werden nirgendwo gespeichert oder hochgeladen."
+          metaLine="12 Fragen · ca. 3 Minuten · keine Anmeldung, keine Speicherung"
+          startLabel="Test starten"
+          stepTemplate="Frage {n} von {total}"
+          nextLabel="Weiter"
+          backLabel="Zurück"
+          resultLabel="Ergebnis anzeigen"
+          restartLabel="Test nochmal machen"
+          noscriptText="Für diesen Test wird JavaScript benötigt – die Auswertung läuft komplett in deinem Browser, ohne Übertragung an einen Server."
+          questions={questions}
+          results={results}
+        />
+      </div>
+    </section>
+
+    <section class="related">
+      <div class="container">
+        <p class="eyebrow">Mehr zum Thema</p>
+        <div class="related-grid">
+          {
+            relatedPosts.map((p) => (
+              <a href={`/blog/${p.slug}`} class="card related-card">
+                {p.title}
+              </a>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .quiz-section {
+    padding-top: clamp(48px, 7vw, 88px);
+  }
+  .related {
+    padding-top: 0;
+  }
+  .related .eyebrow {
+    text-align: center;
+    display: block;
+  }
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    max-width: 900px;
+    margin-inline: auto;
+  }
+  .related-card {
+    color: var(--text);
+    font-size: 0.92rem;
+    text-decoration: none;
+  }
+  .related-card:hover {
+    border-color: var(--purple);
+    text-decoration: none;
+  }
+  @media (max-width: 720px) {
+    .related-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

@@ -1,0 +1,251 @@
+---
+export const prerender = true;
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import PolyQuiz, { type QuizQuestion, type QuizResultTier } from '../../components/PolyQuiz.astro';
+import { QUIZ_SLUG } from '../../i18n/quizPath';
+
+const lang = 'pt';
+const APP_STORE_URL = 'https://apps.apple.com/app/roster-polyamory-tracker/id6786782804';
+
+const questions: QuizQuestion[] = [
+  {
+    text: 'Se seu parceiro ou parceira se apaixona por outra pessoa, seu primeiro pensamento provavelmente é…',
+    answers: [
+      { text: 'Isso me deixaria profundamente inseguro/a – eu precisaria ter certeza logo de que ainda sou o número um.', points: 0 },
+      { text: 'Eu ficaria preocupado/a, mas tentaria lidar com isso.', points: 1 },
+      { text: 'Eu ficaria curioso/a sobre como isso é para todos os envolvidos – mesmo com um resquício de insegurança.', points: 2 },
+      { text: 'Eu ficaria feliz por eles, desde que não prejudique nosso relacionamento.', points: 3 },
+    ],
+  },
+  {
+    text: 'Sua ideia de "o grande amor" é…',
+    answers: [
+      { text: 'Exatamente o que eu busco – uma única pessoa para compartilhar minha vida.', points: 0 },
+      { text: 'Bonita, mas não sei se preciso disso.', points: 1 },
+      { text: 'Meio estranha – acho que o amor não pode ser limitado a uma pessoa.', points: 2 },
+      { text: 'Um conceito que não faz muito sentido para mim – posso amar profundamente várias pessoas ao mesmo tempo.', points: 3 },
+    ],
+  },
+  {
+    text: 'Quão importante é a exclusividade sexual para você em um relacionamento sério?',
+    answers: [
+      { text: 'Muito importante – fazer sexo com outra pessoa seria uma quebra de confiança.', points: 0 },
+      { text: 'Importante, mas negociável em certas circunstâncias.', points: 1 },
+      { text: 'Não muito importante – desde que haja comunicação aberta, não é um problema para mim.', points: 2 },
+      { text: 'Pouco importante – não associo o amor necessariamente à exclusividade sexual.', points: 3 },
+    ],
+  },
+  {
+    text: 'Seu parceiro ou parceira tem um encontro com outra pessoa hoje à noite. O que você sente?',
+    answers: [
+      { text: 'Puro estresse – eu faria de tudo para impedir isso.', points: 0 },
+      { text: 'Uma sensação incômoda que eu tentaria guardar para mim mesmo/a.', points: 1 },
+      { text: 'Sentimentos misturados – alguma insegurança, mas também curiosidade genuína sobre como foi a noite.', points: 2 },
+      { text: 'Expectativa pelas histórias que essa pessoa vai trazer.', points: 3 },
+    ],
+  },
+  {
+    text: 'Como você costuma lidar com o ciúme?',
+    answers: [
+      { text: 'Evito o máximo possível situações que possam provocar ciúme.', points: 0 },
+      { text: 'Eu percebo, mas raramente falo abertamente sobre isso.', points: 1 },
+      { text: 'Eu nomeio o que sinto e tento entender o que realmente está por trás.', points: 2 },
+      { text: 'Vejo o ciúme como informação sobre mim mesmo/a, não como um sinal de alerta para os outros.', points: 3 },
+    ],
+  },
+  {
+    text: 'De quanto espaço próprio você precisa em um relacionamento?',
+    answers: [
+      { text: 'Não muito – prefiro passar meu tempo com uma só pessoa.', points: 0 },
+      { text: 'Um pouco de tempo para mim, mas o dia a dia gira claramente em torno de um relacionamento.', points: 1 },
+      { text: 'Bastante – amizades próprias, hobbies e proximidade fora do relacionamento são importantes para mim.', points: 2 },
+      { text: 'Muito – quero poder distribuir livremente meu tempo, energia e proximidade entre várias pessoas.', points: 3 },
+    ],
+  },
+  {
+    text: 'O que você pensa sobre acordos fixos em relacionamentos (por exemplo, regras de sexo seguro, dormir fora)?',
+    answers: [
+      { text: 'Regras são naturais para mim – exclusividade é basicamente a única regra de que preciso.', points: 0 },
+      { text: 'Acho acordos claros importantes, mas penso principalmente em termos de um relacionamento.', points: 1 },
+      { text: 'Acho que acordos fazem sentido, desde que sejam negociados em conjunto e não nasçam de controle.', points: 2 },
+      { text: 'Prefiro poucos acordos, flexíveis – cada relacionamento deveria poder encontrar sua própria forma.', points: 3 },
+    ],
+  },
+  {
+    text: 'Como você reage quando planos precisam mudar por causa do relacionamento do seu parceiro ou parceira com outra pessoa?',
+    answers: [
+      { text: 'Isso me incomodaria muito – espero ter prioridade.', points: 0 },
+      { text: 'Eu acharia desconfortável, mas aceitaria se fosse raro.', points: 1 },
+      { text: 'Não é um grande problema, desde que seja comunicado com antecedência e honestidade.', points: 2 },
+      { text: 'Totalmente normal – o tempo pode ser dividido de forma justa sem que ninguém tenha prioridade automática.', points: 3 },
+    ],
+  },
+  {
+    text: 'Qual estrutura de relacionamento soa mais certa para você?',
+    answers: [
+      { text: 'Duas pessoas que são tudo uma para a outra.', points: 0 },
+      { text: 'Um relacionamento principal em que ambos claramente estão em primeiro lugar.', points: 1 },
+      { text: 'Um relacionamento principal com espaço para outras conexões, menos vinculantes.', points: 2 },
+      { text: 'Vários relacionamentos equivalentes, sem hierarquia fixa.', points: 3 },
+    ],
+  },
+  {
+    text: 'Quão importante é a previsibilidade de planejamento (agenda, horários fixos) para você nos relacionamentos?',
+    answers: [
+      { text: 'Muito importante – mudanças repentinas de planos por causa de outros relacionamentos me estressariam.', points: 0 },
+      { text: 'Importante, mas consigo lidar com mudanças ocasionais.', points: 1 },
+      { text: 'Média – gosto de coordenar várias pessoas na agenda, mesmo que exija organização.', points: 2 },
+      { text: 'Vejo a boa organização mais como uma parte interessante do que como um fardo – coordenar vários relacionamentos não me incomoda.', points: 3 },
+    ],
+  },
+  {
+    text: 'O que você pensa sobre proximidade emocional com várias pessoas ao mesmo tempo?',
+    answers: [
+      { text: 'Acho que a verdadeira profundidade emocional só é possível com uma pessoa por vez.', points: 0 },
+      { text: 'Consigo imaginar isso na teoria, mas parece estranho para mim.', points: 1 },
+      { text: 'Acho que é possível, embora exija muita autorreflexão.', points: 2 },
+      { text: 'Já vivo isso, ou consigo imaginar muito bem para mim mesmo/a.', points: 3 },
+    ],
+  },
+  {
+    text: 'O que melhor descreve sua motivação atual para fazer este teste?',
+    answers: [
+      { text: 'Pura curiosidade – o poliamor realmente não é uma opção para mim pessoalmente.', points: 0 },
+      { text: 'Não tenho certeza se isso poderia ser algo para mim.', points: 1 },
+      { text: 'Já penso sobre o assunto há um tempo e quero mais clareza.', points: 2 },
+      { text: 'Já vivo de forma poliamorosa ou tenho quase certeza de que combina comigo.', points: 3 },
+    ],
+  },
+];
+
+const results: QuizResultTier[] = [
+  {
+    min: 0,
+    max: 12,
+    eyebrow: 'Seu resultado',
+    title: 'A monogamia provavelmente combina melhor com você agora',
+    desc: 'Suas respostas apontam para exclusividade, confiabilidade e o foco em um relacionamento como o que te dá segurança. Isso não é melhor nem pior do que o poliamor – apenas uma resposta diferente para a mesma pergunta: como eu quero amar? Se o tema ainda te interessa, nunca é demais ler mais sobre ele.',
+    ctaGhostLabel: 'O que é poliamoria, afinal? →',
+    ctaGhostHref: '/pt/blog/o-que-e-poliamoria',
+  },
+  {
+    min: 13,
+    max: 24,
+    eyebrow: 'Seu resultado',
+    title: 'Você está aberto/a – com algumas dúvidas',
+    desc: 'Em você já existem vários valores típicos do poliamor: curiosidade, disposição para comunicar, desejo de mais espaço próprio. Ao mesmo tempo, ainda há perguntas em aberto – e tudo bem. O poliamor raramente começa com uma resposta pronta, mas com conversas sinceras: com você mesmo/a e com as pessoas que importam para você.',
+    ctaGhostLabel: 'Dê uma olhada no Roster',
+    ctaGhostHref: APP_STORE_URL,
+  },
+  {
+    min: 25,
+    max: 36,
+    eyebrow: 'Seu resultado',
+    title: 'O poliamor pode combinar bem com você',
+    desc: 'Suas respostas mostram muitas das posturas que sustentam relacionamentos poliamorosos: você não vê o amor como um recurso limitado, consegue lidar com a incerteza e vê a comunicação como uma ferramenta, não como uma obrigação. Se você (ou sua rede de relacionamentos) quer manter tudo organizado – é exatamente para isso que o Roster foi feito.',
+    ctaLabel: 'Baixar o Roster na App Store',
+    ctaHref: APP_STORE_URL,
+  },
+];
+
+const relatedPosts = [
+  { slug: 'o-que-e-poliamoria', title: 'Poliamoria: o que é exatamente? Significado, definição e o essencial' },
+  { slug: 'ciumes-poliamoria', title: 'Ciúmes nos relacionamentos poliamorosos: 7 estratégias que realmente ajudam' },
+  { slug: 'poliamoria-vs-relacionamento-aberto', title: 'Poliamoria vs. relacionamento aberto: qual é a diferença?' },
+];
+
+const alternates = [
+  { hreflang: 'de', href: `https://rosterapp.tech/${QUIZ_SLUG.de}` },
+  { hreflang: 'en', href: `https://rosterapp.tech/en/${QUIZ_SLUG.en}` },
+  { hreflang: 'nl', href: `https://rosterapp.tech/nl/${QUIZ_SLUG.nl}` },
+  { hreflang: 'es', href: `https://rosterapp.tech/es/${QUIZ_SLUG.es}` },
+  { hreflang: 'da', href: `https://rosterapp.tech/da/${QUIZ_SLUG.da}` },
+  { hreflang: 'sv', href: `https://rosterapp.tech/sv/${QUIZ_SLUG.sv}` },
+  { hreflang: 'pt-BR', href: `https://rosterapp.tech/pt/${QUIZ_SLUG.pt}` },
+  { hreflang: 'x-default', href: `https://rosterapp.tech/${QUIZ_SLUG.de}` },
+];
+---
+
+<BaseLayout
+  lang={lang}
+  path={`/${QUIZ_SLUG.pt}`}
+  title="Teste de poliamoria: O poliamor combina com você? | Roster"
+  description="Descubra em 12 perguntas se o poliamor pode combinar com você. Anônimo e gratuito – suas respostas nunca saem do seu navegador."
+  alternates={alternates}
+>
+  <Header lang={lang} />
+
+  <main>
+    <section class="quiz-section">
+      <div class="container">
+        <PolyQuiz
+          title="O poliamor combina com você?"
+          intro="12 perguntas, respondidas com sinceridade. Sem conta, sem e-mail – suas respostas ficam no seu navegador e nunca são salvas ou enviadas para lugar nenhum."
+          metaLine="12 perguntas · cerca de 3 minutos · sem cadastro, sem armazenamento"
+          startLabel="Começar o teste"
+          stepTemplate="Pergunta {n} de {total}"
+          nextLabel="Próxima"
+          backLabel="Voltar"
+          resultLabel="Ver meu resultado"
+          restartLabel="Refazer o teste"
+          noscriptText="Este teste precisa de JavaScript – o resultado é calculado inteiramente no seu navegador, sem enviar nada para um servidor."
+          questions={questions}
+          results={results}
+        />
+      </div>
+    </section>
+
+    <section class="related">
+      <div class="container">
+        <p class="eyebrow">Mais sobre o assunto</p>
+        <div class="related-grid">
+          {
+            relatedPosts.map((p) => (
+              <a href={`/pt/blog/${p.slug}`} class="card related-card">
+                {p.title}
+              </a>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .quiz-section {
+    padding-top: clamp(48px, 7vw, 88px);
+  }
+  .related {
+    padding-top: 0;
+  }
+  .related .eyebrow {
+    text-align: center;
+    display: block;
+  }
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    max-width: 900px;
+    margin-inline: auto;
+  }
+  .related-card {
+    color: var(--text);
+    font-size: 0.92rem;
+    text-decoration: none;
+  }
+  .related-card:hover {
+    border-color: var(--purple);
+    text-decoration: none;
+  }
+  @media (max-width: 720px) {
+    .related-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

@@ -1,0 +1,375 @@
+---
+// Kompatibilitaets-Quiz: komplett clientseitig, keine Netzwerk-Requests.
+// Alle Fragen liegen als statisches HTML im DOM (SEO-lesbar), JS blendet
+// sie einzeln ein/aus und rechnet den Score nur im Browser aus. Es wird
+// nichts gespeichert oder uebertragen.
+export interface QuizAnswer {
+  text: string;
+  points: number;
+}
+
+export interface QuizQuestion {
+  text: string;
+  answers: QuizAnswer[];
+}
+
+export interface QuizResultTier {
+  min: number;
+  max: number;
+  eyebrow: string;
+  title: string;
+  desc: string;
+  ctaLabel?: string;
+  ctaHref?: string;
+  ctaGhostLabel?: string;
+  ctaGhostHref?: string;
+}
+
+interface Props {
+  title: string;
+  intro: string;
+  metaLine: string;
+  startLabel: string;
+  stepTemplate: string; // z.B. "Frage {n} von {total}"
+  nextLabel: string;
+  backLabel: string;
+  resultLabel: string;
+  restartLabel: string;
+  noscriptText: string;
+  questions: QuizQuestion[];
+  results: QuizResultTier[];
+}
+
+const {
+  title,
+  intro,
+  metaLine,
+  startLabel,
+  stepTemplate,
+  nextLabel,
+  backLabel,
+  resultLabel,
+  restartLabel,
+  noscriptText,
+  questions,
+  results,
+} = Astro.props;
+---
+
+<div class="poly-quiz">
+  <div class="quiz-start" data-panel="start">
+    <h1>{title}</h1>
+    <p class="lede">{intro}</p>
+    <button type="button" class="btn btn-primary quiz-start-btn">{startLabel}</button>
+    <p class="quiz-meta">{metaLine}</p>
+  </div>
+
+  <noscript>
+    <p class="quiz-noscript">{noscriptText}</p>
+  </noscript>
+
+  <form class="quiz-questions" data-panel="questions" hidden>
+    <div
+      class="quiz-progress"
+      role="progressbar"
+      aria-valuemin="0"
+      aria-valuemax="100"
+      aria-valuenow="0"
+    >
+      <div class="quiz-progress-bar"></div>
+    </div>
+    <p class="quiz-step" data-template={stepTemplate}></p>
+
+    {
+      questions.map((q, i) => (
+        <fieldset class="quiz-question" data-index={i} hidden={i !== 0}>
+          <legend>{q.text}</legend>
+          <div class="quiz-answers">
+            {q.answers.map((a, ai) => (
+              <label class="quiz-answer">
+                <input type="radio" name={`q${i}`} value={a.points} required />
+                <span>{a.text}</span>
+              </label>
+            ))}
+          </div>
+        </fieldset>
+      ))
+    }
+
+    <div class="quiz-nav">
+      <button type="button" class="btn btn-ghost quiz-back" hidden>{backLabel}</button>
+      <button type="button" class="btn btn-primary quiz-next" disabled data-next-label={nextLabel} data-result-label={resultLabel}>{nextLabel}</button>
+    </div>
+  </form>
+
+  <div class="quiz-result" data-panel="result" hidden>
+    {
+      results.map((r, i) => (
+        <div class="quiz-result-tier" data-index={i} data-min={r.min} data-max={r.max} hidden>
+          <p class="eyebrow">{r.eyebrow}</p>
+          <h2>{r.title}</h2>
+          <p class="lede">{r.desc}</p>
+          <div class="quiz-result-actions">
+            {r.ctaLabel && r.ctaHref && (
+              <a href={r.ctaHref} class="btn btn-primary" rel={r.ctaHref.startsWith('http') ? 'noopener' : undefined}>
+                {r.ctaLabel}
+              </a>
+            )}
+            {r.ctaGhostLabel && r.ctaGhostHref && (
+              <a href={r.ctaGhostHref} class="btn btn-ghost" rel={r.ctaGhostHref.startsWith('http') ? 'noopener' : undefined}>
+                {r.ctaGhostLabel}
+              </a>
+            )}
+            <button type="button" class="quiz-restart">{restartLabel}</button>
+          </div>
+        </div>
+      ))
+    }
+  </div>
+</div>
+
+<style>
+  .poly-quiz {
+    max-width: 640px;
+    margin-inline: auto;
+  }
+
+  .quiz-start {
+    text-align: center;
+  }
+  .quiz-start .lede {
+    margin-inline: auto;
+  }
+  .quiz-start .btn {
+    margin-top: 8px;
+  }
+  .quiz-meta {
+    color: var(--text-dim);
+    font-size: 0.88rem;
+    margin-top: 20px;
+  }
+  .quiz-noscript {
+    color: var(--text-muted);
+    text-align: center;
+  }
+
+  .quiz-progress {
+    height: 6px;
+    background: var(--surface-2);
+    border-radius: 999px;
+    overflow: hidden;
+    margin-bottom: 14px;
+  }
+  .quiz-progress-bar {
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(135deg, var(--purple), var(--purple-deep));
+    transition: width 0.3s ease;
+  }
+  .quiz-step {
+    color: var(--text-dim);
+    font-size: 0.85rem;
+    margin: 0 0 24px;
+  }
+
+  .quiz-question {
+    border: none;
+    padding: 0;
+    margin: 0;
+  }
+  .quiz-question legend {
+    font-family: var(--font-display);
+    font-size: clamp(1.25rem, 3vw, 1.55rem);
+    line-height: 1.25;
+    padding: 0;
+    margin-bottom: 22px;
+  }
+  .quiz-answers {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .quiz-answer {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 16px 18px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    background: var(--surface);
+    cursor: pointer;
+    transition: border-color 0.15s ease, background 0.15s ease;
+  }
+  .quiz-answer:hover {
+    border-color: var(--purple);
+  }
+  .quiz-answer input {
+    accent-color: var(--purple);
+    width: 18px;
+    height: 18px;
+    flex-shrink: 0;
+  }
+  .quiz-answer:has(input:checked) {
+    border-color: var(--purple);
+    background: var(--surface-2);
+    box-shadow: 0 0 0 1px var(--purple);
+  }
+  .quiz-answer span {
+    font-size: 0.98rem;
+  }
+
+  .quiz-nav {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    margin-top: 32px;
+  }
+  .quiz-nav [hidden] {
+    display: none;
+  }
+  .quiz-nav .quiz-next {
+    margin-left: auto;
+  }
+  .quiz-nav .btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+    transform: none;
+  }
+
+  .quiz-result-tier {
+    text-align: center;
+  }
+  .quiz-result-tier .lede {
+    margin-inline: auto;
+  }
+  .quiz-result-actions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    margin-top: 24px;
+  }
+  .quiz-restart {
+    background: none;
+    border: none;
+    color: var(--text-muted);
+    font-family: var(--font-body);
+    font-size: 0.92rem;
+    cursor: pointer;
+    text-decoration: underline;
+    padding: 4px;
+  }
+  .quiz-restart:hover {
+    color: var(--text);
+  }
+</style>
+
+<script>
+  document.querySelectorAll<HTMLElement>('.poly-quiz').forEach((root) => {
+    const startPanel = root.querySelector<HTMLElement>('[data-panel="start"]');
+    const questionsForm = root.querySelector<HTMLFormElement>('[data-panel="questions"]');
+    const resultPanel = root.querySelector<HTMLElement>('[data-panel="result"]');
+    if (!startPanel || !questionsForm || !resultPanel) return;
+
+    const startBtn = root.querySelector<HTMLButtonElement>('.quiz-start-btn');
+    const questions = Array.from(questionsForm.querySelectorAll<HTMLFieldSetElement>('.quiz-question'));
+    const total = questions.length;
+    const progressWrap = questionsForm.querySelector<HTMLElement>('.quiz-progress');
+    const progressBar = questionsForm.querySelector<HTMLElement>('.quiz-progress-bar');
+    const stepLabel = questionsForm.querySelector<HTMLElement>('.quiz-step');
+    const stepTemplate = stepLabel?.dataset.template ?? '{n}/{total}';
+    const backBtn = questionsForm.querySelector<HTMLButtonElement>('.quiz-back');
+    const nextBtn = questionsForm.querySelector<HTMLButtonElement>('.quiz-next');
+    const tiers = Array.from(resultPanel.querySelectorAll<HTMLElement>('.quiz-result-tier'));
+    const restartBtns = root.querySelectorAll<HTMLButtonElement>('.quiz-restart');
+
+    let current = 0;
+
+    function currentAnswered(): boolean {
+      return !!questions[current]?.querySelector('input:checked');
+    }
+
+    function render() {
+      questions.forEach((q, i) => {
+        q.hidden = i !== current;
+      });
+      const pct = Math.round(((current + 1) / total) * 100);
+      if (progressBar) progressBar.style.width = `${pct}%`;
+      progressWrap?.setAttribute('aria-valuenow', String(pct));
+      if (stepLabel) {
+        stepLabel.textContent = stepTemplate
+          .replace('{n}', String(current + 1))
+          .replace('{total}', String(total));
+      }
+      if (backBtn) backBtn.hidden = current === 0;
+      if (nextBtn) {
+        const isLast = current === total - 1;
+        nextBtn.textContent = isLast
+          ? (nextBtn.dataset.resultLabel ?? nextBtn.textContent ?? '')
+          : (nextBtn.dataset.nextLabel ?? nextBtn.textContent ?? '');
+        nextBtn.disabled = !currentAnswered();
+      }
+    }
+
+    questionsForm.addEventListener('change', () => {
+      if (nextBtn) nextBtn.disabled = !currentAnswered();
+    });
+
+    startBtn?.addEventListener('click', () => {
+      startPanel.hidden = true;
+      questionsForm.hidden = false;
+      current = 0;
+      render();
+      questionsForm.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+
+    backBtn?.addEventListener('click', () => {
+      if (current > 0) {
+        current--;
+        render();
+      }
+    });
+
+    nextBtn?.addEventListener('click', () => {
+      if (!currentAnswered()) return;
+      if (current < total - 1) {
+        current++;
+        render();
+      } else {
+        showResult();
+      }
+    });
+
+    function showResult() {
+      let score = 0;
+      questions.forEach((q) => {
+        const checked = q.querySelector<HTMLInputElement>('input:checked');
+        if (checked) score += Number(checked.value);
+      });
+      questionsForm!.hidden = true;
+      resultPanel!.hidden = false;
+      tiers.forEach((tier) => {
+        const min = Number(tier.dataset.min);
+        const max = Number(tier.dataset.max);
+        tier.hidden = !(score >= min && score <= max);
+      });
+      resultPanel!.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    restartBtns.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        questions.forEach((q) => {
+          q.querySelectorAll<HTMLInputElement>('input').forEach((inp) => {
+            inp.checked = false;
+          });
+        });
+        current = 0;
+        resultPanel.hidden = true;
+        startPanel.hidden = false;
+        startPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+    });
+
+    render();
+  });
+</script>

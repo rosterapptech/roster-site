@@ -1,0 +1,251 @@
+---
+export const prerender = true;
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import PolyQuiz, { type QuizQuestion, type QuizResultTier } from '../../components/PolyQuiz.astro';
+import { QUIZ_SLUG } from '../../i18n/quizPath';
+
+const lang = 'sv';
+const APP_STORE_URL = 'https://apps.apple.com/app/roster-polyamory-tracker/id6786782804';
+
+const questions: QuizQuestion[] = [
+  {
+    text: 'Om din partner blir kär i någon annan är din första tanke oftast…',
+    answers: [
+      { text: 'Det skulle göra mig djupt osäker – jag skulle behöva veta direkt att jag fortfarande är etta.', points: 0 },
+      { text: 'Jag skulle oroa mig, men i grunden försöka stå ut med det.', points: 1 },
+      { text: 'Jag skulle vara nyfiken på hur det känns för alla inblandade – även om lite osäkerhet finns kvar.', points: 2 },
+      { text: 'Jag skulle glädjas med dem, så länge det inte skadar vårt förhållande.', points: 3 },
+    ],
+  },
+  {
+    text: 'Din bild av "den enda stora kärleken" är…',
+    answers: [
+      { text: 'Precis det jag söker – en enda person att dela mitt liv med.', points: 0 },
+      { text: 'Fint, men jag vet inte om jag behöver det.', points: 1 },
+      { text: 'Ganska främmande – jag tror inte att kärlek kan begränsas till en person.', points: 2 },
+      { text: 'Ett begrepp som inte riktigt känns meningsfullt för mig – jag kan älska flera personer djupt samtidigt.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hur viktig är sexuell exklusivitet för dig i ett fast förhållande?',
+    answers: [
+      { text: 'Väldigt viktig – sex med någon annan skulle kännas som ett förtroendebrott.', points: 0 },
+      { text: 'Viktig, men förhandlingsbar under vissa omständigheter.', points: 1 },
+      { text: 'Inte särskilt viktig – så länge det kommuniceras öppet är det inget problem för mig.', points: 2 },
+      { text: 'Oviktig – jag kopplar inte automatiskt ihop kärlek med sexuell exklusivitet.', points: 3 },
+    ],
+  },
+  {
+    text: 'Din partner har en dejt med någon annan i kväll. Vad känner du?',
+    answers: [
+      { text: 'Ren stress – jag skulle göra allt för att förhindra det.', points: 0 },
+      { text: 'En olustig känsla som jag skulle försöka hålla för mig själv.', points: 1 },
+      { text: 'Blandade känslor – lite osäkerhet, men även äkta nyfikenhet på hur kvällen var.', points: 2 },
+      { text: 'Förväntan inför historierna de kommer hem med.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hur hanterar du generellt svartsjuka?',
+    answers: [
+      { text: 'Jag undviker så gott det går situationer som kan utlösa svartsjuka.', points: 0 },
+      { text: 'Jag märker den men pratar sällan öppet om den.', points: 1 },
+      { text: 'Jag sätter ord på den och försöker förstå vad som egentligen ligger bakom.', points: 2 },
+      { text: 'Jag ser den som information om mig själv, inte som en stoppsignal för andra.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hur mycket eget utrymme behöver du i ett förhållande?',
+    answers: [
+      { text: 'Inte mycket – jag tillbringar helst min tid med en person.', points: 0 },
+      { text: 'Lite egen tid, men vardagen kretsar tydligt kring ett förhållande.', points: 1 },
+      { text: 'Ganska mycket – egna vänskaper, hobbyer och närhet utanför förhållandet är viktiga för mig.', points: 2 },
+      { text: 'Väldigt mycket – jag vill fritt kunna fördela min tid, energi och närhet på flera personer.', points: 3 },
+    ],
+  },
+  {
+    text: 'Vad tycker du om fasta överenskommelser i förhållanden (t.ex. säkert sex-regler, övernattningar)?',
+    answers: [
+      { text: 'Regler är en självklarhet för mig – exklusivitet är i grunden den enda regel jag behöver.', points: 0 },
+      { text: 'Jag tycker tydliga överenskommelser är viktiga, men tänker mest i termer av ett förhållande.', points: 1 },
+      { text: 'Jag tycker överenskommelser är bra så länge de förhandlas fram tillsammans och inte grundas i kontroll.', points: 2 },
+      { text: 'Jag föredrar få, flexibla överenskommelser – varje förhållande bör få hitta sin egen form.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hur reagerar du om planer måste ändras på grund av din partners förhållande med någon annan?',
+    answers: [
+      { text: 'Det skulle störa mig mycket – jag förväntar mig att ha prioritet.', points: 0 },
+      { text: 'Jag skulle tycka det var obekvämt, men acceptera det om det sällan händer.', points: 1 },
+      { text: 'Inget stort problem, så länge det kommuniceras öppet och i god tid.', points: 2 },
+      { text: 'Helt normalt – tid kan fördelas rättvist utan att någon automatiskt går före.', points: 3 },
+    ],
+  },
+  {
+    text: 'Vilken relationsstruktur känns mest rätt för dig?',
+    answers: [
+      { text: 'Två personer som är allt för varandra.', points: 0 },
+      { text: 'Ett primärt förhållande där båda tydligt är varandras första prioritet.', points: 1 },
+      { text: 'Ett primärt förhållande med utrymme för andra, mindre bindande kontakter.', points: 2 },
+      { text: 'Flera likvärdiga förhållanden, utan fast hierarki.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hur viktig är planeringssäkerhet (kalender, fasta tider) för dig i relationer?',
+    answers: [
+      { text: 'Väldigt viktig – spontana planändringar på grund av andra förhållanden skulle stressa mig.', points: 0 },
+      { text: 'Viktig, men jag kan leva med enstaka ändringar.', points: 1 },
+      { text: 'Medel – jag gillar att samordna flera personer i kalendern, även om det kräver organisation.', points: 2 },
+      { text: 'Jag ser bra organisation mer som en spännande del än en börda – att samordna flera förhållanden stör mig inte.', points: 3 },
+    ],
+  },
+  {
+    text: 'Vad tänker du om emotionell närhet till flera personer samtidigt?',
+    answers: [
+      { text: 'Jag tror att verkligt emotionellt djup bara är möjligt med en person i taget.', points: 0 },
+      { text: 'Jag kan föreställa mig det i teorin, men det känns främmande för mig.', points: 1 },
+      { text: 'Jag tror att det är möjligt, även om det kräver mycket självreflektion.', points: 2 },
+      { text: 'Jag upplever redan det, eller kan mycket väl föreställa mig det för egen del.', points: 3 },
+    ],
+  },
+  {
+    text: 'Vad beskriver bäst din nuvarande motivation för att göra det här testet?',
+    answers: [
+      { text: 'Ren nyfikenhet – polyamori är egentligen inget alternativ för mig personligen.', points: 0 },
+      { text: 'Jag är osäker på om det här skulle kunna vara något för mig.', points: 1 },
+      { text: 'Jag har funderat på ämnet ett tag och vill ha mer klarhet.', points: 2 },
+      { text: 'Jag lever redan polyamoröst eller är ganska säker på att det passar mig.', points: 3 },
+    ],
+  },
+];
+
+const results: QuizResultTier[] = [
+  {
+    min: 0,
+    max: 12,
+    eyebrow: 'Ditt resultat',
+    title: 'Monogami passar troligen bättre för dig just nu',
+    desc: 'Dina svar pekar på att exklusivitet, pålitlighet och fokus på ett förhållande ger dig trygghet. Det är varken bättre eller sämre än polyamori – bara ett annat svar på samma fråga: hur vill jag älska? Om ämnet ändå intresserar dig skadar det aldrig att läsa mer om det.',
+    ctaGhostLabel: 'Vad är polyamori egentligen? →',
+    ctaGhostHref: '/sv/blog/vad-ar-polyamori',
+  },
+  {
+    min: 13,
+    max: 24,
+    eyebrow: 'Ditt resultat',
+    title: 'Du är öppen – med några frågetecken',
+    desc: 'Hos dig finns redan en del poly-typiska värderingar: nyfikenhet, vilja att kommunicera, önskan om mer eget utrymme. Samtidigt finns det fortfarande öppna frågor – och det är helt okej. Polyamori börjar sällan med ett färdigt svar, utan med ärliga samtal: med dig själv och med de personer som betyder något för dig.',
+    ctaGhostLabel: 'Ta en titt på Roster',
+    ctaGhostHref: APP_STORE_URL,
+  },
+  {
+    min: 25,
+    max: 36,
+    eyebrow: 'Ditt resultat',
+    title: 'Polyamori skulle kunna passa dig bra',
+    desc: 'Dina svar visar många av de grundläggande hållningar som bär polyamorösa förhållanden: du ser inte kärlek som en begränsad resurs, du kan hantera osäkerhet och ser kommunikation som ett verktyg snarare än en plikt. Om du (eller ditt nätverk) vill ha koll på flera förhållanden – det är precis vad Roster är byggt för.',
+    ctaLabel: 'Hämta Roster i App Store',
+    ctaHref: APP_STORE_URL,
+  },
+];
+
+const relatedPosts = [
+  { slug: 'vad-ar-polyamori', title: 'Polyamori: vad är det egentligen? Betydelse, definition och grunderna' },
+  { slug: 'svaartsjuka-polyamori', title: 'Svartsjuka i polyamorös relationer: 7 strategier som verkligen hjälper' },
+  { slug: 'polyamori-vs-oppet-forhallande', title: 'Polyamori vs. öppet förhållande: Vad är skillnaden?' },
+];
+
+const alternates = [
+  { hreflang: 'de', href: `https://rosterapp.tech/${QUIZ_SLUG.de}` },
+  { hreflang: 'en', href: `https://rosterapp.tech/en/${QUIZ_SLUG.en}` },
+  { hreflang: 'nl', href: `https://rosterapp.tech/nl/${QUIZ_SLUG.nl}` },
+  { hreflang: 'es', href: `https://rosterapp.tech/es/${QUIZ_SLUG.es}` },
+  { hreflang: 'da', href: `https://rosterapp.tech/da/${QUIZ_SLUG.da}` },
+  { hreflang: 'sv', href: `https://rosterapp.tech/sv/${QUIZ_SLUG.sv}` },
+  { hreflang: 'pt-BR', href: `https://rosterapp.tech/pt/${QUIZ_SLUG.pt}` },
+  { hreflang: 'x-default', href: `https://rosterapp.tech/${QUIZ_SLUG.de}` },
+];
+---
+
+<BaseLayout
+  lang={lang}
+  path={`/${QUIZ_SLUG.sv}`}
+  title="Polyamori-test: Passar polyamori dig? | Roster"
+  description="Ta reda på med 12 frågor om polyamori kan passa dig. Anonymt och gratis – dina svar lämnar aldrig din webbläsare."
+  alternates={alternates}
+>
+  <Header lang={lang} />
+
+  <main>
+    <section class="quiz-section">
+      <div class="container">
+        <PolyQuiz
+          title="Passar polyamori dig?"
+          intro="12 frågor, ärligt besvarade. Inget konto, ingen e-post – dina svar stannar i din webbläsare och sparas eller laddas aldrig upp någonstans."
+          metaLine="12 frågor · ca 3 minuter · ingen registrering, ingen lagring"
+          startLabel="Starta testet"
+          stepTemplate="Fråga {n} av {total}"
+          nextLabel="Nästa"
+          backLabel="Tillbaka"
+          resultLabel="Visa mitt resultat"
+          restartLabel="Gör testet igen"
+          noscriptText="Det här testet kräver JavaScript – resultatet beräknas helt i din webbläsare, utan att något skickas till en server."
+          questions={questions}
+          results={results}
+        />
+      </div>
+    </section>
+
+    <section class="related">
+      <div class="container">
+        <p class="eyebrow">Mer om ämnet</p>
+        <div class="related-grid">
+          {
+            relatedPosts.map((p) => (
+              <a href={`/sv/blog/${p.slug}`} class="card related-card">
+                {p.title}
+              </a>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .quiz-section {
+    padding-top: clamp(48px, 7vw, 88px);
+  }
+  .related {
+    padding-top: 0;
+  }
+  .related .eyebrow {
+    text-align: center;
+    display: block;
+  }
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    max-width: 900px;
+    margin-inline: auto;
+  }
+  .related-card {
+    color: var(--text);
+    font-size: 0.92rem;
+    text-decoration: none;
+  }
+  .related-card:hover {
+    border-color: var(--purple);
+    text-decoration: none;
+  }
+  @media (max-width: 720px) {
+    .related-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

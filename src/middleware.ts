@@ -1,4 +1,5 @@
 import { defineMiddleware } from 'astro:middleware';
+import { QUIZ_SLUG } from './i18n/quizPath';
 
 const SUPPORTED = ['de', 'en', 'nl', 'es', 'da', 'sv', 'pt'] as const;
 type Lang = (typeof SUPPORTED)[number];
@@ -33,6 +34,11 @@ export const onRequest = defineMiddleware(async (ctx, next) => {
   // Feature-Detailseiten sind vorgerendert (statisch) → keine Sprach-Weiterleitung.
   // Verhindert zudem, dass die Middleware beim Prerender unnoetig Request-Header liest.
   if (pathname.match(/^\/features\/.+/)) return next();
+
+  // Kompatibilitaets-Test hat sprachspezifische Slugs (wie der Blog) → niemals
+  // umleiten, sonst landet z.B. ein EN-Browser auf /en/polyamorie-test (falscher
+  // Slug, 404) statt /en/polyamory-test.
+  if (pathname === `/${QUIZ_SLUG.de}`) return next();
 
   // Cookie hat Vorrang (wenn User manuell Sprache gewählt hat)
   const cookieLang = ctx.cookies.get('roster-lang')?.value as Lang | undefined;

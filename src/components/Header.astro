@@ -1,6 +1,7 @@
 ---
 import Vio from './Vio.astro';
 import { t, type Lang } from '../i18n/ui';
+import { quizPath } from '../i18n/quizPath';
 
 interface Props {
   lang?: Lang;
@@ -20,6 +21,7 @@ const base = lang === 'de' ? '' : `/${lang}`;
     <nav class="nav" aria-label="Hauptnavigation">
       <a href={`${base}/#features`}>{tr('nav.features')}</a>
       <a href={`${base}/#pricing`}>{tr('nav.pricing')}</a>
+      <a href={quizPath(lang)}>{tr('nav.quiz')}</a>
       <a href={`${base}/blog`}>{tr('nav.blog')}</a>
     </nav>
 

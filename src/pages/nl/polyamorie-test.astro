@@ -1,0 +1,251 @@
+---
+export const prerender = true;
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import PolyQuiz, { type QuizQuestion, type QuizResultTier } from '../../components/PolyQuiz.astro';
+import { QUIZ_SLUG } from '../../i18n/quizPath';
+
+const lang = 'nl';
+const APP_STORE_URL = 'https://apps.apple.com/app/roster-polyamory-tracker/id6786782804';
+
+const questions: QuizQuestion[] = [
+  {
+    text: 'Als je partner verliefd wordt op iemand anders, is je eerste gedachte het meest…',
+    answers: [
+      { text: 'Dat zou me diep onzeker maken – ik zou meteen bevestiging nodig hebben dat ik nog steeds nummer één ben.', points: 0 },
+      { text: 'Ik zou me zorgen maken, maar in principe proberen het te verdragen.', points: 1 },
+      { text: 'Ik zou nieuwsgierig zijn hoe het voor iedereen voelt – ook al blijft er wat onzekerheid.', points: 2 },
+      { text: 'Ik zou blij voor ze zijn, zolang het onze relatie niet schaadt.', points: 3 },
+    ],
+  },
+  {
+    text: 'Jouw idee van "de ene grote liefde" is…',
+    answers: [
+      { text: 'Precies wat ik zoek – één persoon om mijn leven mee te delen.', points: 0 },
+      { text: 'Mooi, maar ik weet niet of ik dat nodig heb.', points: 1 },
+      { text: 'Eigenlijk best vreemd – ik denk dat liefde zich niet tot één persoon laat beperken.', points: 2 },
+      { text: 'Een concept dat voor mij geen zin heeft – ik kan meerdere mensen tegelijk diep liefhebben.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hoe belangrijk is seksuele exclusiviteit voor jou in een vaste relatie?',
+    answers: [
+      { text: 'Heel belangrijk – seks met iemand anders zou voor mij een vertrouwensbreuk zijn.', points: 0 },
+      { text: 'Belangrijk, maar onder bepaalde omstandigheden bespreekbaar.', points: 1 },
+      { text: 'Niet zo belangrijk – zolang er open over gecommuniceerd wordt, is het voor mij geen probleem.', points: 2 },
+      { text: 'Niet belangrijk – ik verbind liefde niet automatisch aan seksuele exclusiviteit.', points: 3 },
+    ],
+  },
+  {
+    text: 'Je partner heeft vanavond een date met iemand anders. Wat voel je?',
+    answers: [
+      { text: 'Pure stress – ik zou er alles aan doen om dat te voorkomen.', points: 0 },
+      { text: 'Een onbehaaglijk gevoel dat ik voor mezelf zou proberen te houden.', points: 1 },
+      { text: 'Gemengde gevoelens – wat onzekerheid, maar ook oprechte interesse in hoe de avond was.', points: 2 },
+      { text: 'Voorpret om de verhalen die ze meebrengt.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hoe ga je over het algemeen om met jaloezie?',
+    answers: [
+      { text: 'Ik vermijd zo veel mogelijk situaties die jaloezie kunnen oproepen.', points: 0 },
+      { text: 'Ik merk het wel, maar zeg er zelden iets over.', points: 1 },
+      { text: 'Ik spreek het uit en probeer te begrijpen wat er eigenlijk achter zit.', points: 2 },
+      { text: 'Ik zie het als informatie over mezelf, niet als stopsignaal voor anderen.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hoeveel ruimte heb je nodig in een relatie?',
+    answers: [
+      { text: 'Niet veel – ik breng mijn tijd het liefst met één persoon door.', points: 0 },
+      { text: 'Wat eigen tijd, maar het dagelijks leven draait duidelijk om één relatie.', points: 1 },
+      { text: "Best veel – eigen vriendschappen, hobby's en nabijheid buiten de relatie zijn belangrijk voor me.", points: 2 },
+      { text: 'Heel veel – ik wil mijn tijd, energie en nabijheid vrij kunnen verdelen over meerdere mensen.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hoe sta je tegenover vaste afspraken in relaties (bijv. veilig-vrijenregels, blijven overnachten)?',
+    answers: [
+      { text: 'Regels zijn voor mij vanzelfsprekend – exclusiviteit is eigenlijk de enige regel die ik nodig heb.', points: 0 },
+      { text: 'Ik vind duidelijke afspraken belangrijk, maar denk vooral in termen van één relatie.', points: 1 },
+      { text: 'Ik vind afspraken zinvol, zolang ze samen worden overeengekomen en niet uit controle voortkomen.', points: 2 },
+      { text: 'Ik geef de voorkeur aan weinig, flexibele afspraken – elke relatie mag zijn eigen vorm vinden.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hoe reageer je als plannen moeten wijken vanwege de relatie van je partner met iemand anders?',
+    answers: [
+      { text: 'Dat zou me erg storen – ik verwacht prioriteit te krijgen.', points: 0 },
+      { text: 'Ik zou het vervelend vinden, maar accepteren als het zelden voorkomt.', points: 1 },
+      { text: 'Geen groot probleem, zolang er open en op tijd over gecommuniceerd wordt.', points: 2 },
+      { text: 'Volkomen normaal – tijd kan eerlijk verdeeld worden zonder dat iemand automatisch voorrang heeft.', points: 3 },
+    ],
+  },
+  {
+    text: 'Welke relatiestructuur voelt voor jou het meest kloppend?',
+    answers: [
+      { text: 'Twee mensen die alles voor elkaar zijn.', points: 0 },
+      { text: 'Eén hoofdrelatie waarin beiden duidelijk op de eerste plaats staan.', points: 1 },
+      { text: 'Eén hoofdrelatie met ruimte voor andere, minder bindende connecties.', points: 2 },
+      { text: 'Meerdere gelijkwaardige relaties, zonder vaste hiërarchie.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hoe belangrijk is planningszekerheid (agenda, vaste tijden) voor jou in relaties?',
+    answers: [
+      { text: 'Heel belangrijk – spontane planwijzigingen vanwege andere relaties zouden me stressen.', points: 0 },
+      { text: 'Belangrijk, maar ik kan leven met af en toe een wijziging.', points: 1 },
+      { text: 'Gemiddeld – ik vind het wel wat hebben om meerdere mensen in de agenda te coördineren, ook al kost het organisatie.', points: 2 },
+      { text: 'Ik zie goede organisatie eerder als een leuk onderdeel dan als last – meerdere relaties coördineren vind ik geen probleem.', points: 3 },
+    ],
+  },
+  {
+    text: 'Hoe denk je over emotionele nabijheid met meerdere mensen tegelijk?',
+    answers: [
+      { text: 'Ik denk dat echte emotionele diepgang alleen met één persoon tegelijk mogelijk is.', points: 0 },
+      { text: 'Ik kan het me theoretisch voorstellen, maar het voelt vreemd voor me.', points: 1 },
+      { text: 'Ik denk dat het mogelijk is, ook al vraagt het veel zelfreflectie.', points: 2 },
+      { text: 'Ik ervaar dit al zo, of kan het me heel goed voorstellen voor mezelf.', points: 3 },
+    ],
+  },
+  {
+    text: 'Wat beschrijft je huidige motivatie voor deze test het beste?',
+    answers: [
+      { text: 'Pure nieuwsgierigheid – polyamorie is voor mij persoonlijk eigenlijk geen optie.', points: 0 },
+      { text: 'Ik weet niet zeker of dit iets voor mij zou kunnen zijn.', points: 1 },
+      { text: 'Ik houd me al langer bezig met dit onderwerp en wil meer duidelijkheid.', points: 2 },
+      { text: 'Ik leef al polyamoor of weet vrij zeker dat het bij me past.', points: 3 },
+    ],
+  },
+];
+
+const results: QuizResultTier[] = [
+  {
+    min: 0,
+    max: 12,
+    eyebrow: 'Jouw resultaat',
+    title: 'Monogamie past nu waarschijnlijk beter bij jou',
+    desc: 'Je antwoorden laten zien: exclusiviteit, betrouwbaarheid en de focus op één partnerschap geven jou houvast. Dat is niet beter of slechter dan polyamorie – gewoon een ander antwoord op dezelfde vraag: hoe wil ik liefhebben? Mocht het onderwerp je toch interesseren, dan kan het geen kwaad om er meer over te lezen.',
+    ctaGhostLabel: 'Wat is polyamorie eigenlijk? →',
+    ctaGhostHref: '/nl/blog/wat-is-polyamorie',
+  },
+  {
+    min: 13,
+    max: 24,
+    eyebrow: 'Jouw resultaat',
+    title: 'Je staat open – met een paar vraagtekens',
+    desc: 'Bij jou is al het nodige aan poly-typische waarden aanwezig: nieuwsgierigheid, bereidheid om te communiceren, behoefte aan meer ruimte. Tegelijk zijn er nog open vragen – en dat is helemaal oké. Polyamorie begint zelden met een kant-en-klaar antwoord, maar met eerlijke gesprekken: met jezelf en met de mensen die belangrijk voor je zijn.',
+    ctaGhostLabel: 'Bekijk Roster in de App Store',
+    ctaGhostHref: APP_STORE_URL,
+  },
+  {
+    min: 25,
+    max: 36,
+    eyebrow: 'Jouw resultaat',
+    title: 'Polyamorie zou goed bij je kunnen passen',
+    desc: 'Je antwoorden laten veel van de basishouding zien die polyamore relaties draagt: je ziet liefde niet als een beperkte hulpbron, kunt omgaan met onzekerheid en ziet communicatie eerder als middel dan als last. Als jij (of je netwerk) het overzicht wilt houden over meerdere relaties – daarvoor is Roster gemaakt.',
+    ctaLabel: 'Download Roster in de App Store',
+    ctaHref: APP_STORE_URL,
+  },
+];
+
+const relatedPosts = [
+  { slug: 'wat-is-polyamorie', title: 'Polyamorie: wat is dat precies? Betekenis, definitie en de basis' },
+  { slug: 'jaloezie-polyamorie', title: 'Jaloezie in polyamore relaties: 7 strategieën die echt helpen' },
+  { slug: 'polyamorie-vs-open-relatie', title: 'Polyamorie vs. open relatie: Wat is het verschil?' },
+];
+
+const alternates = [
+  { hreflang: 'de', href: `https://rosterapp.tech/${QUIZ_SLUG.de}` },
+  { hreflang: 'en', href: `https://rosterapp.tech/en/${QUIZ_SLUG.en}` },
+  { hreflang: 'nl', href: `https://rosterapp.tech/nl/${QUIZ_SLUG.nl}` },
+  { hreflang: 'es', href: `https://rosterapp.tech/es/${QUIZ_SLUG.es}` },
+  { hreflang: 'da', href: `https://rosterapp.tech/da/${QUIZ_SLUG.da}` },
+  { hreflang: 'sv', href: `https://rosterapp.tech/sv/${QUIZ_SLUG.sv}` },
+  { hreflang: 'pt-BR', href: `https://rosterapp.tech/pt/${QUIZ_SLUG.pt}` },
+  { hreflang: 'x-default', href: `https://rosterapp.tech/${QUIZ_SLUG.de}` },
+];
+---
+
+<BaseLayout
+  lang={lang}
+  path={`/${QUIZ_SLUG.nl}`}
+  title="Polyamorie-test: Past polyamorie bij jou? | Roster"
+  description="Ontdek in 12 vragen of polyamorie bij je zou kunnen passen. Anoniem en gratis – je antwoorden verlaten nooit je browser."
+  alternates={alternates}
+>
+  <Header lang={lang} />
+
+  <main>
+    <section class="quiz-section">
+      <div class="container">
+        <PolyQuiz
+          title="Past polyamorie bij jou?"
+          intro="12 vragen, eerlijk beantwoord. Geen account, geen e-mail – je antwoorden blijven in je browser en worden nergens opgeslagen of geüpload."
+          metaLine="12 vragen · ca. 3 minuten · geen aanmelding, geen opslag"
+          startLabel="Start de test"
+          stepTemplate="Vraag {n} van {total}"
+          nextLabel="Volgende"
+          backLabel="Terug"
+          resultLabel="Bekijk mijn resultaat"
+          restartLabel="Test opnieuw doen"
+          noscriptText="Voor deze test is JavaScript nodig – de uitslag wordt volledig in je browser berekend, er wordt niets naar een server gestuurd."
+          questions={questions}
+          results={results}
+        />
+      </div>
+    </section>
+
+    <section class="related">
+      <div class="container">
+        <p class="eyebrow">Meer over dit onderwerp</p>
+        <div class="related-grid">
+          {
+            relatedPosts.map((p) => (
+              <a href={`/nl/blog/${p.slug}`} class="card related-card">
+                {p.title}
+              </a>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .quiz-section {
+    padding-top: clamp(48px, 7vw, 88px);
+  }
+  .related {
+    padding-top: 0;
+  }
+  .related .eyebrow {
+    text-align: center;
+    display: block;
+  }
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    max-width: 900px;
+    margin-inline: auto;
+  }
+  .related-card {
+    color: var(--text);
+    font-size: 0.92rem;
+    text-decoration: none;
+  }
+  .related-card:hover {
+    border-color: var(--purple);
+    text-decoration: none;
+  }
+  @media (max-width: 720px) {
+    .related-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
