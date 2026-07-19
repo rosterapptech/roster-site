@@ -1,5 +1,6 @@
 import { t, type Lang } from './ui';
 import { withSlash } from './url';
+import { rosterPolyPath } from './rosterPolyPath';
 
 const homeUrl = (lang: Lang) => (lang === 'de' ? '/' : `/${lang}/`);
 const blogUrl = (lang: Lang) => withSlash(lang === 'de' ? '/blog' : `/${lang}/blog`);
@@ -36,5 +37,13 @@ export function featureBreadcrumb(lang: Lang, name: string, slug: string, site: 
     { name: 'Roster', path: homeUrl(lang) },
     { name: tr('nav.features'), path: featuresUrl(lang) },
     { name, path },
+  ]);
+}
+
+/** BreadcrumbList-Node (ohne @context, fuer Einbettung in @graph). */
+export function rosterPolyBreadcrumb(lang: Lang, name: string, site: URL) {
+  return list(site, [
+    { name: 'Roster', path: homeUrl(lang) },
+    { name, path: withSlash(rosterPolyPath(lang)) },
   ]);
 }
