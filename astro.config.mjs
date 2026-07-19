@@ -1,10 +1,42 @@
 // @ts-check
+import { readFileSync, readdirSync } from 'node:fs';
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import mdx from '@astrojs/mdx';
 import vercel from '@astrojs/vercel';
 
 const SITE = 'https://rosterapp.tech';
+
+// lastmod pro Pfad aus dem Blog-Frontmatter (updatedDate vor pubDate).
+// Blog-Index und Homepage jeder Sprache erben das Datum des neuesten Posts,
+// da beide dessen Inhalte listen. Alle anderen Seiten bekommen bewusst kein
+// lastmod – ein Fake-Datum (z.B. Buildzeit) würde Google das Signal entwerten.
+function buildLastmodMap() {
+  /** @type {Map<string, string>} */
+  const map = new Map();
+  /** @type {Record<string, string>} */
+  const newestPerLang = {};
+  for (const file of readdirSync('./src/content/blog')) {
+    if (!/\.(md|mdx)$/.test(file)) continue;
+    const fm = readFileSync(`./src/content/blog/${file}`, 'utf8').split('---')[1] ?? '';
+    const date =
+      fm.match(/^updatedDate:\s*'?(\d{4}-\d{2}-\d{2})'?/m)?.[1] ??
+      fm.match(/^pubDate:\s*'?(\d{4}-\d{2}-\d{2})'?/m)?.[1];
+    if (!date) continue;
+    const lang = fm.match(/^lang:\s*'?(\w+)'?/m)?.[1] ?? 'de';
+    const prefix = lang === 'de' ? '' : `/${lang}`;
+    map.set(`${prefix}/blog/${file.replace(/\.(md|mdx)$/, '')}/`, date);
+    if (!newestPerLang[lang] || date > newestPerLang[lang]) newestPerLang[lang] = date;
+  }
+  for (const [lang, date] of Object.entries(newestPerLang)) {
+    const prefix = lang === 'de' ? '' : `/${lang}`;
+    map.set(`${prefix}/blog/`, date);
+    map.set(lang === 'de' ? '/' : `/${lang}/`, date);
+  }
+  return map;
+}
+
+const LASTMOD = buildLastmodMap();
 
 export default defineConfig({
   site: SITE,
@@ -25,6 +57,11 @@ export default defineConfig({
       filter: (page) =>
         !/\/(datenschutz|impressum)\/?$/.test(page) &&
         !page.includes('/appinfo/'),
+      serialize(item) {
+        const lastmod = LASTMOD.get(new URL(item.url).pathname);
+        if (lastmod) item.lastmod = new Date(lastmod).toISOString();
+        return item;
+      },
       i18n: {
         defaultLocale: 'de',
         locales: {

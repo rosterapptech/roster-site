@@ -3,6 +3,7 @@ export const prerender = true;
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import BlogTeaser from '../components/BlogTeaser.astro';
 import PolyculeMap from '../components/PolyculeMap.astro';
 import Vio from '../components/Vio.astro';
 
@@ -295,6 +296,8 @@ const schema = {
     </section>
 
     <!-- CLOSING CTA -->
+    <BlogTeaser lang={lang} />
+
     <section class="closing">
       <div class="container closing-inner">
         <Vio size={48} />

@@ -2,6 +2,9 @@
 # Such- UND KI-Crawler ausdruecklich erlauben (wichtig fuer GEO).
 User-agent: *
 Allow: /
+# Verwaister Analytics-Beacon aus einem frueheren Deployment – Googlebot
+# crawlt ihn sonst taeglich weiter und verschwendet Crawl-Budget.
+Disallow: /d5381241ec713647/
 
 # KI-/Answer-Engine-Crawler explizit willkommen heissen
 

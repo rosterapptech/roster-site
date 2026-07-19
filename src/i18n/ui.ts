@@ -33,6 +33,9 @@ export const ui = {
     'blog.readmore': 'Weiterlesen →',
     'blog.headline': 'Gedanken. Aufgeschrieben.',
     'blog.lede': 'Klartext zu Nicht-Monogamie, Beziehungspflege und warum eine ruhige App manchmal mehr hilft als ein gutes Gespräch.',
+    'blog.related': 'Verwandte Artikel',
+    'home.blog.title': 'Frisch aus dem Blog',
+    'home.blog.all': 'Alle Artikel ansehen →',
   },
   en: {
     'nav.features': 'Features',
@@ -56,6 +59,9 @@ export const ui = {
     'blog.readmore': 'Read more →',
     'blog.headline': 'Thoughts, written down.',
     'blog.lede': 'Straight talk on non-monogamy, relationship care, and why a quiet app sometimes helps more than a good conversation.',
+    'blog.related': 'Related articles',
+    'home.blog.title': 'Fresh from the blog',
+    'home.blog.all': 'See all articles →',
   },
   nl: {
     'nav.features': 'Functies',
@@ -79,6 +85,9 @@ export const ui = {
     'blog.readmore': 'Lees verder →',
     'blog.headline': 'Gedachten, opgeschreven.',
     'blog.lede': 'Duidelijke taal over niet-monogamie, relatiebeheer en waarom een rustige app soms meer helpt dan een goed gesprek.',
+    'blog.related': 'Gerelateerde artikelen',
+    'home.blog.title': 'Vers uit de blog',
+    'home.blog.all': 'Alle artikelen bekijken →',
   },
   es: {
     'nav.features': 'Funciones',
@@ -102,6 +111,9 @@ export const ui = {
     'blog.readmore': 'Leer más →',
     'blog.headline': 'Pensamientos escritos.',
     'blog.lede': 'Texto claro sobre no monogamia, cuidado de las relaciones y por qué una app tranquila a veces ayuda más que una buena conversación.',
+    'blog.related': 'Artículos relacionados',
+    'home.blog.title': 'Lo último del blog',
+    'home.blog.all': 'Ver todos los artículos →',
   },
   da: {
     'nav.features': 'Funktioner',
@@ -125,6 +137,9 @@ export const ui = {
     'blog.readmore': 'Læs mere →',
     'blog.headline': 'Tanker, skrevet ned.',
     'blog.lede': 'Klar tale om ikke-monogami, relationspleje og hvorfor en rolig app nogle gange hjælper mere end en god samtale.',
+    'blog.related': 'Relaterede artikler',
+    'home.blog.title': 'Nyt fra bloggen',
+    'home.blog.all': 'Se alle artikler →',
   },
   sv: {
     'nav.features': 'Funktioner',
@@ -148,6 +163,9 @@ export const ui = {
     'blog.readmore': 'Läs mer →',
     'blog.headline': 'Tankar, nedskrivna.',
     'blog.lede': 'Klarspråk om icke-monogami, relationsvård och varför en lugn app ibland hjälper mer än ett bra samtal.',
+    'blog.related': 'Relaterade artiklar',
+    'home.blog.title': 'Nytt från bloggen',
+    'home.blog.all': 'Se alla artiklar →',
   },
   pt: {
     'nav.features': 'Funcionalidades',
@@ -171,6 +189,9 @@ export const ui = {
     'blog.readmore': 'Continuar lendo →',
     'blog.headline': 'Pensamentos, registrados.',
     'blog.lede': 'Conversa franca sobre não-monogamia, cuidado com relacionamentos e por que um app discreto às vezes ajuda mais do que uma boa conversa.',
+    'blog.related': 'Artigos relacionados',
+    'home.blog.title': 'Novidades do blog',
+    'home.blog.all': 'Ver todos os artigos →',
   },
 } as const;
 
