@@ -23,7 +23,7 @@ const today = new Date().toLocaleDateString('en-GB', { day: 'numeric', month: 'l
     <h2>1. Controller</h2>
     <p>
       <strong>{contact.name}</strong><br />
-      {contact.company} · {contact.addressLine1} · {contact.addressLine2} · {contact.city}<br />
+      {contact.company} · {contact.street} · {contact.city}<br />
       Email: <a href={`mailto:${contact.email}`}>{contact.email}</a>
     </p>
 

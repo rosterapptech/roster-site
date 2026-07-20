@@ -4,9 +4,8 @@
 export const contact = {
   name: 'Elias Wilkening',
   company: 'Slowcraft',
-  addressLine1: 'c/o Impressumservice Dein-Impressum',
-  addressLine2: 'Stettiner Str. 41',
-  city: '35410 Hungen',
+  street: 'Zur Wassermühle 18',
+  city: '27777 Ganderkesee',
   country: 'Deutschland',
   email: 'support@rosterapp.tech',
   phone: '+49 152 25393437',
