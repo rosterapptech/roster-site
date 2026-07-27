@@ -48,7 +48,7 @@ Eifersucht fühlt sich im Moment riesig und chaotisch an. Sie aufzuschreiben sor
 
 Compersion – die Freude über das Glück deines Partners mit einem anderen Menschen – kommt bei den wenigsten von allein. Sie lässt sich aber üben. Ein erster Schritt: Achte bewusst auf die Momente, in denen es dir leicht fällt, dich mitzufreuen, und mach dir klar, dass das Glück deines Partners dir nichts wegnimmt.
 
-Eifersucht ist übrigens selten das einzige, was bei mehreren Beziehungen unter Druck gerät – oft steckt dahinter auch schlicht zu wenig Struktur im Alltag. Wie du Zeit, Kommunikation und Kapazität über mehrere Verbindungen hinweg fair verteilst, liest du im Artikel [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen).
+Eifersucht ist übrigens selten das einzige, was bei mehreren Beziehungen unter Druck gerät – oft steckt dahinter auch schlicht zu wenig Struktur im Alltag. Wie du Zeit, Kommunikation und Kapazität über mehrere Verbindungen hinweg fair verteilst, liest du im Artikel [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen/).
 
 ## 7. Gib dir Zeit – Gewöhnung ist real
 

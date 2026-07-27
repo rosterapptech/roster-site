@@ -13,7 +13,7 @@ Das Coming-out als polyamor unterscheidet sich in vielem von anderen Formen des 
 
 ## Warum ein Polyamorie-Coming-out anders ist
 
-Anders als bei sexueller Orientierung betrifft ein Polyamorie-Coming-out oft nicht nur das eigene Leben, sondern direkt auch das Leben der eigenen Partner – und deren jeweilige Wünsche nach Offenheit oder Diskretion müssen mitgedacht werden. Mehr zum größeren Thema Privatsphäre im Artikel [Privatsphäre in der Polyamorie](/blog/polyamorie-datenschutz).
+Anders als bei sexueller Orientierung betrifft ein Polyamorie-Coming-out oft nicht nur das eigene Leben, sondern direkt auch das Leben der eigenen Partner – und deren jeweilige Wünsche nach Offenheit oder Diskretion müssen mitgedacht werden. Mehr zum größeren Thema Privatsphäre im Artikel [Privatsphäre in der Polyamorie](/blog/polyamorie-datenschutz/).
 
 ## Die drei häufigsten Wege
 
@@ -26,7 +26,7 @@ Anders als bei sexueller Orientierung betrifft ein Polyamorie-Coming-out oft nic
 ## Vorbereitung auf das Gespräch
 
 - **Erwartungen realistisch halten.** Nicht jede Reaktion wird sofort positiv sein – manche Menschen brauchen Zeit, um Vorurteile abzubauen, die durch Klischees über Polyamorie geprägt sind.
-- **Mit Informationsquellen vorbereitet sein.** Es hilft, ruhig erklären zu können, was Polyamorie tatsächlich bedeutet und wie sie sich von Klischees unterscheidet – etwa mit Verweis auf das [Glossar der Polyamorie](/blog/polyamorie-glossar).
+- **Mit Informationsquellen vorbereitet sein.** Es hilft, ruhig erklären zu können, was Polyamorie tatsächlich bedeutet und wie sie sich von Klischees unterscheidet – etwa mit Verweis auf das [Glossar der Polyamorie](/blog/polyamorie-glossar/).
 - **Sich nicht rechtfertigen müssen.** Ein Coming-out ist eine Mitteilung, keine Verteidigung. Man muss die eigene Beziehungsform nicht rechtfertigen, nur erklären.
 - **Grenzen für das Gespräch setzen.** Es ist völlig legitim, bestimmte Details (etwa Namen von Partnern) zunächst für sich zu behalten.
 
@@ -34,7 +34,7 @@ Anders als bei sexueller Orientierung betrifft ein Polyamorie-Coming-out oft nic
 
 **Sorge statt Ablehnung.** Viele erste Reaktionen sind eher besorgt ("Bist du sicher, dass das gut für dich ist?") als ablehnend. Das lässt sich oft mit Geduld und guten Antworten auflösen.
 
-**Vergleich mit Fremdgehen.** Eine häufige erste Reaktion ist die Frage, ob das nicht "eigentlich Fremdgehen mit Erlaubnis" ist. Mehr dazu im Artikel [Polyamorie vs. Fremdgehen](/blog/polyamorie-vs-fremdgehen), der den Unterschied klar erklärt.
+**Vergleich mit Fremdgehen.** Eine häufige erste Reaktion ist die Frage, ob das nicht "eigentlich Fremdgehen mit Erlaubnis" ist. Mehr dazu im Artikel [Polyamorie vs. Fremdgehen](/blog/polyamorie-vs-fremdgehen/), der den Unterschied klar erklärt.
 
 **Neugier statt Urteil.** Manche Reaktionen sind einfach neugierig, ohne wertend zu sein – hier lohnt es sich, offene Fragen als Chance statt als Angriff zu sehen.
 
@@ -48,7 +48,7 @@ Nicht jedes Gespräch verläuft reibungslos. Manche Familienmitglieder oder Freu
 
 ## Struktur, während du dich öffnest
 
-Während du entscheidest, wem du wie viel erzählst, hilft es, selbst den Überblick über dein [Polycule](/blog/was-ist-ein-polycule) zu behalten – wer weiß was, welche Vereinbarungen zur Offenheit gelten wo. **Roster** unterstützt dich dabei, all das an einem Ort festzuhalten, komplett lokal und ohne Konto.
+Während du entscheidest, wem du wie viel erzählst, hilft es, selbst den Überblick über dein [Polycule](/blog/was-ist-ein-polycule/) zu behalten – wer weiß was, welche Vereinbarungen zur Offenheit gelten wo. **Roster** unterstützt dich dabei, all das an einem Ort festzuhalten, komplett lokal und ohne Konto.
 
 ## Häufige Fragen
 
@@ -56,7 +56,7 @@ Während du entscheidest, wem du wie viel erzählst, hilft es, selbst den Überb
 Nein. Ein Coming-out ist eine persönliche Entscheidung, kein Muss. Viele Menschen leben zufrieden mit einer selektiven oder zurückhaltenden Offenheit.
 
 **Wie erkläre ich Polyamorie jemandem, der es noch nie gehört hat?**
-Am einfachsten mit dem Kernprinzip: mehrere einvernehmliche, ehrliche Liebesbeziehungen gleichzeitig. Ein Verweis auf das [Glossar der Polyamorie](/blog/polyamorie-glossar) hilft bei Detailfragen.
+Am einfachsten mit dem Kernprinzip: mehrere einvernehmliche, ehrliche Liebesbeziehungen gleichzeitig. Ein Verweis auf das [Glossar der Polyamorie](/blog/polyamorie-glossar/) hilft bei Detailfragen.
 
 **Was, wenn meine Familie ablehnend reagiert?**
 Gib der Reaktion Raum, ohne dich rechtfertigen zu müssen. Manche Menschen brauchen Zeit – andere ändern ihre Meinung nie, was mehr über sie aussagt als über dich.

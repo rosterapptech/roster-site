@@ -7,7 +7,7 @@ translationKey: 'polyamory-privacy'
 tags: ['Privacy', 'Polyamorie', 'Gegevensbescherming', 'Veiligheid']
 ---
 
-Relatiegegevens behoren tot de gevoeligste informatie die er bestaat: wie met wie samen is, seksuele gezondheid, grenzen, intieme details, het [polycule](/nl/blog/wat-is-een-polycule) als geheel. In polyamorie betreft dit niet alleen jou, maar ook je partners en hun metamours. Des te verrassender hoe zelden privacy in deze context wordt besproken.
+Relatiegegevens behoren tot de gevoeligste informatie die er bestaat: wie met wie samen is, seksuele gezondheid, grenzen, intieme details, het [polycule](/nl/blog/wat-is-een-polycule/) als geheel. In polyamorie betreft dit niet alleen jou, maar ook je partners en hun metamours. Des te verrassender hoe zelden privacy in deze context wordt besproken.
 
 Dit artikel legt uit waarom privacy in niet-monogame relaties extra gewicht heeft – en hoe je je gegevens echt beschermt.
 

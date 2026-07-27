@@ -62,7 +62,7 @@ Alles läuft lokal auf dem Gerät, ganz ohne Konto und ohne Tracking. [Roster is
 
 ## Wo du weiterliest
 
-Suchst du eher eine App, die neue Menschen finden hilft, statt bestehende Beziehungen zu organisieren? Die Abgrenzung dazu erklärt [App für Polyamorie: Beziehungen organisieren statt nur Menschen finden](/blog/app-poly-beziehungen-organisieren). Bist du gerade dabei, verschiedene Dating-Tracker wie Rostr oder Spread zu vergleichen? Dann hilft [Rostr, Spread & Co.: Warum Dating-Tracker keine Polyamorie-Apps sind](/blog/dating-tracker-vs-polyamorie-app) weiter. Und für konkrete Systeme jenseits von Tools findest du in [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen) den Praxis-Guide.
+Suchst du eher eine App, die neue Menschen finden hilft, statt bestehende Beziehungen zu organisieren? Die Abgrenzung dazu erklärt [App für Polyamorie: Beziehungen organisieren statt nur Menschen finden](/blog/app-poly-beziehungen-organisieren/). Bist du gerade dabei, verschiedene Dating-Tracker wie Rostr oder Spread zu vergleichen? Dann hilft [Rostr, Spread & Co.: Warum Dating-Tracker keine Polyamorie-Apps sind](/blog/dating-tracker-vs-polyamorie-app/) weiter. Und für konkrete Systeme jenseits von Tools findest du in [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen/) den Praxis-Guide.
 
 ## Häufige Fragen
 

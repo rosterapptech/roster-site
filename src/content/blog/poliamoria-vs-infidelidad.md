@@ -38,11 +38,11 @@ Esta definición deja claro que no existe eso de "ser un poco poliamoroso sin qu
 
 ## De la infidelidad a una apertura honesta
 
-Algunas parejas descubren, precisamente a través de un episodio de infidelidad, que una de ellas se siente atraída por la no monogamia. Eso puede ser el punto de partida para una apertura honesta, pero solo si la ruptura de confianza se nombra primero como lo que fue, en lugar de reinterpretarla después como si "ya fuera básicamente poliamor". Quien realmente quiera avanzar hacia el poliamor o la [no monogamia ética](/es/blog/no-monogamia-etica) encontrará un buen punto de partida en [Poliamor para principiantes](/es/blog/poliamoria-para-principiantes).
+Algunas parejas descubren, precisamente a través de un episodio de infidelidad, que una de ellas se siente atraída por la no monogamia. Eso puede ser el punto de partida para una apertura honesta, pero solo si la ruptura de confianza se nombra primero como lo que fue, en lugar de reinterpretarla después como si "ya fuera básicamente poliamor". Quien realmente quiera avanzar hacia el poliamor o la [no monogamia ética](/es/blog/no-monogamia-etica/) encontrará un buen punto de partida en [Poliamor para principiantes](/es/blog/poliamoria-para-principiantes/).
 
 ## Blindar la honestidad de forma estructural
 
-La mejor protección contra los malentendidos es la transparencia desde el principio: [acuerdos claros en lugar de reglas unilaterales](/es/blog/reglas-acuerdos-poliamoria), comunicación abierta sobre las conexiones nuevas y un entendimiento compartido de lo que está permitido en cada relación. **Roster** te ayuda a registrar precisamente esos acuerdos para cada conexión en tu [polycule](/es/blog/que-es-un-polycule), de forma transparente para todas las personas implicadas y guardada localmente en tu dispositivo.
+La mejor protección contra los malentendidos es la transparencia desde el principio: [acuerdos claros en lugar de reglas unilaterales](/es/blog/reglas-acuerdos-poliamoria/), comunicación abierta sobre las conexiones nuevas y un entendimiento compartido de lo que está permitido en cada relación. **Roster** te ayuda a registrar precisamente esos acuerdos para cada conexión en tu [polycule](/es/blog/que-es-un-polycule/), de forma transparente para todas las personas implicadas y guardada localmente en tu dispositivo.
 
 ## Preguntas frecuentes
 

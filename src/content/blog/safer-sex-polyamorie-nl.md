@@ -25,7 +25,7 @@ De truc is het onderwerp vroeg en losjes aan te snijden, niet als een grote, sti
 
 Een positieve testuitslag is vervelend, maar geen relatie-noodgeval. De belangrijkste stap is snelle, directe informatie aan iedereen die geraakt zou kunnen worden – ook aan partners van je partners, als dat relevant is. Houd het feitelijk: wat de uitslag betekent, welke vervolgstappen er zijn, en wat dit betekent voor gedeelde activiteiten in de tussentijd. Vermijd het aanwijzen van een schuldige – de meeste infecties zijn niet met zekerheid te herleiden, en verwijten helpen niemand verder. Een netwerk waarin mensen zich veilig genoeg voelen om eerlijk te zijn over positieve uitslagen, is gezonder dan een netwerk waarin angst voor reacties mensen doet zwijgen. Bespreek medische details met een arts of een centrum voor seksuele gezondheid – hier gaat het om de communicatie, niet om de behandeling.
 
-Voor hoe je bij meerdere verbindingen tegelijk – inclusief de afspraken met metamours – daadwerkelijk bijhoudt wie wanneer getest is en wanneer de volgende controle op de planning staat, zonder daarbij het overzicht kwijt te raken, lees je het artikel [Soa-testen bij meerdere partners: zo houd je overzicht in de polyamorie](/nl/blog/sti-tracking-polyamorie-wellness).
+Voor hoe je bij meerdere verbindingen tegelijk – inclusief de afspraken met metamours – daadwerkelijk bijhoudt wie wanneer getest is en wanneer de volgende controle op de planning staat, zonder daarbij het overzicht kwijt te raken, lees je het artikel [Soa-testen bij meerdere partners: zo houd je overzicht in de polyamorie](/nl/blog/sti-tracking-polyamorie-wellness/).
 
 ## Testen als zelfzorg, niet als iets om je voor te schamen
 

@@ -39,7 +39,7 @@ En simpel, men effektiv aftale: Nye planer meldes ud med tilstrækkeligt forvars
 
 ## Hvor meget åbenhed er nødvendig?
 
-Det afhænger stærkt af den valgte relationsmodel. Den, der lever efter [kitchen table-polyamori](/da/blog/kitchen-table-vs-parallel-polyamori-da), deler ofte åbent, hvornår hvem tilbringer tid med hvem. Den, der er mere [parallelt](/da/blog/kitchen-table-vs-parallel-polyamori-da) organiseret, har som regel kun brug for informationen "jeg er ikke tilgængelig den dag" – uden detaljer. Begge dele er legitime, så længe det valgte niveau af åbenhed er aftalt med alle involverede.
+Det afhænger stærkt af den valgte relationsmodel. Den, der lever efter [kitchen table-polyamori](/da/blog/kitchen-table-vs-parallel-polyamori-da/), deler ofte åbent, hvornår hvem tilbringer tid med hvem. Den, der er mere [parallelt](/da/blog/kitchen-table-vs-parallel-polyamori-da/) organiseret, har som regel kun brug for informationen "jeg er ikke tilgængelig den dag" – uden detaljer. Begge dele er legitime, så længe det valgte niveau af åbenhed er aftalt med alle involverede.
 
 ## Når aftaler kolliderer
 
@@ -47,11 +47,11 @@ Kollisioner sker på et tidspunkt, selv med et godt system – sygdom, spontane 
 
 ## Planlægning og følelsesmæssig retfærdighed
 
-Et rent tidsstyringssystem er ikke nok, hvis den underliggende fordeling vedvarende føles uretfærdig. Den, der bemærker, at et forhold strukturelt altid kommer til kort, bør tage det op, før der opstår vrede. Læs mere om det større spørgsmål bag dette i artiklen [Styr flere forhold](/da/blog/styre-flere-forhold).
+Et rent tidsstyringssystem er ikke nok, hvis den underliggende fordeling vedvarende føles uretfærdig. Den, der bemærker, at et forhold strukturelt altid kommer til kort, bør tage det op, før der opstår vrede. Læs mere om det større spørgsmål bag dette i artiklen [Styr flere forhold](/da/blog/styre-flere-forhold/).
 
 ## Roster som centralt system
 
-**Roster** er bygget netop til dette problem: en app, der visualiserer dit [polycule](/da/blog/hvad-er-et-polycule), noterer vigtige aftaler og detaljer for hver forbindelse, og med vibe-radaren viser, hvilket forhold der lige nu har brug for opmærksomhed – før en planlægningskonflikt bliver til en følelsesmæssig konflikt. Alle data forbliver lokale på din enhed, helt uden konto eller cloud-krav.
+**Roster** er bygget netop til dette problem: en app, der visualiserer dit [polycule](/da/blog/hvad-er-et-polycule/), noterer vigtige aftaler og detaljer for hver forbindelse, og med vibe-radaren viser, hvilket forhold der lige nu har brug for opmærksomhed – før en planlægningskonflikt bliver til en følelsesmæssig konflikt. Alle data forbliver lokale på din enhed, helt uden konto eller cloud-krav.
 
 ## Ofte stillede spørgsmål
 

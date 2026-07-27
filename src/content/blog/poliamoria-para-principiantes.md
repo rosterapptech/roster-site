@@ -13,7 +13,7 @@ Quizás has notado que el modelo relacional clásico no te termina de encajar. Q
 
 El poliamor significa mantener consensualmente varias relaciones amorosas al mismo tiempo, con el conocimiento de todas las personas involucradas. La palabra clave es **consensual**: el poliamor es lo opuesto de la infidelidad. Se trata de honestidad, transparencia y construir relaciones juntos – no de secretos.
 
-El poliamor es una de las muchas formas de no monogamia ética (NME). También incluye las relaciones abiertas, la [anarquía relacional](/es/blog/anarquia-relacional-vs-poliamoria) y el swinging. Lo que todas tienen en común: consentimiento y comunicación.
+El poliamor es una de las muchas formas de no monogamia ética (NME). También incluye las relaciones abiertas, la [anarquía relacional](/es/blog/anarquia-relacional-vs-poliamoria/) y el swinging. Lo que todas tienen en común: consentimiento y comunicación.
 
 ## Los mitos más persistentes
 
@@ -23,7 +23,7 @@ El poliamor es una de las muchas formas de no monogamia ética (NME). También i
 
 **"Es solo para el sexo."** El poliamor gira en torno al amor y la relación, no principalmente al sexo. Algunas relaciones poly ni siquiera son sexuales.
 
-**"Si eres poly, nunca tienes celos."** Las personas poliamorosas también tienen celos. La diferencia está en cómo se gestionan abiertamente – más sobre esto en nuestro artículo sobre los [celos](/es/blog/celos-poliamoria).
+**"Si eres poly, nunca tienes celos."** Las personas poliamorosas también tienen celos. La diferencia está en cómo se gestionan abiertamente – más sobre esto en nuestro artículo sobre los [celos](/es/blog/celos-poliamoria/).
 
 ## Los primeros pasos
 
@@ -33,7 +33,7 @@ Antes de hablar con otros sobre el poliamor, vale la pena mirar hacia adentro. �
 
 ### 2. Aprende el vocabulario
 
-Metamour, compersión, polycule, NRE – los términos te ayudan a expresarte y a entender a otros. Nuestro [glosario](/es/blog/glosario-poliamoria) te da un buen punto de partida.
+Metamour, compersión, polycule, NRE – los términos te ayudan a expresarte y a entender a otros. Nuestro [glosario](/es/blog/glosario-poliamoria/) te da un buen punto de partida.
 
 ### 3. Comunícate con honestidad – desde el principio
 
@@ -41,7 +41,7 @@ Ya sea que quieras abrir una relación existente o empezar de cero con el poliam
 
 ### 4. Espera sentimientos – también incómodos
 
-Los [celos](/es/blog/celos-poliamoria), la inseguridad y el agobio suelen formar parte, especialmente al principio. No son señal de fracaso sino parte del proceso de aprendizaje. Los sentimientos son señales, no señales de stop.
+Los [celos](/es/blog/celos-poliamoria/), la inseguridad y el agobio suelen formar parte, especialmente al principio. No son señal de fracaso sino parte del proceso de aprendizaje. Los sentimientos son señales, no señales de stop.
 
 ### 5. Ve despacio
 
@@ -55,7 +55,7 @@ No esperes hacerlo todo bien de inmediato. Nadie lo hace. El poliamor es un cami
 
 ## Una herramienta para el comienzo
 
-Cuando la teoría se convierte en práctica vivida, rápidamente se acumulan más personas, citas y detalles de los que se pueden mantener en la cabeza. **Roster** fue construido exactamente para ese momento: una app que te ayuda a [organizar](/es/blog/gestionar-varias-relaciones) tus conexiones, reflexionar sobre tus sentimientos en un diario privado y mantener el control – completamente local en tu dispositivo, sin cuenta y sin rastreo. Especialmente al principio, cuando tanto es nuevo, puede ser un alivio tener un lugar tranquilo y privado para ello.
+Cuando la teoría se convierte en práctica vivida, rápidamente se acumulan más personas, citas y detalles de los que se pueden mantener en la cabeza. **Roster** fue construido exactamente para ese momento: una app que te ayuda a [organizar](/es/blog/gestionar-varias-relaciones/) tus conexiones, reflexionar sobre tus sentimientos en un diario privado y mantener el control – completamente local en tu dispositivo, sin cuenta y sin rastreo. Especialmente al principio, cuando tanto es nuevo, puede ser un alivio tener un lugar tranquilo y privado para ello.
 
 ## No tienes que descubrirlo solo/a
 

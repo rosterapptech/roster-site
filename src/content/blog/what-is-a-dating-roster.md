@@ -35,7 +35,7 @@ These three terms are often mixed up, but they mean different things:
 
 **Situationship** refers to a single connection that feels like a relationship but was never officially named as one – often with unclear expectations and uncertainty on at least one side.
 
-**Polyamory** is a deliberately chosen relationship model built on open communication, involving multiple simultaneous, usually emotionally committed relationships – unlike a roster, which is often still casual and exploratory. Read more on the distinction in [Polyamory vs. Open Relationship](/en/blog/polyamory-vs-open-relationship).
+**Polyamory** is a deliberately chosen relationship model built on open communication, involving multiple simultaneous, usually emotionally committed relationships – unlike a roster, which is often still casual and exploratory. Read more on the distinction in [Polyamory vs. Open Relationship](/en/blog/polyamory-vs-open-relationship/).
 
 A Dating Roster can therefore evolve over time toward polyamory, if several loose connections deliberately grow into committed multiple relationships – or it can narrow down to a single relationship once one connection becomes exclusive.
 
@@ -45,7 +45,7 @@ The success of "Dating Roster" lies in the fact that it names a real dating expe
 
 ## Challenges of Keeping a Dating Roster
 
-As light as the term sounds, the practical challenges are real: anyone texting and meeting up with several people at once has to keep details straight, be honest about their own capacity, and keep track of who knows what. That's exactly where the article [Organizing Your Roster Dating](/en/blog/roster-dating-organize) comes in – with concrete strategies for everyday life.
+As light as the term sounds, the practical challenges are real: anyone texting and meeting up with several people at once has to keep details straight, be honest about their own capacity, and keep track of who knows what. That's exactly where the article [Organizing Your Roster Dating](/en/blog/roster-dating-organize/) comes in – with concrete strategies for everyday life.
 
 ## Tools for Your Dating Roster
 

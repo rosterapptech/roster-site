@@ -88,7 +88,7 @@ Genau für Szenarien wie das von Mara haben wir die **Polycule Map** in **Roster
 
 <!-- SCREENSHOT: polycule-map -->
 
-Und wenn du nach konkreten Systemen suchst, wie du deinen Alltag mit mehreren Beziehungen strukturierst – Zeit, Kommunikation und Balance eingeschlossen –, findest du im Artikel [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen) weiterführende Tipps.
+Und wenn du nach konkreten Systemen suchst, wie du deinen Alltag mit mehreren Beziehungen strukturierst – Zeit, Kommunikation und Balance eingeschlossen –, findest du im Artikel [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen/) weiterführende Tipps.
 
 ## Häufige Fragen zum Polycule
 

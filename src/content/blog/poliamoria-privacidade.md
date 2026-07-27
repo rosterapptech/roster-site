@@ -7,7 +7,7 @@ translationKey: 'polyamory-privacy'
 tags: ['Privacidade', 'Poliamoria', 'Proteção de dados', 'Segurança']
 ---
 
-Dados de relacionamento estão entre os mais sensíveis que existem: quem está com quem, saúde sexual, limites, detalhes íntimos, o [polycule](/pt/blog/o-que-e-um-polycule) como um todo. Na poliamoria, isso não afeta só você, mas também seus parceiros e os metamours deles. É surpreendente, então, o quão pouco se fala sobre privacidade nesse contexto.
+Dados de relacionamento estão entre os mais sensíveis que existem: quem está com quem, saúde sexual, limites, detalhes íntimos, o [polycule](/pt/blog/o-que-e-um-polycule/) como um todo. Na poliamoria, isso não afeta só você, mas também seus parceiros e os metamours deles. É surpreendente, então, o quão pouco se fala sobre privacidade nesse contexto.
 
 Este artigo explica por que a privacidade tem um peso especial nos relacionamentos não monogâmicos — e como proteger seus dados de verdade.
 

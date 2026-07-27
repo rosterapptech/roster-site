@@ -68,7 +68,7 @@ Genau für diese Routine haben wir in **Roster** das **Vibe-Radar** gebaut: Du k
 
 <!-- SCREENSHOT: vibe-radar -->
 
-So wird aus dem vagen Bauchgefühl ein klares Bild, und keine deiner Verbindungen verschwindet still im Hintergrund. Gerade wenn du mehrere Beziehungen gleichzeitig führst, ersetzt das Radar das unzuverlässige Gedächtnis durch eine ehrliche, private Übersicht. Wie du darüber hinaus deinen gesamten Alltag mit mehreren Partnerinnen und Partnern organisierst, ohne dass jemand hinten runterfällt, beschreiben wir ausführlich in unserem [Praxis-Guide zum Managen mehrerer Beziehungen](/blog/mehrere-beziehungen-managen). Alles bleibt dabei privat auf deinem Gerät – Roster speichert nichts in der Cloud und sendet nichts an einen Server.
+So wird aus dem vagen Bauchgefühl ein klares Bild, und keine deiner Verbindungen verschwindet still im Hintergrund. Gerade wenn du mehrere Beziehungen gleichzeitig führst, ersetzt das Radar das unzuverlässige Gedächtnis durch eine ehrliche, private Übersicht. Wie du darüber hinaus deinen gesamten Alltag mit mehreren Partnerinnen und Partnern organisierst, ohne dass jemand hinten runterfällt, beschreiben wir ausführlich in unserem [Praxis-Guide zum Managen mehrerer Beziehungen](/blog/mehrere-beziehungen-managen/). Alles bleibt dabei privat auf deinem Gerät – Roster speichert nichts in der Cloud und sendet nichts an einen Server.
 
 ## Aufmerksamkeit ist die eigentliche Währung
 

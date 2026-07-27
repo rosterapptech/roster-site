@@ -22,7 +22,7 @@ Denne artikel er til dig, hvis du står præcis på det punkt: du mærker en tra
 
 ## Hvor du står, hvis du er den eneste, der er poly
 
-Denne situation adskiller sig fra et par, der allerede sammen har besluttet sig for en asymmetrisk struktur. Hvis I allerede i et stykke tid har levet i en konstellation, hvor den ene partner forbliver monogam, og den anden har flere forhold, er artiklen [Mono-poly-forhold](/da/blog/mono-poly-forhold) mere relevant – den beskriver netop den allerede etablerede hverdag. Her handler det om skridtet før det: den første ærlige samtale, hvor der endnu ikke er besluttet noget.
+Denne situation adskiller sig fra et par, der allerede sammen har besluttet sig for en asymmetrisk struktur. Hvis I allerede i et stykke tid har levet i en konstellation, hvor den ene partner forbliver monogam, og den anden har flere forhold, er artiklen [Mono-poly-forhold](/da/blog/mono-poly-forhold/) mere relevant – den beskriver netop den allerede etablerede hverdag. Her handler det om skridtet før det: den første ærlige samtale, hvor der endnu ikke er besluttet noget.
 
 Det betyder også, at der endnu ikke er nogen sikkerhed om, hvordan forholdet kommer til at se ud. Netop den usikkerhed gør emnet så svært at tage op for mange. Man er bange for at ødelægge noget, der har fungeret indtil nu – og skubber derfor samtalen foran sig i månedsvis, indtil det indre pres bliver for stort, og det alligevel kommer for brat eller på det forkerte tidspunkt.
 
@@ -75,7 +75,7 @@ Nogle ting hører til en ærlig proces, selvom de er ubehagelige:
 
 Alt i denne proces – timing, formulering, forventninger – hviler på samme grundlag: en kommunikation, der er mere ærlig, end mange par er vant til. Konkret betyder det: at navngive følelser i stedet for at antyde dem, at spørge i stedet for at antage, og at indrømme usikkerhed i stedet for at gemme den bag falsk selvsikkerhed.
 
-Hvis der under denne proces opstår jalousi, frygt eller tabsfølelser – hos dig selv eller din partner – er det ikke et tegn på, at noget går galt. Det er materiale, man kan arbejde med. Artiklen [Jalousi i polyamore relationer](/da/blog/jalousi-polyamori) beskriver syv konkrete strategier, som hjælper allerede i denne tidlige fase, længe før der overhovedet findes et andet forhold.
+Hvis der under denne proces opstår jalousi, frygt eller tabsfølelser – hos dig selv eller din partner – er det ikke et tegn på, at noget går galt. Det er materiale, man kan arbejde med. Artiklen [Jalousi i polyamore relationer](/da/blog/jalousi-polyamori/) beskriver syv konkrete strategier, som hjælper allerede i denne tidlige fase, længe før der overhovedet findes et andet forhold.
 
 ## Hvis svaret er nej
 

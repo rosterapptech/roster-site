@@ -22,7 +22,7 @@ Dit artikel is voor jou als je precies op dat punt staat: je voelt de behoefte o
 
 ## Waar je staat als jij de enige bent die poly is
 
-Deze situatie verschilt van een stel dat al samen heeft gekozen voor een asymmetrisch model. Als jullie al langer leven in een situatie waarin één partner monogaam blijft en de ander meerdere relaties heeft, is het artikel [Mono-poly relaties](/nl/blog/mono-poly-relaties) relevanter – dat beschrijft precies die al gevestigde dagelijkse praktijk. Hier gaat het om de stap ervoor: het eerste eerlijke gesprek, waarin nog helemaal niets besloten is.
+Deze situatie verschilt van een stel dat al samen heeft gekozen voor een asymmetrisch model. Als jullie al langer leven in een situatie waarin één partner monogaam blijft en de ander meerdere relaties heeft, is het artikel [Mono-poly relaties](/nl/blog/mono-poly-relaties/) relevanter – dat beschrijft precies die al gevestigde dagelijkse praktijk. Hier gaat het om de stap ervoor: het eerste eerlijke gesprek, waarin nog helemaal niets besloten is.
 
 Dat betekent ook dat er nog geen zekerheid is over hoe de relatie eruit gaat zien. Precies die onzekerheid maakt het onderwerp voor veel mensen zo moeilijk bespreekbaar. Je bent bang iets kapot te maken dat tot nu toe werkte – en dus stel je het gesprek maandenlang uit, tot de druk vanbinnen te groot wordt en het er toch te abrupt of op het verkeerde moment uitkomt.
 
@@ -75,7 +75,7 @@ Een paar dingen horen bij een eerlijk proces, ook al zijn ze ongemakkelijk:
 
 Alles in dit proces – timing, formulering, verwachtingen – rust op dezelfde basis: communicatie die eerlijker is dan wat veel stellen gewend zijn. Concreet betekent dat: gevoelens benoemen in plaats van aanduiden, navragen in plaats van aannemen, en onzekerheid toegeven in plaats van die te verbergen achter schijnzekerheid.
 
-Als er tijdens dit proces jaloezie, angst of verlies-gevoelens opkomen – bij jou of bij je partner – is dat geen teken dat er iets misgaat. Het is materiaal om mee te werken. Het artikel [Jaloezie in polyamore relaties](/nl/blog/jaloezie-polyamorie) beschrijft zeven concrete strategieën die ook al in deze vroege fase helpen, nog voordat er überhaupt een tweede relatie bestaat.
+Als er tijdens dit proces jaloezie, angst of verlies-gevoelens opkomen – bij jou of bij je partner – is dat geen teken dat er iets misgaat. Het is materiaal om mee te werken. Het artikel [Jaloezie in polyamore relaties](/nl/blog/jaloezie-polyamorie/) beschrijft zeven concrete strategieën die ook al in deze vroege fase helpen, nog voordat er überhaupt een tweede relatie bestaat.
 
 ## Als het antwoord nee is
 

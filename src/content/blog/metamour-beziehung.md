@@ -7,7 +7,7 @@ translationKey: 'metamour-relationships'
 tags: ['Metamour', 'Polyamorie', 'Kommunikation', 'Beziehungsformen']
 ---
 
-**Kurz gesagt:** Ein Metamour ist der Partner oder die Partnerin deines Partners – also jemand, mit dem du selbst keine romantische Beziehung führst, der aber Teil deines erweiterten [Polycule](/blog/was-ist-ein-polycule) ist. Wie eng dieses Verhältnis wird, ist völlig offen: von enger Freundschaft bis "wir kennen uns kaum" ist alles normal und gültig. Entscheidend ist nicht die Nähe an sich, sondern Respekt, klare Kommunikation und realistische Erwartungen.
+**Kurz gesagt:** Ein Metamour ist der Partner oder die Partnerin deines Partners – also jemand, mit dem du selbst keine romantische Beziehung führst, der aber Teil deines erweiterten [Polycule](/blog/was-ist-ein-polycule/) ist. Wie eng dieses Verhältnis wird, ist völlig offen: von enger Freundschaft bis "wir kennen uns kaum" ist alles normal und gültig. Entscheidend ist nicht die Nähe an sich, sondern Respekt, klare Kommunikation und realistische Erwartungen.
 
 Wer in die Polyamorie einsteigt, stolpert meist schnell über den Begriff **Metamour** – und über die Frage, was man mit dieser Person eigentlich anfangen soll. Muss man sich mögen? Muss man sich überhaupt treffen? Und was, wenn man sich gegenseitig nicht ausstehen kann? Dieser Artikel ordnet die wichtigsten Metamour-Dynamiken und zeigt, wie das Verhältnis für alle Beteiligten entspannter wird.
 
@@ -27,7 +27,7 @@ Keines dieser Modelle ist "weiter entwickelt" als ein anderes. Introvertierte Me
 
 ## Typische Herausforderungen mit Metamours
 
-**Vergleich und Konkurrenzgefühl.** Es ist menschlich, sich unbewusst mit dem Metamour zu vergleichen – wer bekommt mehr Zeit, wer wird öfter erwähnt, wer "gewinnt" gefühlt. Dieses Gefühl ernst zu nehmen, ohne danach zu handeln, ist ein wichtiger Schritt. Mehr zum Umgang mit diesen Gefühlen im Artikel [Eifersucht in der Polyamorie](/blog/eifersucht-polyamorie).
+**Vergleich und Konkurrenzgefühl.** Es ist menschlich, sich unbewusst mit dem Metamour zu vergleichen – wer bekommt mehr Zeit, wer wird öfter erwähnt, wer "gewinnt" gefühlt. Dieses Gefühl ernst zu nehmen, ohne danach zu handeln, ist ein wichtiger Schritt. Mehr zum Umgang mit diesen Gefühlen im Artikel [Eifersucht in der Polyamorie](/blog/eifersucht-polyamorie/).
 
 **Der gemeinsame Partner als Vermittler.** Manche Paare kommunizieren nur über den gemeinsamen Partner miteinander, anstatt direkt. Das überlastet die Person in der Mitte und verzerrt oft, was eigentlich gesagt werden sollte. Direkter Kontakt – auch wenn er anfangs unangenehm ist – entlastet auf Dauer alle.
 

@@ -7,7 +7,7 @@ translationKey: 'breakups-polyamory'
 tags: ['Poliamoria', 'Términos', 'Metamour', 'Comunicação']
 ---
 
-**Resumindo:** um término na poliamoria raramente afeta só duas pessoas: normalmente repercute em todo o [polycule](/pt/blog/o-que-e-um-polycule), nos [metamours](/pt/blog/metamour-relacionamentos), nas amizades compartilhadas e nos relacionamentos que continuam em paralelo. O luto por uma conexão que termina não é incompatível com a felicidade em outros relacionamentos; as duas coisas podem estar presentes ao mesmo tempo. A comunicação aberta com todas as pessoas afetadas é o que faz a diferença entre um final caótico e um respeitoso.
+**Resumindo:** um término na poliamoria raramente afeta só duas pessoas: normalmente repercute em todo o [polycule](/pt/blog/o-que-e-um-polycule/), nos [metamours](/pt/blog/metamour-relacionamentos/), nas amizades compartilhadas e nos relacionamentos que continuam em paralelo. O luto por uma conexão que termina não é incompatível com a felicidade em outros relacionamentos; as duas coisas podem estar presentes ao mesmo tempo. A comunicação aberta com todas as pessoas afetadas é o que faz a diferença entre um final caótico e um respeitoso.
 
 Términos doem, seja qual for a estrutura do relacionamento. Mas na poliamoria existe uma camada a mais: um término raramente afeta só as duas pessoas diretamente envolvidas. Ele tem efeitos sobre os metamours, as amizades compartilhadas e, às vezes, sobre toda a rede de relacionamentos.
 
@@ -31,7 +31,7 @@ Um sentimento que surpreende muita gente: dá para estar genuinamente feliz por 
 
 ## Perguntas práticas depois de um término
 
-**O que acontece com os acordos compartilhados?** Os combinados que valiam para todo o polycule — por exemplo, sobre [planejamento](/pt/blog/planejar-varios-relacionamentos) ou saúde — costumam precisar ser renegociados depois de um término, porque a situação de partida mudou.
+**O que acontece com os acordos compartilhados?** Os combinados que valiam para todo o polycule — por exemplo, sobre [planejamento](/pt/blog/planejar-varios-relacionamentos/) ou saúde — costumam precisar ser renegociados depois de um término, porque a situação de partida mudou.
 
 **Como se comunica isso para fora?** Amigos e família que conhecem todo o polycule geralmente precisam de uma explicação breve e clara, em vez de deixar que os boatos preencham o vazio.
 

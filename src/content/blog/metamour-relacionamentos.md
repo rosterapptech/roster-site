@@ -8,7 +8,7 @@ author: 'Slowcraft'
 tags: ['Metamour', 'Poliamoria', 'Comunicação', 'Estruturas de relacionamento']
 ---
 
-**Resumindo:** um metamour é o parceiro do seu parceiro: alguém com quem você não tem um relacionamento romântico, mas que faz parte do seu [polycule](/pt/blog/o-que-e-um-polycule) ampliado. O quão próxima essa relação chega a ser é completamente aberto: de uma amizade estreita a "quase não nos conhecemos" são opções normais e válidas. O que importa não é a proximidade em si, mas o respeito, a comunicação clara e expectativas realistas.
+**Resumindo:** um metamour é o parceiro do seu parceiro: alguém com quem você não tem um relacionamento romântico, mas que faz parte do seu [polycule](/pt/blog/o-que-e-um-polycule/) ampliado. O quão próxima essa relação chega a ser é completamente aberto: de uma amizade estreita a "quase não nos conhecemos" são opções normais e válidas. O que importa não é a proximidade em si, mas o respeito, a comunicação clara e expectativas realistas.
 
 Quem se aproxima da poliamoria pela primeira vez costuma esbarrar logo no termo **metamour** e na pergunta do que fazer exatamente com essa pessoa. Você precisa gostar dele? Vocês nem sequer precisam se conhecer? E se vocês simplesmente não se suportam? Este artigo organiza as dinâmicas de metamour mais importantes e mostra como tornar a relação mais tranquila para todas as partes.
 
@@ -28,7 +28,7 @@ Nenhum desses modelos é "mais avançado" que outro. Pessoas introvertidas, ou q
 
 ## Desafios comuns com os metamores
 
-**Comparação e sentimentos de competição.** É humano se comparar inconscientemente com o seu metamour: quem recebe mais tempo, quem é mais mencionado, quem "ganha" em um sentido vago. Levar esse sentimento a sério sem agir de acordo com ele é um passo importante. Mais sobre como lidar com esses sentimentos no artigo [Ciúme na poliamoria](/pt/blog/ciumes-poliamoria).
+**Comparação e sentimentos de competição.** É humano se comparar inconscientemente com o seu metamour: quem recebe mais tempo, quem é mais mencionado, quem "ganha" em um sentido vago. Levar esse sentimento a sério sem agir de acordo com ele é um passo importante. Mais sobre como lidar com esses sentimentos no artigo [Ciúme na poliamoria](/pt/blog/ciumes-poliamoria/).
 
 **Usar o parceiro compartilhado como intermediário.** Algumas pessoas só se comunicam entre si por meio do parceiro compartilhado, em vez de fazê-lo diretamente. Isso sobrecarrega a pessoa do meio e muitas vezes distorce o que realmente precisa ser dito. O contato direto, mesmo que desconfortável no início, alivia todo mundo a longo prazo.
 

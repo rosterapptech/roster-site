@@ -48,7 +48,7 @@ O ciúme parece enorme e caótico no momento. Escrever sobre ele coloca ordem ne
 
 A compersão — a alegria pela felicidade do seu parceiro com outra pessoa — não surge sozinha na maioria das pessoas. Mas pode ser praticada. Um primeiro passo: repare conscientemente nos momentos em que é fácil se alegrar por alguém, e lembre-se de que a felicidade do seu parceiro não tira nada de você.
 
-O ciúme raramente é a única coisa que fica tensa quando há vários relacionamentos ao mesmo tempo: muitas vezes o verdadeiro culpado é, simplesmente, a falta de estrutura no dia a dia. Como dividir tempo, comunicação e capacidade de forma justa entre várias conexões, explicamos no artigo [Gerenciar vários relacionamentos ao mesmo tempo](/pt/blog/gerenciar-varios-relacionamentos).
+O ciúme raramente é a única coisa que fica tensa quando há vários relacionamentos ao mesmo tempo: muitas vezes o verdadeiro culpado é, simplesmente, a falta de estrutura no dia a dia. Como dividir tempo, comunicação e capacidade de forma justa entre várias conexões, explicamos no artigo [Gerenciar vários relacionamentos ao mesmo tempo](/pt/blog/gerenciar-varios-relacionamentos/).
 
 ## 7. Dê tempo a si mesmo: a habituação é real
 

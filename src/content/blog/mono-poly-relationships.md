@@ -11,7 +11,7 @@ tags: ['Polyamory', 'Mono-Poly', 'Relationship Structures', 'Communication']
 
 Poly doesn't mean the same thing for everyone – sometimes only one person in the relationship wants or needs multiple partners, while the other is quite deliberate about staying with a single connection. This model is called mono-poly, and it's often overlooked in the community because it's neither classically monogamous nor symmetrically polyamorous.
 
-This article assumes both sides have already settled on this asymmetric model together. If you're still at the beginning of that road – where only one of you currently identifies as poly, while the other is unsure or clearly monogamous – the conversation that comes first is a different one: how to even raise the topic of opening up. That's covered in [Opening Up Your Relationship: Starting the Conversation](/en/blog/opening-up-relationship-partner-not-poly).
+This article assumes both sides have already settled on this asymmetric model together. If you're still at the beginning of that road – where only one of you currently identifies as poly, while the other is unsure or clearly monogamous – the conversation that comes first is a different one: how to even raise the topic of opening up. That's covered in [Opening Up Your Relationship: Starting the Conversation](/en/blog/opening-up-relationship-partner-not-poly/).
 
 ## What is a mono-poly relationship?
 
@@ -23,7 +23,7 @@ Unlike symmetrical polyamorous setups, there's a built-in imbalance here: one pe
 
 Typical friction points:
 
-- **The mono partner feels replaceable** when the poly partner is experiencing NRE with other people while their own relationship is stuck in a routine. More on this in [Balancing New Relationship Energy](/en/blog/nre-balance).
+- **The mono partner feels replaceable** when the poly partner is experiencing NRE with other people while their own relationship is stuck in a routine. More on this in [Balancing New Relationship Energy](/en/blog/nre-balance/).
 - **The poly partner feels restricted** when agreements feel overly rigid, even though they're meant to give the monogamous partner reassurance.
 - **Unequal negotiating power** develops when only one side sets rules for the other's relationships, without the poly partner having room to bring in their own boundaries.
 
@@ -35,7 +35,7 @@ The mono partner should see monogamy as their own valid preference, not a conces
 
 ### 2. Time and visibility instead of vague reassurances
 
-Reliable, dedicated time with the poly partner usually matters more than any verbal reassurance of importance. Concrete time blocks – see [Managing Multiple Relationships at Once](/en/blog/managing-multiple-relationships) – give the mono partner something tangible instead of just words.
+Reliable, dedicated time with the poly partner usually matters more than any verbal reassurance of importance. Concrete time blocks – see [Managing Multiple Relationships at Once](/en/blog/managing-multiple-relationships/) – give the mono partner something tangible instead of just words.
 
 ### 3. Agreements about safety and information
 
@@ -47,11 +47,11 @@ Both sides benefit from periodically and honestly asking: does this model still 
 
 ## How it differs from other models
 
-Mono-poly differs from an open relationship in that the mono partner isn't seeking further partners at all – more on the distinction between the two models in [Polyamory vs. Open Relationship](/en/blog/polyamory-vs-open-relationship). It also differs from hierarchical polyamory, since here one person is structurally not poly at all, rather than simply holding a "primary" position.
+Mono-poly differs from an open relationship in that the mono partner isn't seeking further partners at all – more on the distinction between the two models in [Polyamory vs. Open Relationship](/en/blog/polyamory-vs-open-relationship/). It also differs from hierarchical polyamory, since here one person is structurally not poly at all, rather than simply holding a "primary" position.
 
 ## Tools that help
 
-Even though the mono partner isn't juggling multiple relationships themselves, the relationship benefits when time and agreements are visible and reliable. **Roster** helps the poly partner keep track of every connection – including the mono relationship, which deserves just as firm a place in the [polycule](/en/blog/what-is-a-polycule) as any other. All data stays local on the device, no account required.
+Even though the mono partner isn't juggling multiple relationships themselves, the relationship benefits when time and agreements are visible and reliable. **Roster** helps the poly partner keep track of every connection – including the mono relationship, which deserves just as firm a place in the [polycule](/en/blog/what-is-a-polycule/) as any other. All data stays local on the device, no account required.
 
 ## Common questions
 
@@ -65,7 +65,7 @@ Yes, if both sides openly acknowledge the structural asymmetry, make clear agree
 No. In hierarchical polyamory, both partners are usually poly, just with a different ranking. In mono-poly, one person is structurally not poly and isn't seeking further partners themselves.
 
 **How does the mono partner deal with jealousy in this setup?**
-Much like in any polyamorous relationship – through open communication rather than suppression. More on this in [Jealousy in Polyamorous Relationships](/en/blog/jealousy-polyamory).
+Much like in any polyamorous relationship – through open communication rather than suppression. More on this in [Jealousy in Polyamorous Relationships](/en/blog/jealousy-polyamory/).
 
 **Which app helps organise a mono-poly relationship?**
 Roster helps the poly partner keep every connection – including the monogamous relationship – equally in view, with consistent time rhythms and without any data ever leaving the device.

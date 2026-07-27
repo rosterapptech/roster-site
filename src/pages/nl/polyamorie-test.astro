@@ -128,7 +128,7 @@ const results: QuizResultTier[] = [
     title: 'Monogamie past nu waarschijnlijk beter bij jou',
     desc: 'Je antwoorden laten zien: exclusiviteit, betrouwbaarheid en de focus op één partnerschap geven jou houvast. Dat is niet beter of slechter dan polyamorie – gewoon een ander antwoord op dezelfde vraag: hoe wil ik liefhebben? Mocht het onderwerp je toch interesseren, dan kan het geen kwaad om er meer over te lezen.',
     ctaGhostLabel: 'Wat is polyamorie eigenlijk? →',
-    ctaGhostHref: '/nl/blog/wat-is-polyamorie',
+    ctaGhostHref: '/nl/blog/wat-is-polyamorie/',
   },
   {
     min: 13,
@@ -203,7 +203,7 @@ const alternates = [
         <div class="related-grid">
           {
             relatedPosts.map((p) => (
-              <a href={`/nl/blog/${p.slug}`} class="card related-card">
+              <a href={`/nl/blog/${p.slug}/`} class="card related-card">
                 {p.title}
               </a>
             ))

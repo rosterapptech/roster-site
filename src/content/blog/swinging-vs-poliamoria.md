@@ -17,7 +17,7 @@ El swinging (también llamado intercambio de parejas o "el lifestyle") describe 
 
 ## ¿Qué es el poliamor?
 
-El poliamor significa mantener más de una relación romántica al mismo tiempo, de forma abierta, honesta y con el conocimiento y consentimiento de todas las personas implicadas. A diferencia del swinging, aquí la cercanía emocional no es la excepción, sino el núcleo del asunto. Puedes encontrar una definición completa en el artículo [¿Qué es el poliamor?](/es/blog/que-es-el-poliamor).
+El poliamor significa mantener más de una relación romántica al mismo tiempo, de forma abierta, honesta y con el conocimiento y consentimiento de todas las personas implicadas. A diferencia del swinging, aquí la cercanía emocional no es la excepción, sino el núcleo del asunto. Puedes encontrar una definición completa en el artículo [¿Qué es el poliamor?](/es/blog/que-es-el-poliamor/).
 
 ## La diferencia decisiva: enfoque emocional, no número de parejas
 
@@ -31,15 +31,15 @@ El poliamor, en cambio, es:
 
 - **Centrado en la relación** – cada conexión puede evolucionar de forma independiente, con su propia dinámica y su propio ritmo.
 - **Emocionalmente inclusivo** – enamorarse, la energía de relación nueva y el vínculo a largo plazo son explícitamente posibles y a menudo bienvenidos.
-- **No necesariamente basado en pareja** – las personas sin relación principal también pueden vivir el poliamor, ver [Poliamor en solitario](/es/blog/solo-poliamoria).
+- **No necesariamente basado en pareja** – las personas sin relación principal también pueden vivir el poliamor, ver [Poliamor en solitario](/es/blog/solo-poliamoria/).
 
 ## Aun así, hay solapamiento
 
-Los dos modelos no se excluyen mutuamente. Algunas parejas se mueven entre ambos mundos, desarrollan sentimientos reales a partir de lo que empezó como contacto puramente sexual, o eligen deliberadamente una forma híbrida. En ambos casos importa la misma regla básica de la no monogamia ética: todas las personas implicadas lo saben y han dado su consentimiento. Más sobre el término general en el artículo [No monogamia ética (ENM): definición, formas y límites](/es/blog/no-monogamia-etica).
+Los dos modelos no se excluyen mutuamente. Algunas parejas se mueven entre ambos mundos, desarrollan sentimientos reales a partir de lo que empezó como contacto puramente sexual, o eligen deliberadamente una forma híbrida. En ambos casos importa la misma regla básica de la no monogamia ética: todas las personas implicadas lo saben y han dado su consentimiento. Más sobre el término general en el artículo [No monogamia ética (ENM): definición, formas y límites](/es/blog/no-monogamia-etica/).
 
 ## Un malentendido habitual
 
-Un mito extendido afirma que el poliamor es en el fondo una infidelidad con permiso, o que el swinging es de alguna forma "menos honesto" que el poliamor. Ninguna de las dos afirmaciones se sostiene. [Mitos sobre el poliamor](/es/blog/mitos-poliamoria) desmonta exactamente estos malentendidos, y [Poliamor vs. infidelidad](/es/blog/poliamoria-vs-infidelidad) explica la diferencia decisiva entre apertura consentida y engaño, un punto que se aplica igual a ambos modelos.
+Un mito extendido afirma que el poliamor es en el fondo una infidelidad con permiso, o que el swinging es de alguna forma "menos honesto" que el poliamor. Ninguna de las dos afirmaciones se sostiene. [Mitos sobre el poliamor](/es/blog/mitos-poliamoria/) desmonta exactamente estos malentendidos, y [Poliamor vs. infidelidad](/es/blog/poliamoria-vs-infidelidad/) explica la diferencia decisiva entre apertura consentida y engaño, un punto que se aplica igual a ambos modelos.
 
 ## ¿Qué modelo encaja con quién?
 
@@ -47,7 +47,7 @@ Quien quiera proteger su relación principal como centro emocional exclusivo, pe
 
 ## La seguridad importa en ambos casos
 
-Independientemente del modelo, quien sea sexualmente activo con varias personas debería convertir el sexo seguro y las pruebas regulares en una rutina fija. El artículo [Sexo seguro y pruebas de ITS en relaciones poliamorosas](/es/blog/sexo-seguro-poliamoria) se aplica igual de bien a las parejas swinger.
+Independientemente del modelo, quien sea sexualmente activo con varias personas debería convertir el sexo seguro y las pruebas regulares en una rutina fija. El artículo [Sexo seguro y pruebas de ITS en relaciones poliamorosas](/es/blog/sexo-seguro-poliamoria/) se aplica igual de bien a las parejas swinger.
 
 ## Herramientas que ayudan
 

@@ -38,7 +38,7 @@ Wenn ihr euch als Paar öffnet und gemeinsam daten wollt, helfen ein paar konkre
 - **Behandelt eine neue Person als vollständigen Menschen mit eigener Handlungsfähigkeit**, nicht als Ergänzung eurer bestehenden Beziehung. Sie hat eigene Bedürfnisse, ein eigenes Tempo und das Recht, Nein zu sagen.
 - **Verlangt keine Exklusivität, die ihr selbst nicht bietet.** Wenn ihr als Paar weiterhin füreinander die Priorität seid, ist es unfair, von der neuen Person zu erwarten, dass sie auf andere Verbindungen verzichtet.
 - **Bezieht sie in die Regelfindung ein**, statt ihr fertige Regeln vorzulegen. Vereinbarungen, die eine Person betreffen, sollten auch mit ihr getroffen werden – nicht nur über sie.
-- **Verzichtet auf ein Vetorecht über ihre Autonomie.** Mehr dazu, warum Vetorechte in der Polyamorie problematisch sind, findet ihr in unserem Artikel über [Vetorecht in der Polyamorie](/blog/vetorecht-polyamorie).
+- **Verzichtet auf ein Vetorecht über ihre Autonomie.** Mehr dazu, warum Vetorechte in der Polyamorie problematisch sind, findet ihr in unserem Artikel über [Vetorecht in der Polyamorie](/blog/vetorecht-polyamorie/).
 - **Fragt euch ehrlich, ob ihr eine Person sucht oder eine Lücke füllen wollt.** Der Unterschied zwischen „Wir möchten jemanden kennenlernen, mit dem sich etwas Eigenes entwickeln kann" und „Wir suchen jemanden, der zu unserem bestehenden Leben passt" ist subtil, aber entscheidend.
 
 ## Wenn ihr merkt, dass ihr im Muster steckt

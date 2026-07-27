@@ -19,11 +19,11 @@ const highlights = [
 ];
 
 const related = [
-  { title: 'Vad är polyamori? Betydelse, definition och grunderna', href: '/sv/blog/vad-ar-polyamori' },
-  { title: 'Etisk icke-monogami: definition, former och skillnader', href: '/sv/blog/etisk-icke-monogami' },
-  { title: 'Polyamori för nybörjare: en ärlig start', href: '/sv/blog/polyamori-for-nyborjare' },
-  { title: 'Vad är ett polycule? Relationsformer och exempel', href: '/sv/blog/vad-ar-ett-polycule' },
-  { title: 'Metamour, compersion, NRE och mer – hela ordlistan', href: '/sv/blog/polyamori-ordlista' },
+  { title: 'Vad är polyamori? Betydelse, definition och grunderna', href: '/sv/blog/vad-ar-polyamori/' },
+  { title: 'Etisk icke-monogami: definition, former och skillnader', href: '/sv/blog/etisk-icke-monogami/' },
+  { title: 'Polyamori för nybörjare: en ärlig start', href: '/sv/blog/polyamori-for-nyborjare/' },
+  { title: 'Vad är ett polycule? Relationsformer och exempel', href: '/sv/blog/vad-ar-ett-polycule/' },
+  { title: 'Metamour, compersion, NRE och mer – hela ordlistan', href: '/sv/blog/polyamori-ordlista/' },
 ];
 
 const faqs = [
@@ -93,7 +93,7 @@ const schema = {
             projektverktyg.
           </p>
           <p>
-            Det är där Roster börjar. Läs en <a href="/sv/blog/app-for-att-organisera-polyamorosa-relationer">ärlig jämförelse av hur Roster skiljer sig från rena dejtingappar</a> på bloggen.
+            Det är där Roster börjar. Läs en <a href="/sv/blog/app-for-att-organisera-polyamorosa-relationer/">ärlig jämförelse av hur Roster skiljer sig från rena dejtingappar</a> på bloggen.
           </p>
         </div>
       </div>
@@ -105,7 +105,7 @@ const schema = {
         <h2>Byggd för verklig polyamori, inte för teorin.</h2>
         <div class="grid">
           {highlights.map((h) => (
-            <a href={`/sv/features/${h.slug}`} class="card highlight">
+            <a href={`/sv/features/${h.slug}/`} class="card highlight">
               {h.vio ? <Vio size={30} /> : <span class="dot" />}
               <h3>{h.name}</h3>
               <p>{h.desc}</p>

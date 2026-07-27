@@ -25,7 +25,7 @@ Tricket är att ta upp ämnet tidigt och avslappnat, inte som ett stort, stelt t
 
 Ett positivt testresultat är obehagligt, men det är ingen relationskris. Det viktigaste steget är snabb, direkt information till alla som kan beröras – även dina partners partners, när det är relevant. Håll det sakligt: vad resultatet betyder, vilka nästa steg som gäller, och vad det innebär för gemensamma aktiviteter under tiden. Undvik att peka ut skuld – de flesta infektioner kan inte spåras med säkerhet, och pekpinnar hjälper ingen. Ett nätverk där folk känner sig trygga med att vara ärliga om positiva resultat är hälsosammare än ett där rädsla för reaktioner tystar ner folk. Prata med en läkare eller en mottagning för sexuell hälsa om de medicinska detaljerna – här handlar det om kommunikationen, inte behandlingen.
 
-För hur du faktiskt håller koll på testdatum och överenskommelser över flera kopplingar – inklusive de med metamours – utan att tappa greppet, se artikeln [STI-testning med flera partners: så håller du koll i polyamori](/sv/blog/sti-tracking-polyamori-wellness-sv).
+För hur du faktiskt håller koll på testdatum och överenskommelser över flera kopplingar – inklusive de med metamours – utan att tappa greppet, se artikeln [STI-testning med flera partners: så håller du koll i polyamori](/sv/blog/sti-tracking-polyamori-wellness-sv/).
 
 ## Testning som egenvård, inte som något skamligt
 

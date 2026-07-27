@@ -17,7 +17,7 @@ Swinger-livsstil (även kallat partnerbyte eller "lifestylen") beskriver praxise
 
 ## Vad är polyamori?
 
-Polyamori betyder att ha flera romantiska relationer samtidigt – öppet, ärligt och med alla inblandades vetskap och samtycke. Till skillnad från swinger-livsstil är emotionell närhet här inte undantaget, utan själva kärnan i saken. En fullständig definition hittar du i artikeln [Vad är polyamori?](/sv/blog/vad-ar-polyamori).
+Polyamori betyder att ha flera romantiska relationer samtidigt – öppet, ärligt och med alla inblandades vetskap och samtycke. Till skillnad från swinger-livsstil är emotionell närhet här inte undantaget, utan själva kärnan i saken. En fullständig definition hittar du i artikeln [Vad är polyamori?](/sv/blog/vad-ar-polyamori/).
 
 ## Den avgörande skillnaden: emotionellt fokus istället för antal partner
 
@@ -31,15 +31,15 @@ Polyamori är däremot:
 
 - **Relationscentrerad** – varje koppling kan utvecklas oberoende, med sin egen dynamik och sin egen takt.
 - **Emotionellt inkluderande** – att bli kär, new relationship energy och långvarig bindning är uttryckligen möjligt och ofta önskat.
-- **Inte nödvändigtvis parbaserad** – även ensamstående utan kärnrelation kan leva polyamoröst, se [Solo-polyamori](/sv/blog/solo-polyamori-sv).
+- **Inte nödvändigtvis parbaserad** – även ensamstående utan kärnrelation kan leva polyamoröst, se [Solo-polyamori](/sv/blog/solo-polyamori-sv/).
 
 ## Ändå finns det överlapp
 
-De två modellerna utesluter inte varandra. Vissa par rör sig mellan båda världarna, utvecklar äkta känslor ur vad som ursprungligen var rent sexuella kontakter, eller väljer medvetet en blandform. I båda fallen gäller samma grundregel för etisk icke-monogami: alla inblandade vet om det och har samtyckt. Läs mer om paraplybegreppet i artikeln [Etisk icke-monogami (ENM): definition, former och avgränsning](/sv/blog/etisk-icke-monogami).
+De två modellerna utesluter inte varandra. Vissa par rör sig mellan båda världarna, utvecklar äkta känslor ur vad som ursprungligen var rent sexuella kontakter, eller väljer medvetet en blandform. I båda fallen gäller samma grundregel för etisk icke-monogami: alla inblandade vet om det och har samtyckt. Läs mer om paraplybegreppet i artikeln [Etisk icke-monogami (ENM): definition, former och avgränsning](/sv/blog/etisk-icke-monogami/).
 
 ## Ett vanligt missförstånd
 
-En utbredd myt säger att polyamori i grunden är otrohet med tillstånd, eller att swinger-livsstil är "mindre ärligt" än polyamori. Ingetdera påståendet håller. Artikeln [Myter om polyamori](/sv/blog/myter-polyamori-sv) rensar upp i exakt dessa missförstånd, och [Polyamori vs. otrohet](/sv/blog/polyamori-vs-otrohet) förklarar den avgörande skillnaden mellan samtyckande öppenhet och bedrägeri – en poäng som gäller lika mycket för båda modellerna.
+En utbredd myt säger att polyamori i grunden är otrohet med tillstånd, eller att swinger-livsstil är "mindre ärligt" än polyamori. Ingetdera påståendet håller. Artikeln [Myter om polyamori](/sv/blog/myter-polyamori-sv/) rensar upp i exakt dessa missförstånd, och [Polyamori vs. otrohet](/sv/blog/polyamori-vs-otrohet/) förklarar den avgörande skillnaden mellan samtyckande öppenhet och bedrägeri – en poäng som gäller lika mycket för båda modellerna.
 
 ## Vilken modell passar vem?
 
@@ -47,7 +47,7 @@ Den som medvetet vill skydda sin egen kärnrelation som ett exklusivt emotionell
 
 ## Säkerhet gäller för båda
 
-Oavsett modell gäller: den som är sexuellt aktiv med flera personer bör göra safer sex och regelbundna tester till en fast rutin. Artikeln [Safer sex och STI-tester i polyamorösa relationer](/sv/blog/safer-sex-polyamori-sv) gäller innehållsmässigt lika mycket för swingerpar.
+Oavsett modell gäller: den som är sexuellt aktiv med flera personer bör göra safer sex och regelbundna tester till en fast rutin. Artikeln [Safer sex och STI-tester i polyamorösa relationer](/sv/blog/safer-sex-polyamori-sv/) gäller innehållsmässigt lika mycket för swingerpar.
 
 ## Verktyg som hjälper
 

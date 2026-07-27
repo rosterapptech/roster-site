@@ -17,7 +17,7 @@ Swingen (auch Partnertausch oder "Lifestyle" genannt) bezeichnet die Praxis, das
 
 ## Was ist Polyamorie?
 
-Polyamorie bedeutet, mehrere romantische Beziehungen gleichzeitig zu führen – offen, ehrlich und mit dem Wissen und der Zustimmung aller Beteiligten. Anders als beim Swingen ist emotionale Nähe hier nicht die Ausnahme, sondern der Kern der Sache. Eine ausführliche Definition findest du im Artikel [Polyamorie: Was ist das?](/blog/was-ist-polyamorie).
+Polyamorie bedeutet, mehrere romantische Beziehungen gleichzeitig zu führen – offen, ehrlich und mit dem Wissen und der Zustimmung aller Beteiligten. Anders als beim Swingen ist emotionale Nähe hier nicht die Ausnahme, sondern der Kern der Sache. Eine ausführliche Definition findest du im Artikel [Polyamorie: Was ist das?](/blog/was-ist-polyamorie/).
 
 ## Der entscheidende Unterschied: emotionaler Fokus statt Partnerzahl
 
@@ -31,15 +31,15 @@ Polyamorie dagegen ist:
 
 - **Beziehungszentriert** – jede Verbindung kann sich unabhängig entwickeln, mit eigener Dynamik und eigenem Tempo.
 - **Emotional eingeschlossen** – Verliebtheit, New Relationship Energy und langfristige Bindung sind ausdrücklich möglich und oft erwünscht.
-- **Nicht zwingend paarbasiert** – auch Einzelpersonen ohne Kernbeziehung können polyamor leben, siehe [Solo-Polyamorie](/blog/solo-polyamorie).
+- **Nicht zwingend paarbasiert** – auch Einzelpersonen ohne Kernbeziehung können polyamor leben, siehe [Solo-Polyamorie](/blog/solo-polyamorie/).
 
 ## Überschneidungen gibt es trotzdem
 
-Die beiden Modelle schließen sich nicht gegenseitig aus. Manche Paare bewegen sich zwischen beiden Welten, entwickeln aus ursprünglich rein sexuellen Kontakten echte Gefühle oder entscheiden sich bewusst für eine Mischform. Wichtig ist in beiden Fällen dieselbe Grundregel ethischer Nicht-Monogamie: Alle Beteiligten wissen Bescheid und haben zugestimmt. Mehr zum Oberbegriff im Artikel [Ethische Nicht-Monogamie (ENM): Definition, Formen und Abgrenzung](/blog/ethische-nicht-monogamie).
+Die beiden Modelle schließen sich nicht gegenseitig aus. Manche Paare bewegen sich zwischen beiden Welten, entwickeln aus ursprünglich rein sexuellen Kontakten echte Gefühle oder entscheiden sich bewusst für eine Mischform. Wichtig ist in beiden Fällen dieselbe Grundregel ethischer Nicht-Monogamie: Alle Beteiligten wissen Bescheid und haben zugestimmt. Mehr zum Oberbegriff im Artikel [Ethische Nicht-Monogamie (ENM): Definition, Formen und Abgrenzung](/blog/ethische-nicht-monogamie/).
 
 ## Ein häufiges Missverständnis
 
-Ein verbreiteter Mythos lautet, Polyamorie sei letztlich Fremdgehen mit Erlaubnis, oder Swingen sei "unehrlicher" als Polyamorie. Beide Zuschreibungen greifen zu kurz. Der Artikel [Mythen über Polyamorie](/blog/mythen-polyamorie) räumt mit genau diesen Missverständnissen auf, und [Polyamorie vs. Fremdgehen](/blog/polyamorie-vs-fremdgehen) erklärt den entscheidenden Unterschied zwischen einvernehmlicher Offenheit und Täuschung – ein Punkt, der für beide Modelle gleichermaßen gilt.
+Ein verbreiteter Mythos lautet, Polyamorie sei letztlich Fremdgehen mit Erlaubnis, oder Swingen sei "unehrlicher" als Polyamorie. Beide Zuschreibungen greifen zu kurz. Der Artikel [Mythen über Polyamorie](/blog/mythen-polyamorie/) räumt mit genau diesen Missverständnissen auf, und [Polyamorie vs. Fremdgehen](/blog/polyamorie-vs-fremdgehen/) erklärt den entscheidenden Unterschied zwischen einvernehmlicher Offenheit und Täuschung – ein Punkt, der für beide Modelle gleichermaßen gilt.
 
 ## Welches Modell passt zu wem?
 
@@ -47,7 +47,7 @@ Wer die eigene Kernbeziehung bewusst als exklusives emotionales Zentrum schütze
 
 ## Sicherheit gilt für beide
 
-Unabhängig vom Modell gilt: Wer mit mehreren Personen sexuell aktiv ist, sollte Safer Sex und regelmäßige Tests zur festen Routine machen. Der Artikel [Safer Sex und STI-Tests in polyamoren Beziehungen](/blog/safer-sex-polyamorie) gilt inhaltlich genauso für Swinger-Paare.
+Unabhängig vom Modell gilt: Wer mit mehreren Personen sexuell aktiv ist, sollte Safer Sex und regelmäßige Tests zur festen Routine machen. Der Artikel [Safer Sex und STI-Tests in polyamoren Beziehungen](/blog/safer-sex-polyamorie/) gilt inhaltlich genauso für Swinger-Paare.
 
 ## Werkzeuge, die helfen
 

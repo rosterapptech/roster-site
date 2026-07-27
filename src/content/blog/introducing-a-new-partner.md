@@ -13,23 +13,23 @@ A new relationship is exciting — for you, and often stressful for existing par
 
 ## First: inform, don't present as a done deal
 
-The core of polyamory is that everyone involved knows and consents — more on that in [What Is Polyamory?](/en/blog/what-is-polyamory). In practice, that means existing partners should hear about the new connection before it becomes a fixed part of your life, not after everything is already decided. Exactly how early depends on your own agreements — some setups want to hear about early dates, others only once something more serious is taking shape.
+The core of polyamory is that everyone involved knows and consents — more on that in [What Is Polyamory?](/en/blog/what-is-polyamory/). In practice, that means existing partners should hear about the new connection before it becomes a fixed part of your life, not after everything is already decided. Exactly how early depends on your own agreements — some setups want to hear about early dates, others only once something more serious is taking shape.
 
 ## Keeping NRE in check
 
-The early stage of a new relationship often comes with intense new relationship energy — a feeling of infatuation that absorbs a lot of attention. That's normal, but it can leave existing partners feeling suddenly less important. Consciously counterbalancing this helps: reserve fixed time for existing relationships, even while the new connection is currently pulling a lot of energy. [Balancing New Relationship Energy](/en/blog/nre-balance) goes deeper into concrete strategies for this.
+The early stage of a new relationship often comes with intense new relationship energy — a feeling of infatuation that absorbs a lot of attention. That's normal, but it can leave existing partners feeling suddenly less important. Consciously counterbalancing this helps: reserve fixed time for existing relationships, even while the new connection is currently pulling a lot of energy. [Balancing New Relationship Energy](/en/blog/nre-balance/) goes deeper into concrete strategies for this.
 
 ## Metamours: meet or keep separate?
 
-Whether and how new and existing partners get to know each other depends heavily on the model you're living. In kitchen-table polyamory, some degree of mutual acquaintance is generally wanted; in parallel polyamory, relationships deliberately stay separate. [Kitchen Table vs. Parallel Polyamory](/en/blog/kitchen-table-vs-parallel-polyamory) helps you figure out which model fits your setup before you force a meeting nobody actually wants.
+Whether and how new and existing partners get to know each other depends heavily on the model you're living. In kitchen-table polyamory, some degree of mutual acquaintance is generally wanted; in parallel polyamory, relationships deliberately stay separate. [Kitchen Table vs. Parallel Polyamory](/en/blog/kitchen-table-vs-parallel-polyamory/) helps you figure out which model fits your setup before you force a meeting nobody actually wants.
 
 ## Making existing agreements transparent
 
-A new partner should learn early on what ground rules already exist in your polycule — agreed time splits, safer sex agreements, or, if it exists, a veto right held by an existing partner. That's not bureaucracy — it protects everyone from misunderstandings. More on this in [Polyamory Rules vs. Agreements](/en/blog/polyamory-rules-agreements) and [Veto Power in Polyamory](/en/blog/veto-power-polyamory).
+A new partner should learn early on what ground rules already exist in your polycule — agreed time splits, safer sex agreements, or, if it exists, a veto right held by an existing partner. That's not bureaucracy — it protects everyone from misunderstandings. More on this in [Polyamory Rules vs. Agreements](/en/blog/polyamory-rules-agreements/) and [Veto Power in Polyamory](/en/blog/veto-power-polyamory/).
 
 ## Taking existing partners' fears seriously
 
-Jealousy or insecurity in existing partners isn't a sign that something's going wrong — it's part of the process, especially while a new connection is still fresh and exciting. [Jealousy in Polyamorous Relationships: 7 Strategies That Actually Help](/en/blog/jealousy-polyamory) offers concrete approaches that are especially useful during this phase.
+Jealousy or insecurity in existing partners isn't a sign that something's going wrong — it's part of the process, especially while a new connection is still fresh and exciting. [Jealousy in Polyamorous Relationships: 7 Strategies That Actually Help](/en/blog/jealousy-polyamory/) offers concrete approaches that are especially useful during this phase.
 
 ## Pace: gradual beats rushed
 
@@ -37,11 +37,11 @@ A new relationship doesn't need to immediately hold the same standing as establi
 
 ## When kids live in the household
 
-Extra care is needed with kids in the picture: a new partner shouldn't be introduced into family life too early, before the relationship has proven itself stable. [Polyamory and Parenting](/en/blog/polyamory-parenting) covers what matters here.
+Extra care is needed with kids in the picture: a new partner shouldn't be introduced into family life too early, before the relationship has proven itself stable. [Polyamory and Parenting](/en/blog/polyamory-parenting/) covers what matters here.
 
 ## Tools that help
 
-**Roster** helps you track every relationship in your [polycule](/en/blog/what-is-a-polycule) individually — including the brand-new one. That way, existing partners don't fall out of view while a new connection is currently demanding a lot of attention. All data stays on your device — no account required.
+**Roster** helps you track every relationship in your [polycule](/en/blog/what-is-a-polycule/) individually — including the brand-new one. That way, existing partners don't fall out of view while a new connection is currently demanding a lot of attention. All data stays on your device — no account required.
 
 ## Frequently asked questions
 

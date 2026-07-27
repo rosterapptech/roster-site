@@ -19,11 +19,11 @@ A poliamoria a distância junta dois desafios ao mesmo tempo: o trabalho emocion
 
 **A distribuição desigual do tempo fica mais visível.** Quem mora na mesma cidade recebe inevitavelmente mais tempo espontâneo e cotidiano do que um parceiro à distância, o que pode fazer a pessoa mais longe sentir que está estruturalmente em desvantagem. Conversas honestas sobre como cada lado vive essa distribuição importam mais do que tentar igualar o tempo matematicamente.
 
-**As visitas precisam de planejamento deliberado.** Diferente de relacionamentos próximos, uma visita à distância não pode ser remarcada de forma espontânea. Mais sobre sistemas para isso em [Planejar o tempo com vários relacionamentos](/pt/blog/planejar-varios-relacionamentos).
+**As visitas precisam de planejamento deliberado.** Diferente de relacionamentos próximos, uma visita à distância não pode ser remarcada de forma espontânea. Mais sobre sistemas para isso em [Planejar o tempo com vários relacionamentos](/pt/blog/planejar-varios-relacionamentos/).
 
 **Os fusos horários dificultam a comunicação espontânea.** Com diferenças horárias grandes, um ritmo de comunicação fixo e recorrente ajuda mais do que tentar estar disponível de forma espontânea.
 
-**O ciúme pode ser sentido de forma diferente.** Quem sabe que outro parceiro recebe mais proximidade cotidiana "presencial" às vezes vive o ciúme de forma mais espacial do que emocional. Mais sobre como lidar com isso em [Ciúme na poliamoria](/pt/blog/ciumes-poliamoria).
+**O ciúme pode ser sentido de forma diferente.** Quem sabe que outro parceiro recebe mais proximidade cotidiana "presencial" às vezes vive o ciúme de forma mais espacial do que emocional. Mais sobre como lidar com isso em [Ciúme na poliamoria](/pt/blog/ciumes-poliamoria/).
 
 ## Como construir a proximidade à distância de forma ativa
 
@@ -38,7 +38,7 @@ Relacionamentos a distância raramente permanecem assim para sempre: uma mudanç
 
 ## Estrutura para conexões à distância
 
-Quem mantém vários relacionamentos com diferentes graus de proximidade geográfica se beneficia especialmente de uma visão centralizada de encontros, planos de visita e o clima de cada conexão. O **Roster** visualiza o seu [polycule](/pt/blog/o-que-e-um-polycule) não importa a distância e usa o radar de clima para ajudar você a ver qual relacionamento, perto ou longe, precisa de atenção a cada momento. Todos os dados ficam locais no seu aparelho.
+Quem mantém vários relacionamentos com diferentes graus de proximidade geográfica se beneficia especialmente de uma visão centralizada de encontros, planos de visita e o clima de cada conexão. O **Roster** visualiza o seu [polycule](/pt/blog/o-que-e-um-polycule/) não importa a distância e usa o radar de clima para ajudar você a ver qual relacionamento, perto ou longe, precisa de atenção a cada momento. Todos os dados ficam locais no seu aparelho.
 
 ## Perguntas frequentes
 

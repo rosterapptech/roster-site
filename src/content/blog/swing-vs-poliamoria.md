@@ -17,7 +17,7 @@ O swing (também chamado de troca de casais ou "o lifestyle") descreve a prátic
 
 ## O que é poliamoria?
 
-Poliamoria significa manter mais de um relacionamento romântico ao mesmo tempo, de forma aberta, honesta e com o conhecimento e consentimento de todas as pessoas envolvidas. Diferente do swing, aqui a proximidade emocional não é a exceção, é o núcleo da questão. Você encontra uma definição completa no artigo [O que é poliamoria?](/pt/blog/o-que-e-poliamoria).
+Poliamoria significa manter mais de um relacionamento romântico ao mesmo tempo, de forma aberta, honesta e com o conhecimento e consentimento de todas as pessoas envolvidas. Diferente do swing, aqui a proximidade emocional não é a exceção, é o núcleo da questão. Você encontra uma definição completa no artigo [O que é poliamoria?](/pt/blog/o-que-e-poliamoria/).
 
 ## A diferença decisiva: foco emocional, não número de parceiros
 
@@ -31,15 +31,15 @@ Já a poliamoria é:
 
 - **Centrada no relacionamento** — cada conexão pode evoluir de forma independente, com sua própria dinâmica e seu próprio ritmo.
 - **Emocionalmente inclusiva** — se apaixonar, a energia de relacionamento novo e o vínculo de longo prazo são explicitamente possíveis e muitas vezes bem-vindos.
-- **Não necessariamente baseada em casal** — pessoas sem relacionamento principal também podem viver a poliamoria, veja [Solo-poliamoria](/pt/blog/solo-poliamoria-pt).
+- **Não necessariamente baseada em casal** — pessoas sem relacionamento principal também podem viver a poliamoria, veja [Solo-poliamoria](/pt/blog/solo-poliamoria-pt/).
 
 ## Ainda assim, existe sobreposição
 
-Os dois modelos não se excluem mutuamente. Alguns casais transitam entre os dois mundos, desenvolvem sentimentos reais a partir do que começou como contato puramente sexual, ou escolhem deliberadamente uma forma híbrida. Nos dois casos vale a mesma regra básica da não monogamia ética: todas as pessoas envolvidas sabem e deram seu consentimento. Mais sobre o termo geral no artigo [Não monogamia ética (ENM): definição, formas e limites](/pt/blog/nao-monogamia-etica).
+Os dois modelos não se excluem mutuamente. Alguns casais transitam entre os dois mundos, desenvolvem sentimentos reais a partir do que começou como contato puramente sexual, ou escolhem deliberadamente uma forma híbrida. Nos dois casos vale a mesma regra básica da não monogamia ética: todas as pessoas envolvidas sabem e deram seu consentimento. Mais sobre o termo geral no artigo [Não monogamia ética (ENM): definição, formas e limites](/pt/blog/nao-monogamia-etica/).
 
 ## Um mal-entendido comum
 
-Um mito difundido afirma que a poliamoria é no fundo uma traição com permissão, ou que o swing é de alguma forma "menos honesto" do que a poliamoria. Nenhuma das duas afirmações se sustenta. [Mitos sobre a poliamoria](/pt/blog/mitos-poliamoria-pt) desmonta exatamente esses mal-entendidos, e [Poliamoria vs. infidelidade](/pt/blog/poliamoria-vs-infidelidade) explica a diferença decisiva entre abertura consentida e engano, um ponto que se aplica igualmente aos dois modelos.
+Um mito difundido afirma que a poliamoria é no fundo uma traição com permissão, ou que o swing é de alguma forma "menos honesto" do que a poliamoria. Nenhuma das duas afirmações se sustenta. [Mitos sobre a poliamoria](/pt/blog/mitos-poliamoria-pt/) desmonta exatamente esses mal-entendidos, e [Poliamoria vs. infidelidade](/pt/blog/poliamoria-vs-infidelidade/) explica a diferença decisiva entre abertura consentida e engano, um ponto que se aplica igualmente aos dois modelos.
 
 ## Qual modelo combina com quem?
 
@@ -47,7 +47,7 @@ Quem quiser proteger o relacionamento principal como centro emocional exclusivo,
 
 ## A segurança importa nos dois casos
 
-Independentemente do modelo, quem for sexualmente ativo com várias pessoas deveria transformar o sexo seguro e os testes regulares numa rotina fixa. O artigo [Sexo seguro e testes de IST em relacionamentos poliamorosos](/pt/blog/sexo-seguro-poliamoria-pt) se aplica igualmente bem a casais que praticam swing.
+Independentemente do modelo, quem for sexualmente ativo com várias pessoas deveria transformar o sexo seguro e os testes regulares numa rotina fixa. O artigo [Sexo seguro e testes de IST em relacionamentos poliamorosos](/pt/blog/sexo-seguro-poliamoria-pt/) se aplica igualmente bem a casais que praticam swing.
 
 ## Ferramentas que ajudam
 

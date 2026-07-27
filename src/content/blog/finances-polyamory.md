@@ -16,8 +16,8 @@ Talking about money is hard for a lot of people, even in monogamous relationship
 - **Dates and shared activities** — going out to eat, activities, small trips.
 - **Gifts** — for anniversaries, birthdays, or just because.
 - **Travel** — trips with one or more partners.
-- **Shared household** — rent, utilities, and living costs if you live with a [nesting partner](/en/blog/nesting-partner-explained).
-- **Childcare** — additional costs when kids are part of the family structure, see [Polyamory and Parenting](/en/blog/polyamory-parenting).
+- **Shared household** — rent, utilities, and living costs if you live with a [nesting partner](/en/blog/nesting-partner-explained/).
+- **Childcare** — additional costs when kids are part of the family structure, see [Polyamory and Parenting](/en/blog/polyamory-parenting/).
 
 ## Models for splitting costs
 
@@ -37,15 +37,15 @@ People who live with a nesting partner often keep a shared pot for rent and livi
 
 ## Naming inequalities openly
 
-Financial differences between relationships are normal, but left unspoken, they can create tension — for instance, if one relationship can afford expensive restaurants and trips while another partnership is financially tighter. This can unintentionally create comparison pressure between metamours. What helps is naming it openly: money isn't the same as affection. Someone with fewer financial resources can still invest just as much time, attention, and care — see our article on [fairly distributing time across multiple relationships](/en/blog/managing-multiple-relationships) for more on that.
+Financial differences between relationships are normal, but left unspoken, they can create tension — for instance, if one relationship can afford expensive restaurants and trips while another partnership is financially tighter. This can unintentionally create comparison pressure between metamours. What helps is naming it openly: money isn't the same as affection. Someone with fewer financial resources can still invest just as much time, attention, and care — see our article on [fairly distributing time across multiple relationships](/en/blog/managing-multiple-relationships/) for more on that.
 
 ## How much transparency is needed?
 
-Metamours generally don't need insight into the actual finances of each other's relationships — that stays private. What matters more is transparency within each individual relationship: both partners should know what financial obligations and limits the other has, especially when planning a shared household or joint travel. For more on the balance between openness and privacy, see [Polyamory and Privacy](/en/blog/polyamory-privacy).
+Metamours generally don't need insight into the actual finances of each other's relationships — that stays private. What matters more is transparency within each individual relationship: both partners should know what financial obligations and limits the other has, especially when planning a shared household or joint travel. For more on the balance between openness and privacy, see [Polyamory and Privacy](/en/blog/polyamory-privacy/).
 
 ## Regular check-ins instead of one-time agreements
 
-Financial agreements shouldn't be settled once and then forgotten. If someone's income changes, a new relationship enters the picture, or two partners move in together, it's worth revisiting the conversation. [Polyamory Rules vs. Agreements](/en/blog/polyamory-rules-agreements) explains how to design agreements that can adapt over time instead of staying rigid.
+Financial agreements shouldn't be settled once and then forgotten. If someone's income changes, a new relationship enters the picture, or two partners move in together, it's worth revisiting the conversation. [Polyamory Rules vs. Agreements](/en/blog/polyamory-rules-agreements/) explains how to design agreements that can adapt over time instead of staying rigid.
 
 ## Tools that help
 

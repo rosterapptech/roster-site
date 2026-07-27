@@ -21,7 +21,7 @@ Problemet är inte NRE i sig, utan vad den omärkligt gör med hur tid och uppm�
 
 - **Tiden förskjuts omärkligt.** Den som befinner sig i NRE säger oftare spontant ja till att ses med den nya personen – på bekostning av tid som egentligen var avsatt för befintliga partner.
 - **Jämförelser uppstår av sig själva.** Befintliga partner märker ofta att samtal blir kortare, meddelanden mer sällsynta eller närvaron under en gemensam kväll tunnare – även om ingen gör det medvetet.
-- **Tystnad förstärker svartsjuka.** Det är sällan NRE i sig som utlöser konflikter, utan känslan av att lämnas ovetande. Läs mer i [Svartsjuka i polyamori](/sv/blog/svaartsjuka-polyamori).
+- **Tystnad förstärker svartsjuka.** Det är sällan NRE i sig som utlöser konflikter, utan känslan av att lämnas ovetande. Läs mer i [Svartsjuka i polyamori](/sv/blog/svaartsjuka-polyamori/).
 
 ## Strategier för att balansera NRE
 
@@ -31,7 +31,7 @@ Att i förväg låta befintliga partner veta att en ny relation håller på att 
 
 ### 2. Fasta tider förblir fasta
 
-Just under NRE-fasen är det avgörande att inte spontant flytta överenskomna tider med befintliga partner. Har du redan fasta rutiner hittar du mer i [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer).
+Just under NRE-fasen är det avgörande att inte spontant flytta överenskomna tider med befintliga partner. Har du redan fasta rutiner hittar du mer i [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer/).
 
 ### 3. Återinvestera aktivt, inte bara undvika att försumma
 
@@ -47,7 +47,7 @@ Det är en av de vanligaste rädslorna i polyamori – och den handlar oftast mi
 
 ## Verktyg som hjälper till att hålla balansen
 
-En blick över hela [polycule](/sv/blog/vad-ar-ett-polycule) hjälper dig att upptäcka NRE-relaterade förskjutningar tidigt, i stället för att bara märka dem när en relation redan känns försummad. **Roster** är byggd exakt för detta: med Vibe Radar ser du på en gång vilken relation som nyligen fått lite uppmärksamhet, och du kan skriva ner fasta tidsrytmer per relation – utan konto, med all data lokalt på din enhet.
+En blick över hela [polycule](/sv/blog/vad-ar-ett-polycule/) hjälper dig att upptäcka NRE-relaterade förskjutningar tidigt, i stället för att bara märka dem när en relation redan känns försummad. **Roster** är byggd exakt för detta: med Vibe Radar ser du på en gång vilken relation som nyligen fått lite uppmärksamhet, och du kan skriva ner fasta tidsrytmer per relation – utan konto, med all data lokalt på din enhet.
 
 ## Vanliga frågor
 

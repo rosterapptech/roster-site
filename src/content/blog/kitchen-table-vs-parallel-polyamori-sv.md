@@ -7,7 +7,7 @@ translationKey: 'kitchen-table-vs-parallel-polyamory'
 tags: ['Polyamori', 'Relationsformer', 'Metamour', 'Kommunikation']
 ---
 
-**Kort sagt:** Kitchen table-polyamori och parallell polyamori beskriver hur nära förbundna människorna i ett [polycule](/sv/blog/vad-ar-ett-polycule) är med varandra. I kitchen table-polyamori sitter alla bildligt talat vid samma köksbord – man känner varandra, umgås och håller kontakt även med [metamours](/sv/blog/metamour-relationer). I parallell polyamori löper relationerna oberoende sida vid sida, med liten eller ingen direkt kontakt mellan dina partners partners. Ingetdera är "bättre" – det avgörande är vad som passar din personlighet och ditt liv.
+**Kort sagt:** Kitchen table-polyamori och parallell polyamori beskriver hur nära förbundna människorna i ett [polycule](/sv/blog/vad-ar-ett-polycule/) är med varandra. I kitchen table-polyamori sitter alla bildligt talat vid samma köksbord – man känner varandra, umgås och håller kontakt även med [metamours](/sv/blog/metamour-relationer/). I parallell polyamori löper relationerna oberoende sida vid sida, med liten eller ingen direkt kontakt mellan dina partners partners. Ingetdera är "bättre" – det avgörande är vad som passar din personlighet och ditt liv.
 
 Så snart ett polycule består av fler än två personer dyker frågan förr eller senare upp: hur mycket kontakt bör det egentligen finnas mellan alla inblandade? Den frågan har fått ett namn – kitchen table-polyamori och parallell polyamori är de två mest kända svaren.
 

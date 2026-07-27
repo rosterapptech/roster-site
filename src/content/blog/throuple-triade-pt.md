@@ -29,7 +29,7 @@ Basicamente existem dois caminhos:
 
 **Intensidade desigual dos relacionamentos.** Raramente as três conexões se desenvolvem exatamente no mesmo ritmo ou com a mesma intensidade; isso é normal, mas vale a pena falar sobre isso abertamente em vez de relegar implicitamente uma pessoa.
 
-**Organizar o tempo entre três.** Quando os três se encontram juntos e quando em duplas? Acordos claros evitam que alguém se sinta excluído. Mais sobre sistemas para isso em [Planejar o tempo com vários relacionamentos](/pt/blog/planejar-varios-relacionamentos).
+**Organizar o tempo entre três.** Quando os três se encontram juntos e quando em duplas? Acordos claros evitam que alguém se sinta excluído. Mais sobre sistemas para isso em [Planejar o tempo com vários relacionamentos](/pt/blog/planejar-varios-relacionamentos/).
 
 **Dinâmicas de conflito entre três.** Conflitos entre duas pessoas de um throuple afetam automaticamente a terceira; isso pode aliviar (mais perspectivas) ou sobrecarregar (formação de alianças), dependendo de quão aberta for a comunicação.
 
@@ -43,11 +43,11 @@ Basicamente existem dois caminhos:
 
 ## Nem todo throuple continua sendo três para sempre
 
-Como qualquer estrutura de relacionamento, uma tríade pode mudar: algumas se mantêm estáveis por anos, outras evoluem para uma estrutura mais aberta com mais relacionamentos, outras se dividem em relacionamentos separados. Nenhum desses resultados significa automaticamente um "fracasso"; veja também [Términos na poliamoria](/pt/blog/rupturas-poliamoria-pt).
+Como qualquer estrutura de relacionamento, uma tríade pode mudar: algumas se mantêm estáveis por anos, outras evoluem para uma estrutura mais aberta com mais relacionamentos, outras se dividem em relacionamentos separados. Nenhum desses resultados significa automaticamente um "fracasso"; veja também [Términos na poliamoria](/pt/blog/rupturas-poliamoria-pt/).
 
 ## Estrutura para relacionamentos de três pessoas
 
-Justamente com três conexões iguais, vale a pena manter o controle dos compromissos, dos acordos e do clima em cada relacionamento individual. O **Roster** visualiza seu [polycule](/pt/blog/o-que-e-um-polycule) e ajuda a garantir que nenhuma das três conexões saia de vista, tudo guardado localmente no seu dispositivo.
+Justamente com três conexões iguais, vale a pena manter o controle dos compromissos, dos acordos e do clima em cada relacionamento individual. O **Roster** visualiza seu [polycule](/pt/blog/o-que-e-um-polycule/) e ajuda a garantir que nenhuma das três conexões saia de vista, tudo guardado localmente no seu dispositivo.
 
 ## Perguntas frequentes
 

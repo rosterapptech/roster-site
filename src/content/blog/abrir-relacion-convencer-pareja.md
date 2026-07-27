@@ -22,7 +22,7 @@ Este artículo es para ti si estás justo en ese punto: sientes el impulso de ab
 
 ## Dónde estás si eres la única persona poli
 
-Esta situación es distinta a la de una pareja que ya ha decidido juntas un modelo asimétrico. Si lleváis ya un tiempo viviendo una configuración en la que una persona sigue siendo monógama y la otra mantiene varias relaciones, te resultará más útil el artículo [Relaciones mono-poli](/es/blog/relaciones-mono-poli), que describe precisamente esa dinámica cotidiana ya establecida. Aquí hablamos del paso anterior: la primera conversación honesta, en la que todavía no se ha decidido nada.
+Esta situación es distinta a la de una pareja que ya ha decidido juntas un modelo asimétrico. Si lleváis ya un tiempo viviendo una configuración en la que una persona sigue siendo monógama y la otra mantiene varias relaciones, te resultará más útil el artículo [Relaciones mono-poli](/es/blog/relaciones-mono-poli/), que describe precisamente esa dinámica cotidiana ya establecida. Aquí hablamos del paso anterior: la primera conversación honesta, en la que todavía no se ha decidido nada.
 
 Eso también significa que aún no hay certeza sobre cómo será la relación. Precisamente esa incertidumbre es lo que hace que el tema sea tan difícil de plantear para mucha gente. Te da miedo romper algo que hasta ahora funcionaba, así que pospones la conversación durante meses, hasta que la presión interna se hace demasiado grande y sale de forma demasiado brusca, o en el momento equivocado.
 
@@ -75,7 +75,7 @@ Hay algunas cosas que forman parte de un proceso honesto, aunque resulten incóm
 
 Todo en este proceso —el momento, la forma de plantearlo, las expectativas— descansa sobre la misma base: una comunicación más honesta de lo que muchas parejas acostumbran. En concreto, eso significa nombrar los sentimientos en lugar de insinuarlos, preguntar en lugar de asumir, y admitir la incertidumbre en lugar de esconderla detrás de una falsa seguridad.
 
-Si durante este proceso surgen celos, miedo o sensación de pérdida —en ti o en tu pareja—, no es señal de que algo va mal. Es material con el que trabajar. El artículo [Los celos en las relaciones poliamorosas](/es/blog/celos-poliamoria) recoge siete estrategias concretas que ayudan incluso en esta fase temprana, antes de que exista siquiera una segunda relación.
+Si durante este proceso surgen celos, miedo o sensación de pérdida —en ti o en tu pareja—, no es señal de que algo va mal. Es material con el que trabajar. El artículo [Los celos en las relaciones poliamorosas](/es/blog/celos-poliamoria/) recoge siete estrategias concretas que ayudan incluso en esta fase temprana, antes de que exista siquiera una segunda relación.
 
 ## Si la respuesta es que no
 

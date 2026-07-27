@@ -45,7 +45,7 @@ Compersion and jealousy often alternate. When you note both feelings down, you c
 
 ## Compersion and jealousy are not opponents
 
-It is tempting to see compersion as the "end goal" and [jealousy](/en/blog/jealousy-polyamory) as failure. It is more helpful to understand both as two sides of the same emotional work. Jealousy shows you a need; compersion shows you your connectedness. Dealing honestly with jealousy often creates the space in which compersion can grow at all.
+It is tempting to see compersion as the "end goal" and [jealousy](/en/blog/jealousy-polyamory/) as failure. It is more helpful to understand both as two sides of the same emotional work. Jealousy shows you a need; compersion shows you your connectedness. Dealing honestly with jealousy often creates the space in which compersion can grow at all.
 
 ## Common questions
 

@@ -19,7 +19,7 @@ Med andra ord: polyamori är en relationsstruktur; relationsanarki är en relati
 
 ## Polyamori i detalj
 
-Polyamori handlar om flera parallella kärleksrelationer. Många polyamorös människor arbetar med strukturer: det finns kanske en nesting partner de bor med och ytterligare relationer vid sidan av. Vissa polyamorös konstellationer är uttryckligen **hierarkiska** – med primära och sekundära partners där vissa relationer prioriteras. Andra är **egalitära** och behandlar alla relationer som lika värdefulla. Kärnpunkten: polyamori säger ingenting om huruvida du avvisar eller använder hierarkier. Se vår [polyamori-ordlista](/sv/blog/polyamori-ordlista) för mer om grundbegreppen.
+Polyamori handlar om flera parallella kärleksrelationer. Många polyamorös människor arbetar med strukturer: det finns kanske en nesting partner de bor med och ytterligare relationer vid sidan av. Vissa polyamorös konstellationer är uttryckligen **hierarkiska** – med primära och sekundära partners där vissa relationer prioriteras. Andra är **egalitära** och behandlar alla relationer som lika värdefulla. Kärnpunkten: polyamori säger ingenting om huruvida du avvisar eller använder hierarkier. Se vår [polyamori-ordlista](/sv/blog/polyamori-ordlista/) för mer om grundbegreppen.
 
 ## Relationsanarki i detalj
 
@@ -49,7 +49,7 @@ Många människor rör sig för övrigt mellan dessa koncept med tiden – vilke
 
 ## Oavsett modell – att hålla koll spelar roll
 
-Oavsett om du lever klassiskt poly eller håller på att upptäcka relationsanarki: i båda fallen hanterar du flera meningsfulla förbindelser som behöver uppmärksamhet och omsorg. **Roster** är medvetet byggd utan påtvingad hierarki – du bestämmer själv vilken typ av förbindelse du registrerar, helt på dina egna villkor. Appen passar din definition av relation, inte tvärtom. Hur du håller koll förklarar vi i vår artikel om att [organisera flera relationer](/sv/blog/hantera-flera-relationer).
+Oavsett om du lever klassiskt poly eller håller på att upptäcka relationsanarki: i båda fallen hanterar du flera meningsfulla förbindelser som behöver uppmärksamhet och omsorg. **Roster** är medvetet byggd utan påtvingad hierarki – du bestämmer själv vilken typ av förbindelse du registrerar, helt på dina egna villkor. Appen passar din definition av relation, inte tvärtom. Hur du håller koll förklarar vi i vår artikel om att [organisera flera relationer](/sv/blog/hantera-flera-relationer/).
 
 ## Vanliga frågor
 

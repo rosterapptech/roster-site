@@ -68,7 +68,7 @@ For exactly this routine we built the **Vibe Radar** into **Roster**: you can re
 
 <!-- SCREENSHOT: vibe-radar -->
 
-What was a vague gut feeling becomes a clear picture, and none of your connections disappears quietly into the background. Especially if you're navigating several relationships at once, the radar replaces unreliable memory with an honest, private overview. For more on organizing your whole day-to-day life across multiple partners so nobody falls through the cracks, see our [practical guide to organizing several relationships so none of them quietly fades into the background](/en/blog/managing-multiple-relationships). Everything stays private on your device – Roster doesn't store anything in the cloud or send anything to a server.
+What was a vague gut feeling becomes a clear picture, and none of your connections disappears quietly into the background. Especially if you're navigating several relationships at once, the radar replaces unreliable memory with an honest, private overview. For more on organizing your whole day-to-day life across multiple partners so nobody falls through the cracks, see our [practical guide to organizing several relationships so none of them quietly fades into the background](/en/blog/managing-multiple-relationships/). Everything stays private on your device – Roster doesn't store anything in the cloud or send anything to a server.
 
 ## Attention is the real currency
 

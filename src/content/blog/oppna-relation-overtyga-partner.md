@@ -22,7 +22,7 @@ Den här artikeln är för dig om du står precis på den punkten: du känner en
 
 ## Var du står om du är den enda som är poly
 
-Den här situationen skiljer sig från ett par som redan tillsammans har bestämt sig för en asymmetrisk struktur. Om ni redan ett tag har levt i en konstellation där den ena partnern förblir monogam och den andra har flera relationer, är artikeln [Mono-poly-relationer](/sv/blog/mono-poly-relationer) mer relevant – den beskriver just den redan etablerade vardagen. Här handlar det om steget innan dess: det första ärliga samtalet, där ingenting ännu är bestämt.
+Den här situationen skiljer sig från ett par som redan tillsammans har bestämt sig för en asymmetrisk struktur. Om ni redan ett tag har levt i en konstellation där den ena partnern förblir monogam och den andra har flera relationer, är artikeln [Mono-poly-relationer](/sv/blog/mono-poly-relationer/) mer relevant – den beskriver just den redan etablerade vardagen. Här handlar det om steget innan dess: det första ärliga samtalet, där ingenting ännu är bestämt.
 
 Det betyder också att det ännu inte finns någon säkerhet om hur relationen kommer att se ut. Just den osäkerheten är det som gör ämnet så svårt att ta upp för många. Man är rädd att förstöra något som fungerat hittills – och skjuter därför upp samtalet i månader, tills det inre trycket blir för stort och det ändå kommer ut för abrupt, eller vid fel tillfälle.
 
@@ -75,7 +75,7 @@ Några saker hör till en ärlig process, även om de är obekväma:
 
 Allt i den här processen – timing, formulering, förväntningar – vilar på samma grund: en kommunikation som är mer ärlig än vad många par är vana vid. Konkret betyder det: att namnge känslor istället för att antyda dem, att fråga istället för att anta, och att erkänna osäkerhet istället för att gömma den bakom falsk säkerhet.
 
-Om svartsjuka, rädsla eller förlustkänslor dyker upp under den här processen – hos dig själv eller din partner – är det inget tecken på att något går fel. Det är material att arbeta med. Artikeln [Svartsjuka i polyamorösa relationer](/sv/blog/svaartsjuka-polyamori) beskriver sju konkreta strategier som hjälper redan i det här tidiga skedet, långt innan det ens finns en andra relation.
+Om svartsjuka, rädsla eller förlustkänslor dyker upp under den här processen – hos dig själv eller din partner – är det inget tecken på att något går fel. Det är material att arbeta med. Artikeln [Svartsjuka i polyamorösa relationer](/sv/blog/svaartsjuka-polyamori/) beskriver sju konkreta strategier som hjälper redan i det här tidiga skedet, långt innan det ens finns en andra relation.
 
 ## Om svaret är nej
 

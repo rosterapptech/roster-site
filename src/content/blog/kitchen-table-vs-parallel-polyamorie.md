@@ -7,7 +7,7 @@ translationKey: 'kitchen-table-vs-parallel-polyamory'
 tags: ['Polyamorie', 'Beziehungsformen', 'Metamour', 'Kommunikation']
 ---
 
-**Kurz gesagt:** Kitchen Table Polyamory und Parallel Polyamory beschreiben, wie eng die Menschen in einem [Polycule](/blog/was-ist-ein-polycule) miteinander verbunden sind. Bei Kitchen Table sitzt im übertragenen Sinn jeder mal am selben Küchentisch – man kennt sich, verbringt Zeit miteinander, pflegt Kontakt auch zu [Metamours](/blog/metamour-beziehung). Bei Parallel Polyamory laufen die Beziehungen unabhängig nebeneinander her, mit wenig bis keinem direkten Kontakt zwischen den Partnern der Partner. Keines der beiden ist "besser" – entscheidend ist, was zu deiner Persönlichkeit und deinem Leben passt.
+**Kurz gesagt:** Kitchen Table Polyamory und Parallel Polyamory beschreiben, wie eng die Menschen in einem [Polycule](/blog/was-ist-ein-polycule/) miteinander verbunden sind. Bei Kitchen Table sitzt im übertragenen Sinn jeder mal am selben Küchentisch – man kennt sich, verbringt Zeit miteinander, pflegt Kontakt auch zu [Metamours](/blog/metamour-beziehung/). Bei Parallel Polyamory laufen die Beziehungen unabhängig nebeneinander her, mit wenig bis keinem direkten Kontakt zwischen den Partnern der Partner. Keines der beiden ist "besser" – entscheidend ist, was zu deiner Persönlichkeit und deinem Leben passt.
 
 Sobald ein Polycule mehr als zwei Personen umfasst, taucht früher oder später die Frage auf: Wie viel Kontakt soll eigentlich zwischen allen Beteiligten bestehen? Diese Frage hat einen Namen bekommen – Kitchen Table Polyamory und Parallel Polyamory sind die beiden bekanntesten Antworten darauf.
 

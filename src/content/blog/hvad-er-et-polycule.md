@@ -88,7 +88,7 @@ Vi har bygget **Polycule Map** i **Roster** netop til situationer som Maras: en 
 
 <!-- SCREENSHOT: polycule-map -->
 
-Og hvis du leder efter konkrete systemer til at strukturere din hverdag med flere relationer – tid, kommunikation og balance inklusive – kan du læse videre i [Styr flere forhold på én gang](/da/blog/styre-flere-forhold).
+Og hvis du leder efter konkrete systemer til at strukturere din hverdag med flere relationer – tid, kommunikation og balance inklusive – kan du læse videre i [Styr flere forhold på én gang](/da/blog/styre-flere-forhold/).
 
 ## Ofte stillede spørgsmål om polycules
 

@@ -17,7 +17,7 @@ Swinging (also called partner-swapping or "the lifestyle") describes the practic
 
 ## What is polyamory?
 
-Polyamory means having more than one romantic relationship at the same time — openly, honestly, and with the knowledge and consent of everyone involved. Unlike swinging, emotional closeness here isn't the exception — it's the whole point. For a full definition, see [What Is Polyamory?](/en/blog/what-is-polyamory).
+Polyamory means having more than one romantic relationship at the same time — openly, honestly, and with the knowledge and consent of everyone involved. Unlike swinging, emotional closeness here isn't the exception — it's the whole point. For a full definition, see [What Is Polyamory?](/en/blog/what-is-polyamory/).
 
 ## The key difference: emotional focus, not partner count
 
@@ -31,15 +31,15 @@ Polyamory, by contrast, is:
 
 - **Relationship-centered** — each connection can develop independently, with its own dynamic and its own pace.
 - **Emotionally inclusive** — falling in love, new relationship energy, and long-term bonds are explicitly possible and often welcomed.
-- **Not necessarily couple-based** — individuals without a core relationship can live polyamorously too, see [Solo Polyamory](/en/blog/solo-polyamory).
+- **Not necessarily couple-based** — individuals without a core relationship can live polyamorously too, see [Solo Polyamory](/en/blog/solo-polyamory/).
 
 ## The two models still overlap
 
-The two aren't mutually exclusive. Some couples move between both worlds, develop real feelings out of what started as purely sexual contact, or deliberately choose a hybrid approach. What matters in both cases is the same core rule of ethical non-monogamy: everyone involved knows and has consented. For more on the umbrella term, see [Ethical Non-Monogamy (ENM): Definition, Forms, and Distinctions](/en/blog/ethical-non-monogamy).
+The two aren't mutually exclusive. Some couples move between both worlds, develop real feelings out of what started as purely sexual contact, or deliberately choose a hybrid approach. What matters in both cases is the same core rule of ethical non-monogamy: everyone involved knows and has consented. For more on the umbrella term, see [Ethical Non-Monogamy (ENM): Definition, Forms, and Distinctions](/en/blog/ethical-non-monogamy/).
 
 ## A common misconception
 
-A widespread myth claims polyamory is really just cheating with permission, or that swinging is somehow "less honest" than polyamory. Neither claim holds up. [Polyamory Myths](/en/blog/polyamory-myths) debunks exactly these misconceptions, and [Polyamory vs. Cheating](/en/blog/polyamory-vs-cheating) explains the decisive difference between consensual openness and deception — a point that applies equally to both models.
+A widespread myth claims polyamory is really just cheating with permission, or that swinging is somehow "less honest" than polyamory. Neither claim holds up. [Polyamory Myths](/en/blog/polyamory-myths/) debunks exactly these misconceptions, and [Polyamory vs. Cheating](/en/blog/polyamory-vs-cheating/) explains the decisive difference between consensual openness and deception — a point that applies equally to both models.
 
 ## Which model fits whom?
 
@@ -47,7 +47,7 @@ If you want to protect your core relationship as an exclusive emotional center w
 
 ## Safety matters for both
 
-Regardless of the model, anyone sexually active with multiple people should make safer sex and regular testing a routine habit. [Safer Sex and STI Testing in Polyamorous Relationships](/en/blog/safer-sex-polyamory) applies just as much to swinging couples.
+Regardless of the model, anyone sexually active with multiple people should make safer sex and regular testing a routine habit. [Safer Sex and STI Testing in Polyamorous Relationships](/en/blog/safer-sex-polyamory/) applies just as much to swinging couples.
 
 ## Tools that help
 

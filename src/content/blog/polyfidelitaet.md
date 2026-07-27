@@ -15,15 +15,15 @@ Wer sich zum ersten Mal mit Polyamorie beschäftigt, stößt schnell auf den Ein
 
 In einer polyfidelen Konstellation verpflichten sich alle Beteiligten, romantische und meist auch sexuelle Exklusivität innerhalb der Gruppe zu leben. Neue Partner werden nicht gesucht, und wenn doch Interesse an einer weiteren Person entsteht, ist das ein Thema, über das die ganze Gruppe gemeinsam entscheidet – nicht eine einzelne Person allein. Häufige Gruppengrößen sind drei (Triade) oder vier (Quad) Personen, wobei nicht zwingend jede Person mit jeder anderen romantisch verbunden sein muss – wichtig ist die gemeinsame Vereinbarung zur Geschlossenheit.
 
-Mehr zu den Grundbegriffen der Polyamorie findest du in unserem [Polyamorie-Glossar](/blog/polyamorie-glossar).
+Mehr zu den Grundbegriffen der Polyamorie findest du in unserem [Polyamorie-Glossar](/blog/polyamorie-glossar/).
 
 ## Polyfidelität vs. Throuple: nicht dasselbe
 
-Ein häufiges Missverständnis ist, Throuple und Polyfidelität seien austauschbare Begriffe. Das stimmt nicht ganz: Ein Throuple beschreibt schlicht die Gruppengröße – drei Menschen in einer gemeinsamen Beziehung. Ob dieses Throuple polyfidel ist, also geschlossen bleibt, oder ob einzelne Mitglieder zusätzliche Beziehungen außerhalb führen dürfen, ist eine separate Entscheidung. Es gibt offene Throuples genauso wie polyfidele. Die genauen Unterschiede und Varianten erklären wir im Artikel [Throuple & Triade: Beziehungen zu dritt einfach erklärt](/blog/throuple-triade).
+Ein häufiges Missverständnis ist, Throuple und Polyfidelität seien austauschbare Begriffe. Das stimmt nicht ganz: Ein Throuple beschreibt schlicht die Gruppengröße – drei Menschen in einer gemeinsamen Beziehung. Ob dieses Throuple polyfidel ist, also geschlossen bleibt, oder ob einzelne Mitglieder zusätzliche Beziehungen außerhalb führen dürfen, ist eine separate Entscheidung. Es gibt offene Throuples genauso wie polyfidele. Die genauen Unterschiede und Varianten erklären wir im Artikel [Throuple & Triade: Beziehungen zu dritt einfach erklärt](/blog/throuple-triade/).
 
 ## Polyfidelität vs. Kitchen-Table-Polyamorie
 
-Auch die Abgrenzung zu Kitchen-Table-Polyamorie lohnt sich: Bei Kitchen-Table-Polyamorie geht es darum, dass sich alle Beteiligten eines Netzwerks – auch Metamouren – gut genug verstehen, um gemeinsam an einem Tisch zu sitzen. Das Netzwerk kann dabei trotzdem offen für neue Partner bleiben. Polyfidelität dagegen definiert sich über die Geschlossenheit der Gruppe, unabhängig davon, wie eng oder locker sich die Mitglieder untereinander verstehen. Ein ausführlicher Vergleich verwandter Modelle steht im Artikel [Kitchen Table vs. Parallel Polyamory](/blog/kitchen-table-vs-parallel-polyamorie).
+Auch die Abgrenzung zu Kitchen-Table-Polyamorie lohnt sich: Bei Kitchen-Table-Polyamorie geht es darum, dass sich alle Beteiligten eines Netzwerks – auch Metamouren – gut genug verstehen, um gemeinsam an einem Tisch zu sitzen. Das Netzwerk kann dabei trotzdem offen für neue Partner bleiben. Polyfidelität dagegen definiert sich über die Geschlossenheit der Gruppe, unabhängig davon, wie eng oder locker sich die Mitglieder untereinander verstehen. Ein ausführlicher Vergleich verwandter Modelle steht im Artikel [Kitchen Table vs. Parallel Polyamory](/blog/kitchen-table-vs-parallel-polyamorie/).
 
 ## Warum sich Menschen für Polyfidelität entscheiden
 
@@ -43,7 +43,7 @@ Selten sind alle Verbindungen innerhalb einer Triade oder eines Quads exakt glei
 
 ### Der Ausstieg einer Person betrifft alle
 
-Verlässt eine Person die Gruppe oder möchte sie öffnen, ist das kein Zweier-, sondern ein Gruppenthema. Die verbleibenden Mitglieder müssen neu verhandeln, wie es weitergeht – strukturell ähnlich wie eine [Trennung im Polycule](/blog/trennung-polyamorie), nur mit mehr Beteiligten gleichzeitig.
+Verlässt eine Person die Gruppe oder möchte sie öffnen, ist das kein Zweier-, sondern ein Gruppenthema. Die verbleibenden Mitglieder müssen neu verhandeln, wie es weitergeht – strukturell ähnlich wie eine [Trennung im Polycule](/blog/trennung-polyamorie/), nur mit mehr Beteiligten gleichzeitig.
 
 ### Isolation nach außen
 
@@ -51,11 +51,11 @@ Weil neue Kontakte bewusst ausgeschlossen werden, kann sich eine polyfidele Grup
 
 ## Was Polyfidelität stabil macht
 
-Klare, regelmäßig überprüfte Vereinbarungen sind hier noch wichtiger als in offeneren Modellen, weil es keine Pufferzone zu Außenstehenden gibt. Wer festhält, wann und wie über eine mögliche Öffnung gesprochen wird, vermeidet spätere Bruchstellen. Auch für geschlossene Gruppen gilt: klare Zeit- und Aufmerksamkeitsverteilung zwischen den Verbindungen bleibt wichtig, wie im Artikel [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen) beschrieben.
+Klare, regelmäßig überprüfte Vereinbarungen sind hier noch wichtiger als in offeneren Modellen, weil es keine Pufferzone zu Außenstehenden gibt. Wer festhält, wann und wie über eine mögliche Öffnung gesprochen wird, vermeidet spätere Bruchstellen. Auch für geschlossene Gruppen gilt: klare Zeit- und Aufmerksamkeitsverteilung zwischen den Verbindungen bleibt wichtig, wie im Artikel [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen/) beschrieben.
 
 ## Werkzeuge, die helfen
 
-Auch eine geschlossene Gruppe profitiert davon, jede einzelne Verbindung sichtbar zu halten – wer sich zuletzt gesehen hat, welche Themen offen sind, wie es der jeweils anderen Person gerade geht. **Roster** bildet jede Beziehung innerhalb deines [Polycule](/blog/was-ist-ein-polycule) einzeln ab, ganz ohne vorgegebene Hierarchie und ohne Konto – alle Daten bleiben lokal auf deinem Gerät.
+Auch eine geschlossene Gruppe profitiert davon, jede einzelne Verbindung sichtbar zu halten – wer sich zuletzt gesehen hat, welche Themen offen sind, wie es der jeweils anderen Person gerade geht. **Roster** bildet jede Beziehung innerhalb deines [Polycule](/blog/was-ist-ein-polycule/) einzeln ab, ganz ohne vorgegebene Hierarchie und ohne Konto – alle Daten bleiben lokal auf deinem Gerät.
 
 ## Häufige Fragen
 

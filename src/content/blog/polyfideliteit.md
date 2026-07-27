@@ -15,15 +15,15 @@ Wie voor het eerst met polyamorie in aanraking komt, krijgt al snel de indruk da
 
 In een polyfidele constellatie spreken alle betrokkenen af romantisch en meestal ook seksueel exclusief te zijn binnen de groep. Er wordt niet actief gezocht naar nieuwe partners, en als er toch interesse ontstaat in iemand buiten de groep, is dat een beslissing die de hele groep samen neemt – niet iets wat één persoon alleen bepaalt. Gangbare groepsgroottes zijn drie (een triade) of vier (een quad) personen, waarbij niet elk lid romantisch verbonden hoeft te zijn met elk ander lid – bepalend is de gedeelde afspraak om gesloten te blijven.
 
-Voor de basisbegrippen van polyamorie, zie onze [Polyamorie Woordenlijst](/nl/blog/polyamorie-woordenlijst).
+Voor de basisbegrippen van polyamorie, zie onze [Polyamorie Woordenlijst](/nl/blog/polyamorie-woordenlijst/).
 
 ## Polyfideliteit vs. een throuple: niet hetzelfde
 
-Een veelgemaakte fout is throuple en polyfideliteit als synoniemen te behandelen. Dat klopt niet: een throuple beschrijft simpelweg de groepsgrootte – drie mensen in een gedeelde relatie. Of die throuple polyfidel (gesloten) is, of dat individuele leden daten buiten de groep mogen, is een aparte afspraak. Er bestaan zowel open als gesloten throuples. De precieze verschillen lees je in [Throuple & Triade: relaties met drie mensen uitgelegd](/nl/blog/throuple-triade-nl).
+Een veelgemaakte fout is throuple en polyfideliteit als synoniemen te behandelen. Dat klopt niet: een throuple beschrijft simpelweg de groepsgrootte – drie mensen in een gedeelde relatie. Of die throuple polyfidel (gesloten) is, of dat individuele leden daten buiten de groep mogen, is een aparte afspraak. Er bestaan zowel open als gesloten throuples. De precieze verschillen lees je in [Throuple & Triade: relaties met drie mensen uitgelegd](/nl/blog/throuple-triade-nl/).
 
 ## Polyfideliteit vs. kitchen-table-polyamorie
 
-Het is ook de moeite waard om polyfideliteit te onderscheiden van kitchen-table-polyamorie. Daarbij gaat het erom dat iedereen in een netwerk – metamours inbegrepen – het goed genoeg met elkaar kan vinden om aan dezelfde tafel te zitten, terwijl het netwerk toch openstaat voor nieuwe partners. Polyfideliteit wordt daarentegen bepaald door de geslotenheid van de groep, ongeacht hoe hecht of afstandelijk de leden onderling zijn. Een volledige vergelijking van verwante modellen vind je in [Kitchen Table vs. Parallel Polyamorie](/nl/blog/kitchen-table-vs-parallel-polyamorie-nl).
+Het is ook de moeite waard om polyfideliteit te onderscheiden van kitchen-table-polyamorie. Daarbij gaat het erom dat iedereen in een netwerk – metamours inbegrepen – het goed genoeg met elkaar kan vinden om aan dezelfde tafel te zitten, terwijl het netwerk toch openstaat voor nieuwe partners. Polyfideliteit wordt daarentegen bepaald door de geslotenheid van de groep, ongeacht hoe hecht of afstandelijk de leden onderling zijn. Een volledige vergelijking van verwante modellen vind je in [Kitchen Table vs. Parallel Polyamorie](/nl/blog/kitchen-table-vs-parallel-polyamorie-nl/).
 
 ## Waarom mensen voor polyfideliteit kiezen
 
@@ -43,7 +43,7 @@ Zelden zijn alle verbindingen binnen een triade of quad precies even sterk. Vaak
 
 ### Het vertrek van één persoon raakt iedereen
 
-Verlaat iemand de groep, of wil diegene de groep openen, dan is dat geen kwestie tussen twee mensen maar een groepskwestie. De overgebleven leden moeten opnieuw onderhandelen over hoe het verder gaat – structureel vergelijkbaar met een [breuk binnen het polycule](/nl/blog/breuk-polyamorie), alleen met meer mensen tegelijk betrokken.
+Verlaat iemand de groep, of wil diegene de groep openen, dan is dat geen kwestie tussen twee mensen maar een groepskwestie. De overgebleven leden moeten opnieuw onderhandelen over hoe het verder gaat – structureel vergelijkbaar met een [breuk binnen het polycule](/nl/blog/breuk-polyamorie/), alleen met meer mensen tegelijk betrokken.
 
 ### Isolatie van buitenaf
 
@@ -51,11 +51,11 @@ Omdat nieuwe contacten bewust worden uitgesloten, kan een polyfidele groep losra
 
 ## Wat polyfideliteit stabiel houdt
 
-Duidelijke, regelmatig herziene afspraken zijn hier nog belangrijker dan in meer open modellen, omdat er geen buffer is met buitenstaanders. Vooraf vastleggen wanneer en hoe je praat over een mogelijke opening voorkomt latere breuken. Ook in een gesloten groep blijft het verdelen van tijd en aandacht over elke verbinding belangrijk – zie [Meerdere relaties managen](/nl/blog/meerdere-relaties-managen) voor de praktische kant daarvan.
+Duidelijke, regelmatig herziene afspraken zijn hier nog belangrijker dan in meer open modellen, omdat er geen buffer is met buitenstaanders. Vooraf vastleggen wanneer en hoe je praat over een mogelijke opening voorkomt latere breuken. Ook in een gesloten groep blijft het verdelen van tijd en aandacht over elke verbinding belangrijk – zie [Meerdere relaties managen](/nl/blog/meerdere-relaties-managen/) voor de praktische kant daarvan.
 
 ## Hulpmiddelen die helpen
 
-Ook een gesloten groep heeft er baat bij elke afzonderlijke verbinding zichtbaar te houden – wie wie het laatst zag, welke onderwerpen nog open staan, hoe het met iedereen gaat. **Roster** brengt elke relatie binnen je [polycule](/nl/blog/wat-is-een-polycule) apart in kaart, zonder ingebouwde hiërarchie en zonder account – al je gegevens blijven op je apparaat.
+Ook een gesloten groep heeft er baat bij elke afzonderlijke verbinding zichtbaar te houden – wie wie het laatst zag, welke onderwerpen nog open staan, hoe het met iedereen gaat. **Roster** brengt elke relatie binnen je [polycule](/nl/blog/wat-is-een-polycule/) apart in kaart, zonder ingebouwde hiërarchie en zonder account – al je gegevens blijven op je apparaat.
 
 ## Veelgestelde vragen
 

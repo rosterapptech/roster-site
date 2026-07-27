@@ -34,7 +34,7 @@ All four are solid tools for what they were built to do. But not one of the four
 
 ## The naming confusion: two apps are called "Roster"
 
-One detail that causes confusion: both "Roster: Date Smarter" and "The Roster AI - Dating Diary" carry the term "Roster" in their name — and neither is the same app as the one described here. The term "Roster" originally comes from sports (a team's player list) and evolved into dating slang via TikTok, see [What Is a Dating Roster?](/en/blog/what-is-a-dating-roster). It's therefore no surprise that several independent developers landed on the same name. Anyone searching for "Roster app" should look closely at which of the several similarly named apps is actually meant, and what it was built for.
+One detail that causes confusion: both "Roster: Date Smarter" and "The Roster AI - Dating Diary" carry the term "Roster" in their name — and neither is the same app as the one described here. The term "Roster" originally comes from sports (a team's player list) and evolved into dating slang via TikTok, see [What Is a Dating Roster?](/en/blog/what-is-a-dating-roster/). It's therefore no surprise that several independent developers landed on the same name. Anyone searching for "Roster app" should look closely at which of the several similarly named apps is actually meant, and what it was built for.
 
 ## The real gap: tracking vs. actually maintaining relationships
 
@@ -73,7 +73,7 @@ Everything stays local on your device, with no account and no cloud. [Roster is 
 
 ## Where to read next, depending on your situation
 
-Are you still getting to know several people rather than already maintaining committed relationships? A dedicated dating tracker like the ones above might be the better fit for now — more on that distinction in [What Is a Dating Roster?](/en/blog/what-is-a-dating-roster). Looking for the difference between dating apps for meeting people and apps for organizing existing relationships? Find that in [An App for Polyamory: Organizing Relationships, Not Just Finding People](/en/blog/app-for-organizing-polyamorous-relationships). Already managing several relationships and looking for concrete systems? [Managing Multiple Relationships at Once](/en/blog/managing-multiple-relationships) can help.
+Are you still getting to know several people rather than already maintaining committed relationships? A dedicated dating tracker like the ones above might be the better fit for now — more on that distinction in [What Is a Dating Roster?](/en/blog/what-is-a-dating-roster/). Looking for the difference between dating apps for meeting people and apps for organizing existing relationships? Find that in [An App for Polyamory: Organizing Relationships, Not Just Finding People](/en/blog/app-for-organizing-polyamorous-relationships/). Already managing several relationships and looking for concrete systems? [Managing Multiple Relationships at Once](/en/blog/managing-multiple-relationships/) can help.
 
 ## Frequently Asked Questions
 

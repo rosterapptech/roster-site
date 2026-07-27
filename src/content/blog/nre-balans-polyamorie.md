@@ -21,7 +21,7 @@ Het probleem is niet NRE zelf, maar wat het ongemerkt doet met de verdeling van 
 
 - **Tijd verschuift ongemerkt.** Wie in NRE zit, zegt vaker spontaan toe aan afspraken met de nieuwe persoon – ten koste van tijd die eigenlijk voor bestaande partners was gereserveerd.
 - **Vergelijkingen ontstaan vanzelf.** Bestaande partners voelen vaak dat gesprekken korter worden, berichten minder frequent, of de aanwezigheid tijdens een avond samen dunner – ook als niemand dat expres doet.
-- **Stilte versterkt jaloezie.** Niet NRE zelf veroorzaakt conflicten, maar het gevoel in het ongewisse te worden gelaten. Meer hierover in [Jaloezie in de polyamorie](/nl/blog/jaloezie-polyamorie).
+- **Stilte versterkt jaloezie.** Niet NRE zelf veroorzaakt conflicten, maar het gevoel in het ongewisse te worden gelaten. Meer hierover in [Jaloezie in de polyamorie](/nl/blog/jaloezie-polyamorie/).
 
 ## Strategieën om NRE in balans te houden
 
@@ -31,7 +31,7 @@ Bestaande partners vooraf laten weten dat er een nieuwe verbinding ontstaat en d
 
 ### 2. Vaste tijden blijven vast
 
-Juist tijdens de NRE-fase is het cruciaal om afgesproken tijdsblokken met bestaande partners niet spontaan te verschuiven. Heb je al vaste ritmes, kijk dan voor meer in [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen).
+Juist tijdens de NRE-fase is het cruciaal om afgesproken tijdsblokken met bestaande partners niet spontaan te verschuiven. Heb je al vaste ritmes, kijk dan voor meer in [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen/).
 
 ### 3. Actief herinvesteren, niet alleen niet verwaarlozen
 
@@ -47,7 +47,7 @@ Dit is een van de meest voorkomende angsten in de polyamorie – en meestal gaat
 
 ## Hulpmiddelen die helpen bij het in balans houden
 
-Een blik op het hele [polycule](/nl/blog/wat-is-een-polycule) helpt om NRE-gerelateerde verschuivingen vroeg te herkennen, in plaats van ze pas op te merken als een relatie al verwaarloosd aanvoelt. **Roster** is precies daarvoor gebouwd: met de Vibe Radar zie je in één oogopslag welke verbinding nu weinig aandacht heeft gekregen, en kun je vaste tijdsritmes per relatie vastleggen – zonder account, alle gegevens lokaal op je apparaat.
+Een blik op het hele [polycule](/nl/blog/wat-is-een-polycule/) helpt om NRE-gerelateerde verschuivingen vroeg te herkennen, in plaats van ze pas op te merken als een relatie al verwaarloosd aanvoelt. **Roster** is precies daarvoor gebouwd: met de Vibe Radar zie je in één oogopslag welke verbinding nu weinig aandacht heeft gekregen, en kun je vaste tijdsritmes per relatie vastleggen – zonder account, alle gegevens lokaal op je apparaat.
 
 ## Veelgestelde vragen
 

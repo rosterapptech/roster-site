@@ -19,7 +19,7 @@ Anders gezegd: polyamorie is een relatievorm; relatieAnarchie is een relatie-fil
 
 ## Polyamorie nader bekeken
 
-Polyamorie draait om meerdere parallelle liefdesrelaties. Veel polyamoreuze mensen werken met structuren: er is misschien een nesting partner met wie je samenwoont en verdere relaties daarnaast. Sommige polyamoreuze constellaties zijn uitdrukkelijk **hiërarchisch** – met primaire en secundaire partners waarbij bepaalde relaties voorrang hebben. Andere zijn **egalitair** en behandelen alle relaties als gelijkwaardig. Het kernpunt: polyamorie zegt niets over of je hiërarchieën afwijst of gebruikt. Voor meer over de kernbegrippen, zie onze [polyamorie-woordenlijst](/nl/blog/polyamorie-woordenlijst).
+Polyamorie draait om meerdere parallelle liefdesrelaties. Veel polyamoreuze mensen werken met structuren: er is misschien een nesting partner met wie je samenwoont en verdere relaties daarnaast. Sommige polyamoreuze constellaties zijn uitdrukkelijk **hiërarchisch** – met primaire en secundaire partners waarbij bepaalde relaties voorrang hebben. Andere zijn **egalitair** en behandelen alle relaties als gelijkwaardig. Het kernpunt: polyamorie zegt niets over of je hiërarchieën afwijst of gebruikt. Voor meer over de kernbegrippen, zie onze [polyamorie-woordenlijst](/nl/blog/polyamorie-woordenlijst/).
 
 ## RelatieAnarchie nader bekeken
 
@@ -49,7 +49,7 @@ Veel mensen bewegen trouwens in de loop van de tijd tussen deze concepten – wa
 
 ## Welk model je ook kiest – overzicht houden telt
 
-Of je nu klassiek poly leeft of relatieAnarchie ontdekt: in beide gevallen onderhoud je meerdere betekenisvolle verbindingen die aandacht en zorg nodig hebben. **Roster** is bewust gebouwd zonder opgelegde hiërarchie – jij bepaalt zelf welk type verbinding je vastlegt, volledig op jouw eigen voorwaarden. De app past bij jouw definitie van relatie, niet andersom. Hoe je het overzicht bewaart, lees je in ons artikel over het [organiseren van meerdere relaties](/nl/blog/meerdere-relaties-managen).
+Of je nu klassiek poly leeft of relatieAnarchie ontdekt: in beide gevallen onderhoud je meerdere betekenisvolle verbindingen die aandacht en zorg nodig hebben. **Roster** is bewust gebouwd zonder opgelegde hiërarchie – jij bepaalt zelf welk type verbinding je vastlegt, volledig op jouw eigen voorwaarden. De app past bij jouw definitie van relatie, niet andersom. Hoe je het overzicht bewaart, lees je in ons artikel over het [organiseren van meerdere relaties](/nl/blog/meerdere-relaties-managen/).
 
 ## Veelgestelde vragen
 

@@ -7,7 +7,7 @@ translationKey: 'metamour-relationships'
 tags: ['Metamour', 'Poliamor', 'Comunicación', 'Estructuras de relación']
 ---
 
-**En resumen:** Un metamour es la pareja de tu pareja: alguien con quien tú no tienes una relación romántica, pero que forma parte de tu [polycule](/es/blog/que-es-un-polycule) ampliado. Lo cerca que llegue a estar esta relación es completamente abierto: desde una amistad estrecha hasta "apenas nos conocemos" son opciones normales y válidas. Lo importante no es la cercanía en sí, sino el respeto, la comunicación clara y las expectativas realistas.
+**En resumen:** Un metamour es la pareja de tu pareja: alguien con quien tú no tienes una relación romántica, pero que forma parte de tu [polycule](/es/blog/que-es-un-polycule/) ampliado. Lo cerca que llegue a estar esta relación es completamente abierto: desde una amistad estrecha hasta "apenas nos conocemos" son opciones normales y válidas. Lo importante no es la cercanía en sí, sino el respeto, la comunicación clara y las expectativas realistas.
 
 Quien se acerca por primera vez al poliamor suele tropezar enseguida con el término **metamour** y con la pregunta de qué hacer exactamente con esa persona. ¿Tienes que caerle bien? ¿Tenéis siquiera que conoceros? ¿Y si simplemente no os soportáis? Este artículo ordena las dinámicas de metamour más importantes y muestra cómo hacer que la relación sea más llevadera para todas las partes.
 
@@ -27,7 +27,7 @@ Ninguno de estos modelos es "más avanzado" que otro. Las personas introvertidas
 
 ## Retos habituales con los metamours
 
-**Comparación y sentimientos de competencia.** Es humano compararte inconscientemente con tu metamour: quién recibe más tiempo, a quién se menciona más, quién "gana" en un sentido difuso. Tomarte ese sentimiento en serio sin actuar en consecuencia es un paso importante. Más sobre cómo gestionar estos sentimientos en el artículo [Celos en el poliamor](/es/blog/celos-poliamoria).
+**Comparación y sentimientos de competencia.** Es humano compararte inconscientemente con tu metamour: quién recibe más tiempo, a quién se menciona más, quién "gana" en un sentido difuso. Tomarte ese sentimiento en serio sin actuar en consecuencia es un paso importante. Más sobre cómo gestionar estos sentimientos en el artículo [Celos en el poliamor](/es/blog/celos-poliamoria/).
 
 **Usar a la pareja compartida como intermediaria.** Algunas personas solo se comunican entre sí a través de la pareja compartida, en lugar de hacerlo directamente. Eso sobrecarga a la persona del medio y a menudo distorsiona lo que realmente hay que decir. El contacto directo, aunque al principio resulte incómodo, alivia a todos a largo plazo.
 

@@ -12,6 +12,8 @@ export const QUIZ_SLUG: Record<Lang, string> = {
   pt: 'teste-de-poliamoria',
 };
 
+// Mit abschliessendem Slash – muss zur canonical-/Sitemap-Form passen,
+// sonst zeigen interne Links auf eine Nicht-Canonical-Variante.
 export function quizPath(lang: Lang): string {
-  return lang === 'de' ? `/${QUIZ_SLUG.de}` : `/${lang}/${QUIZ_SLUG[lang]}`;
+  return lang === 'de' ? `/${QUIZ_SLUG.de}/` : `/${lang}/${QUIZ_SLUG[lang]}/`;
 }

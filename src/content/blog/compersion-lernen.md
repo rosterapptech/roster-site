@@ -45,7 +45,7 @@ Compersion und Eifersucht wechseln sich oft ab. Wenn du beide Gefühle notierst,
 
 ## Compersion und Eifersucht sind keine Gegner
 
-Es ist verlockend, Compersion als „Endziel" zu sehen und [Eifersucht](/blog/eifersucht-polyamorie) als Versagen. Hilfreicher ist, beide als zwei Seiten derselben emotionalen Arbeit zu verstehen. Eifersucht zeigt dir ein Bedürfnis, Compersion zeigt dir deine Verbundenheit. Wer mit Eifersucht ehrlich umgeht, schafft oft erst den Raum, in dem Compersion überhaupt wachsen kann.
+Es ist verlockend, Compersion als „Endziel" zu sehen und [Eifersucht](/blog/eifersucht-polyamorie/) als Versagen. Hilfreicher ist, beide als zwei Seiten derselben emotionalen Arbeit zu verstehen. Eifersucht zeigt dir ein Bedürfnis, Compersion zeigt dir deine Verbundenheit. Wer mit Eifersucht ehrlich umgeht, schafft oft erst den Raum, in dem Compersion überhaupt wachsen kann.
 
 ## Häufige Fragen
 

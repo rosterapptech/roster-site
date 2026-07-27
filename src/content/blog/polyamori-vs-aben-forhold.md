@@ -38,7 +38,7 @@ Juridisk er forskellen tydelig: Polygame ægteskaber anerkendes ikke i de fleste
 
 ## Relationsanarki: ingen pålagte kategorier
 
-Relationsanarki går endnu et skridt videre end ligestillet polyamori: Det afviser grundlæggende ethvert udefra pålagt hierarki og enhver fast kategori – "partner" versus "bare en ven", "vigtigere" versus "mindre vigtig". Hvert forhold forhandles individuelt, uanset om sex eller romantik er involveret, og uanset hvad sociale konventioner ellers foreslår. Hvordan dette præcist adskiller sig fra klassisk, også hierarkisk polyamori, og hvor grænserne flyder sammen, forklarer vi udførligt i vores sammenligning [Relationsanarki vs. polyamori](/da/blog/relationsanarki-vs-polyamori-da).
+Relationsanarki går endnu et skridt videre end ligestillet polyamori: Det afviser grundlæggende ethvert udefra pålagt hierarki og enhver fast kategori – "partner" versus "bare en ven", "vigtigere" versus "mindre vigtig". Hvert forhold forhandles individuelt, uanset om sex eller romantik er involveret, og uanset hvad sociale konventioner ellers foreslår. Hvordan dette præcist adskiller sig fra klassisk, også hierarkisk polyamori, og hvor grænserne flyder sammen, forklarer vi udførligt i vores sammenligning [Relationsanarki vs. polyamori](/da/blog/relationsanarki-vs-polyamori-da/).
 
 ## De fire modeller sammenlignet
 
@@ -52,7 +52,7 @@ Relationsanarki går endnu et skridt videre end ligestillet polyamori: Det afvis
 
 ## Og inden for polyamorien selv?
 
-Tabellen viser det allerede: "Polyamori" er selv et samlebegreb for mange varianter, ikke én ensartet model med faste regler. Nogle konstellationer er [hierarkiske, andre ikke-hierarkiske](/da/blog/hierarkisk-vs-ikke-hierarkisk-polyamori) – med eller uden primært forhold, med eller uden fælles husstand som centrum. Nogle lever [solo-polyamori](/da/blog/solo-polyamori-da) og placerer bevidst ikke noget forhold i centrum af deres liv, mens de forbliver uafhængige og fører flere forhold. Andre organiserer sig som et kitchen-table-polycule, hvor alle involverede kender hinanden godt og gerne bruger tid sammen, mens andre foretrækker parallelle forhold, hvor de enkelte parforhold næsten ikke overlapper. Og nogle lever i en triade med tre ligestillede partnere. Den, der vil dykke dybere ned, finder detaljerne i de linkede artikler.
+Tabellen viser det allerede: "Polyamori" er selv et samlebegreb for mange varianter, ikke én ensartet model med faste regler. Nogle konstellationer er [hierarkiske, andre ikke-hierarkiske](/da/blog/hierarkisk-vs-ikke-hierarkisk-polyamori/) – med eller uden primært forhold, med eller uden fælles husstand som centrum. Nogle lever [solo-polyamori](/da/blog/solo-polyamori-da/) og placerer bevidst ikke noget forhold i centrum af deres liv, mens de forbliver uafhængige og fører flere forhold. Andre organiserer sig som et kitchen-table-polycule, hvor alle involverede kender hinanden godt og gerne bruger tid sammen, mens andre foretrækker parallelle forhold, hvor de enkelte parforhold næsten ikke overlapper. Og nogle lever i en triade med tre ligestillede partnere. Den, der vil dykke dybere ned, finder detaljerne i de linkede artikler.
 
 ## Hvorfor skelnen er praktisk vigtig
 
@@ -62,7 +62,7 @@ Det er præcis dét, **Roster** er bygget til: En privacy-first-app, der ikke bi
 
 > Roster analyserer ingenting og sender ingenting til en server. Dine forhold er ingen andres sag end din.
 
-Hvis du spekulerer på, om faste kategorier overhovedet passer til dit forholdsliv, eller om du hellere vil lægge dem helt bag dig, er det værd at læse vores udførlige sammenligning [Relationsanarki vs. polyamori](/da/blog/relationsanarki-vs-polyamori-da) – der går vi i detaljer med, hvornår hvilken model giver mest mening, og hvordan du mærker, hvad der passer til dig.
+Hvis du spekulerer på, om faste kategorier overhovedet passer til dit forholdsliv, eller om du hellere vil lægge dem helt bag dig, er det værd at læse vores udførlige sammenligning [Relationsanarki vs. polyamori](/da/blog/relationsanarki-vs-polyamori-da/) – der går vi i detaljer med, hvornår hvilken model giver mest mening, og hvordan du mærker, hvad der passer til dig.
 
 ## Hyppige spørgsmål
 
@@ -73,7 +73,7 @@ Nej. Åbne forhold er normalt seksuelt åbne men romantisk eksklusive – kernep
 Polygami er et flerkoneri/flermandsægteskab og anerkendes ikke i de fleste vestlige retssystemer, nogle steder er det ligefrem strafbart. Polyamori er en relationsform uden krav om flere ægteskaber, så spørgsmålet om ægteskabsanerkendelse opstår som regel slet ikke i praksis.
 
 **Hvad er relationsanarki egentlig?**
-Relationsanarki afviser pålagte hierarkier og faste kategorier som "partner" eller "bare en ven". Hvert forhold forhandles individuelt. Mere om det i vores [udførlige sammenligning](/da/blog/relationsanarki-vs-polyamori-da).
+Relationsanarki afviser pålagte hierarkier og faste kategorier som "partner" eller "bare en ven". Hvert forhold forhandles individuelt. Mere om det i vores [udførlige sammenligning](/da/blog/relationsanarki-vs-polyamori-da/).
 
 **Fungerer Roster kun til polyamori?**
 Nej. Roster fungerer til alle former for etisk ikke-monogami – åbne forhold, klassisk polyamori, relationsanarki, solo-poly og mere.

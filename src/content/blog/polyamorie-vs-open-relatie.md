@@ -38,7 +38,7 @@ Juridisch is het verschil duidelijk: polygame huwelijken worden in de meeste wes
 
 ## Relatieanarchie: geen opgelegde categorieën
 
-Relatieanarchie gaat nog een stap verder dan gelijkwaardige polyamorie: het wijst elke van buitenaf opgelegde hiërarchie en vaste categorie – "partner" versus "gewoon een vriendschap", "belangrijker" versus "minder belangrijk" – principieel af. Elke relatie wordt individueel vormgegeven, ongeacht of seks of romantiek een rol speelt, en ongeacht wat maatschappelijke conventies suggereren. Hoe dit precies verschilt van klassieke, ook hiërarchische polyamorie en waar de grenzen vervagen, leggen we uitgebreid uit in onze vergelijking [Relatieanarchie vs. polyamorie](/nl/blog/relatieAnarchie-vs-polyamorie).
+Relatieanarchie gaat nog een stap verder dan gelijkwaardige polyamorie: het wijst elke van buitenaf opgelegde hiërarchie en vaste categorie – "partner" versus "gewoon een vriendschap", "belangrijker" versus "minder belangrijk" – principieel af. Elke relatie wordt individueel vormgegeven, ongeacht of seks of romantiek een rol speelt, en ongeacht wat maatschappelijke conventies suggereren. Hoe dit precies verschilt van klassieke, ook hiërarchische polyamorie en waar de grenzen vervagen, leggen we uitgebreid uit in onze vergelijking [Relatieanarchie vs. polyamorie](/nl/blog/relatieanarchie-vs-polyamorie/).
 
 ## De vier modellen vergeleken
 
@@ -52,7 +52,7 @@ Relatieanarchie gaat nog een stap verder dan gelijkwaardige polyamorie: het wijs
 
 ## En binnen de polyamorie zelf?
 
-De tabel laat het al zien: "polyamorie" is zelf een verzamelterm voor talloze varianten, geen uniform model met vaste regels. Sommige constellaties zijn [hiërarchisch, andere niet-hiërarchisch](/nl/blog/hierarchische-vs-niet-hierarchische-polyamorie) – met of zonder primaire relatie, met of zonder gedeeld huishouden als middelpunt. Sommigen leven [solo-polyamorie](/nl/blog/solo-polyamorie-nl) en plaatsen bewust geen enkele relatie in het middelpunt van hun leven, terwijl ze onafhankelijk blijven en meerdere relaties onderhouden. Anderen organiseren zich als kitchen-table-polycule, waarin iedereen elkaar goed kent en graag samen tijd doorbrengt, weer anderen geven de voorkeur aan parallelle relaties die elkaar nauwelijks overlappen. En sommigen leven met z'n drieën in een triade met drie gelijkwaardige partners. Wie dieper wil duiken, vindt in de gelinkte artikelen de details.
+De tabel laat het al zien: "polyamorie" is zelf een verzamelterm voor talloze varianten, geen uniform model met vaste regels. Sommige constellaties zijn [hiërarchisch, andere niet-hiërarchisch](/nl/blog/hierarchische-vs-niet-hierarchische-polyamorie/) – met of zonder primaire relatie, met of zonder gedeeld huishouden als middelpunt. Sommigen leven [solo-polyamorie](/nl/blog/solo-polyamorie-nl/) en plaatsen bewust geen enkele relatie in het middelpunt van hun leven, terwijl ze onafhankelijk blijven en meerdere relaties onderhouden. Anderen organiseren zich als kitchen-table-polycule, waarin iedereen elkaar goed kent en graag samen tijd doorbrengt, weer anderen geven de voorkeur aan parallelle relaties die elkaar nauwelijks overlappen. En sommigen leven met z'n drieën in een triade met drie gelijkwaardige partners. Wie dieper wil duiken, vindt in de gelinkte artikelen de details.
 
 ## Waarom het onderscheid praktisch uitmaakt
 
@@ -62,7 +62,7 @@ Precies daarvoor is **Roster** gebouwd: een privacy-first app die zich niet vast
 
 > Roster analyseert niets en stuurt niets naar een server. Jouw relaties gaan niemand iets aan behalve jou.
 
-Als je je afvraagt of vaste categorieën überhaupt bij jouw relatieleven passen, of dat je ze liever helemaal achter je laat, loont het de moeite om onze uitgebreide vergelijking [Relatieanarchie vs. polyamorie](/nl/blog/relatieAnarchie-vs-polyamorie) te lezen – daarin gaan we in detail in op wanneer welk model meer zin heeft en hoe je merkt wat bij jou past.
+Als je je afvraagt of vaste categorieën überhaupt bij jouw relatieleven passen, of dat je ze liever helemaal achter je laat, loont het de moeite om onze uitgebreide vergelijking [Relatieanarchie vs. polyamorie](/nl/blog/relatieanarchie-vs-polyamorie/) te lezen – daarin gaan we in detail in op wanneer welk model meer zin heeft en hoe je merkt wat bij jou past.
 
 ## Veelgestelde vragen
 
@@ -73,7 +73,7 @@ Nee. Open relaties zijn meestal seksueel open maar romantisch exclusief – het 
 Polygamie is een huwelijk met meerdere partners en wordt in de meeste westerse rechtssystemen niet erkend, soms is het zelfs strafbaar. Polyamorie is een relatievorm zonder streven naar meerdere huwelijken, dus de vraag naar huwelijkserkenning speelt in de praktijk meestal niet.
 
 **Wat is relatieanarchie precies?**
-Relatieanarchie wijst opgelegde hiërarchieën en vaste categorieën als "partner" of "gewoon een vriendschap" af. Elke relatie wordt individueel vormgegeven. Meer hierover in onze [uitgebreide vergelijking](/nl/blog/relatieAnarchie-vs-polyamorie).
+Relatieanarchie wijst opgelegde hiërarchieën en vaste categorieën als "partner" of "gewoon een vriendschap" af. Elke relatie wordt individueel vormgegeven. Meer hierover in onze [uitgebreide vergelijking](/nl/blog/relatieanarchie-vs-polyamorie/).
 
 **Werkt Roster alleen voor polyamorie?**
 Nee. Roster werkt voor elke vorm van ethische niet-monogamie – open relaties, klassieke polyamorie, relatieanarchie, solo-poly en meer.

@@ -34,7 +34,7 @@ Alle vier sind für sich genommen solide Werkzeuge für das, wofür sie gebaut w
 
 ## Die Namensverwirrung: Zwei Apps heißen "Roster"
 
-Ein Detail, das für Verwirrung sorgt: Sowohl "Roster: Date Smarter" als auch "The Roster AI - Dating Diary" tragen den Begriff "Roster" im Namen – und das ist nicht dieselbe App wie die hier beschriebene. Der Begriff "Roster" stammt ursprünglich aus dem Sport (die Kader-Liste eines Teams) und hat sich über TikTok zum Dating-Slang entwickelt, siehe [Was ist ein Dating Roster?](/blog/was-ist-ein-dating-roster). Entsprechend naheliegend war es für mehrere unabhängige Entwickler:innen, ihre App genauso zu nennen. Wer nach "Roster App" sucht, sollte deshalb genau hinsehen, welche der mehreren gleichnamigen Apps tatsächlich gemeint ist und wofür sie gebaut wurde.
+Ein Detail, das für Verwirrung sorgt: Sowohl "Roster: Date Smarter" als auch "The Roster AI - Dating Diary" tragen den Begriff "Roster" im Namen – und das ist nicht dieselbe App wie die hier beschriebene. Der Begriff "Roster" stammt ursprünglich aus dem Sport (die Kader-Liste eines Teams) und hat sich über TikTok zum Dating-Slang entwickelt, siehe [Was ist ein Dating Roster?](/blog/was-ist-ein-dating-roster/). Entsprechend naheliegend war es für mehrere unabhängige Entwickler:innen, ihre App genauso zu nennen. Wer nach "Roster App" sucht, sollte deshalb genau hinsehen, welche der mehreren gleichnamigen Apps tatsächlich gemeint ist und wofür sie gebaut wurde.
 
 ## Die eigentliche Lücke: Tracking vs. tatsächliche Beziehungspflege
 
@@ -73,7 +73,7 @@ Alles läuft dabei lokal auf dem Gerät, ohne Konto und ohne Cloud. [Roster ist 
 
 ## Wo du in deiner Situation weiterliest
 
-Bist du noch dabei, mehrere Menschen kennenzulernen, statt bereits feste Beziehungen zu führen? Dann ist ein dedizierter Dating-Tracker wie die oben genannten möglicherweise erstmal das passendere Werkzeug – mehr zur Abgrenzung in [Was ist ein Dating Roster?](/blog/was-ist-ein-dating-roster). Geht es dir eher um den Unterschied zwischen Dating-Apps zum Kennenlernen und Apps zum Organisieren bestehender Beziehungen, findest du das in [App für Polyamorie: Beziehungen organisieren statt nur Menschen finden](/blog/app-poly-beziehungen-organisieren). Führst du bereits mehrere Beziehungen und suchst konkrete Systeme dafür, hilft [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen) weiter.
+Bist du noch dabei, mehrere Menschen kennenzulernen, statt bereits feste Beziehungen zu führen? Dann ist ein dedizierter Dating-Tracker wie die oben genannten möglicherweise erstmal das passendere Werkzeug – mehr zur Abgrenzung in [Was ist ein Dating Roster?](/blog/was-ist-ein-dating-roster/). Geht es dir eher um den Unterschied zwischen Dating-Apps zum Kennenlernen und Apps zum Organisieren bestehender Beziehungen, findest du das in [App für Polyamorie: Beziehungen organisieren statt nur Menschen finden](/blog/app-poly-beziehungen-organisieren/). Führst du bereits mehrere Beziehungen und suchst konkrete Systeme dafür, hilft [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen/) weiter.
 
 ## Häufige Fragen
 

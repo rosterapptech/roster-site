@@ -19,11 +19,11 @@ Long-Distance-Polyamorie bündelt zwei Herausforderungen gleichzeitig: die emoti
 
 **Ungleiche Zeitverteilung wird sichtbarer.** Wer in derselben Stadt lebt, bekommt zwangsläufig mehr spontane, alltägliche Zeit als eine Fernbeziehung – das kann bei der entfernten Person das Gefühl auslösen, strukturell benachteiligt zu sein. Ehrliche Gespräche darüber, wie beide Seiten die Verteilung erleben, sind wichtiger als der Versuch, "gleiche" Zeit rechnerisch herzustellen.
 
-**Besuche brauchen bewusste Planung.** Anders als bei Beziehungen vor Ort lässt sich ein Fernbeziehungs-Besuch nicht spontan verschieben. Mehr zu Systemen für Terminplanung im Artikel [Terminplanung bei mehreren Beziehungen](/blog/terminplanung-mehrere-beziehungen).
+**Besuche brauchen bewusste Planung.** Anders als bei Beziehungen vor Ort lässt sich ein Fernbeziehungs-Besuch nicht spontan verschieben. Mehr zu Systemen für Terminplanung im Artikel [Terminplanung bei mehreren Beziehungen](/blog/terminplanung-mehrere-beziehungen/).
 
 **Zeitzonen erschweren spontane Kommunikation.** Bei größeren Zeitverschiebungen hilft ein fester, wiederkehrender Kommunikationsrhythmus mehr als der Versuch, spontan verfügbar zu sein.
 
-**Eifersucht kann sich anders anfühlen.** Wer weiß, dass ein anderer Partner "vor Ort" mehr alltägliche Nähe bekommt, erlebt Eifersucht manchmal räumlicher als emotional. Mehr zum Umgang damit im Artikel [Eifersucht in der Polyamorie](/blog/eifersucht-polyamorie).
+**Eifersucht kann sich anders anfühlen.** Wer weiß, dass ein anderer Partner "vor Ort" mehr alltägliche Nähe bekommt, erlebt Eifersucht manchmal räumlicher als emotional. Mehr zum Umgang damit im Artikel [Eifersucht in der Polyamorie](/blog/eifersucht-polyamorie/).
 
 ## Wie man Nähe über Distanz aktiv gestaltet
 
@@ -38,7 +38,7 @@ Long-Distance-Beziehungen bleiben selten für immer auf Distanz – ein Umzug, e
 
 ## Struktur für Verbindungen über Distanz
 
-Wer mehrere Beziehungen mit unterschiedlicher geografischer Nähe führt, profitiert besonders von einem zentralen Überblick über Termine, Besuchspläne und die Stimmung in jeder Verbindung. **Roster** visualisiert dein [Polycule](/blog/was-ist-ein-polycule) unabhängig von Entfernung und hilft mit dem Vibe-Radar zu erkennen, welche Beziehung – ob nah oder fern – gerade Aufmerksamkeit braucht. Alle Daten bleiben lokal auf deinem Gerät.
+Wer mehrere Beziehungen mit unterschiedlicher geografischer Nähe führt, profitiert besonders von einem zentralen Überblick über Termine, Besuchspläne und die Stimmung in jeder Verbindung. **Roster** visualisiert dein [Polycule](/blog/was-ist-ein-polycule/) unabhängig von Entfernung und hilft mit dem Vibe-Radar zu erkennen, welche Beziehung – ob nah oder fern – gerade Aufmerksamkeit braucht. Alle Daten bleiben lokal auf deinem Gerät.
 
 ## Häufige Fragen
 

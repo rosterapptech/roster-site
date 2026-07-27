@@ -70,7 +70,7 @@ Tudo localmente, sem conta, sem nuvem, sem que nada chegue jamais a um servidor.
 
 ## Por onde continuar lendo, conforme sua situação
 
-Você ainda está na fase de conhecer várias pessoas de forma casual, em vez de manter relacionamentos já estabelecidos? Então comece por [O que é um Dating Roster?](/pt/blog/o-que-e-um-dating-roster), que descreve essa fase anterior e mais aberta, antes de conexões soltas virarem relacionamentos fixos. Você já gerencia vários relacionamentos e procura sistemas concretos para isso? [Gerenciar vários relacionamentos ao mesmo tempo](/pt/blog/gerenciar-varios-relacionamentos) é o guia prático que você precisa.
+Você ainda está na fase de conhecer várias pessoas de forma casual, em vez de manter relacionamentos já estabelecidos? Então comece por [O que é um Dating Roster?](/pt/blog/o-que-e-um-dating-roster/), que descreve essa fase anterior e mais aberta, antes de conexões soltas virarem relacionamentos fixos. Você já gerencia vários relacionamentos e procura sistemas concretos para isso? [Gerenciar vários relacionamentos ao mesmo tempo](/pt/blog/gerenciar-varios-relacionamentos/) é o guia prático que você precisa.
 
 ## Perguntas frequentes
 

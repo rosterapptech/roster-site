@@ -38,7 +38,7 @@ Se vocês são um casal que está se abrindo e querem buscar juntos, alguns prin
 - **Tratem a nova pessoa como um indivíduo completo com sua própria capacidade de decisão**, não como um acréscimo ao relacionamento de vocês. Ela tem suas próprias necessidades, seu próprio ritmo e o direito de dizer não.
 - **Não exijam uma exclusividade que vocês mesmos não oferecem.** Se, como casal, vocês continuam sendo prioridade um para o outro, é injusto esperar que a nova pessoa abra mão de outras conexões.
 - **Incluam-na na criação das regras**, em vez de apresentar regras já fechadas. Acordos que afetam uma pessoa devem ser feitos com ela, não só sobre ela.
-- **Não reservem para vocês um direito de veto sobre a autonomia dela.** Você pode ler mais sobre por que o direito de veto é problemático na poliamoria no nosso artigo sobre [o direito de veto na poliamoria](/pt/blog/direito-de-veto-poliamoria).
+- **Não reservem para vocês um direito de veto sobre a autonomia dela.** Você pode ler mais sobre por que o direito de veto é problemático na poliamoria no nosso artigo sobre [o direito de veto na poliamoria](/pt/blog/direito-de-veto-poliamoria/).
 - **Perguntem-se com honestidade se estão buscando uma pessoa ou querendo preencher uma lacuna.** A diferença entre "queremos conhecer alguém com quem algo próprio possa crescer" e "buscamos alguém que se encaixe na nossa vida já existente" é sutil, mas decisiva.
 
 ## Se vocês se reconhecem no padrão

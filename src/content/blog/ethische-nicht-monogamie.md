@@ -31,7 +31,7 @@ Fehlt eine dieser drei Säulen, handelt es sich nicht um ENM, sondern schlicht u
 
 **Relationship Anarchy:** Eine Haltung, die jede Beziehung individuell verhandelt, ohne feste Kategorien oder Hierarchien vorauszusetzen.
 
-Mehr zu den einzelnen Begriffen und weiteren Unterformen im [Glossar der Polyamorie](/blog/polyamorie-glossar).
+Mehr zu den einzelnen Begriffen und weiteren Unterformen im [Glossar der Polyamorie](/blog/polyamorie-glossar/).
 
 ## Warum der Oberbegriff nützlich ist
 
@@ -43,11 +43,11 @@ ENM als Dachbegriff ist besonders praktisch, wenn man über gemeinsame Grundprin
 
 **"ENM bedeutet, keine echten Bindungen einzugehen."** Viele ENM-Formen, allen voran Polyamorie, beinhalten tiefe, langfristige emotionale Bindungen zu mehreren Menschen gleichzeitig.
 
-**"ENM funktioniert nur ohne Eifersucht."** Eifersucht kommt auch in ENM-Beziehungen vor – der Unterschied liegt darin, wie offen und konstruktiv damit umgegangen wird. Mehr dazu im Artikel [Eifersucht in der Polyamorie](/blog/eifersucht-polyamorie).
+**"ENM funktioniert nur ohne Eifersucht."** Eifersucht kommt auch in ENM-Beziehungen vor – der Unterschied liegt darin, wie offen und konstruktiv damit umgegangen wird. Mehr dazu im Artikel [Eifersucht in der Polyamorie](/blog/eifersucht-polyamorie/).
 
 ## Wie man den passenden ENM-Stil für sich findet
 
-Es gibt keine "richtige" Form von ENM – nur die Form, die zu den eigenen Bedürfnissen, Kapazitäten und Werten passt. Wer neu in diesem Feld ist, findet einen guten Einstieg im Artikel [Polyamorie für Anfänger](/blog/polyamorie-fuer-anfaenger), auch wenn Polyamorie nur eine von mehreren ENM-Formen ist.
+Es gibt keine "richtige" Form von ENM – nur die Form, die zu den eigenen Bedürfnissen, Kapazitäten und Werten passt. Wer neu in diesem Feld ist, findet einen guten Einstieg im Artikel [Polyamorie für Anfänger](/blog/polyamorie-fuer-anfaenger/), auch wenn Polyamorie nur eine von mehreren ENM-Formen ist.
 
 ## Struktur für gelebte ENM-Beziehungen
 

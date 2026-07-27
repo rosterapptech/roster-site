@@ -19,11 +19,11 @@ Long-distance polyamori bunta ihop två utmaningar samtidigt: det känslomässig
 
 **Ojämn tidsfördelning blir mer synlig.** Den som bor i samma stad får oundvikligen mer spontan, vardaglig tid än ett distansförhållande – det kan hos den avlägsna personen väcka en känsla av att vara strukturellt missgynnad. Ärliga samtal om hur båda sidor upplever fördelningen är viktigare än att försöka skapa "lika" tid rent räknemässigt.
 
-**Besök kräver medveten planering.** Till skillnad från relationer på plats kan ett besök i ett distansförhållande inte flyttas spontant. Läs mer om system för detta i artikeln [Schemaläggning med flera förhållanden](/sv/blog/planering-flera-forhallanden).
+**Besök kräver medveten planering.** Till skillnad från relationer på plats kan ett besök i ett distansförhållande inte flyttas spontant. Läs mer om system för detta i artikeln [Schemaläggning med flera förhållanden](/sv/blog/planering-flera-forhallanden/).
 
 **Tidszoner försvårar spontan kommunikation.** Vid större tidsskillnader hjälper en fast, återkommande kommunikationsrytm mer än att försöka vara spontant tillgänglig.
 
-**Svartsjuka kan kännas annorlunda.** Den som vet att en annan partner "på plats" får mer vardagsnärhet upplever ibland svartsjuka mer rumsligt än känslomässigt. Läs mer om att hantera det i artikeln [Svartsjuka i polyamori](/sv/blog/svaartsjuka-polyamori).
+**Svartsjuka kan kännas annorlunda.** Den som vet att en annan partner "på plats" får mer vardagsnärhet upplever ibland svartsjuka mer rumsligt än känslomässigt. Läs mer om att hantera det i artikeln [Svartsjuka i polyamori](/sv/blog/svaartsjuka-polyamori/).
 
 ## Så formar du närhet över avstånd aktivt
 
@@ -38,7 +38,7 @@ Distansförhållanden förblir sällan på avstånd för alltid – en flytt, et
 
 ## Struktur för kopplingar över avstånd
 
-Den som har flera relationer med olika geografisk närhet har särskilt nytta av en central överblick över avtal, besöksplaner och stämningen i varje koppling. **Roster** visualiserar ditt [polycule](/sv/blog/vad-ar-ett-polycule) oberoende av avstånd och hjälper med vibe-radarn att se vilken relation – nära eller långt bort – som just nu behöver uppmärksamhet. All data stannar lokalt på din enhet.
+Den som har flera relationer med olika geografisk närhet har särskilt nytta av en central överblick över avtal, besöksplaner och stämningen i varje koppling. **Roster** visualiserar ditt [polycule](/sv/blog/vad-ar-ett-polycule/) oberoende av avstånd och hjälper med vibe-radarn att se vilken relation – nära eller långt bort – som just nu behöver uppmärksamhet. All data stannar lokalt på din enhet.
 
 ## Vanliga frågor
 

@@ -29,7 +29,7 @@ Er zijn in principe twee wegen:
 
 **Ongelijkheid in relatie-intensiteit.** Zelden ontwikkelen alle drie de connecties zich exact even snel of even intens – dat is normaal, maar moet wel open besproken worden, in plaats van dat één persoon impliciet wordt teruggezet.
 
-**Plannen met z'n drieën.** Wanneer treft iedereen elkaar met z'n drieën, en wanneer met z'n tweeën? Duidelijke afspraken voorkomen dat iemand zich buitengesloten voelt. Meer over systemen hiervoor in het artikel [Planning bij meerdere relaties](/nl/blog/planning-meerdere-relaties).
+**Plannen met z'n drieën.** Wanneer treft iedereen elkaar met z'n drieën, en wanneer met z'n tweeën? Duidelijke afspraken voorkomen dat iemand zich buitengesloten voelt. Meer over systemen hiervoor in het artikel [Planning bij meerdere relaties](/nl/blog/planning-meerdere-relaties/).
 
 **Conflictdynamiek met z'n drieën.** Conflicten tussen twee personen in een throuple raken automatisch ook de derde – dat kan verlichten (meer perspectieven) of belasten (coalitievorming), afhankelijk van hoe open erover wordt gecommuniceerd.
 
@@ -43,11 +43,11 @@ Er zijn in principe twee wegen:
 
 ## Niet elke throuple blijft voor altijd met z'n drieën
 
-Zoals elke relatievorm kan ook een triade veranderen: sommige blijven jarenlang stabiel, andere ontwikkelen zich tot een opener structuur met meer relaties, weer andere splitsen zich op in aparte relaties. Geen van deze uitkomsten betekent automatisch "mislukking" – zie ook het artikel [Een relatiebreuk binnen polyamorie](/nl/blog/breuk-polyamorie).
+Zoals elke relatievorm kan ook een triade veranderen: sommige blijven jarenlang stabiel, andere ontwikkelen zich tot een opener structuur met meer relaties, weer andere splitsen zich op in aparte relaties. Geen van deze uitkomsten betekent automatisch "mislukking" – zie ook het artikel [Een relatiebreuk binnen polyamorie](/nl/blog/breuk-polyamorie/).
 
 ## Structuur voor relaties met z'n drieën
 
-Juist bij drie gelijkwaardige connecties loont het om het overzicht te behouden over afspraken, overeenkomsten en de stemming in elke afzonderlijke relatie. **Roster** visualiseert je [polycule](/nl/blog/wat-is-een-polycule) en helpt ervoor te zorgen dat geen van de drie connecties uit het zicht raakt – alles lokaal opgeslagen op je apparaat.
+Juist bij drie gelijkwaardige connecties loont het om het overzicht te behouden over afspraken, overeenkomsten en de stemming in elke afzonderlijke relatie. **Roster** visualiseert je [polycule](/nl/blog/wat-is-een-polycule/) en helpt ervoor te zorgen dat geen van de drie connecties uit het zicht raakt – alles lokaal opgeslagen op je apparaat.
 
 ## Veelgestelde vragen
 

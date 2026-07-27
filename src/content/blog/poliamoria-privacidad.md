@@ -7,7 +7,7 @@ translationKey: 'polyamory-privacy'
 tags: ['Privacidad', 'Poliamor', 'Protección de datos', 'Seguridad']
 ---
 
-Los datos relacionales se encuentran entre los más sensibles que existen: quién está con quién, salud sexual, límites, detalles íntimos, el [polycule](/es/blog/que-es-un-polycule) en su conjunto. En el poliamor esto no solo te afecta a ti, sino también a tus parejas y a sus metamours. Resulta sorprendente, entonces, lo poco que se habla de privacidad en este contexto.
+Los datos relacionales se encuentran entre los más sensibles que existen: quién está con quién, salud sexual, límites, detalles íntimos, el [polycule](/es/blog/que-es-un-polycule/) en su conjunto. En el poliamor esto no solo te afecta a ti, sino también a tus parejas y a sus metamours. Resulta sorprendente, entonces, lo poco que se habla de privacidad en este contexto.
 
 Este artículo explica por qué la privacidad tiene un peso especial en las relaciones no monógamas – y cómo proteger tus datos de verdad.
 

@@ -80,13 +80,13 @@ System behöver en plats att leva på. I praktiken kristalliseras fyra angreppss
 
 ## Varför en vanlig kalender inte räcker
 
-[En vanlig kalender känner bara till bokningar, inte relationshälsa.](/sv/blog/google-kalender-vs-polyamori-app-sv) Den talar om när ni ses – men inget om huruvida en förbindelse just nu behöver uppmärksamhet, om ni inte pratat på riktigt på veckor, eller om en överenskommelse tyst har runnit ut i sanden. Just det glappet är anledningen till att många polyamorösa människor förr eller senare byter till ett specialiserat verktyg: inte för att en kalender är dålig, utan för att den är byggd för en annan uppgift.
+[En vanlig kalender känner bara till bokningar, inte relationshälsa.](/sv/blog/google-kalender-vs-polyamori-app-sv/) Den talar om när ni ses – men inget om huruvida en förbindelse just nu behöver uppmärksamhet, om ni inte pratat på riktigt på veckor, eller om en överenskommelse tyst har runnit ut i sanden. Just det glappet är anledningen till att många polyamorösa människor förr eller senare byter till ett specialiserat verktyg: inte för att en kalender är dålig, utan för att den är byggd för en annan uppgift.
 
 ## Att organisera är omtanke, inte kontroll
 
 **Roster** byggdes exakt för det glappet – en app som ger struktur utan att kontrollera. Under "Relationer" räcker en snabb svep-gest för att notera att du sett en person idag – ingen omständlig logg, bara en ärlig ögonblicksbild. Vibe Radar visar dig direkt hur varje relation mår, från soligt till radiotystnad. Och Polycule Map gör hela ditt nätverk synligt på en gång. All data stannar lokalt på din enhet, utan konto och utan spårning. Det är kärnan: struktur, inte kontroll – ett verktyg som hjälper dig vara närvarande i stället för att diktera hur dina relationer ska se ut.
 
-Spelar svartsjuka också in i det du hanterar, går [Svartsjuka i polyamori](/sv/blog/svaartsjuka-polyamori) djupare in på det. Och vill du förstå hela ditt nätverk bättre, är det värt att läsa [Vad är ett polycule?](/sv/blog/vad-ar-ett-polycule)
+Spelar svartsjuka också in i det du hanterar, går [Svartsjuka i polyamori](/sv/blog/svaartsjuka-polyamori/) djupare in på det. Och vill du förstå hela ditt nätverk bättre, är det värt att läsa [Vad är ett polycule?](/sv/blog/vad-ar-ett-polycule/)
 
 ## Vanliga frågor
 

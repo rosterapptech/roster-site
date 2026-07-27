@@ -36,7 +36,7 @@ const related = (await getCollection('blog'))
       <h2>{tr('blog.related')}</h2>
       <div class="related-grid">
         {related.map((p) => (
-          <a href={`${prefix}/blog/${p.id}`} class="card related-card">
+          <a href={`${prefix}/blog/${p.id}/`} class="card related-card">
             <h3>{p.data.title}</h3>
             <p>{p.data.description}</p>
             <span class="more">{tr('blog.readmore')}</span>

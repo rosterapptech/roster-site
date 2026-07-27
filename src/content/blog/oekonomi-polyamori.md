@@ -16,8 +16,8 @@ At tale om penge er svært for mange mennesker, selv i monogame forhold. I polya
 - **Dates og fælles oplevelser** – at spise ude, aktiviteter, mindre udflugter.
 - **Gaver** – til jubilæer, fødselsdage eller bare i ny og næ.
 - **Rejser** – fælles ferier med en eller flere partnere.
-- **Fælles husholdning** – husleje, forbrugsudgifter og leveomkostninger, hvis du bor sammen med en [nesting partner](/da/blog/nesting-partner-forklaret).
-- **Børnepasning** – ekstra udgifter, når børn er en del af familiestrukturen, se [Polyamori og forældreskab](/da/blog/polyamori-foraeldreskab).
+- **Fælles husholdning** – husleje, forbrugsudgifter og leveomkostninger, hvis du bor sammen med en [nesting partner](/da/blog/nesting-partner-forklaret/).
+- **Børnepasning** – ekstra udgifter, når børn er en del af familiestrukturen, se [Polyamori og forældreskab](/da/blog/polyamori-foraeldreskab/).
 
 ## Modeller for, hvordan udgifter kan fordeles
 
@@ -37,15 +37,15 @@ Den, der bor sammen med en nesting partner, har ofte en fælles kasse til huslej
 
 ## Italesæt uligheder åbent
 
-Økonomiske forskelle mellem forhold er normale, men usagte kan de skabe spændinger – for eksempel hvis ét forhold har råd til dyre restauranter og rejser, mens et andet forhold er økonomisk mere presset. Det kan utilsigtet skabe sammenligningspres hos metamours. Det hjælper at italesætte det åbent: penge er ikke det samme som kærlighed. Den, der har færre økonomiske midler, kan stadig investere lige så meget tid, opmærksomhed og omsorg – se også vores artikel om [at fordele tid retfærdigt mellem flere forhold](/da/blog/styre-flere-forhold).
+Økonomiske forskelle mellem forhold er normale, men usagte kan de skabe spændinger – for eksempel hvis ét forhold har råd til dyre restauranter og rejser, mens et andet forhold er økonomisk mere presset. Det kan utilsigtet skabe sammenligningspres hos metamours. Det hjælper at italesætte det åbent: penge er ikke det samme som kærlighed. Den, der har færre økonomiske midler, kan stadig investere lige så meget tid, opmærksomhed og omsorg – se også vores artikel om [at fordele tid retfærdigt mellem flere forhold](/da/blog/styre-flere-forhold/).
 
 ## Hvor meget åbenhed er nødvendig?
 
-Metamours behøver som regel ikke indblik i den konkrete økonomi i hinandens forhold – det forbliver privat. Vigtigere er åbenheden inden for hvert enkelt forhold: begge partnere bør vide, hvilke økonomiske forpligtelser og grænser den anden har, især når der planlægges fælles husholdning eller fælles rejser. Læs mere om balancen mellem åbenhed og privatliv i artiklen [Polyamori og privatliv](/da/blog/polyamori-privatliv).
+Metamours behøver som regel ikke indblik i den konkrete økonomi i hinandens forhold – det forbliver privat. Vigtigere er åbenheden inden for hvert enkelt forhold: begge partnere bør vide, hvilke økonomiske forpligtelser og grænser den anden har, især når der planlægges fælles husholdning eller fælles rejser. Læs mere om balancen mellem åbenhed og privatliv i artiklen [Polyamori og privatliv](/da/blog/polyamori-privatliv/).
 
 ## Løbende check-ins frem for engangsaftaler
 
-Økonomiske aftaler bør ikke indgås én gang og så glemmes. Ændrer en persons indkomst sig, kommer der et nyt forhold til, eller flytter to partnere sammen, er det værd at tage samtalen op igen. Artiklen [Regler vs. aftaler i polyamori](/da/blog/regler-aftaler-polyamori) forklarer, hvordan du udformer aftaler, så de kan tilpasse sig over tid i stedet for at forblive stive.
+Økonomiske aftaler bør ikke indgås én gang og så glemmes. Ændrer en persons indkomst sig, kommer der et nyt forhold til, eller flytter to partnere sammen, er det værd at tage samtalen op igen. Artiklen [Regler vs. aftaler i polyamori](/da/blog/regler-aftaler-polyamori/) forklarer, hvordan du udformer aftaler, så de kan tilpasse sig over tid i stedet for at forblive stive.
 
 ## Værktøjer, der hjælper
 

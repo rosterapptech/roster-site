@@ -34,7 +34,7 @@ Alle vier zijn op zichzelf solide tools voor waarvoor ze gebouwd zijn. Maar in g
 
 ## De naamsverwarring: twee apps heten "Roster"
 
-Eén detail dat voor verwarring zorgt: zowel "Roster: Date Smarter" als "The Roster AI - Dating Diary" dragen de term "Roster" in hun naam – en dat is niet dezelfde app als de hier beschreven app. De term "Roster" komt oorspronkelijk uit de sport (de spelerslijst van een team) en is via TikTok uitgegroeid tot datingslang, zie [Wat is een dating roster?](/nl/blog/wat-is-een-dating-roster). Het is dan ook niet gek dat meerdere onafhankelijke ontwikkelaars dezelfde naam kozen. Wie zoekt naar "Roster app" doet er goed aan precies te bekijken welke van de meerdere gelijknamige apps bedoeld wordt en waarvoor die gebouwd is.
+Eén detail dat voor verwarring zorgt: zowel "Roster: Date Smarter" als "The Roster AI - Dating Diary" dragen de term "Roster" in hun naam – en dat is niet dezelfde app als de hier beschreven app. De term "Roster" komt oorspronkelijk uit de sport (de spelerslijst van een team) en is via TikTok uitgegroeid tot datingslang, zie [Wat is een dating roster?](/nl/blog/wat-is-een-dating-roster/). Het is dan ook niet gek dat meerdere onafhankelijke ontwikkelaars dezelfde naam kozen. Wie zoekt naar "Roster app" doet er goed aan precies te bekijken welke van de meerdere gelijknamige apps bedoeld wordt en waarvoor die gebouwd is.
 
 ## De echte kloof: tracken versus daadwerkelijk relaties onderhouden
 
@@ -73,7 +73,7 @@ Alles blijft daarbij lokaal op je apparaat, zonder account en zonder cloud. [Ros
 
 ## Waar je verder leest, afhankelijk van je situatie
 
-Ben je nog bezig meerdere mensen te leren kennen in plaats van al toegewijde relaties te onderhouden? Dan is een toegewijde dating-tracker zoals hierboven wellicht voorlopig de betere keuze – meer over dat onderscheid in [Wat is een dating roster?](/nl/blog/wat-is-een-dating-roster). Zoek je het verschil tussen dating-apps om mensen te ontmoeten en apps om bestaande relaties te organiseren? Dat vind je in [Een app voor polyamorie: relaties organiseren in plaats van alleen mensen vinden](/nl/blog/app-voor-polyamore-relaties-organiseren). Onderhoud je al meerdere relaties en zoek je concrete systemen? [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen) helpt verder.
+Ben je nog bezig meerdere mensen te leren kennen in plaats van al toegewijde relaties te onderhouden? Dan is een toegewijde dating-tracker zoals hierboven wellicht voorlopig de betere keuze – meer over dat onderscheid in [Wat is een dating roster?](/nl/blog/wat-is-een-dating-roster/). Zoek je het verschil tussen dating-apps om mensen te ontmoeten en apps om bestaande relaties te organiseren? Dat vind je in [Een app voor polyamorie: relaties organiseren in plaats van alleen mensen vinden](/nl/blog/app-voor-polyamore-relaties-organiseren/). Onderhoud je al meerdere relaties en zoek je concrete systemen? [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen/) helpt verder.
 
 ## Veelgestelde vragen
 

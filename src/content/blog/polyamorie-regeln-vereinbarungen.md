@@ -21,7 +21,7 @@ Kaum ein Thema sorgt in der Polyamorie für so viel Diskussion wie die Frage, we
 
 **Sie schränken Autonomie ein.** Regeln, die eine Person über die Gefühle oder das Verhalten einer anderen bestimmen lassen (etwa Verliebtheit zu verbieten), sind praktisch nicht durchsetzbar – Gefühle lassen sich nicht per Regel steuern.
 
-**Sie entstehen oft aus Angst statt aus Fürsorge.** Viele Regeln sollen Eifersucht oder Unsicherheit im bestehenden Paar lindern, verschieben das eigentliche Problem aber nur auf die neue Person, statt es direkt anzugehen. Mehr dazu im Artikel [Eifersucht in der Polyamorie](/blog/eifersucht-polyamorie).
+**Sie entstehen oft aus Angst statt aus Fürsorge.** Viele Regeln sollen Eifersucht oder Unsicherheit im bestehenden Paar lindern, verschieben das eigentliche Problem aber nur auf die neue Person, statt es direkt anzugehen. Mehr dazu im Artikel [Eifersucht in der Polyamorie](/blog/eifersucht-polyamorie/).
 
 **Sie werden nicht von allen mitgetragen.** Wer eine Regel nicht mitgestalten durfte, hält sich seltener wirklich daran – nicht aus Böswilligkeit, sondern weil fehlende Mitsprache selten zu echter Zustimmung führt.
 
@@ -35,9 +35,9 @@ Kaum ein Thema sorgt in der Polyamorie für so viel Diskussion wie die Frage, we
 ## Beispiele für sinnvolle Vereinbarungen
 
 - **Gesundheit:** Regelmäßige STI-Tests und offene Kommunikation über neue sexuelle Kontakte – schützt alle, ohne jemanden zu kontrollieren.
-- **Zeit:** Wie viel Vorlauf braucht es für neue Verabredungen? Mehr dazu im Artikel [Terminplanung bei mehreren Beziehungen](/blog/terminplanung-mehrere-beziehungen).
+- **Zeit:** Wie viel Vorlauf braucht es für neue Verabredungen? Mehr dazu im Artikel [Terminplanung bei mehreren Beziehungen](/blog/terminplanung-mehrere-beziehungen/).
 - **Kommunikation:** Wie und wann werden neue Verbindungen den bestehenden Partnern vorgestellt oder zumindest erwähnt?
-- **Nähe zwischen Metamours:** Wird eher [Kitchen Table oder Parallel](/blog/kitchen-table-vs-parallel-polyamorie) gelebt – und wie viel Kontakt wünschen sich alle Beteiligten wirklich?
+- **Nähe zwischen Metamours:** Wird eher [Kitchen Table oder Parallel](/blog/kitchen-table-vs-parallel-polyamorie/) gelebt – und wie viel Kontakt wünschen sich alle Beteiligten wirklich?
 
 ## Wenn Regeln trotzdem gewünscht sind
 
@@ -45,7 +45,7 @@ Manche Grenzen sind keine unfairen Regeln, sondern legitime persönliche Grenzen
 
 ## Vereinbarungen im Blick behalten
 
-Vereinbarungen, die nirgendwo festgehalten werden, verschwimmen mit der Zeit – jeder erinnert sich anders daran. **Roster** bietet Raum, um wichtige Absprachen zu jeder Verbindung in deinem [Polycule](/blog/was-ist-ein-polycule) festzuhalten, sodass nichts im Gedächtnisnebel verloren geht. Alle Daten bleiben dabei lokal auf deinem Gerät.
+Vereinbarungen, die nirgendwo festgehalten werden, verschwimmen mit der Zeit – jeder erinnert sich anders daran. **Roster** bietet Raum, um wichtige Absprachen zu jeder Verbindung in deinem [Polycule](/blog/was-ist-ein-polycule/) festzuhalten, sodass nichts im Gedächtnisnebel verloren geht. Alle Daten bleiben dabei lokal auf deinem Gerät.
 
 ## Häufige Fragen
 

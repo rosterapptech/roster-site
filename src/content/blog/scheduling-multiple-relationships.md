@@ -39,7 +39,7 @@ A simple but effective agreement: announce new plans with enough lead time (say,
 
 ## How much transparency is needed?
 
-That depends heavily on the relationship model. Anyone living by [kitchen table polyamory](/en/blog/kitchen-table-vs-parallel-polyamory) often shares openly when they're spending time with whom. Anyone organized more [in parallel](/en/blog/kitchen-table-vs-parallel-polyamory) usually just needs "I'm not available that day" – no details required. Both are legitimate, as long as the chosen level of transparency has been agreed on with everyone involved.
+That depends heavily on the relationship model. Anyone living by [kitchen table polyamory](/en/blog/kitchen-table-vs-parallel-polyamory/) often shares openly when they're spending time with whom. Anyone organized more [in parallel](/en/blog/kitchen-table-vs-parallel-polyamory/) usually just needs "I'm not available that day" – no details required. Both are legitimate, as long as the chosen level of transparency has been agreed on with everyone involved.
 
 ## When plans collide
 
@@ -47,11 +47,11 @@ Collisions happen eventually, even with a good system – illness, spontaneous p
 
 ## Scheduling and emotional fairness
 
-A pure time-management system isn't enough if the underlying distribution consistently feels unfair. If you notice one relationship is structurally always getting the short end, address it before resentment builds up. For more on the bigger picture, see [Managing Multiple Relationships](/en/blog/managing-multiple-relationships).
+A pure time-management system isn't enough if the underlying distribution consistently feels unfair. If you notice one relationship is structurally always getting the short end, address it before resentment builds up. For more on the bigger picture, see [Managing Multiple Relationships](/en/blog/managing-multiple-relationships/).
 
 ## Roster as a central system
 
-**Roster** was built for exactly this problem: an app that visualizes your [polycule](/en/blog/what-is-a-polycule), keeps track of key dates and details for every connection, and uses the vibe radar to show which relationship needs attention right now – before a scheduling conflict turns into an emotional one. All data stays local on your device, with no account or cloud required.
+**Roster** was built for exactly this problem: an app that visualizes your [polycule](/en/blog/what-is-a-polycule/), keeps track of key dates and details for every connection, and uses the vibe radar to show which relationship needs attention right now – before a scheduling conflict turns into an emotional one. All data stays local on your device, with no account or cloud required.
 
 ## Frequently asked questions
 

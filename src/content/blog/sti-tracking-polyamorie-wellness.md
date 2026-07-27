@@ -16,7 +16,7 @@ faq:
     a: 'Veel gezondheids- en cyclus-apps zijn gebouwd rond accounts en cloud-sync, en zijn nooit ontworpen voor een relatienetwerk met meerdere verbindingen. Data van deze gevoeligheid verdient een tool die van zichzelf lokaal blijft.'
 ---
 
-Praten over testritme en bescherming is één ding – het daadwerkelijk bijhouden over meerdere verbindingen heen is iets heel anders. Hoe je dat gesprek zelf voert zonder dat het ongemakkelijk wordt, en hoe fluid bonding-afspraken in detail werken, lees je in [Safer sex en soa-testen in polyamoreuze relaties](/nl/blog/safer-sex-polyamorie). Dit artikel begint een stap later: je hebt de gesprekken gevoerd, de afspraken staan – maar hoe houd je bij drie, vier of vijf verbindingen eigenlijk nog overzicht over wie wanneer getest is, welke afspraak nu geldt en wanneer de volgende controle op de planning staat?
+Praten over testritme en bescherming is één ding – het daadwerkelijk bijhouden over meerdere verbindingen heen is iets heel anders. Hoe je dat gesprek zelf voert zonder dat het ongemakkelijk wordt, en hoe fluid bonding-afspraken in detail werken, lees je in [Safer sex en soa-testen in polyamoreuze relaties](/nl/blog/safer-sex-polyamorie-nl/). Dit artikel begint een stap later: je hebt de gesprekken gevoerd, de afspraken staan – maar hoe houd je bij drie, vier of vijf verbindingen eigenlijk nog overzicht over wie wanneer getest is, welke afspraak nu geldt en wanneer de volgende controle op de planning staat?
 
 ## Waarom bijhouden lastiger wordt naarmate je netwerk groeit
 

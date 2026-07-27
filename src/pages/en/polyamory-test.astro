@@ -128,7 +128,7 @@ const results: QuizResultTier[] = [
     title: 'Monogamy is probably the better fit for you right now',
     desc: "Your answers point to exclusivity, reliability and focusing on one partnership as what gives you security. That's not better or worse than polyamory — just a different answer to the same question: how do I want to love? If you're still curious about the topic, there's no harm in reading more.",
     ctaGhostLabel: 'What is polyamory, anyway? →',
-    ctaGhostHref: '/en/blog/what-is-polyamory',
+    ctaGhostHref: '/en/blog/what-is-polyamory/',
   },
   {
     min: 13,
@@ -203,7 +203,7 @@ const alternates = [
         <div class="related-grid">
           {
             relatedPosts.map((p) => (
-              <a href={`/en/blog/${p.slug}`} class="card related-card">
+              <a href={`/en/blog/${p.slug}/`} class="card related-card">
                 {p.title}
               </a>
             ))

@@ -88,7 +88,7 @@ Construimos el **Polycule Map** de **Roster** precisamente para situaciones como
 
 <!-- SCREENSHOT: polycule-map -->
 
-Y si buscas sistemas concretos para estructurar tu día a día con varias relaciones —tiempo, comunicación y equilibrio incluidos—, en [Gestionar varias relaciones a la vez](/es/blog/gestionar-varias-relaciones) profundizamos en ello.
+Y si buscas sistemas concretos para estructurar tu día a día con varias relaciones —tiempo, comunicación y equilibrio incluidos—, en [Gestionar varias relaciones a la vez](/es/blog/gestionar-varias-relaciones/) profundizamos en ello.
 
 ## Preguntas frecuentes sobre los polycules
 

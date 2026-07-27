@@ -22,7 +22,7 @@ Dieser Artikel ist für dich, wenn du gerade an genau diesem Punkt stehst: Du sp
 
 ## Wo du gerade stehst, wenn nur du poly bist
 
-Diese Situation unterscheidet sich von der eines Paares, das sich bereits gemeinsam für ein asymmetrisches Modell entschieden hat. Wenn ihr schon länger in einer Konstellation lebt, in der eine Person monogam bleibt und die andere mehrere Beziehungen führt, lohnt sich eher der Artikel [Mono-Poly-Beziehungen](/blog/mono-poly-beziehungen), der genau diesen bereits etablierten Alltag beschreibt. Hier geht es um den Schritt davor: das erste ehrliche Gespräch, in dem noch gar nichts entschieden ist.
+Diese Situation unterscheidet sich von der eines Paares, das sich bereits gemeinsam für ein asymmetrisches Modell entschieden hat. Wenn ihr schon länger in einer Konstellation lebt, in der eine Person monogam bleibt und die andere mehrere Beziehungen führt, lohnt sich eher der Artikel [Mono-Poly-Beziehungen](/blog/mono-poly-beziehungen/), der genau diesen bereits etablierten Alltag beschreibt. Hier geht es um den Schritt davor: das erste ehrliche Gespräch, in dem noch gar nichts entschieden ist.
 
 Das bedeutet auch: Es gibt noch keine Gewissheit, wie die Beziehung aussehen wird. Genau diese Unsicherheit macht das Thema für viele so schwer ansprechbar. Man hat Angst, etwas kaputtzumachen, das bisher funktioniert hat – und schiebt das Gespräch deshalb monatelang vor sich her, bis der Druck von innen zu groß wird und es doch zu abrupt oder zum falschen Zeitpunkt herauskommt.
 
@@ -75,7 +75,7 @@ Ein paar Dinge gehören zu einem ehrlichen Prozess dazu, auch wenn sie unbequem 
 
 Alles in diesem Prozess – Timing, Formulierung, Erwartungen – ruht auf derselben Grundlage: einer Kommunikation, die ehrlicher ist als das, was viele Paare gewohnt sind. Das bedeutet konkret: Gefühle benennen statt andeuten, nachfragen statt annehmen, und Unsicherheit zugeben, statt sie hinter Selbstsicherheit zu verstecken.
 
-Wenn während dieses Prozesses eigene Eifersucht, Angst oder Verlustgefühle aufkommen – bei dir selbst oder bei deinem Partner –, ist das kein Zeichen, dass etwas falsch läuft. Es ist Material, mit dem gearbeitet werden kann. Der Artikel [Eifersucht in polyamoren Beziehungen](/blog/eifersucht-polyamorie) beschreibt sieben konkrete Strategien, die auch schon in dieser frühen Phase helfen, bevor überhaupt eine zweite Beziehung existiert.
+Wenn während dieses Prozesses eigene Eifersucht, Angst oder Verlustgefühle aufkommen – bei dir selbst oder bei deinem Partner –, ist das kein Zeichen, dass etwas falsch läuft. Es ist Material, mit dem gearbeitet werden kann. Der Artikel [Eifersucht in polyamoren Beziehungen](/blog/eifersucht-polyamorie/) beschreibt sieben konkrete Strategien, die auch schon in dieser frühen Phase helfen, bevor überhaupt eine zweite Beziehung existiert.
 
 ## Wenn die Antwort Nein ist
 

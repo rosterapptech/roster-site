@@ -16,8 +16,8 @@ Hablar de dinero es difícil para mucha gente, incluso en relaciones monógamas.
 - **Citas y planes conjuntos** – salir a comer, actividades, escapadas cortas.
 - **Regalos** – en aniversarios, cumpleaños o simplemente porque sí.
 - **Viajes** – escapadas con una o varias parejas.
-- **Hogar compartido** – alquiler, suministros y gastos de vida si convives con un [nesting partner](/es/blog/nesting-partner-explicado).
-- **Cuidado de hijos** – gastos adicionales cuando hay hijos en la estructura familiar, ver [Poliamor y crianza](/es/blog/poliamoria-crianza).
+- **Hogar compartido** – alquiler, suministros y gastos de vida si convives con un [nesting partner](/es/blog/nesting-partner-explicado/).
+- **Cuidado de hijos** – gastos adicionales cuando hay hijos en la estructura familiar, ver [Poliamor y crianza](/es/blog/poliamoria-crianza/).
 
 ## Modelos para repartir los gastos
 
@@ -37,15 +37,15 @@ Quien convive con un nesting partner suele mantener un bote común para el alqui
 
 ## Nombrar las desigualdades abiertamente
 
-Las diferencias económicas entre relaciones son normales, pero si no se hablan pueden generar tensión, por ejemplo si una relación puede permitirse restaurantes y viajes caros mientras otra pareja va más justa de dinero. Esto puede generar sin querer presión comparativa entre metamores. Ayuda nombrarlo abiertamente: el dinero no equivale a cariño. Quien tiene menos recursos económicos puede seguir invirtiendo la misma cantidad de tiempo, atención y cuidado; consulta también nuestro artículo sobre [repartir el tiempo con justicia entre varias relaciones](/es/blog/gestionar-varias-relaciones).
+Las diferencias económicas entre relaciones son normales, pero si no se hablan pueden generar tensión, por ejemplo si una relación puede permitirse restaurantes y viajes caros mientras otra pareja va más justa de dinero. Esto puede generar sin querer presión comparativa entre metamores. Ayuda nombrarlo abiertamente: el dinero no equivale a cariño. Quien tiene menos recursos económicos puede seguir invirtiendo la misma cantidad de tiempo, atención y cuidado; consulta también nuestro artículo sobre [repartir el tiempo con justicia entre varias relaciones](/es/blog/gestionar-varias-relaciones/).
 
 ## ¿Cuánta transparencia hace falta?
 
-Los metamores generalmente no necesitan tener acceso a las finanzas concretas de la relación del otro; eso sigue siendo privado. Lo importante es la transparencia dentro de cada relación individual: ambas personas deberían conocer las obligaciones y límites financieros de la otra, sobre todo al planificar un hogar compartido o viajes conjuntos. Más sobre el equilibrio entre apertura y privacidad en [Poliamor y privacidad](/es/blog/poliamoria-privacidad).
+Los metamores generalmente no necesitan tener acceso a las finanzas concretas de la relación del otro; eso sigue siendo privado. Lo importante es la transparencia dentro de cada relación individual: ambas personas deberían conocer las obligaciones y límites financieros de la otra, sobre todo al planificar un hogar compartido o viajes conjuntos. Más sobre el equilibrio entre apertura y privacidad en [Poliamor y privacidad](/es/blog/poliamoria-privacidad/).
 
 ## Revisiones periódicas en lugar de acuerdos únicos
 
-Los acuerdos financieros no deberían pactarse una sola vez y luego olvidarse. Si cambian los ingresos de alguien, entra una nueva relación en juego, o dos personas se van a vivir juntas, merece la pena retomar la conversación. El artículo [Reglas vs. acuerdos en el poliamor](/es/blog/reglas-acuerdos-poliamoria) explica cómo diseñar acuerdos que puedan adaptarse con el tiempo en lugar de quedarse rígidos.
+Los acuerdos financieros no deberían pactarse una sola vez y luego olvidarse. Si cambian los ingresos de alguien, entra una nueva relación en juego, o dos personas se van a vivir juntas, merece la pena retomar la conversación. El artículo [Reglas vs. acuerdos en el poliamor](/es/blog/reglas-acuerdos-poliamoria/) explica cómo diseñar acuerdos que puedan adaptarse con el tiempo en lugar de quedarse rígidos.
 
 ## Herramientas que ayudan
 

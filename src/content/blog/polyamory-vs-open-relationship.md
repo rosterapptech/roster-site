@@ -38,7 +38,7 @@ Legally, the distinction is stark: polygamous marriages aren't recognised in mos
 
 ## Relationship Anarchy: No Imposed Categories
 
-Relationship anarchy goes a step further than egalitarian polyamory: it rejects any externally imposed hierarchy and fixed category – "partner" versus "just a friend," "more important" versus "less important" – outright. Every relationship is negotiated individually, regardless of whether sex or romance is involved, and regardless of what social convention might suggest instead. For exactly how this differs from classic, even hierarchical polyamory, and where the lines blur, see our detailed comparison [Relationship Anarchy vs. Polyamory](/en/blog/relationship-anarchy-vs-polyamory).
+Relationship anarchy goes a step further than egalitarian polyamory: it rejects any externally imposed hierarchy and fixed category – "partner" versus "just a friend," "more important" versus "less important" – outright. Every relationship is negotiated individually, regardless of whether sex or romance is involved, and regardless of what social convention might suggest instead. For exactly how this differs from classic, even hierarchical polyamory, and where the lines blur, see our detailed comparison [Relationship Anarchy vs. Polyamory](/en/blog/relationship-anarchy-vs-polyamory/).
 
 ## The Four Models Compared
 
@@ -52,7 +52,7 @@ Relationship anarchy goes a step further than egalitarian polyamory: it rejects 
 
 ## And Within Polyamory Itself?
 
-The table already hints at it: "polyamory" is itself an umbrella term for many different shapes, not one uniform model with fixed rules. Some constellations are [hierarchical, others non-hierarchical](/en/blog/hierarchical-vs-non-hierarchical-polyamory) – with or without a primary partnership, with or without a shared household at the centre. Some people practise [solo polyamory](/en/blog/solo-polyamory) and deliberately keep no single partnership at the centre of their life, staying independent while maintaining several relationships. Others organise as a kitchen-table polycule, where everyone involved knows each other and enjoys spending time together, while others prefer parallel relationships where the individual partnerships barely intersect. And some live as a triad with three equal partners. Anyone who wants to go deeper will find the details in the linked articles.
+The table already hints at it: "polyamory" is itself an umbrella term for many different shapes, not one uniform model with fixed rules. Some constellations are [hierarchical, others non-hierarchical](/en/blog/hierarchical-vs-non-hierarchical-polyamory/) – with or without a primary partnership, with or without a shared household at the centre. Some people practise [solo polyamory](/en/blog/solo-polyamory/) and deliberately keep no single partnership at the centre of their life, staying independent while maintaining several relationships. Others organise as a kitchen-table polycule, where everyone involved knows each other and enjoys spending time together, while others prefer parallel relationships where the individual partnerships barely intersect. And some live as a triad with three equal partners. Anyone who wants to go deeper will find the details in the linked articles.
 
 ## Why the Distinction Matters in Practice
 
@@ -62,7 +62,7 @@ That is exactly what **Roster** is built for: a privacy-first app that isn't loc
 
 > Roster analyses nothing and sends nothing to a server. Your relationships are nobody's business but yours.
 
-If you're wondering whether fixed categories even fit your relationship life, or whether you'd rather leave them behind entirely, it's worth reading our in-depth comparison [Relationship Anarchy vs. Polyamory](/en/blog/relationship-anarchy-vs-polyamory) – it goes into detail on when each model makes more sense and how to tell which one fits you.
+If you're wondering whether fixed categories even fit your relationship life, or whether you'd rather leave them behind entirely, it's worth reading our in-depth comparison [Relationship Anarchy vs. Polyamory](/en/blog/relationship-anarchy-vs-polyamory/) – it goes into detail on when each model makes more sense and how to tell which one fits you.
 
 ## Common Questions
 
@@ -73,7 +73,7 @@ No. Open relationships are usually sexually open but romantically exclusive – 
 Polygamy is a multiple-marriage arrangement and isn't recognized in most Western legal systems, and in some places it's even a criminal offense. Polyamory is a relationship style with no claim to multiple legal marriages, so the question of marriage recognition usually doesn't arise in practice.
 
 **What exactly is relationship anarchy?**
-Relationship anarchy rejects imposed hierarchies and fixed categories like "partner" or "just a friend." Every relationship is negotiated individually. Read more in our [in-depth comparison](/en/blog/relationship-anarchy-vs-polyamory).
+Relationship anarchy rejects imposed hierarchies and fixed categories like "partner" or "just a friend." Every relationship is negotiated individually. Read more in our [in-depth comparison](/en/blog/relationship-anarchy-vs-polyamory/).
 
 **Does Roster only work for polyamory?**
 No. Roster works for every form of ethical non-monogamy – open relationships, classic polyamory, relationship anarchy, solo poly, and more.

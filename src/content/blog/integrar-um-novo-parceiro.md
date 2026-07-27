@@ -14,23 +14,23 @@ Um relacionamento novo é empolgante para você, e muitas vezes gera tensão nos
 
 ## Primeiro: avisar, não apresentar como fato consumado
 
-O núcleo da poliamoria é que todas as pessoas envolvidas sabem e consentem; mais sobre isso em [O que é poliamoria?](/pt/blog/o-que-e-poliamoria). Na prática, isso significa que os parceiros existentes deveriam saber da nova conexão antes que ela se torne algo fixo, não depois de tudo já decidido. Exatamente quão cedo depende dos seus próprios acordos: algumas configurações querem saber já dos primeiros encontros, outras só quando algo começa a tomar forma mais séria.
+O núcleo da poliamoria é que todas as pessoas envolvidas sabem e consentem; mais sobre isso em [O que é poliamoria?](/pt/blog/o-que-e-poliamoria/). Na prática, isso significa que os parceiros existentes deveriam saber da nova conexão antes que ela se torne algo fixo, não depois de tudo já decidido. Exatamente quão cedo depende dos seus próprios acordos: algumas configurações querem saber já dos primeiros encontros, outras só quando algo começa a tomar forma mais séria.
 
 ## Manter a NRE sob controle
 
-A fase inicial de um relacionamento novo costuma vir acompanhada de uma intensa energia de relacionamento novo (NRE), uma sensação de paixão que absorve muita atenção. Isso é normal, mas pode fazer com que os parceiros existentes se sintam de repente menos importantes. Ajuda contrabalançar isso conscientemente: reserve tempo fixo para os relacionamentos existentes, mesmo enquanto a nova conexão está puxando muita energia agora. O artigo [Equilibrando a NRE](/pt/blog/equilibrio-nre-poliamoria-pt) aprofunda estratégias concretas para isso.
+A fase inicial de um relacionamento novo costuma vir acompanhada de uma intensa energia de relacionamento novo (NRE), uma sensação de paixão que absorve muita atenção. Isso é normal, mas pode fazer com que os parceiros existentes se sintam de repente menos importantes. Ajuda contrabalançar isso conscientemente: reserve tempo fixo para os relacionamentos existentes, mesmo enquanto a nova conexão está puxando muita energia agora. O artigo [Equilibrando a NRE](/pt/blog/equilibrio-nre-poliamoria-pt/) aprofunda estratégias concretas para isso.
 
 ## Metamores: se conhecer ou manter separados?
 
-Se os parceiros novos e existentes vão se conhecer, e como, depende bastante do modelo que você vive. Na poliamoria kitchen-table, geralmente se deseja algum grau de convívio mútuo; na poliamoria paralela, os relacionamentos são deliberadamente mantidos separados. O artigo [Kitchen table vs. poliamoria paralela](/pt/blog/kitchen-table-vs-poliamoria-paralela-pt) ajuda você a descobrir qual modelo combina com a sua configuração antes de forçar um encontro que, na verdade, ninguém quer.
+Se os parceiros novos e existentes vão se conhecer, e como, depende bastante do modelo que você vive. Na poliamoria kitchen-table, geralmente se deseja algum grau de convívio mútuo; na poliamoria paralela, os relacionamentos são deliberadamente mantidos separados. O artigo [Kitchen table vs. poliamoria paralela](/pt/blog/kitchen-table-vs-poliamoria-paralela-pt/) ajuda você a descobrir qual modelo combina com a sua configuração antes de forçar um encontro que, na verdade, ninguém quer.
 
 ## Deixar transparentes os acordos existentes
 
-Um novo parceiro deveria conhecer cedo quais regras básicas já existem no seu polycule: divisões de tempo combinadas, acordos de sexo seguro ou, se existir, um direito de veto de algum parceiro atual. Isso não é burocracia, protege todas as pessoas envolvidas de mal-entendidos. Mais sobre isso em [Regras vs. acordos na poliamoria](/pt/blog/regras-acordos-poliamoria) e [Direito de veto na poliamoria](/pt/blog/direito-de-veto-poliamoria).
+Um novo parceiro deveria conhecer cedo quais regras básicas já existem no seu polycule: divisões de tempo combinadas, acordos de sexo seguro ou, se existir, um direito de veto de algum parceiro atual. Isso não é burocracia, protege todas as pessoas envolvidas de mal-entendidos. Mais sobre isso em [Regras vs. acordos na poliamoria](/pt/blog/regras-acordos-poliamoria/) e [Direito de veto na poliamoria](/pt/blog/direito-de-veto-poliamoria/).
 
 ## Levar a sério os medos dos parceiros existentes
 
-Ciúme ou insegurança nos parceiros existentes não são sinal de que algo está errado, fazem parte do processo, especialmente enquanto uma nova conexão ainda é recente e empolgante. [Ciúme em relacionamentos poliamorosos: 7 estratégias que realmente ajudam](/pt/blog/ciumes-poliamoria) oferece abordagens concretas especialmente úteis nessa fase.
+Ciúme ou insegurança nos parceiros existentes não são sinal de que algo está errado, fazem parte do processo, especialmente enquanto uma nova conexão ainda é recente e empolgante. [Ciúme em relacionamentos poliamorosos: 7 estratégias que realmente ajudam](/pt/blog/ciumes-poliamoria/) oferece abordagens concretas especialmente úteis nessa fase.
 
 ## Ritmo: melhor gradual do que apressado
 
@@ -38,11 +38,11 @@ Um relacionamento novo não precisa ocupar imediatamente o mesmo lugar que as co
 
 ## Quando há filhos em casa
 
-Com filhos envolvidos, é preciso mais cuidado: não convém introduzir um novo parceiro na vida familiar cedo demais, antes que o relacionamento tenha se mostrado estável. O artigo [Poliamoria e parentalidade](/pt/blog/poliamoria-parentalidade) explica o que levar em conta nesse caso.
+Com filhos envolvidos, é preciso mais cuidado: não convém introduzir um novo parceiro na vida familiar cedo demais, antes que o relacionamento tenha se mostrado estável. O artigo [Poliamoria e parentalidade](/pt/blog/poliamoria-parentalidade/) explica o que levar em conta nesse caso.
 
 ## Ferramentas que ajudam
 
-O **Roster** ajuda você a registrar cada relacionamento do seu [polycule](/pt/blog/o-que-e-um-polycule) individualmente, incluindo o mais novo. Assim, os parceiros existentes não saem do seu radar enquanto uma nova conexão reivindica muita atenção. Todos os dados permanecem no seu aparelho, sem necessidade de conta.
+O **Roster** ajuda você a registrar cada relacionamento do seu [polycule](/pt/blog/o-que-e-um-polycule/) individualmente, incluindo o mais novo. Assim, os parceiros existentes não saem do seu radar enquanto uma nova conexão reivindica muita atenção. Todos os dados permanecem no seu aparelho, sem necessidade de conta.
 
 ## Perguntas frequentes
 

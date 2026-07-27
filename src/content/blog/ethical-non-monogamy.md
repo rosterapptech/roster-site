@@ -31,7 +31,7 @@ If any one of these three pillars is missing, it's not ENM – it's simply cheat
 
 **Relationship anarchy:** An approach that negotiates each relationship individually, without assuming fixed categories or hierarchies.
 
-More on these terms and other subtypes in the [Polyamory Glossary](/en/blog/polyamory-glossary).
+More on these terms and other subtypes in the [Polyamory Glossary](/en/blog/polyamory-glossary/).
 
 ## Why the umbrella term is useful
 
@@ -43,11 +43,11 @@ ENM as an umbrella term is especially handy when you want to talk about shared u
 
 **"ENM means avoiding real commitment."** Many ENM structures, polyamory chief among them, involve deep, long-term emotional bonds with multiple people at once.
 
-**"ENM only works without jealousy."** Jealousy shows up in ENM relationships too – the difference is how openly and constructively it's handled. More on that in [Jealousy in Polyamory](/en/blog/jealousy-polyamory).
+**"ENM only works without jealousy."** Jealousy shows up in ENM relationships too – the difference is how openly and constructively it's handled. More on that in [Jealousy in Polyamory](/en/blog/jealousy-polyamory/).
 
 ## Finding the right ENM style for you
 
-There's no "correct" form of ENM – only the form that fits your own needs, capacity, and values. If you're new to this space, [Polyamory for Beginners](/en/blog/polyamory-for-beginners) is a good starting point, even though polyamory is just one of several ENM structures.
+There's no "correct" form of ENM – only the form that fits your own needs, capacity, and values. If you're new to this space, [Polyamory for Beginners](/en/blog/polyamory-for-beginners/) is a good starting point, even though polyamory is just one of several ENM structures.
 
 ## Structure for lived ENM relationships
 

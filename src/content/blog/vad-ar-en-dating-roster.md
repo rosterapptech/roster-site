@@ -35,7 +35,7 @@ Dessa tre begrepp blandas ofta ihop, men betyder olika saker:
 
 **Situationship** avser en enskild relation som känns som ett förhållande, men som aldrig officiellt har kallats det – ofta med otydliga förväntningar och osäkerhet hos åtminstone den ena parten.
 
-**Polyamori** är en medvetet vald relationsmodell med öppen kommunikation, där flera samtidiga, oftast känslomässigt engagerade relationer existerar – till skillnad från rostret, som ofta fortfarande är oförpliktande och utforskande. Läs mer om skillnaden i artikeln [Polyamori vs. öppet förhållande](/sv/blog/polyamori-vs-oppet-forhallande).
+**Polyamori** är en medvetet vald relationsmodell med öppen kommunikation, där flera samtidiga, oftast känslomässigt engagerade relationer existerar – till skillnad från rostret, som ofta fortfarande är oförpliktande och utforskande. Läs mer om skillnaden i artikeln [Polyamori vs. öppet förhållande](/sv/blog/polyamori-vs-oppet-forhallande/).
 
 En Dating Roster kan alltså med tiden utvecklas mot polyamori, om flera lösa kontakter medvetet växer till engagerade multipla relationer – eller den kan smalna av till ett enda förhållande när en kontakt blir exklusiv.
 
@@ -45,7 +45,7 @@ Framgången för "Dating Roster" ligger i att det gör det möjligt att benämna
 
 ## Utmaningar med att hålla en Dating Roster
 
-Hur lättsamt begreppet än låter är de praktiska utmaningarna verkliga: den som skriver och träffar flera personer samtidigt måste hålla isär detaljer, vara ärlig om sin egen kapacitet och komma ihåg vem som vet vad. Det är precis där artikeln [Organisera din Roster Dating](/sv/blog/roster-dating-organisera) kommer in – med konkreta strategier för vardagen.
+Hur lättsamt begreppet än låter är de praktiska utmaningarna verkliga: den som skriver och träffar flera personer samtidigt måste hålla isär detaljer, vara ärlig om sin egen kapacitet och komma ihåg vem som vet vad. Det är precis där artikeln [Organisera din Roster Dating](/sv/blog/roster-dating-organisera/) kommer in – med konkreta strategier för vardagen.
 
 ## Verktyg för din Dating Roster
 

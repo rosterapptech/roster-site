@@ -19,9 +19,9 @@ Um veto clássico funciona assim: uma pessoa num relacionamento já existente (m
 
 **Ignora a autonomia da terceira pessoa.** A pessoa cujo relacionamento é encerrado geralmente não teve voz na decisão: seus sentimentos e seu investimento emocional são, na prática, anulados.
 
-**Substitui o consentimento pelo controle.** Em vez de as três pessoas negociarem juntas o que funciona para todas, uma pessoa decide sobre o relacionamento das outras duas. Mais sobre a diferença entre controle e acordo genuíno em [Regras vs. acordos na poliamoria](/pt/blog/regras-acordos-poliamoria).
+**Substitui o consentimento pelo controle.** Em vez de as três pessoas negociarem juntas o que funciona para todas, uma pessoa decide sobre o relacionamento das outras duas. Mais sobre a diferença entre controle e acordo genuíno em [Regras vs. acordos na poliamoria](/pt/blog/regras-acordos-poliamoria/).
 
-**Desloca o problema real.** O desejo de ter um veto costuma surgir da insegurança ou do ciúme dentro do relacionamento existente. Mas o veto não resolve essa insegurança, apenas elimina sua causa de fora, sem trabalhar o sentimento subjacente. Mais sobre isso em [Ciúmes na poliamoria](/pt/blog/ciumes-poliamoria).
+**Desloca o problema real.** O desejo de ter um veto costuma surgir da insegurança ou do ciúme dentro do relacionamento existente. Mas o veto não resolve essa insegurança, apenas elimina sua causa de fora, sem trabalhar o sentimento subjacente. Mais sobre isso em [Ciúmes na poliamoria](/pt/blog/ciumes-poliamoria/).
 
 **Cria desigualdade estrutural.** Relacionamentos com direito de veto estabelecem automaticamente uma hierarquia em que uma conexão pode ser revogada a qualquer momento e a outra não, independentemente de quão profundo o relacionamento "revogável" realmente seja.
 
@@ -48,7 +48,7 @@ O direito de veto parece segurança para algumas pessoas, especialmente no iníc
 
 ## Manter os acordos justos e visíveis
 
-Os acordos funcionam melhor quando são claros e visíveis para todas as pessoas envolvidas, em vez de ficarem implícitos ou unilaterais. O **Roster** ajuda você a registrar acordos justos e negociados em conjunto para cada conexão no seu [polycule](/pt/blog/o-que-e-um-polycule), de forma transparente para todos e guardados localmente no seu aparelho.
+Os acordos funcionam melhor quando são claros e visíveis para todas as pessoas envolvidas, em vez de ficarem implícitos ou unilaterais. O **Roster** ajuda você a registrar acordos justos e negociados em conjunto para cada conexão no seu [polycule](/pt/blog/o-que-e-um-polycule/), de forma transparente para todos e guardados localmente no seu aparelho.
 
 ## Perguntas frequentes
 

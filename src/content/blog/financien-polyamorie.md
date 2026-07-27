@@ -16,8 +16,8 @@ Over geld praten valt veel mensen zwaar, zelfs in monogame relaties. In de polya
 - **Dates en gezamenlijke activiteiten** – uit eten, activiteiten, kleine uitstapjes.
 - **Cadeaus** – bij jubilea, verjaardagen of gewoon tussendoor.
 - **Reizen** – gezamenlijke vakanties met een of meerdere partners.
-- **Gedeeld huishouden** – huur, vaste lasten en levensonderhoud, als je samenwoont met een [nesting partner](/nl/blog/nesting-partner-uitgelegd).
-- **Kinderopvang** – extra kosten wanneer kinderen deel uitmaken van de gezinsstructuur, zie [Polyamorie en ouderschap](/nl/blog/polyamorie-ouderschap).
+- **Gedeeld huishouden** – huur, vaste lasten en levensonderhoud, als je samenwoont met een [nesting partner](/nl/blog/nesting-partner-uitgelegd/).
+- **Kinderopvang** – extra kosten wanneer kinderen deel uitmaken van de gezinsstructuur, zie [Polyamorie en ouderschap](/nl/blog/polyamorie-ouderschap/).
 
 ## Modellen om kosten te verdelen
 
@@ -37,15 +37,15 @@ Wie met een nesting partner samenwoont, heeft vaak een gedeelde pot voor huur en
 
 ## Ongelijkheden openlijk bespreken
 
-Financiële verschillen tussen relaties zijn normaal, maar onuitgesproken kunnen ze spanning veroorzaken – bijvoorbeeld als de ene relatie zich dure restaurants en reizen kan veroorloven, terwijl een andere relatie financieel krapper zit. Dat kan bij metamours onbedoeld vergelijkingsdruk creëren. Het helpt om dit openlijk te benoemen: geld is niet hetzelfde als affectie. Wie minder financiële middelen heeft, kan nog steeds evenveel tijd, aandacht en zorg investeren – zie ook ons artikel over het [eerlijk verdelen van tijd over meerdere relaties](/nl/blog/meerdere-relaties-managen).
+Financiële verschillen tussen relaties zijn normaal, maar onuitgesproken kunnen ze spanning veroorzaken – bijvoorbeeld als de ene relatie zich dure restaurants en reizen kan veroorloven, terwijl een andere relatie financieel krapper zit. Dat kan bij metamours onbedoeld vergelijkingsdruk creëren. Het helpt om dit openlijk te benoemen: geld is niet hetzelfde als affectie. Wie minder financiële middelen heeft, kan nog steeds evenveel tijd, aandacht en zorg investeren – zie ook ons artikel over het [eerlijk verdelen van tijd over meerdere relaties](/nl/blog/meerdere-relaties-managen/).
 
 ## Hoeveel transparantie is nodig?
 
-Metamours hoeven doorgaans geen inzicht te hebben in de concrete financiën van elkaars relatie – dat blijft privé. Belangrijker is transparantie binnen elke afzonderlijke relatie: beide partners moeten weten welke financiële verplichtingen en grenzen de ander heeft, zeker als er een gedeeld huishouden of gezamenlijke reizen gepland worden. Meer over de balans tussen openheid en privacy lees je in het artikel [Polyamorie en privacy](/nl/blog/polyamorie-privacy).
+Metamours hoeven doorgaans geen inzicht te hebben in de concrete financiën van elkaars relatie – dat blijft privé. Belangrijker is transparantie binnen elke afzonderlijke relatie: beide partners moeten weten welke financiële verplichtingen en grenzen de ander heeft, zeker als er een gedeeld huishouden of gezamenlijke reizen gepland worden. Meer over de balans tussen openheid en privacy lees je in het artikel [Polyamorie en privacy](/nl/blog/polyamorie-privacy/).
 
 ## Regelmatige check-ins in plaats van eenmalige afspraken
 
-Financiële afspraken mogen niet eenmalig gemaakt en dan vergeten worden. Verandert iemands inkomen, komt er een nieuwe relatie bij, of gaan twee partners samenwonen, dan loont een nieuw gesprek. Het artikel [Regels vs. afspraken in de polyamorie](/nl/blog/polyamorie-regels-afspraken) legt uit hoe je afspraken zo vormgeeft dat ze zich met de tijd kunnen aanpassen, in plaats van star te blijven.
+Financiële afspraken mogen niet eenmalig gemaakt en dan vergeten worden. Verandert iemands inkomen, komt er een nieuwe relatie bij, of gaan twee partners samenwonen, dan loont een nieuw gesprek. Het artikel [Regels vs. afspraken in de polyamorie](/nl/blog/polyamorie-regels-afspraken/) legt uit hoe je afspraken zo vormgeeft dat ze zich met de tijd kunnen aanpassen, in plaats van star te blijven.
 
 ## Hulpmiddelen die helpen
 

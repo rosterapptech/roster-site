@@ -7,7 +7,7 @@ translationKey: 'polyamory-privacy'
 tags: ['Integritet', 'Polyamori', 'Dataskydd', 'Säkerhet']
 ---
 
-Relationsdata tillhör det mest känsliga som finns: vem är ihop med vem, sexuell hälsa, gränser, intima detaljer, [polyculet](/sv/blog/vad-ar-ett-polycule) som helhet. I polyamori berör detta inte bara dig, utan också dina partners och deras metamours. Desto mer förvånande är det hur sällan integritet diskuteras i detta sammanhang.
+Relationsdata tillhör det mest känsliga som finns: vem är ihop med vem, sexuell hälsa, gränser, intima detaljer, [polyculet](/sv/blog/vad-ar-ett-polycule/) som helhet. I polyamori berör detta inte bara dig, utan också dina partners och deras metamours. Desto mer förvånande är det hur sällan integritet diskuteras i detta sammanhang.
 
 Den här artikeln förklarar varför integritet har särskild tyngd i icke-monogama relationer – och hur du verkligen skyddar dina data.
 

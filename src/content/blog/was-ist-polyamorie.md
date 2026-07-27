@@ -57,33 +57,33 @@ Innerhalb dieser Definition gibt es enorm viel Spielraum. Vier Konstellationen t
 
 ### Hierarchisch oder nicht-hierarchisch
 
-In hierarchischen Konstellationen gibt es eine "primäre" Beziehung mit besonderem Gewicht – etwa gemeinsamer Wohnraum oder Finanzen – und weitere, "sekundäre" Verbindungen. Nicht-hierarchische Modelle lehnen diese Rangfolge bewusst ab und versuchen, alle Beziehungen möglichst gleichwertig zu behandeln. Welches Modell besser passt, hängt stark von den beteiligten Personen ab – der Artikel [Hierarchische vs. nicht-hierarchische Polyamorie](/blog/hierarchische-vs-nicht-hierarchische-polyamorie) vergleicht beide im Detail.
+In hierarchischen Konstellationen gibt es eine "primäre" Beziehung mit besonderem Gewicht – etwa gemeinsamer Wohnraum oder Finanzen – und weitere, "sekundäre" Verbindungen. Nicht-hierarchische Modelle lehnen diese Rangfolge bewusst ab und versuchen, alle Beziehungen möglichst gleichwertig zu behandeln. Welches Modell besser passt, hängt stark von den beteiligten Personen ab – der Artikel [Hierarchische vs. nicht-hierarchische Polyamorie](/blog/hierarchische-vs-nicht-hierarchische-polyamorie/) vergleicht beide im Detail.
 
 ### Triaden
 
-Eine Triade beschreibt drei Menschen, die miteinander in Beziehung stehen – manchmal alle drei gleichermaßen, manchmal als zwei bestehende Partner plus eine dritte Person. Mehr zu den unterschiedlichen Formen und typischen Stolpersteinen im Artikel [Throuple & Triade einfach erklärt](/blog/throuple-triade).
+Eine Triade beschreibt drei Menschen, die miteinander in Beziehung stehen – manchmal alle drei gleichermaßen, manchmal als zwei bestehende Partner plus eine dritte Person. Mehr zu den unterschiedlichen Formen und typischen Stolpersteinen im Artikel [Throuple & Triade einfach erklärt](/blog/throuple-triade/).
 
 ### Solo-Polyamorie
 
-Solo-Poly-Personen führen mehrere Beziehungen, ohne eine davon als zentrale, gemeinsam bewohnte "Hauptbeziehung" zu definieren – sie bleiben strukturell unabhängig, statt auf eine Nesting-Partnerschaft hinzuarbeiten. Der Artikel [Solo-Polyamorie](/blog/solo-polyamorie) erklärt, wie das im Alltag aussieht.
+Solo-Poly-Personen führen mehrere Beziehungen, ohne eine davon als zentrale, gemeinsam bewohnte "Hauptbeziehung" zu definieren – sie bleiben strukturell unabhängig, statt auf eine Nesting-Partnerschaft hinzuarbeiten. Der Artikel [Solo-Polyamorie](/blog/solo-polyamorie/) erklärt, wie das im Alltag aussieht.
 
 ### Kitchen Table vs. Parallel
 
-Bei "Kitchen Table"-Polyamorie kennen und mögen sich im Idealfall alle Beteiligten und ihre Metamouren – man könnte gemeinsam an einem Küchentisch sitzen. Bei "Parallel"-Polyamorie laufen die einzelnen Beziehungen bewusst getrennt nebeneinander her, ohne dass sich alle Beteiligten zwangsläufig kennen müssen. Beide Ansätze haben ihre Berechtigung, wie der Artikel [Kitchen Table vs. Parallel Polyamorie](/blog/kitchen-table-vs-parallel-polyamorie) zeigt.
+Bei "Kitchen Table"-Polyamorie kennen und mögen sich im Idealfall alle Beteiligten und ihre Metamouren – man könnte gemeinsam an einem Küchentisch sitzen. Bei "Parallel"-Polyamorie laufen die einzelnen Beziehungen bewusst getrennt nebeneinander her, ohne dass sich alle Beteiligten zwangsläufig kennen müssen. Beide Ansätze haben ihre Berechtigung, wie der Artikel [Kitchen Table vs. Parallel Polyamorie](/blog/kitchen-table-vs-parallel-polyamorie/) zeigt.
 
 ## Verwandte Begriffe, die schnell für Verwirrung sorgen
 
 Drei Begriffe tauchen im Zusammenhang mit Polyamorie besonders oft auf und werden dabei leicht durcheinandergebracht.
 
-Das Beziehungsnetzwerk, das durch mehrere miteinander verbundene Partner entsteht, wird oft als **Polycule** bezeichnet – der Artikel [Was ist ein Polycule?](/blog/was-ist-ein-polycule) erklärt, wie diese Netzwerke aussehen können und wie man den Überblick behält, wenn sie wachsen.
+Das Beziehungsnetzwerk, das durch mehrere miteinander verbundene Partner entsteht, wird oft als **Polycule** bezeichnet – der Artikel [Was ist ein Polycule?](/blog/was-ist-ein-polycule/) erklärt, wie diese Netzwerke aussehen können und wie man den Überblick behält, wenn sie wachsen.
 
-Polyamorie wird außerdem häufig mit der **offenen Beziehung** gleichgesetzt, obwohl beide unterschiedliche Schwerpunkte haben – offene Beziehungen sind oft stärker auf sexuelle Freiheit außerhalb einer Hauptpartnerschaft ausgerichtet, während Polyamorie in der Regel mehrere emotional gebundene Beziehungen meint. Die feinen, aber wichtigen Unterschiede stehen im Artikel [Polyamorie vs. offene Beziehung](/blog/polyamorie-vs-offene-beziehung).
+Polyamorie wird außerdem häufig mit der **offenen Beziehung** gleichgesetzt, obwohl beide unterschiedliche Schwerpunkte haben – offene Beziehungen sind oft stärker auf sexuelle Freiheit außerhalb einer Hauptpartnerschaft ausgerichtet, während Polyamorie in der Regel mehrere emotional gebundene Beziehungen meint. Die feinen, aber wichtigen Unterschiede stehen im Artikel [Polyamorie vs. offene Beziehung](/blog/polyamorie-vs-offene-beziehung/).
 
-Und schließlich gibt es die **Beziehungsanarchie**, die noch einen Schritt weitergeht und grundsätzlich jede Hierarchie zwischen Beziehungen ablehnt – auch die zwischen romantischen und freundschaftlichen Verbindungen. Wo genau die Grenze zur Polyamorie verläuft, erklärt der Artikel [Beziehungsanarchie vs. Polyamorie](/blog/beziehungsanarchie-vs-polyamorie).
+Und schließlich gibt es die **Beziehungsanarchie**, die noch einen Schritt weitergeht und grundsätzlich jede Hierarchie zwischen Beziehungen ablehnt – auch die zwischen romantischen und freundschaftlichen Verbindungen. Wo genau die Grenze zur Polyamorie verläuft, erklärt der Artikel [Beziehungsanarchie vs. Polyamorie](/blog/beziehungsanarchie-vs-polyamorie/).
 
 ## Vom Verstehen zum Leben
 
-Eine Definition zu verstehen ist der erste Schritt – der zweite, oft anspruchsvollere, ist der Alltag: Wie geht man mit den Gefühlen um, die zwangsläufig auftauchen, wenn ein Partner Zeit mit jemand anderem verbringt? Die ehrlichste Antwort ist: Eifersucht gehört für die meisten Menschen dazu, auch in gut funktionierenden polyamoren Beziehungen, und sie lässt sich mit den richtigen Werkzeugen gut begleiten. Der Artikel [Eifersucht in polyamoren Beziehungen](/blog/eifersucht-polyamorie) geht genau darauf ein.
+Eine Definition zu verstehen ist der erste Schritt – der zweite, oft anspruchsvollere, ist der Alltag: Wie geht man mit den Gefühlen um, die zwangsläufig auftauchen, wenn ein Partner Zeit mit jemand anderem verbringt? Die ehrlichste Antwort ist: Eifersucht gehört für die meisten Menschen dazu, auch in gut funktionierenden polyamoren Beziehungen, und sie lässt sich mit den richtigen Werkzeugen gut begleiten. Der Artikel [Eifersucht in polyamoren Beziehungen](/blog/eifersucht-polyamorie/) geht genau darauf ein.
 
 ## Wie Roster dabei helfen kann
 

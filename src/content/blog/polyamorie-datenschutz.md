@@ -7,7 +7,7 @@ translationKey: 'polyamory-privacy'
 tags: ['Datenschutz', 'Polyamorie', 'Privatsphäre', 'Sicherheit']
 ---
 
-Beziehungsdaten sind mit das Sensibelste, was es gibt: wer mit wem zusammen ist, sexuelle Gesundheit, Grenzen, intime Details, das [Polycule](/blog/was-ist-ein-polycule) als Ganzes. In der Polyamorie betrifft das nicht nur dich, sondern auch deine Partner und deren Metamours. Umso überraschender ist, wie selten über Datenschutz in diesem Zusammenhang gesprochen wird.
+Beziehungsdaten sind mit das Sensibelste, was es gibt: wer mit wem zusammen ist, sexuelle Gesundheit, Grenzen, intime Details, das [Polycule](/blog/was-ist-ein-polycule/) als Ganzes. In der Polyamorie betrifft das nicht nur dich, sondern auch deine Partner und deren Metamours. Umso überraschender ist, wie selten über Datenschutz in diesem Zusammenhang gesprochen wird.
 
 Dieser Artikel zeigt, warum Privatsphäre gerade bei nicht-monogamen Beziehungen so wichtig ist – und wie du deine Daten wirklich schützt.
 

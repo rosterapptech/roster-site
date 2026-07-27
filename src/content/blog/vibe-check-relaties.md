@@ -68,7 +68,7 @@ Precies voor deze routine hebben we het **Vibe-Radar** in **Roster** gebouwd: je
 
 <!-- SCREENSHOT: vibe-radar -->
 
-Wat een vaag onderbuikgevoel was, wordt een helder beeld, en geen van je verbindingen verdwijnt stil op de achtergrond. Vooral als je meerdere relaties tegelijk navigeert, vervangt het radar het onbetrouwbare geheugen door een eerlijk, privé overzicht. Meer over het organiseren van je hele dagelijkse leven met meerdere partners, zodat niemand tussen wal en schip valt, lees je in onze [praktische gids om meerdere relaties zo te organiseren dat er geen enkele stilletjes naar de achtergrond verdwijnt](/nl/blog/meerdere-relaties-managen). Alles blijft daarbij privé op je apparaat – Roster slaat niets op in de cloud en stuurt niets naar een server.
+Wat een vaag onderbuikgevoel was, wordt een helder beeld, en geen van je verbindingen verdwijnt stil op de achtergrond. Vooral als je meerdere relaties tegelijk navigeert, vervangt het radar het onbetrouwbare geheugen door een eerlijk, privé overzicht. Meer over het organiseren van je hele dagelijkse leven met meerdere partners, zodat niemand tussen wal en schip valt, lees je in onze [praktische gids om meerdere relaties zo te organiseren dat er geen enkele stilletjes naar de achtergrond verdwijnt](/nl/blog/meerdere-relaties-managen/). Alles blijft daarbij privé op je apparaat – Roster slaat niets op in de cloud en stuurt niets naar een server.
 
 ## Aandacht is de echte munteenheid
 

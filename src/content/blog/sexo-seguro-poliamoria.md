@@ -25,7 +25,7 @@ El "fluid bonding" describe la decisión de dejar de usar métodos de barrera co
 
 Un resultado positivo resulta incómodo, pero no es una emergencia de relación. El paso más importante es comunicarlo de forma rápida y directa a todas las personas que puedan verse afectadas, incluidas las parejas de tus parejas, cuando sea relevante. Mantén un tono objetivo: qué significa el resultado, cuáles son los próximos pasos y qué implica para las actividades compartidas mientras tanto. Evita buscar culpables: la mayoría de las infecciones no se pueden rastrear con certeza, y señalar con el dedo no ayuda a nadie. Una red en la que las personas se sienten seguras siendo honestas sobre resultados positivos es más sana que una en la que el miedo a las reacciones mantiene a la gente en silencio. Para los detalles médicos, habla con un médico o un centro de salud sexual; aquí lo importante es la comunicación, no el tratamiento.
 
-Para saber cómo llevar el control de las fechas de prueba y los acuerdos con varias conexiones a la vez —incluidas las de tus metamouras— sin perder la cabeza, consulta el artículo [Pruebas de ITS con varias parejas: cómo llevar el control en el poliamor](/es/blog/seguimiento-its-bienestar-poliamor).
+Para saber cómo llevar el control de las fechas de prueba y los acuerdos con varias conexiones a la vez —incluidas las de tus metamouras— sin perder la cabeza, consulta el artículo [Pruebas de ITS con varias parejas: cómo llevar el control en el poliamor](/es/blog/seguimiento-its-bienestar-poliamor/).
 
 ## Las pruebas como autocuidado, no como motivo de vergüenza
 

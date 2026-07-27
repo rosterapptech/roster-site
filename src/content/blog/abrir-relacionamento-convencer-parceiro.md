@@ -22,7 +22,7 @@ Este artigo é para você se está exatamente nesse ponto: sente o impulso de ab
 
 ## Onde você está se for a única pessoa poli
 
-Essa situação é diferente da de um casal que já decidiu junto um modelo assimétrico. Se vocês já vivem há um tempo uma configuração em que uma pessoa segue monogâmica e a outra mantém vários relacionamentos, o artigo [Relacionamentos mono-poli](/pt/blog/relacionamentos-mono-poli) vai te ajudar mais, porque descreve exatamente essa dinâmica cotidiana já estabelecida. Aqui falamos sobre o passo anterior: a primeira conversa honesta, em que ainda não se decidiu nada.
+Essa situação é diferente da de um casal que já decidiu junto um modelo assimétrico. Se vocês já vivem há um tempo uma configuração em que uma pessoa segue monogâmica e a outra mantém vários relacionamentos, o artigo [Relacionamentos mono-poli](/pt/blog/relacionamentos-mono-poli/) vai te ajudar mais, porque descreve exatamente essa dinâmica cotidiana já estabelecida. Aqui falamos sobre o passo anterior: a primeira conversa honesta, em que ainda não se decidiu nada.
 
 Isso também significa que ainda não há certeza sobre como o relacionamento vai ficar. É justamente essa incerteza que torna o assunto tão difícil de trazer à tona para muita gente. Bate o medo de quebrar algo que até agora funcionava, então você adia a conversa por meses, até que a pressão interna fica grande demais e sai de um jeito abrupto demais, ou na hora errada.
 
@@ -75,7 +75,7 @@ Existem algumas coisas que fazem parte de um processo honesto, mesmo que sejam d
 
 Tudo nesse processo — o momento, a forma de trazer o assunto, as expectativas — se apoia na mesma base: uma comunicação mais honesta do que a maioria dos casais costuma praticar. Na prática, isso significa nomear os sentimentos em vez de insinuá-los, perguntar em vez de assumir, e admitir a incerteza em vez de escondê-la atrás de uma falsa segurança.
 
-Se durante esse processo surgirem ciúmes, medo ou sensação de perda — em você ou no seu parceiro —, isso não é sinal de que algo está errado. É material para trabalhar. O artigo [Ciúmes nos relacionamentos poliamorosos](/pt/blog/ciumes-poliamoria) reúne sete estratégias concretas que ajudam mesmo nessa fase inicial, antes de existir sequer um segundo relacionamento.
+Se durante esse processo surgirem ciúmes, medo ou sensação de perda — em você ou no seu parceiro —, isso não é sinal de que algo está errado. É material para trabalhar. O artigo [Ciúmes nos relacionamentos poliamorosos](/pt/blog/ciumes-poliamoria/) reúne sete estratégias concretas que ajudam mesmo nessa fase inicial, antes de existir sequer um segundo relacionamento.
 
 ## Se a resposta for não
 

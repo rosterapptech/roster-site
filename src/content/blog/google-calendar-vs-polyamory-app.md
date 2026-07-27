@@ -44,7 +44,7 @@ A calendar entry has a date, a time, maybe a location and a title. It has no pla
 
 ### It has no sense of relationship health
 
-We touched on exactly this point in [Managing Multiple Relationships at Once](/en/blog/managing-multiple-relationships) — it's worth a deeper look here, because it's one of a calendar's biggest blind spots. Google Calendar shows you when the next date is. It doesn't show you that you haven't really talked in three weeks, that a connection is quietly going quiet even though nobody did anything wrong, or that an agreement has silently lapsed. A full calendar can still describe a relationship that's emotionally starving — because "we see each other" and "we're doing well" are two entirely different things, and a calendar can't tell them apart.
+We touched on exactly this point in [Managing Multiple Relationships at Once](/en/blog/managing-multiple-relationships/) — it's worth a deeper look here, because it's one of a calendar's biggest blind spots. Google Calendar shows you when the next date is. It doesn't show you that you haven't really talked in three weeks, that a connection is quietly going quiet even though nobody did anything wrong, or that an agreement has silently lapsed. A full calendar can still describe a relationship that's emotionally starving — because "we see each other" and "we're doing well" are two entirely different things, and a calendar can't tell them apart.
 
 ### A genuine privacy problem for sensitive information
 
@@ -58,7 +58,7 @@ Put these three points together and a clear picture emerges: Google Calendar isn
 
 That's exactly where **Roster** comes in — not as a replacement for your calendar, but as a layer above it. Appointments stay where they belong: in the calendar. But everything to do with "how is this relationship actually doing" gets its own place in Roster. The **Polycule Map** shows your whole network at a glance, instead of you piecing it together from scattered events. The **Vibe Radar** tracks, for each connection, whether things are currently sunny, cloudy, rainy, or radio silence — something no calendar field could ever capture. **Reflection** gives you a private space to sort out your own thoughts about a relationship, and **Wellness** keeps track of things like safer-sex check-ins without them ending up visible to everyone in a shared calendar. All of this stays fully local on your device — no account, no server, no sync that could reveal anything about you.
 
-If you want to see how these two layers — calendar and relationship management — work together day to day, [Managing Multiple Relationships at Once](/en/blog/managing-multiple-relationships) walks through more systems for that. And if the real challenge for you is simply noticing when a relationship needs attention in the first place, the [Vibe-Check Guide](/en/blog/vibe-check-relationships) offers a concrete routine for exactly that.
+If you want to see how these two layers — calendar and relationship management — work together day to day, [Managing Multiple Relationships at Once](/en/blog/managing-multiple-relationships/) walks through more systems for that. And if the real challenge for you is simply noticing when a relationship needs attention in the first place, the [Vibe-Check Guide](/en/blog/vibe-check-relationships/) offers a concrete routine for exactly that.
 
 ## Frequently asked questions
 

@@ -7,7 +7,7 @@ translationKey: 'metamour-relationships'
 tags: ['Metamour', 'Polyamori', 'Kommunikation', 'Relationsformer']
 ---
 
-**Kort sagt:** En metamour är din partners partner – någon du själv inte har en romantisk relation med, men som är en del av ditt utökade [polycule](/sv/blog/vad-ar-ett-polycule). Hur nära den här relationen blir är helt öppet: allt från nära vänskap till "vi känner knappt varandra" är normalt och giltigt. Det som spelar roll är inte närhet i sig, utan respekt, tydlig kommunikation och realistiska förväntningar.
+**Kort sagt:** En metamour är din partners partner – någon du själv inte har en romantisk relation med, men som är en del av ditt utökade [polycule](/sv/blog/vad-ar-ett-polycule/). Hur nära den här relationen blir är helt öppet: allt från nära vänskap till "vi känner knappt varandra" är normalt och giltigt. Det som spelar roll är inte närhet i sig, utan respekt, tydlig kommunikation och realistiska förväntningar.
 
 De flesta som är nya inom polyamori snubblar ganska snabbt över begreppet **metamour** – och frågan om vad man egentligen ska göra med den här personen. Måste man gilla varandra? Måste man ens träffas? Och vad händer om man helt enkelt inte står ut med varandra? Den här artikeln reder ut de viktigaste metamour-dynamikerna och visar hur relationen kan kännas mer avslappnad för alla inblandade.
 
@@ -27,7 +27,7 @@ Ingen av dessa modeller är "mer utvecklad" än en annan. Introverta personer, e
 
 ## Vanliga utmaningar med metamours
 
-**Jämförelse och konkurrenskänslor.** Det är mänskligt att omedvetet jämföra sig med sin metamour – vem får mer tid, vem nämns oftare, vem "vinner" på ett vagt sätt. Att ta den känslan på allvar utan att agera på den är ett viktigt steg. Läs mer om att hantera dessa känslor i artikeln [Svartsjuka i polyamori](/sv/blog/svaartsjuka-polyamori).
+**Jämförelse och konkurrenskänslor.** Det är mänskligt att omedvetet jämföra sig med sin metamour – vem får mer tid, vem nämns oftare, vem "vinner" på ett vagt sätt. Att ta den känslan på allvar utan att agera på den är ett viktigt steg. Läs mer om att hantera dessa känslor i artikeln [Svartsjuka i polyamori](/sv/blog/svaartsjuka-polyamori/).
 
 **Den gemensamma partnern som mellanhand.** Vissa kommunicerar bara med varandra genom den gemensamma partnern istället för direkt. Det överbelastar personen i mitten och förvränger ofta det som egentligen behöver sägas. Direktkontakt – även om det känns obekvämt till en början – avlastar alla på sikt.
 

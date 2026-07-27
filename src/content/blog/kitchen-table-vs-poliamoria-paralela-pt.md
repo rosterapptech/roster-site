@@ -8,7 +8,7 @@ author: 'Slowcraft'
 tags: ['Poliamoria', 'Estruturas de relacionamento', 'Metamour', 'Comunicação']
 ---
 
-**Resumindo:** a poliamoria "kitchen table" e a poliamoria paralela descrevem o quão conectadas estão entre si as pessoas de um [polycule](/pt/blog/o-que-e-um-polycule). Na poliamoria kitchen table, todo mundo se senta, figurativamente, à mesma mesa de cozinha: se conhecem, passam tempo juntos e mantêm contato até mesmo com os [metamores](/pt/blog/metamour-relacionamentos). Na poliamoria paralela, os relacionamentos seguem de forma independente, lado a lado, com pouco ou nenhum contato direto entre os parceiros dos seus parceiros. Nenhum dos dois é "melhor": o que importa é o que combina com a sua personalidade e a sua vida.
+**Resumindo:** a poliamoria "kitchen table" e a poliamoria paralela descrevem o quão conectadas estão entre si as pessoas de um [polycule](/pt/blog/o-que-e-um-polycule/). Na poliamoria kitchen table, todo mundo se senta, figurativamente, à mesma mesa de cozinha: se conhecem, passam tempo juntos e mantêm contato até mesmo com os [metamores](/pt/blog/metamour-relacionamentos/). Na poliamoria paralela, os relacionamentos seguem de forma independente, lado a lado, com pouco ou nenhum contato direto entre os parceiros dos seus parceiros. Nenhum dos dois é "melhor": o que importa é o que combina com a sua personalidade e a sua vida.
 
 Assim que um polycule inclui mais de duas pessoas, cedo ou tarde surge a pergunta: quanto contato deveria realmente haver entre todas as pessoas envolvidas? Essa pergunta já tem nome: poliamoria kitchen table e poliamoria paralela são as duas respostas mais conhecidas.
 

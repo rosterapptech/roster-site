@@ -16,7 +16,7 @@ faq:
     a: 'Viele Gesundheits- und Zyklus-Apps sind auf Konten und Cloud-Sync ausgelegt und wurden nie für ein Beziehungsnetzwerk mit mehreren Verbindungen gebaut. Für Daten dieser Sensibilität lohnt sich ein Werkzeug, das von Grund auf lokal bleibt.'
 ---
 
-Über Testrhythmen und Schutzmethoden zu sprechen ist die eine Sache – sie über mehrere Verbindungen hinweg tatsächlich im Kopf zu behalten, eine ganz andere. Wie du das Gespräch selbst führst, ohne dass es awkward wird, und wie Fluid-Bonding-Absprachen im Detail funktionieren, liest du im Artikel [Safer Sex und STI-Tests in polyamoren Beziehungen](/blog/safer-sex-polyamorie). Dieser Artikel hier setzt einen Schritt später an: Du hast die Gespräche geführt, die Absprachen stehen – aber wie behältst du bei drei, vier oder fünf Verbindungen eigentlich noch den Überblick, wer wann getestet wurde, welche Absprache gerade gilt und wann die nächste Kontrolle ansteht?
+Über Testrhythmen und Schutzmethoden zu sprechen ist die eine Sache – sie über mehrere Verbindungen hinweg tatsächlich im Kopf zu behalten, eine ganz andere. Wie du das Gespräch selbst führst, ohne dass es awkward wird, und wie Fluid-Bonding-Absprachen im Detail funktionieren, liest du im Artikel [Safer Sex und STI-Tests in polyamoren Beziehungen](/blog/safer-sex-polyamorie/). Dieser Artikel hier setzt einen Schritt später an: Du hast die Gespräche geführt, die Absprachen stehen – aber wie behältst du bei drei, vier oder fünf Verbindungen eigentlich noch den Überblick, wer wann getestet wurde, welche Absprache gerade gilt und wann die nächste Kontrolle ansteht?
 
 ## Warum das Nachhalten schwerer wird, je größer dein Netzwerk ist
 

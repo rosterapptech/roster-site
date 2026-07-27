@@ -11,7 +11,7 @@ tags: ['Polyamorie', 'Mono-Poly', 'Beziehungsmodelle', 'Kommunikation']
 
 Poly ist nicht gleich Poly – manchmal will oder braucht nur eine Person in der Beziehung mehrere Partner, während die andere ganz bewusst bei einer einzigen Verbindung bleiben möchte. Dieses Modell heißt Mono-Poly und wird in der Community oft übersehen, weil es weder klassisch monogam noch symmetrisch polyamor ist.
 
-Dieser Artikel setzt voraus, dass beide Seiten sich bereits auf dieses asymmetrische Modell verständigt haben. Steht ihr noch am Anfang dieses Wegs – identifiziert sich also gerade erst eine Person als poly, während die andere noch unsicher oder klar monogam ist –, geht es zunächst um das Gespräch davor: Wie du das Thema "Beziehung öffnen" überhaupt ansprichst, liest du im Artikel [Beziehung öffnen: Wie du das Gespräch beginnst](/blog/beziehung-oeffnen-partner-ueberzeugen).
+Dieser Artikel setzt voraus, dass beide Seiten sich bereits auf dieses asymmetrische Modell verständigt haben. Steht ihr noch am Anfang dieses Wegs – identifiziert sich also gerade erst eine Person als poly, während die andere noch unsicher oder klar monogam ist –, geht es zunächst um das Gespräch davor: Wie du das Thema "Beziehung öffnen" überhaupt ansprichst, liest du im Artikel [Beziehung öffnen: Wie du das Gespräch beginnst](/blog/beziehung-oeffnen-partner-ueberzeugen/).
 
 ## Was ist eine Mono-Poly-Beziehung?
 
@@ -23,7 +23,7 @@ Anders als in symmetrischen polyamoren Konstellationen gibt es hier eine eingeba
 
 Typische Reibungspunkte:
 
-- **Die mono Person fühlt sich austauschbar,** wenn die poly Person NRE mit anderen Partnern erlebt, während die eigene Beziehung im Alltagstrott ist. Mehr dazu im Artikel [New Relationship Energy balancieren](/blog/nre-balance-polyamorie).
+- **Die mono Person fühlt sich austauschbar,** wenn die poly Person NRE mit anderen Partnern erlebt, während die eigene Beziehung im Alltagstrott ist. Mehr dazu im Artikel [New Relationship Energy balancieren](/blog/nre-balance-polyamorie/).
 - **Die poly Person fühlt sich eingeschränkt,** wenn Absprachen zu starr wirken, obwohl sie eigentlich der monogamen Person Sicherheit geben sollen.
 - **Ungleiche Verhandlungsmacht** entsteht, wenn nur eine Seite Regeln für die andere Beziehungen des Partners aufstellt, ohne dass die poly Person eigene Grenzen einbringen kann.
 
@@ -35,7 +35,7 @@ Die mono Person sollte Monogamie als eigene, gültige Präferenz verstehen und n
 
 ### 2. Zeit und Sichtbarkeit statt vager Zusicherungen
 
-Feste, verlässliche Zeit mit der poly Person ist oft wichtiger als jede Beteuerung von Wichtigkeit. Konkrete Zeitfenster – siehe [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen) – geben der mono Person etwas Greifbares statt nur Worte.
+Feste, verlässliche Zeit mit der poly Person ist oft wichtiger als jede Beteuerung von Wichtigkeit. Konkrete Zeitfenster – siehe [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen/) – geben der mono Person etwas Greifbares statt nur Worte.
 
 ### 3. Absprachen zu Sicherheit und Information
 
@@ -47,11 +47,11 @@ Beide Seiten profitieren davon, periodisch ehrlich zu fragen: Fühlt sich das Mo
 
 ## Abgrenzung zu anderen Modellen
 
-Mono-Poly unterscheidet sich von der offenen Beziehung dadurch, dass die mono Person selbst keine weiteren Partner sucht – mehr zum Unterschied zwischen den Modellen im Artikel [Polyamorie vs. offene Beziehung](/blog/polyamorie-vs-offene-beziehung). Es unterscheidet sich auch von hierarchischer Polyamorie, da hier eine Person strukturell gar nicht poly ist, statt nur eine "primäre" Position einzunehmen.
+Mono-Poly unterscheidet sich von der offenen Beziehung dadurch, dass die mono Person selbst keine weiteren Partner sucht – mehr zum Unterschied zwischen den Modellen im Artikel [Polyamorie vs. offene Beziehung](/blog/polyamorie-vs-offene-beziehung/). Es unterscheidet sich auch von hierarchischer Polyamorie, da hier eine Person strukturell gar nicht poly ist, statt nur eine "primäre" Position einzunehmen.
 
 ## Werkzeuge, die helfen
 
-Auch wenn die mono Person selbst keine mehreren Beziehungen führt, profitiert die Beziehung davon, wenn Zeit und Absprachen sichtbar und verlässlich sind. **Roster** hilft der poly Person dabei, alle Verbindungen im Blick zu behalten – inklusive der mono Beziehung, die genauso ihren festen Platz im [Polycule](/blog/was-ist-ein-polycule) verdient wie jede andere. Alle Daten bleiben lokal auf dem Gerät, ohne Konto.
+Auch wenn die mono Person selbst keine mehreren Beziehungen führt, profitiert die Beziehung davon, wenn Zeit und Absprachen sichtbar und verlässlich sind. **Roster** hilft der poly Person dabei, alle Verbindungen im Blick zu behalten – inklusive der mono Beziehung, die genauso ihren festen Platz im [Polycule](/blog/was-ist-ein-polycule/) verdient wie jede andere. Alle Daten bleiben lokal auf dem Gerät, ohne Konto.
 
 ## Häufige Fragen
 
@@ -65,7 +65,7 @@ Ja, wenn beide Seiten die strukturelle Asymmetrie offen anerkennen, klare Abspra
 Nein. Bei hierarchischer Polyamorie sind meist beide Partner poly, nur mit unterschiedlichem Rangverhältnis. Bei Mono-Poly ist eine Person strukturell nicht poly und sucht selbst keine weiteren Partner.
 
 **Wie geht die mono Person mit Eifersucht in dieser Konstellation um?**
-Ähnlich wie in jeder polyamoren Beziehung – durch offene Kommunikation statt Verdrängung. Mehr dazu im Artikel [Eifersucht in der Polyamorie](/blog/eifersucht-polyamorie).
+Ähnlich wie in jeder polyamoren Beziehung – durch offene Kommunikation statt Verdrängung. Mehr dazu im Artikel [Eifersucht in der Polyamorie](/blog/eifersucht-polyamorie/).
 
 **Welche App hilft dabei, eine Mono-Poly-Beziehung zu organisieren?**
 Roster hilft der poly Person, alle Verbindungen – inklusive der monogamen Beziehung – gleichwertig im Blick zu behalten, mit festen Zeitrhythmen und ohne dass Daten das Gerät verlassen.

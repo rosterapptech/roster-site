@@ -57,33 +57,33 @@ Binnen deze definitie is enorm veel ruimte. Vier constellaties komen in de prakt
 
 ### Hiërarchisch of niet-hiërarchisch
 
-In hiërarchische constellaties is er een "primaire" relatie met extra gewicht – bijvoorbeeld gedeelde woonruimte of financiën – naast verdere, "secundaire" connecties. Niet-hiërarchische modellen wijzen die rangorde bewust af en proberen alle relaties zo gelijkwaardig mogelijk te behandelen. Welk model beter past, hangt sterk af van de betrokken mensen – het artikel [Hiërarchische vs. niet-hiërarchische polyamorie](/nl/blog/hierarchische-vs-niet-hierarchische-polyamorie) vergelijkt beide uitgebreid.
+In hiërarchische constellaties is er een "primaire" relatie met extra gewicht – bijvoorbeeld gedeelde woonruimte of financiën – naast verdere, "secundaire" connecties. Niet-hiërarchische modellen wijzen die rangorde bewust af en proberen alle relaties zo gelijkwaardig mogelijk te behandelen. Welk model beter past, hangt sterk af van de betrokken mensen – het artikel [Hiërarchische vs. niet-hiërarchische polyamorie](/nl/blog/hierarchische-vs-niet-hierarchische-polyamorie/) vergelijkt beide uitgebreid.
 
 ### Triades
 
-Een triade beschrijft drie mensen die met elkaar in relatie staan – soms alle drie gelijkwaardig, soms als twee bestaande partners plus een derde persoon. De verschillende vormen en typische valkuilen staan in het artikel [Throuple & triade eenvoudig uitgelegd](/nl/blog/throuple-triade-nl).
+Een triade beschrijft drie mensen die met elkaar in relatie staan – soms alle drie gelijkwaardig, soms als twee bestaande partners plus een derde persoon. De verschillende vormen en typische valkuilen staan in het artikel [Throuple & triade eenvoudig uitgelegd](/nl/blog/throuple-triade-nl/).
 
 ### Solo-polyamorie
 
-Solo-polyamoor levende mensen onderhouden meerdere relaties zonder er één van aan te wijzen als centrale, gedeelde "hoofdrelatie" – ze blijven structureel onafhankelijk in plaats van toe te werken naar een nesting-relatie. Het artikel [Solo-polyamorie](/nl/blog/solo-polyamorie-nl) laat zien hoe dat er in de praktijk uitziet.
+Solo-polyamoor levende mensen onderhouden meerdere relaties zonder er één van aan te wijzen als centrale, gedeelde "hoofdrelatie" – ze blijven structureel onafhankelijk in plaats van toe te werken naar een nesting-relatie. Het artikel [Solo-polyamorie](/nl/blog/solo-polyamorie-nl/) laat zien hoe dat er in de praktijk uitziet.
 
 ### Kitchen table versus parallel
 
-Bij "kitchen table"-polyamorie kennen en mogen idealiter alle betrokkenen en hun metamours elkaar – je zou met z'n allen aan één keukentafel kunnen zitten. Bij "parallelle" polyamorie lopen de afzonderlijke relaties bewust naast elkaar, zonder dat alle betrokkenen elkaar per se hoeven te kennen. Beide benaderingen hebben hun bestaansrecht, zoals het artikel [Kitchen Table vs. Parallel Polyamorie](/nl/blog/kitchen-table-vs-parallel-polyamorie-nl) laat zien.
+Bij "kitchen table"-polyamorie kennen en mogen idealiter alle betrokkenen en hun metamours elkaar – je zou met z'n allen aan één keukentafel kunnen zitten. Bij "parallelle" polyamorie lopen de afzonderlijke relaties bewust naast elkaar, zonder dat alle betrokkenen elkaar per se hoeven te kennen. Beide benaderingen hebben hun bestaansrecht, zoals het artikel [Kitchen Table vs. Parallel Polyamorie](/nl/blog/kitchen-table-vs-parallel-polyamorie-nl/) laat zien.
 
 ## Verwante begrippen die snel voor verwarring zorgen
 
 Drie termen komen voortdurend naast polyamorie naar voren, en ze worden makkelijk door elkaar gehaald.
 
-Het netwerk van relaties dat ontstaat wanneer meerdere onderling verbonden partners betrokken zijn, wordt vaak een **polycule** genoemd – het artikel [Wat is een polycule?](/nl/blog/wat-is-een-polycule) legt uit hoe zulke netwerken eruit kunnen zien en hoe je het overzicht bewaart als ze groeien.
+Het netwerk van relaties dat ontstaat wanneer meerdere onderling verbonden partners betrokken zijn, wordt vaak een **polycule** genoemd – het artikel [Wat is een polycule?](/nl/blog/wat-is-een-polycule/) legt uit hoe zulke netwerken eruit kunnen zien en hoe je het overzicht bewaart als ze groeien.
 
-Polyamorie wordt bovendien vaak gelijkgesteld aan een **open relatie**, ook al leggen de twee andere accenten – open relaties zijn vaak sterker gericht op seksuele vrijheid buiten een hoofdrelatie, terwijl polyamorie meestal meerdere emotioneel verbonden relaties betekent. De subtiele maar belangrijke verschillen staan uitgewerkt in [Polyamorie vs. open relatie](/nl/blog/polyamorie-vs-open-relatie).
+Polyamorie wordt bovendien vaak gelijkgesteld aan een **open relatie**, ook al leggen de twee andere accenten – open relaties zijn vaak sterker gericht op seksuele vrijheid buiten een hoofdrelatie, terwijl polyamorie meestal meerdere emotioneel verbonden relaties betekent. De subtiele maar belangrijke verschillen staan uitgewerkt in [Polyamorie vs. open relatie](/nl/blog/polyamorie-vs-open-relatie/).
 
-En dan is er nog **relatieanarchie**, die nog een stap verder gaat en elke hiërarchie tussen relaties principieel afwijst – ook die tussen romantische en platonische connecties. Waar precies de grens met polyamorie ligt, wordt uitgelegd in [RelatieAnarchie vs. polyamorie](/nl/blog/relatieAnarchie-vs-polyamorie).
+En dan is er nog **relatieanarchie**, die nog een stap verder gaat en elke hiërarchie tussen relaties principieel afwijst – ook die tussen romantische en platonische connecties. Waar precies de grens met polyamorie ligt, wordt uitgelegd in [RelatieAnarchie vs. polyamorie](/nl/blog/relatieanarchie-vs-polyamorie/).
 
 ## Van begrijpen naar leven
 
-Een definitie begrijpen is de eerste stap – de tweede, vaak lastigere stap, is de dagelijkse praktijk: hoe ga je om met de gevoelens die onvermijdelijk opkomen als een partner tijd doorbrengt met iemand anders? Het eerlijke antwoord is dat jaloezie voor de meeste mensen erbij hoort, ook in goed functionerende polyamore relaties, en dat je er met de juiste aanpak goed mee kunt omgaan. Het artikel [Jaloezie in polyamore relaties](/nl/blog/jaloezie-polyamorie) gaat daar dieper op in.
+Een definitie begrijpen is de eerste stap – de tweede, vaak lastigere stap, is de dagelijkse praktijk: hoe ga je om met de gevoelens die onvermijdelijk opkomen als een partner tijd doorbrengt met iemand anders? Het eerlijke antwoord is dat jaloezie voor de meeste mensen erbij hoort, ook in goed functionerende polyamore relaties, en dat je er met de juiste aanpak goed mee kunt omgaan. Het artikel [Jaloezie in polyamore relaties](/nl/blog/jaloezie-polyamorie/) gaat daar dieper op in.
 
 ## Hoe Roster kan helpen
 

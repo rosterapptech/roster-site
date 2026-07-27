@@ -13,7 +13,7 @@ Att komma ut som polyamorös skiljer sig på många sätt från andra former av 
 
 ## Varför en polyamori-coming out är annorlunda
 
-Till skillnad från sexuell läggning påverkar en polyamori-coming out ofta inte bara ditt eget liv, utan direkt även dina partners liv – och deras respektive önskemål om öppenhet eller diskretion måste vägas in. Läs mer om det bredare ämnet i artikeln [Integritet i polyamori](/sv/blog/polyamori-integritet).
+Till skillnad från sexuell läggning påverkar en polyamori-coming out ofta inte bara ditt eget liv, utan direkt även dina partners liv – och deras respektive önskemål om öppenhet eller diskretion måste vägas in. Läs mer om det bredare ämnet i artikeln [Integritet i polyamori](/sv/blog/polyamori-integritet/).
 
 ## De tre vanligaste vägarna
 
@@ -26,7 +26,7 @@ Till skillnad från sexuell läggning påverkar en polyamori-coming out ofta int
 ## Förbereda sig för samtalet
 
 - **Håll förväntningarna realistiska.** Inte alla reaktioner blir positiva direkt – vissa människor behöver tid för att bryta ner fördomar som formats av klyschor om polyamori.
-- **Var förberedd med informationskällor.** Det hjälper att lugnt kunna förklara vad polyamori faktiskt betyder och hur det skiljer sig från klyschor – till exempel med hänvisning till [Polyamori-ordlistan](/sv/blog/polyamori-ordlista).
+- **Var förberedd med informationskällor.** Det hjälper att lugnt kunna förklara vad polyamori faktiskt betyder och hur det skiljer sig från klyschor – till exempel med hänvisning till [Polyamori-ordlistan](/sv/blog/polyamori-ordlista/).
 - **Du behöver inte försvara dig.** En coming out är ett meddelande, inte ett försvar. Du behöver inte rättfärdiga din relationsform, bara förklara den.
 - **Sätt gränser för samtalet.** Det är helt legitimt att hålla vissa detaljer (som partners namn) för dig själv tills vidare.
 
@@ -34,7 +34,7 @@ Till skillnad från sexuell läggning påverkar en polyamori-coming out ofta int
 
 **Oro istället för avvisning.** Många första reaktioner är mer oroliga ("är du säker på att det är bra för dig?") än avvisande. Det kan ofta lösas med tålamod och bra svar.
 
-**Jämförelse med otrohet.** En vanlig första reaktion är frågan om det inte "egentligen är otrohet med tillstånd". Läs mer i artikeln [Polyamori vs. otrohet](/sv/blog/polyamori-vs-otrohet), som förklarar skillnaden tydligt.
+**Jämförelse med otrohet.** En vanlig första reaktion är frågan om det inte "egentligen är otrohet med tillstånd". Läs mer i artikeln [Polyamori vs. otrohet](/sv/blog/polyamori-vs-otrohet/), som förklarar skillnaden tydligt.
 
 **Nyfikenhet istället för dom.** Vissa reaktioner är helt enkelt nyfikna, utan att vara dömande – det är värt att se öppna frågor som en möjlighet snarare än en attack.
 
@@ -48,7 +48,7 @@ Inte alla samtal går smidigt. Vissa familjemedlemmar eller vänner behöver tid
 
 ## Struktur medan du öppnar dig
 
-Medan du bestämmer vem du berättar vad för hjälper det att själv hålla koll på ditt [polycule](/sv/blog/vad-ar-ett-polycule) – vem vet vad, vilka överenskommelser om öppenhet gäller var. **Roster** hjälper dig samla allt detta på ett ställe, helt lokalt och utan konto.
+Medan du bestämmer vem du berättar vad för hjälper det att själv hålla koll på ditt [polycule](/sv/blog/vad-ar-ett-polycule/) – vem vet vad, vilka överenskommelser om öppenhet gäller var. **Roster** hjälper dig samla allt detta på ett ställe, helt lokalt och utan konto.
 
 ## Vanliga frågor
 
@@ -56,7 +56,7 @@ Medan du bestämmer vem du berättar vad för hjälper det att själv hålla kol
 Nej. En coming out är ett personligt beslut, inte ett krav. Många människor lever nöjda med selektiv eller återhållsam öppenhet.
 
 **Hur förklarar jag polyamori för någon som aldrig hört talas om det?**
-Enklast med grundprincipen: flera ömsesidigt överenskomna, ärliga kärleksrelationer samtidigt. En hänvisning till [Polyamori-ordlistan](/sv/blog/polyamori-ordlista) hjälper med detaljfrågor.
+Enklast med grundprincipen: flera ömsesidigt överenskomna, ärliga kärleksrelationer samtidigt. En hänvisning till [Polyamori-ordlistan](/sv/blog/polyamori-ordlista/) hjälper med detaljfrågor.
 
 **Vad händer om min familj reagerar avvisande?**
 Ge reaktionen utrymme utan att behöva försvara dig. Vissa människor behöver tid – andra ändrar aldrig uppfattning, vilket säger mer om dem än om dig.

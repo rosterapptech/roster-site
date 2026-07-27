@@ -7,7 +7,7 @@ translationKey: 'breakups-polyamory'
 tags: ['Polyamorie', 'Trennung', 'Metamour', 'Kommunikation']
 ---
 
-**Kurz gesagt:** Eine Trennung in der Polyamorie betrifft selten nur zwei Menschen – sie wirkt sich meist auf das ganze [Polycule](/blog/was-ist-ein-polycule) aus: auf [Metamours](/blog/metamour-beziehung), auf gemeinsame Freundschaften und auf bestehende Beziehungen, die parallel weiterlaufen. Trauer über eine endende Verbindung schließt sich nicht aus mit Glück in anderen Beziehungen – beides darf gleichzeitig da sein. Offene Kommunikation mit allen Betroffenen macht den Unterschied zwischen einem chaotischen und einem respektvollen Ende.
+**Kurz gesagt:** Eine Trennung in der Polyamorie betrifft selten nur zwei Menschen – sie wirkt sich meist auf das ganze [Polycule](/blog/was-ist-ein-polycule/) aus: auf [Metamours](/blog/metamour-beziehung/), auf gemeinsame Freundschaften und auf bestehende Beziehungen, die parallel weiterlaufen. Trauer über eine endende Verbindung schließt sich nicht aus mit Glück in anderen Beziehungen – beides darf gleichzeitig da sein. Offene Kommunikation mit allen Betroffenen macht den Unterschied zwischen einem chaotischen und einem respektvollen Ende.
 
 Trennungen tun weh, egal in welcher Beziehungsform. In der Polyamorie kommt aber eine zusätzliche Ebene hinzu: Eine Trennung betrifft selten nur die zwei direkt beteiligten Personen. Sie hat Auswirkungen auf Metamours, gemeinsame Freundschaften und manchmal auf das gesamte Netzwerk an Beziehungen.
 
@@ -31,7 +31,7 @@ Ein Gefühl, das viele überrascht: Man kann sich für eine andere, weiterhin be
 
 ## Praktische Fragen nach einer Trennung
 
-**Was passiert mit gemeinsamen Vereinbarungen?** Absprachen, die für das gesamte Polycule galten – etwa zu [Terminplanung](/blog/terminplanung-mehrere-beziehungen) oder Gesundheit – müssen nach einer Trennung oft neu verhandelt werden, weil sich die Ausgangslage verändert hat.
+**Was passiert mit gemeinsamen Vereinbarungen?** Absprachen, die für das gesamte Polycule galten – etwa zu [Terminplanung](/blog/terminplanung-mehrere-beziehungen/) oder Gesundheit – müssen nach einer Trennung oft neu verhandelt werden, weil sich die Ausgangslage verändert hat.
 
 **Wie kommuniziert man es nach außen?** Freunde und Familie, die vom gesamten Polycule wissen, brauchen oft eine kurze, klare Erklärung, statt dass Gerüchte die Lücke füllen.
 

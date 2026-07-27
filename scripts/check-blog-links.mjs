@@ -19,15 +19,29 @@ function frontmatterLang(raw) {
 
 function findLinkIssues(raw, lang) {
   const issues = [];
-  // Markdown-Links auf /blog/... oder /{lang}/blog/...
-  const linkRe = /]\((\/(?:[a-z]{2}\/)?blog\/[a-z0-9-]+)\)/g;
+  // Markdown-Links auf /blog/... oder /{lang}/blog/... (mit oder ohne Slash,
+  // damit auch die fehlerhafte slashlose Variante erkannt wird).
+  const linkRe = /]\((\/(?:[a-z]{2}\/)?blog\/[a-z0-9-]+\/?)\)/g;
   let m;
   while ((m = linkRe.exec(raw))) {
     const target = m[1];
     const prefixMatch = target.match(/^\/([a-z]{2})\/blog\//);
     const targetLang = prefixMatch ? prefixMatch[1] : 'de';
     if (targetLang !== lang) {
-      issues.push({ target, expected: lang === 'de' ? '/blog/{slug}' : `/${lang}/blog/{slug}` });
+      issues.push({
+        target,
+        expected: lang === 'de' ? '/blog/{slug}/' : `/${lang}/blog/{slug}/`,
+        reason: 'falsches Sprachpraefix',
+      });
+    }
+    // Ohne abschliessenden Slash zeigt der Link auf die Nicht-Canonical-Variante.
+    // Vercel leitet dann per 308 um – unnoetiger Redirect-Hop fuer Googlebot.
+    if (!target.endsWith('/')) {
+      issues.push({
+        target,
+        expected: `${target}/`,
+        reason: 'fehlender abschliessender Slash (canonical-Form)',
+      });
     }
   }
   return issues;
@@ -50,7 +64,7 @@ for (const file of files) {
   const issues = findLinkIssues(raw, lang);
   for (const issue of issues) {
     console.error(
-      `✗ ${file} (lang: ${lang}): interner Link "${issue.target}" hat falsches Sprachpraefix, erwartet: ${issue.expected}`,
+      `✗ ${file} (lang: ${lang}): interner Link "${issue.target}" – ${issue.reason}, erwartet: ${issue.expected}`,
     );
     errorCount++;
   }

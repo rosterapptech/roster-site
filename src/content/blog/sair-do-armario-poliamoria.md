@@ -13,7 +13,7 @@ Sair do armário como poliamoroso se diferencia em muitos aspectos de outras for
 
 ## Por que sair do armário como poliamoroso é diferente
 
-Diferente da orientação sexual, sair do armário como poliamoroso muitas vezes não afeta só a sua própria vida, mas diretamente também a dos seus parceiros, e é preciso levar em conta os respectivos desejos deles de abertura ou discrição. Mais sobre esse tema mais amplo no artigo [Privacidade na poliamoria](/pt/blog/poliamoria-privacidade).
+Diferente da orientação sexual, sair do armário como poliamoroso muitas vezes não afeta só a sua própria vida, mas diretamente também a dos seus parceiros, e é preciso levar em conta os respectivos desejos deles de abertura ou discrição. Mais sobre esse tema mais amplo no artigo [Privacidade na poliamoria](/pt/blog/poliamoria-privacidade/).
 
 ## Os três caminhos mais comuns
 
@@ -26,7 +26,7 @@ Diferente da orientação sexual, sair do armário como poliamoroso muitas vezes
 ## Se preparando para a conversa
 
 - **Mantenha expectativas realistas.** Nem toda reação será imediatamente positiva; algumas pessoas precisam de tempo para desmontar preconceitos moldados por clichês sobre a poliamoria.
-- **Se prepare com fontes de informação.** Ajuda conseguir explicar com calma o que é realmente a poliamoria e em que ela se diferencia dos clichês, por exemplo remetendo ao [Glossário da poliamoria](/pt/blog/glossario-poliamoria).
+- **Se prepare com fontes de informação.** Ajuda conseguir explicar com calma o que é realmente a poliamoria e em que ela se diferencia dos clichês, por exemplo remetendo ao [Glossário da poliamoria](/pt/blog/glossario-poliamoria/).
 - **Você não precisa se justificar.** Sair do armário é uma comunicação, não uma defesa. Você não precisa justificar sua estrutura de relacionamento, só explicá-la.
 - **Coloque limites na conversa.** É perfeitamente legítimo guardar por enquanto certos detalhes, como os nomes dos seus parceiros.
 
@@ -34,7 +34,7 @@ Diferente da orientação sexual, sair do armário como poliamoroso muitas vezes
 
 **Preocupação em vez de rejeição.** Muitas primeiras reações são mais de preocupação ("você tem certeza de que isso é bom para você?") do que de rejeição. Isso costuma se resolver com paciência e boas respostas.
 
-**Comparação com traição.** Uma reação inicial comum é perguntar se isso não é "basicamente traição com permissão". Mais sobre isso em [Poliamoria vs. infidelidade](/pt/blog/poliamoria-vs-infidelidade), que explica a diferença com clareza.
+**Comparação com traição.** Uma reação inicial comum é perguntar se isso não é "basicamente traição com permissão". Mais sobre isso em [Poliamoria vs. infidelidade](/pt/blog/poliamoria-vs-infidelidade/), que explica a diferença com clareza.
 
 **Curiosidade em vez de julgamento.** Algumas reações são simplesmente curiosas, sem intenção de julgar; vale encarar as perguntas abertas como uma oportunidade, não como um ataque.
 
@@ -48,7 +48,7 @@ Nem toda conversa vai bem. Alguns familiares ou amigos precisam de tempo; outros
 
 ## Estrutura enquanto você se abre
 
-Enquanto você decide para quem contar o quê, ajuda manter você mesmo o controle sobre o seu [polycule](/pt/blog/o-que-e-um-polycule): quem sabe o quê, quais acordos de abertura valem em cada caso. O **Roster** te ajuda a registrar tudo isso num só lugar, completamente local e sem necessidade de conta.
+Enquanto você decide para quem contar o quê, ajuda manter você mesmo o controle sobre o seu [polycule](/pt/blog/o-que-e-um-polycule/): quem sabe o quê, quais acordos de abertura valem em cada caso. O **Roster** te ajuda a registrar tudo isso num só lugar, completamente local e sem necessidade de conta.
 
 ## Perguntas frequentes
 
@@ -56,7 +56,7 @@ Enquanto você decide para quem contar o quê, ajuda manter você mesmo o contro
 Não. Sair do armário é uma decisão pessoal, não uma obrigação. Muita gente vive feliz com uma abertura seletiva ou reservada.
 
 **Como explico a poliamoria para alguém que nunca ouviu falar disso?**
-O mais simples é com o princípio central: vários relacionamentos amorosos consentidos e honestos ao mesmo tempo. Remeter ao [Glossário da poliamoria](/pt/blog/glossario-poliamoria) ajuda com as perguntas mais detalhadas.
+O mais simples é com o princípio central: vários relacionamentos amorosos consentidos e honestos ao mesmo tempo. Remeter ao [Glossário da poliamoria](/pt/blog/glossario-poliamoria/) ajuda com as perguntas mais detalhadas.
 
 **E se a minha família reagir de forma negativa?**
 Dê espaço à reação sem sentir que precisa se justificar. Algumas pessoas precisam de tempo; outras nunca mudam de ideia, o que fala mais delas do que de você.

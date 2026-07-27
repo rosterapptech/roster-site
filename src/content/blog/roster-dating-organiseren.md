@@ -9,7 +9,7 @@ tags: ['Roster Dating', 'Dating', 'Organisatie', 'Communicatie']
 
 **Kort samengevat:** Roster Dating – oftewel meerdere mensen tegelijk en vrijblijvend daten – werkt het best met een simpel systeem: houd details per persoon bij, blijf eerlijk over je eigen capaciteit en communiceer open dat er (nog) geen exclusiviteit is. Zonder systeem lopen gesprekken, afspraken en verwachtingen snel door elkaar – mét systeem blijft Roster Dating precies wat het hoort te zijn: een ontspannen fase van elkaar leren kennen.
 
-Zit je op dit moment met meerdere mensen af te spreken, app je met nog meer mensen, en weet je zelf niet altijd meer wie wat heeft verteld? Welkom in de dagelijkse realiteit van Roster Dating. Wat op TikTok begon als een luchtige term voor je eigen datingsituatie – meer daarover in [Wat is een Dating Roster?](/nl/blog/wat-is-een-dating-roster) – blijkt in de praktijk vaak rommeliger dan de luchtige toon van de term doet vermoeden.
+Zit je op dit moment met meerdere mensen af te spreken, app je met nog meer mensen, en weet je zelf niet altijd meer wie wat heeft verteld? Welkom in de dagelijkse realiteit van Roster Dating. Wat op TikTok begon als een luchtige term voor je eigen datingsituatie – meer daarover in [Wat is een Dating Roster?](/nl/blog/wat-is-een-dating-roster/) – blijkt in de praktijk vaak rommeliger dan de luchtige toon van de term doet vermoeden.
 
 ## Waarom Roster Dating snel onoverzichtelijk wordt
 
@@ -39,7 +39,7 @@ Een roster is geen statisch gegeven. Mensen verlaten hem wanneer:
 
 ## Roster Dating en polyamorie: waar de wegen zich splitsen of samenkomen
 
-Sommige mensen blijven bewust in Roster Dating-modus omdat ze geen vaste structuur willen. Anderen laten hun roster bewust uitgroeien tot meerdere parallelle, toegewijde relaties – en bewegen daarmee richting polyamorie. Hoe je dat concreet aanpakt, lees je in [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen).
+Sommige mensen blijven bewust in Roster Dating-modus omdat ze geen vaste structuur willen. Anderen laten hun roster bewust uitgroeien tot meerdere parallelle, toegewijde relaties – en bewegen daarmee richting polyamorie. Hoe je dat concreet aanpakt, lees je in [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen/).
 
 ## Hulpmiddelen voor jouw Roster Dating
 

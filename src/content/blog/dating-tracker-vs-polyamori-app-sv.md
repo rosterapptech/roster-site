@@ -34,7 +34,7 @@ Alla fyra är gedigna verktyg för det de är byggda för. Men i ingen av de fyr
 
 ## Namnförvirringen: Två appar heter "Roster"
 
-En detalj som skapar förvirring: både "Roster: Date Smarter" och "The Roster AI - Dating Diary" bär beteckningen "Roster" i namnet – och det är inte samma app som den som beskrivs här. Termen "Roster" kommer ursprungligen från idrotten (ett lags spelartrupp) och har via TikTok blivit dating-slang, se [Vad är en Dating Roster?](/sv/blog/vad-ar-en-dating-roster). Det är därför inte konstigt att flera oberoende utvecklare landat i samma namn. Den som söker efter "Roster app" bör därför titta noga på vilken av de flera likanamnade apparna som avses, och vad den är byggd för.
+En detalj som skapar förvirring: både "Roster: Date Smarter" och "The Roster AI - Dating Diary" bär beteckningen "Roster" i namnet – och det är inte samma app som den som beskrivs här. Termen "Roster" kommer ursprungligen från idrotten (ett lags spelartrupp) och har via TikTok blivit dating-slang, se [Vad är en Dating Roster?](/sv/blog/vad-ar-en-dating-roster/). Det är därför inte konstigt att flera oberoende utvecklare landat i samma namn. Den som söker efter "Roster app" bör därför titta noga på vilken av de flera likanamnade apparna som avses, och vad den är byggd för.
 
 ## Den egentliga luckan: Loggning vs. att faktiskt vårda relationer
 
@@ -73,7 +73,7 @@ Allt körs lokalt på din enhet, utan konto och utan moln. [Roster finns i App S
 
 ## Var du kan läsa vidare, beroende på din situation
 
-Håller du fortfarande på att lära känna flera personer, i stället för att redan sköta committade relationer? Då kan en dedikerad dating-tracker som de ovan vara det bättre verktyget just nu – mer om den skillnaden i [Vad är en Dating Roster?](/sv/blog/vad-ar-en-dating-roster). Letar du efter skillnaden mellan dating-appar för att träffa folk och appar för att organisera befintliga relationer? Det hittar du i [App för polyamori: organisera relationer i stället för att bara hitta folk](/sv/blog/app-for-att-organisera-polyamorosa-relationer). Sköter du redan flera relationer och söker konkreta system? [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer) hjälper dig vidare.
+Håller du fortfarande på att lära känna flera personer, i stället för att redan sköta committade relationer? Då kan en dedikerad dating-tracker som de ovan vara det bättre verktyget just nu – mer om den skillnaden i [Vad är en Dating Roster?](/sv/blog/vad-ar-en-dating-roster/). Letar du efter skillnaden mellan dating-appar för att träffa folk och appar för att organisera befintliga relationer? Det hittar du i [App för polyamori: organisera relationer i stället för att bara hitta folk](/sv/blog/app-for-att-organisera-polyamorosa-relationer/). Sköter du redan flera relationer och söker konkreta system? [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer/) hjälper dig vidare.
 
 ## Vanliga frågor
 

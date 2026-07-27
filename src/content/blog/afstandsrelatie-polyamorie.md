@@ -19,11 +19,11 @@ Long-distance polyamorie bundelt twee uitdagingen tegelijk: het emotionele werk 
 
 **Ongelijke tijdsverdeling wordt zichtbaarder.** Wie in dezelfde stad woont, krijgt onvermijdelijk meer spontane, alledaagse tijd dan een langeafstandsrelatie – dat kan bij de verafgelegen persoon het gevoel oproepen structureel benadeeld te worden. Eerlijke gesprekken over hoe beide kanten de verdeling ervaren zijn belangrijker dan proberen "gelijke" tijd rekenkundig te realiseren.
 
-**Bezoeken vragen bewuste planning.** Anders dan bij relaties dichtbij kan een bezoek in een langeafstandsrelatie niet spontaan worden verzet. Meer over systemen hiervoor in het artikel [Planning bij meerdere relaties](/nl/blog/planning-meerdere-relaties).
+**Bezoeken vragen bewuste planning.** Anders dan bij relaties dichtbij kan een bezoek in een langeafstandsrelatie niet spontaan worden verzet. Meer over systemen hiervoor in het artikel [Planning bij meerdere relaties](/nl/blog/planning-meerdere-relaties/).
 
 **Tijdzones bemoeilijken spontane communicatie.** Bij grotere tijdsverschillen helpt een vast, terugkerend communicatieritme meer dan proberen spontaan beschikbaar te zijn.
 
-**Jaloezie kan anders aanvoelen.** Wie weet dat een andere partner "ter plekke" meer alledaagse nabijheid krijgt, ervaart jaloezie soms meer ruimtelijk dan emotioneel. Meer over de omgang daarmee in het artikel [Jaloezie in polyamorie](/nl/blog/jaloezie-polyamorie).
+**Jaloezie kan anders aanvoelen.** Wie weet dat een andere partner "ter plekke" meer alledaagse nabijheid krijgt, ervaart jaloezie soms meer ruimtelijk dan emotioneel. Meer over de omgang daarmee in het artikel [Jaloezie in polyamorie](/nl/blog/jaloezie-polyamorie/).
 
 ## Zo geef je nabijheid over afstand actief vorm
 
@@ -38,7 +38,7 @@ Langeafstandsrelaties blijven zelden voor altijd op afstand – een verhuizing, 
 
 ## Structuur voor connecties over afstand
 
-Wie meerdere relaties onderhoudt met verschillende geografische afstand, profiteert vooral van een centraal overzicht van afspraken, bezoekplannen en de stemming in elke connectie. **Roster** visualiseert je [polycule](/nl/blog/wat-is-een-polycule) onafhankelijk van afstand en helpt je met de vibe-radar te zien welke relatie – dichtbij of ver weg – nu aandacht nodig heeft. Alle data blijft lokaal op je apparaat.
+Wie meerdere relaties onderhoudt met verschillende geografische afstand, profiteert vooral van een centraal overzicht van afspraken, bezoekplannen en de stemming in elke connectie. **Roster** visualiseert je [polycule](/nl/blog/wat-is-een-polycule/) onafhankelijk van afstand en helpt je met de vibe-radar te zien welke relatie – dichtbij of ver weg – nu aandacht nodig heeft. Alle data blijft lokaal op je apparaat.
 
 ## Veelgestelde vragen
 

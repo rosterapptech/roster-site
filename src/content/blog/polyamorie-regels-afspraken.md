@@ -21,7 +21,7 @@ Weinig onderwerpen zorgen binnen polyamorie voor zoveel discussie als de vraag w
 
 **Ze beperken autonomie.** Regels die de gevoelens of het gedrag van iemand anders proberen te bepalen (zoals het verbieden van verliefdheid) zijn in de praktijk niet af te dwingen – gevoelens laten zich niet sturen via een regel.
 
-**Ze ontstaan vaak uit angst in plaats van zorg.** Veel regels moeten jaloezie of onzekerheid binnen een bestaand stel verlichten, maar verschuiven het eigenlijke probleem alleen naar de nieuwe persoon, in plaats van het direct aan te pakken. Meer hierover in het artikel [Jaloezie in polyamorie](/nl/blog/jaloezie-polyamorie).
+**Ze ontstaan vaak uit angst in plaats van zorg.** Veel regels moeten jaloezie of onzekerheid binnen een bestaand stel verlichten, maar verschuiven het eigenlijke probleem alleen naar de nieuwe persoon, in plaats van het direct aan te pakken. Meer hierover in het artikel [Jaloezie in polyamorie](/nl/blog/jaloezie-polyamorie/).
 
 **Ze worden niet door iedereen gedragen.** Wie geen inspraak heeft gehad bij het opstellen van een regel, houdt zich er minder vaak echt aan – niet uit kwade wil, maar omdat het ontbreken van inspraak zelden tot echte instemming leidt.
 
@@ -35,9 +35,9 @@ Weinig onderwerpen zorgen binnen polyamorie voor zoveel discussie als de vraag w
 ## Voorbeelden van zinvolle afspraken
 
 - **Gezondheid:** Regelmatige soa-testen en open communicatie over nieuwe seksuele contacten – beschermt iedereen zonder iemand te controleren.
-- **Tijd:** Hoeveel voorbereidingstijd is nodig voor nieuwe afspraken? Meer hierover in het artikel [Planning bij meerdere relaties](/nl/blog/planning-meerdere-relaties).
+- **Tijd:** Hoeveel voorbereidingstijd is nodig voor nieuwe afspraken? Meer hierover in het artikel [Planning bij meerdere relaties](/nl/blog/planning-meerdere-relaties/).
 - **Communicatie:** Hoe en wanneer worden nieuwe connecties voorgesteld aan, of op zijn minst genoemd bij, bestaande partners?
-- **Nabijheid tussen metamours:** Wordt er meer [kitchen table of parallel](/nl/blog/kitchen-table-vs-parallel-polyamorie-nl) geleefd – en hoeveel contact willen alle betrokkenen echt?
+- **Nabijheid tussen metamours:** Wordt er meer [kitchen table of parallel](/nl/blog/kitchen-table-vs-parallel-polyamorie-nl/) geleefd – en hoeveel contact willen alle betrokkenen echt?
 
 ## Als regels toch gewenst zijn
 
@@ -45,7 +45,7 @@ Sommige grenzen zijn geen oneerlijke regels, maar legitieme persoonlijke grenzen
 
 ## Afspraken overzichtelijk houden
 
-Afspraken die nergens worden vastgelegd, vervagen na verloop van tijd – iedereen herinnert zich ze net iets anders. **Roster** biedt ruimte om belangrijke afspraken bij elke connectie in jouw [polycule](/nl/blog/wat-is-een-polycule) vast te leggen, zodat niets verloren gaat in de mist van het geheugen. Alle data blijft daarbij lokaal op je apparaat.
+Afspraken die nergens worden vastgelegd, vervagen na verloop van tijd – iedereen herinnert zich ze net iets anders. **Roster** biedt ruimte om belangrijke afspraken bij elke connectie in jouw [polycule](/nl/blog/wat-is-een-polycule/) vast te leggen, zodat niets verloren gaat in de mist van het geheugen. Alle data blijft daarbij lokaal op je apparaat.
 
 ## Veelgestelde vragen
 

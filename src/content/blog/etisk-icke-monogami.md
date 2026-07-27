@@ -31,7 +31,7 @@ Saknas någon av dessa tre pelare är det inte ENM utan helt enkelt otrohet med 
 
 **Relationsanarki:** Ett förhållningssätt som förhandlar varje relation individuellt, utan att förutsätta fasta kategorier eller hierarkier.
 
-Läs mer om dessa begrepp och andra underkategorier i [Polyamori-ordlistan](/sv/blog/polyamori-ordlista).
+Läs mer om dessa begrepp och andra underkategorier i [Polyamori-ordlistan](/sv/blog/polyamori-ordlista/).
 
 ## Varför paraplybegreppet är användbart
 
@@ -43,11 +43,11 @@ ENM som övergripande begrepp är särskilt praktiskt när man vill tala om geme
 
 **"ENM betyder att man undviker riktigt engagemang."** Många ENM-former, inte minst polyamori, innebär djupa, långvariga känslomässiga band till flera personer samtidigt.
 
-**"ENM fungerar bara utan svartsjuka."** Svartsjuka förekommer även i ENM-relationer – skillnaden ligger i hur öppet och konstruktivt det hanteras. Läs mer i artikeln [Svartsjuka i polyamori](/sv/blog/svaartsjuka-polyamori).
+**"ENM fungerar bara utan svartsjuka."** Svartsjuka förekommer även i ENM-relationer – skillnaden ligger i hur öppet och konstruktivt det hanteras. Läs mer i artikeln [Svartsjuka i polyamori](/sv/blog/svaartsjuka-polyamori/).
 
 ## Hitta rätt ENM-stil för dig
 
-Det finns ingen "korrekt" form av ENM – bara den form som passar dina egna behov, kapacitet och värderingar. Den som är ny inom området hittar en bra start i artikeln [Polyamori för nybörjare](/sv/blog/polyamori-for-nyborjare), även om polyamori bara är en av flera ENM-former.
+Det finns ingen "korrekt" form av ENM – bara den form som passar dina egna behov, kapacitet och värderingar. Den som är ny inom området hittar en bra start i artikeln [Polyamori för nybörjare](/sv/blog/polyamori-for-nyborjare/), även om polyamori bara är en av flera ENM-former.
 
 ## Struktur för ENM-relationer i praktiken
 

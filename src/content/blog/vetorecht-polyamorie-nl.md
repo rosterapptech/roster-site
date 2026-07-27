@@ -19,9 +19,9 @@ Een klassiek vetorecht werkt zo: één persoon in een bestaande (vaak "primaire"
 
 **Het negeert de autonomie van de derde persoon.** De persoon wiens relatie wordt beëindigd, had meestal geen stem in de beslissing – diens gevoelens en investering worden feitelijk ongeldig verklaard.
 
-**Het vervangt instemming door controle.** In plaats dat alle drie de personen samen onderhandelen over wat voor iedereen werkt, beslist één persoon over de relatie van de andere twee. Meer over het verschil tussen controle en echte afspraak in het artikel [Regels vs. afspraken in polyamorie](/nl/blog/polyamorie-regels-afspraken).
+**Het vervangt instemming door controle.** In plaats dat alle drie de personen samen onderhandelen over wat voor iedereen werkt, beslist één persoon over de relatie van de andere twee. Meer over het verschil tussen controle en echte afspraak in het artikel [Regels vs. afspraken in polyamorie](/nl/blog/polyamorie-regels-afspraken/).
 
-**Het verschuift het eigenlijke probleem.** Een wens tot een veto ontstaat meestal uit onzekerheid of jaloezie binnen de bestaande relatie. Het veto behandelt die onzekerheid echter niet, maar verwijdert simpelweg de oorzaak ervan van buitenaf – zonder het onderliggende gevoel te verwerken. Meer hierover in het artikel [Jaloezie in polyamorie](/nl/blog/jaloezie-polyamorie).
+**Het verschuift het eigenlijke probleem.** Een wens tot een veto ontstaat meestal uit onzekerheid of jaloezie binnen de bestaande relatie. Het veto behandelt die onzekerheid echter niet, maar verwijdert simpelweg de oorzaak ervan van buitenaf – zonder het onderliggende gevoel te verwerken. Meer hierover in het artikel [Jaloezie in polyamorie](/nl/blog/jaloezie-polyamorie/).
 
 **Het creëert structurele ongelijkheid.** Relaties met een vetorecht vestigen automatisch een hiërarchie waarin de ene connectie te allen tijde herroepbaar is en de andere niet – ongeacht hoe diep de "herroepbare" relatie in werkelijkheid is.
 
@@ -48,7 +48,7 @@ Een vetorecht voelt voor sommigen als veiligheid, vooral in de beginfase van het
 
 ## Afspraken eerlijk en zichtbaar houden
 
-Afspraken werken het best als ze duidelijk en inzichtelijk zijn voor iedereen die erbij betrokken is, in plaats van impliciet of eenzijdig te blijven. **Roster** helpt je eerlijke, gezamenlijk onderhandelde afspraken vast te leggen voor elke connectie in jouw [polycule](/nl/blog/wat-is-een-polycule) – transparant voor iedereen, lokaal opgeslagen op je apparaat.
+Afspraken werken het best als ze duidelijk en inzichtelijk zijn voor iedereen die erbij betrokken is, in plaats van impliciet of eenzijdig te blijven. **Roster** helpt je eerlijke, gezamenlijk onderhandelde afspraken vast te leggen voor elke connectie in jouw [polycule](/nl/blog/wat-is-een-polycule/) – transparant voor iedereen, lokaal opgeslagen op je apparaat.
 
 ## Veelgestelde vragen
 

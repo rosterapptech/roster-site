@@ -13,7 +13,7 @@ Een coming-out als polyamoor verschilt op veel vlakken van andere vormen van com
 
 ## Waarom een polyamorie-coming-out anders is
 
-Anders dan bij seksuele geaardheid raakt een polyamorie-coming-out vaak niet alleen je eigen leven, maar direct ook het leven van je partners – en hun wensen over openheid of discretie moeten worden meegewogen. Meer over het bredere onderwerp in het artikel [Privacy in polyamorie](/nl/blog/polyamorie-privacy).
+Anders dan bij seksuele geaardheid raakt een polyamorie-coming-out vaak niet alleen je eigen leven, maar direct ook het leven van je partners – en hun wensen over openheid of discretie moeten worden meegewogen. Meer over het bredere onderwerp in het artikel [Privacy in polyamorie](/nl/blog/polyamorie-privacy/).
 
 ## De drie meest voorkomende wegen
 
@@ -26,7 +26,7 @@ Anders dan bij seksuele geaardheid raakt een polyamorie-coming-out vaak niet all
 ## Voorbereiding op het gesprek
 
 - **Houd je verwachtingen realistisch.** Niet elke reactie zal meteen positief zijn – sommige mensen hebben tijd nodig om vooroordelen af te breken die gevormd zijn door clichés over polyamorie.
-- **Wees voorbereid met informatiebronnen.** Het helpt om rustig te kunnen uitleggen wat polyamorie werkelijk betekent en hoe het verschilt van clichés – bijvoorbeeld met een verwijzing naar de [Polyamorie-woordenlijst](/nl/blog/polyamorie-woordenlijst).
+- **Wees voorbereid met informatiebronnen.** Het helpt om rustig te kunnen uitleggen wat polyamorie werkelijk betekent en hoe het verschilt van clichés – bijvoorbeeld met een verwijzing naar de [Polyamorie-woordenlijst](/nl/blog/polyamorie-woordenlijst/).
 - **Je hoeft je niet te verantwoorden.** Een coming-out is een mededeling, geen verdediging. Je hoeft je relatievorm niet te rechtvaardigen, alleen uit te leggen.
 - **Stel grenzen voor het gesprek.** Het is volkomen legitiem om bepaalde details (zoals namen van partners) voorlopig voor jezelf te houden.
 
@@ -34,7 +34,7 @@ Anders dan bij seksuele geaardheid raakt een polyamorie-coming-out vaak niet all
 
 **Bezorgdheid in plaats van afwijzing.** Veel eerste reacties zijn eerder bezorgd ("weet je zeker dat dit goed voor je is?") dan afwijzend. Dat lost vaak op met geduld en goede antwoorden.
 
-**Vergelijking met vreemdgaan.** Een veelvoorkomende eerste reactie is de vraag of dit niet "eigenlijk vreemdgaan met toestemming" is. Meer hierover in het artikel [Polyamorie vs. vreemdgaan](/nl/blog/polyamorie-vs-vreemdgaan), dat het verschil duidelijk uitlegt.
+**Vergelijking met vreemdgaan.** Een veelvoorkomende eerste reactie is de vraag of dit niet "eigenlijk vreemdgaan met toestemming" is. Meer hierover in het artikel [Polyamorie vs. vreemdgaan](/nl/blog/polyamorie-vs-vreemdgaan/), dat het verschil duidelijk uitlegt.
 
 **Nieuwsgierigheid in plaats van oordeel.** Sommige reacties zijn gewoon nieuwsgierig, zonder oordeel – het loont om open vragen te zien als kans in plaats van aanval.
 
@@ -48,7 +48,7 @@ Niet elk gesprek verloopt soepel. Sommige familieleden of vrienden hebben tijd n
 
 ## Structuur terwijl je je openstelt
 
-Terwijl je beslist wie je wat vertelt, helpt het om zelf overzicht te houden over je [polycule](/nl/blog/wat-is-een-polycule) – wie weet wat, welke afspraken over openheid gelden waar. **Roster** ondersteunt je om dit allemaal op één plek vast te leggen, volledig lokaal en zonder account.
+Terwijl je beslist wie je wat vertelt, helpt het om zelf overzicht te houden over je [polycule](/nl/blog/wat-is-een-polycule/) – wie weet wat, welke afspraken over openheid gelden waar. **Roster** ondersteunt je om dit allemaal op één plek vast te leggen, volledig lokaal en zonder account.
 
 ## Veelgestelde vragen
 
@@ -56,7 +56,7 @@ Terwijl je beslist wie je wat vertelt, helpt het om zelf overzicht te houden ove
 Nee. Een coming-out is een persoonlijke keuze, geen verplichting. Veel mensen leven tevreden met selectieve of terughoudende openheid.
 
 **Hoe leg ik polyamorie uit aan iemand die er nog nooit van gehoord heeft?**
-Het makkelijkst met het kernprincipe: meerdere wederzijds ingestemde, eerlijke liefdesrelaties tegelijk. Een verwijzing naar de [Polyamorie-woordenlijst](/nl/blog/polyamorie-woordenlijst) helpt bij detailvragen.
+Het makkelijkst met het kernprincipe: meerdere wederzijds ingestemde, eerlijke liefdesrelaties tegelijk. Een verwijzing naar de [Polyamorie-woordenlijst](/nl/blog/polyamorie-woordenlijst/) helpt bij detailvragen.
 
 **Wat als mijn familie afwijzend reageert?**
 Geef de reactie ruimte zonder je te hoeven verantwoorden. Sommige mensen hebben tijd nodig – anderen veranderen nooit van mening, wat meer over hen zegt dan over jou.

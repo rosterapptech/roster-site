@@ -11,7 +11,7 @@ tags: ['Polyamori', 'Mono-Poly', 'Relationsmodeller', 'Kommunikation']
 
 Poly betyder inte samma sak för alla – ibland är det bara en person i relationen som vill eller behöver flera partner, medan den andra helt medvetet vill stanna vid en enda förbindelse. Den här modellen kallas mono-poly och förbises ofta i communityn, eftersom den varken är klassiskt monogam eller symmetriskt polyamorös.
 
-Den här artikeln utgår från att båda sidor redan tillsammans har landat i den här asymmetriska modellen. Står ni fortfarande i början av den vägen – identifierar sig just nu bara en person som poly, medan den andra är osäker eller tydligt monogam –, handlar det först om samtalet innan dess: hur du överhuvudtaget tar upp ämnet att öppna relationen kan du läsa om i artikeln [Öppna relationen: Så börjar du samtalet](/sv/blog/oppna-relation-overtyga-partner).
+Den här artikeln utgår från att båda sidor redan tillsammans har landat i den här asymmetriska modellen. Står ni fortfarande i början av den vägen – identifierar sig just nu bara en person som poly, medan den andra är osäker eller tydligt monogam –, handlar det först om samtalet innan dess: hur du överhuvudtaget tar upp ämnet att öppna relationen kan du läsa om i artikeln [Öppna relationen: Så börjar du samtalet](/sv/blog/oppna-relation-overtyga-partner/).
 
 ## Vad är en mono-poly-relation?
 
@@ -23,7 +23,7 @@ Till skillnad från symmetriska polyamorösa konstellationer finns här en inbyg
 
 Typiska friktionspunkter:
 
-- **Mono-partnern känner sig utbytbar** när poly-partnern upplever NRE med andra partner, medan den egna relationen fastnat i vardagsrutinen. Läs mer i [Balansera New Relationship Energy](/sv/blog/nre-balans-polyamori).
+- **Mono-partnern känner sig utbytbar** när poly-partnern upplever NRE med andra partner, medan den egna relationen fastnat i vardagsrutinen. Läs mer i [Balansera New Relationship Energy](/sv/blog/nre-balans-polyamori/).
 - **Poly-partnern känner sig begränsad** när överenskommelser känns för stela, trots att de egentligen ska ge den monogama partnern trygghet.
 - **Ojämn förhandlingsmakt** uppstår när bara den ena sidan sätter regler för partnerns andra relationer, utan att poly-partnern kan föra in egna gränser.
 
@@ -35,7 +35,7 @@ Mono-partnern bör se monogami som en egen, giltig preferens och inte som en eft
 
 ### 2. Tid och synlighet istället för vaga försäkringar
 
-Fast, pålitlig tid med poly-partnern väger ofta tyngre än varje försäkran om vikt. Konkreta tidsfönster – se [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer) – ger mono-partnern något konkret istället för bara ord.
+Fast, pålitlig tid med poly-partnern väger ofta tyngre än varje försäkran om vikt. Konkreta tidsfönster – se [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer/) – ger mono-partnern något konkret istället för bara ord.
 
 ### 3. Överenskommelser om trygghet och information
 
@@ -47,11 +47,11 @@ Båda sidor tjänar på att med jämna mellanrum ärligt fråga sig: känns mode
 
 ## Skillnad mot andra modeller
 
-Mono-poly skiljer sig från det öppna förhållandet genom att mono-partnern själv inte söker fler partner – mer om skillnaden mellan modellerna i [Polyamori vs. öppet förhållande](/sv/blog/polyamori-vs-oppet-forhallande). Det skiljer sig också från hierarkisk polyamori, eftersom en person här strukturellt inte alls är poly, istället för att bara inta en "primär" position.
+Mono-poly skiljer sig från det öppna förhållandet genom att mono-partnern själv inte söker fler partner – mer om skillnaden mellan modellerna i [Polyamori vs. öppet förhållande](/sv/blog/polyamori-vs-oppet-forhallande/). Det skiljer sig också från hierarkisk polyamori, eftersom en person här strukturellt inte alls är poly, istället för att bara inta en "primär" position.
 
 ## Verktyg som hjälper
 
-Även om mono-partnern själv inte har flera relationer, gynnas relationen av att tid och överenskommelser är synliga och pålitliga. **Roster** hjälper poly-partnern att hålla koll på alla förbindelser – inklusive mono-relationen, som förtjänar en lika fast plats i [polycule](/sv/blog/vad-ar-ett-polycule) som alla andra. All data stannar lokalt på enheten, utan konto.
+Även om mono-partnern själv inte har flera relationer, gynnas relationen av att tid och överenskommelser är synliga och pålitliga. **Roster** hjälper poly-partnern att hålla koll på alla förbindelser – inklusive mono-relationen, som förtjänar en lika fast plats i [polycule](/sv/blog/vad-ar-ett-polycule/) som alla andra. All data stannar lokalt på enheten, utan konto.
 
 ## Vanliga frågor
 
@@ -65,7 +65,7 @@ Ja, om båda sidor öppet erkänner den strukturella asymmetrin, gör tydliga ö
 Nej. Vid hierarkisk polyamori är oftast båda partnerna poly, fast med olika rangordning. Vid mono-poly är en person strukturellt inte poly och söker själv inga fler partner.
 
 **Hur hanterar mono-partnern svartsjuka i den här konstellationen?**
-Ungefär som i vilken polyamorös relation som helst – genom öppen kommunikation istället för att trycka undan den. Läs mer i [Svartsjuka i polyamorösa relationer](/sv/blog/svaartsjuka-polyamori).
+Ungefär som i vilken polyamorös relation som helst – genom öppen kommunikation istället för att trycka undan den. Läs mer i [Svartsjuka i polyamorösa relationer](/sv/blog/svaartsjuka-polyamori/).
 
 **Vilken app hjälper till att organisera en mono-poly-relation?**
 Roster hjälper poly-partnern att hålla alla förbindelser – inklusive den monogama relationen – lika mycket i fokus, med fasta tidsrytmer och utan att data lämnar enheten.

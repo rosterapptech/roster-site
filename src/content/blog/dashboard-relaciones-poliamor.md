@@ -62,7 +62,7 @@ Todo funciona en local en tu dispositivo, sin cuenta y sin seguimiento. [Roster 
 
 ## Dónde seguir leyendo
 
-¿Buscas más bien una app que te ayude a conocer gente nueva, en lugar de organizar relaciones ya existentes? Esa distinción se explica en [App para poliamor: organizar relaciones, no solo encontrar gente](/es/blog/app-para-organizar-relaciones-poliamorosas). ¿Estás comparando ahora mismo distintos rastreadores de citas como Rostr o Spread? Entonces [Rostr, Spread y compañía: por qué los rastreadores de citas no son apps de poliamor](/es/blog/dating-tracker-vs-app-poliamor) te ayuda a aclararlo. Y para sistemas concretos más allá de las herramientas, [Gestionar varias relaciones a la vez](/es/blog/gestionar-varias-relaciones) es la guía práctica.
+¿Buscas más bien una app que te ayude a conocer gente nueva, en lugar de organizar relaciones ya existentes? Esa distinción se explica en [App para poliamor: organizar relaciones, no solo encontrar gente](/es/blog/app-para-organizar-relaciones-poliamorosas/). ¿Estás comparando ahora mismo distintos rastreadores de citas como Rostr o Spread? Entonces [Rostr, Spread y compañía: por qué los rastreadores de citas no son apps de poliamor](/es/blog/dating-tracker-vs-app-poliamor/) te ayuda a aclararlo. Y para sistemas concretos más allá de las herramientas, [Gestionar varias relaciones a la vez](/es/blog/gestionar-varias-relaciones/) es la guía práctica.
 
 ## Preguntas frecuentes
 

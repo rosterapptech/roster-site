@@ -80,13 +80,13 @@ Systems need somewhere to live. In practice, four approaches tend to emerge – 
 
 ## Why a regular calendar isn't enough
 
-[A plain calendar only knows appointments, not relationship health.](/en/blog/google-calendar-vs-polyamory-app) It tells you when you're meeting – but nothing about whether a connection currently needs attention, whether you haven't really talked in weeks, or whether an agreement has quietly gone stale. That gap is exactly why many poly people eventually move to a specialised tool: not because a calendar is bad, but because it was built for a different job.
+[A plain calendar only knows appointments, not relationship health.](/en/blog/google-calendar-vs-polyamory-app/) It tells you when you're meeting – but nothing about whether a connection currently needs attention, whether you haven't really talked in weeks, or whether an agreement has quietly gone stale. That gap is exactly why many poly people eventually move to a specialised tool: not because a calendar is bad, but because it was built for a different job.
 
 ## Organising is care, not control
 
 **Roster** was built precisely for that gap – an app that gives you structure without control. Under "Connections", a quick swipe is all it takes to log that you saw someone today – no elaborate protocol, just an honest snapshot. The Vibe Radar shows you at a glance how each relationship is doing, from sunny to radio silence. And the Polycule Map makes your entire network visible at a glance. All data stays local on your device, with no account and no tracking. That's the point: structure, not control – a tool that helps you be present instead of dictating what your relationships should look like.
 
-If jealousy is also part of what you're navigating, [Jealousy in Polyamory](/en/blog/jealousy-polyamory) goes deeper into that. And if you want to understand your whole network better, it's worth reading [What Is a Polycule?](/en/blog/what-is-a-polycule)
+If jealousy is also part of what you're navigating, [Jealousy in Polyamory](/en/blog/jealousy-polyamory/) goes deeper into that. And if you want to understand your whole network better, it's worth reading [What Is a Polycule?](/en/blog/what-is-a-polycule/)
 
 ## Frequently asked questions
 

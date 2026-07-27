@@ -12,6 +12,8 @@ export const ROSTER_POLY_SLUG: Record<Lang, string> = {
   pt: 'roster-poliamoria',
 };
 
+// Mit abschliessendem Slash – muss zur canonical-/Sitemap-Form passen,
+// sonst zeigen interne Links auf eine Nicht-Canonical-Variante.
 export function rosterPolyPath(lang: Lang): string {
-  return lang === 'de' ? `/${ROSTER_POLY_SLUG.de}` : `/${lang}/${ROSTER_POLY_SLUG[lang]}`;
+  return lang === 'de' ? `/${ROSTER_POLY_SLUG.de}/` : `/${lang}/${ROSTER_POLY_SLUG[lang]}/`;
 }

@@ -21,7 +21,7 @@ O problema não é a NRE em si, mas o que ela faz, sem que a gente perceba, com 
 
 - **O tempo se desloca sem que ninguém perceba.** Quem está no auge da NRE diz sim com mais frequência a planos espontâneos com a nova pessoa, à custa do tempo que na verdade estava reservado para os parceiros atuais.
 - **As comparações surgem sozinhas.** Parceiros existentes muitas vezes percebem que as conversas ficam mais curtas, as mensagens se espaçam ou a presença numa noite juntos fica mais fraca, mesmo sem que ninguém faça isso de propósito.
-- **O silêncio intensifica o ciúme.** Não é a NRE em si que causa os conflitos, mas a sensação de ficar sem informação. Mais sobre isso em [Ciúmes nos relacionamentos poliamorosos](/pt/blog/ciumes-poliamoria).
+- **O silêncio intensifica o ciúme.** Não é a NRE em si que causa os conflitos, mas a sensação de ficar sem informação. Mais sobre isso em [Ciúmes nos relacionamentos poliamorosos](/pt/blog/ciumes-poliamoria/).
 
 ## Estratégias para equilibrar a NRE
 
@@ -31,7 +31,7 @@ Avisar com antecedência aos seus parceiros atuais que uma conexão nova está s
 
 ### 2. Horários fixos continuam fixos
 
-Justamente durante a fase de NRE é crucial não remarcar de forma espontânea os momentos combinados com seus parceiros atuais. Se você ainda não tem ritmos estáveis, vai encontrar mais em [Gerenciar vários relacionamentos ao mesmo tempo](/pt/blog/gerenciar-varios-relacionamentos).
+Justamente durante a fase de NRE é crucial não remarcar de forma espontânea os momentos combinados com seus parceiros atuais. Se você ainda não tem ritmos estáveis, vai encontrar mais em [Gerenciar vários relacionamentos ao mesmo tempo](/pt/blog/gerenciar-varios-relacionamentos/).
 
 ### 3. Reinvestir ativamente, não só evitar a negligência
 
@@ -47,7 +47,7 @@ A NRE muitas vezes parece energia infinita, mas não é. Um check-in regular con
 
 ## Ferramentas que ajudam a manter o equilíbrio
 
-Olhar para o [polycule](/pt/blog/o-que-e-um-polycule) como um todo ajuda a detectar cedo os deslocamentos causados pela NRE, em vez de perceber só quando um relacionamento já está se sentindo negligenciado. O **Roster** foi desenhado exatamente para isso: com o Vibe Radar você vê de relance qual relacionamento tem recebido pouca atenção ultimamente, e pode registrar ritmos de tempo fixos por relacionamento, sem conta e com todos os dados localmente no seu aparelho.
+Olhar para o [polycule](/pt/blog/o-que-e-um-polycule/) como um todo ajuda a detectar cedo os deslocamentos causados pela NRE, em vez de perceber só quando um relacionamento já está se sentindo negligenciado. O **Roster** foi desenhado exatamente para isso: com o Vibe Radar você vê de relance qual relacionamento tem recebido pouca atenção ultimamente, e pode registrar ritmos de tempo fixos por relacionamento, sem conta e com todos os dados localmente no seu aparelho.
 
 ## Perguntas frequentes
 

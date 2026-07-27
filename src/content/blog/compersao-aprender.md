@@ -45,7 +45,7 @@ A compersão e o ciúme se alternam com frequência. Ao anotar os dois sentiment
 
 ## Compersão e ciúme não são adversários
 
-É tentador ver a compersão como o "objetivo final" e o [ciúme](/pt/blog/ciumes-poliamoria) como um fracasso. É mais útil entender os dois como duas faces do mesmo trabalho emocional. O ciúme mostra uma necessidade; a compersão mostra sua conexão. Lidar honestamente com o ciúme costuma criar o espaço em que a compersão pode crescer.
+É tentador ver a compersão como o "objetivo final" e o [ciúme](/pt/blog/ciumes-poliamoria/) como um fracasso. É mais útil entender os dois como duas faces do mesmo trabalho emocional. O ciúme mostra uma necessidade; a compersão mostra sua conexão. Lidar honestamente com o ciúme costuma criar o espaço em que a compersão pode crescer.
 
 ## Perguntas frequentes
 

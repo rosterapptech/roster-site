@@ -38,7 +38,7 @@ Rechtlich ist der Unterschied deutlich: Polygame Ehen werden in den meisten west
 
 ## Beziehungsanarchie: keine vorgegebenen Kategorien
 
-Beziehungsanarchie geht noch einen Schritt weiter als egalitäre Polyamorie: Sie lehnt jede von außen vorgegebene Hierarchie und feste Kategorie – „Partner" versus „nur Freundschaft", „wichtiger" versus „weniger wichtig" – grundsätzlich ab. Jede Beziehung wird individuell verhandelt, unabhängig davon, ob Sex oder Romantik im Spiel ist, und unabhängig davon, ob gesellschaftliche Konventionen etwas anderes nahelegen. Wie genau sich das von klassischer, auch hierarchischer Polyamorie unterscheidet und wo die Übergänge fließend sind, erklären wir ausführlich in unserem Vergleich [Beziehungsanarchie vs. Polyamorie](/blog/beziehungsanarchie-vs-polyamorie).
+Beziehungsanarchie geht noch einen Schritt weiter als egalitäre Polyamorie: Sie lehnt jede von außen vorgegebene Hierarchie und feste Kategorie – „Partner" versus „nur Freundschaft", „wichtiger" versus „weniger wichtig" – grundsätzlich ab. Jede Beziehung wird individuell verhandelt, unabhängig davon, ob Sex oder Romantik im Spiel ist, und unabhängig davon, ob gesellschaftliche Konventionen etwas anderes nahelegen. Wie genau sich das von klassischer, auch hierarchischer Polyamorie unterscheidet und wo die Übergänge fließend sind, erklären wir ausführlich in unserem Vergleich [Beziehungsanarchie vs. Polyamorie](/blog/beziehungsanarchie-vs-polyamorie/).
 
 ## Die vier Modelle im Vergleich
 
@@ -52,7 +52,7 @@ Beziehungsanarchie geht noch einen Schritt weiter als egalitäre Polyamorie: Sie
 
 ## Und innerhalb der Polyamorie?
 
-Die Tabelle zeigt es schon: „Polyamorie" ist selbst ein Sammelbegriff für viele Spielarten, kein einheitliches Modell mit festen Regeln. Manche Konstellationen sind [hierarchisch, andere nicht-hierarchisch](/blog/hierarchische-vs-nicht-hierarchische-polyamorie) – mit oder ohne Primärpartnerschaft, mit oder ohne gemeinsamen Haushalt als Mittelpunkt. Manche leben [Solo-Polyamorie](/blog/solo-polyamorie) und stellen bewusst keine Partnerschaft ins Zentrum ihres Lebens, sondern bleiben unabhängig, während sie mehrere Beziehungen führen. Andere organisieren sich als Kitchen-Table-Polycule, in dem sich alle Beteiligten gut kennen und gern gemeinsam Zeit verbringen, wieder andere bevorzugen Parallelbeziehungen, bei denen sich die einzelnen Partnerschaften kaum überschneiden. Und manche leben zu dritt in einer Triade mit drei gleichberechtigten Partnern. Wer tiefer einsteigen möchte, findet in den verlinkten Artikeln die jeweiligen Details.
+Die Tabelle zeigt es schon: „Polyamorie" ist selbst ein Sammelbegriff für viele Spielarten, kein einheitliches Modell mit festen Regeln. Manche Konstellationen sind [hierarchisch, andere nicht-hierarchisch](/blog/hierarchische-vs-nicht-hierarchische-polyamorie/) – mit oder ohne Primärpartnerschaft, mit oder ohne gemeinsamen Haushalt als Mittelpunkt. Manche leben [Solo-Polyamorie](/blog/solo-polyamorie/) und stellen bewusst keine Partnerschaft ins Zentrum ihres Lebens, sondern bleiben unabhängig, während sie mehrere Beziehungen führen. Andere organisieren sich als Kitchen-Table-Polycule, in dem sich alle Beteiligten gut kennen und gern gemeinsam Zeit verbringen, wieder andere bevorzugen Parallelbeziehungen, bei denen sich die einzelnen Partnerschaften kaum überschneiden. Und manche leben zu dritt in einer Triade mit drei gleichberechtigten Partnern. Wer tiefer einsteigen möchte, findet in den verlinkten Artikeln die jeweiligen Details.
 
 ## Warum die Unterscheidung praktisch zählt
 
@@ -62,7 +62,7 @@ Genau dafür ist **Roster** gebaut: eine Privacy-First-App, die sich nicht auf e
 
 > Roster wertet nichts aus und schickt nichts an einen Server. Deine Beziehungen gehen niemanden etwas an außer dich.
 
-Wenn du dich fragst, ob feste Kategorien überhaupt zu deinem Beziehungsleben passen, oder ob du sie lieber ganz hinter dir lässt, lohnt sich ein Blick in unseren ausführlichen Vergleich [Beziehungsanarchie vs. Polyamorie](/blog/beziehungsanarchie-vs-polyamorie) – dort gehen wir im Detail darauf ein, wann welches Modell mehr Sinn ergibt und woran du merkst, welches zu dir passt.
+Wenn du dich fragst, ob feste Kategorien überhaupt zu deinem Beziehungsleben passen, oder ob du sie lieber ganz hinter dir lässt, lohnt sich ein Blick in unseren ausführlichen Vergleich [Beziehungsanarchie vs. Polyamorie](/blog/beziehungsanarchie-vs-polyamorie/) – dort gehen wir im Detail darauf ein, wann welches Modell mehr Sinn ergibt und woran du merkst, welches zu dir passt.
 
 ## Häufige Fragen
 
@@ -73,7 +73,7 @@ Nein. Offene Beziehungen sind meist sexuell offen, aber romantisch exklusiv – 
 Polygamie ist eine Mehrfachehe und wird in den meisten westlichen Rechtssystemen nicht anerkannt, teils ist sie sogar strafbar. Polyamorie ist ein Beziehungsstil ohne Anspruch auf Mehrfachehe, deshalb stellt sich die Frage der Eheanerkennung dort in der Praxis meist gar nicht.
 
 **Was ist Beziehungsanarchie genau?**
-Beziehungsanarchie lehnt vorgegebene Hierarchien und feste Kategorien wie „Partner" oder „nur Freundschaft" ab. Jede Beziehung wird individuell verhandelt. Mehr dazu in unserem [ausführlichen Vergleich](/blog/beziehungsanarchie-vs-polyamorie).
+Beziehungsanarchie lehnt vorgegebene Hierarchien und feste Kategorien wie „Partner" oder „nur Freundschaft" ab. Jede Beziehung wird individuell verhandelt. Mehr dazu in unserem [ausführlichen Vergleich](/blog/beziehungsanarchie-vs-polyamorie/).
 
 **Funktioniert Roster nur für Polyamorie?**
 Nein. Roster funktioniert für jede Form einvernehmlicher Nicht-Monogamie – offene Beziehungen, klassische Polyamorie, Beziehungsanarchie, Solo-Poly und mehr.

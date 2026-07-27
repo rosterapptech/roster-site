@@ -19,9 +19,9 @@ Ett klassiskt veto fungerar så här: en person i en befintlig (ofta kallad "pri
 
 **Det ignorerar den tredje personens autonomi.** Den person vars relation avslutas hade oftast ingen röst i beslutet – dennes känslor och investering görs i praktiken ogiltiga.
 
-**Det ersätter samtycke med kontroll.** Istället för att alla tre förhandlar tillsammans om vad som fungerar för alla, bestämmer en person över de andra två personernas relation. Läs mer om skillnaden mellan kontroll och äkta överenskommelse i artikeln [Regler vs. överenskommelser i polyamori](/sv/blog/regler-overenskommelser-polyamori).
+**Det ersätter samtycke med kontroll.** Istället för att alla tre förhandlar tillsammans om vad som fungerar för alla, bestämmer en person över de andra två personernas relation. Läs mer om skillnaden mellan kontroll och äkta överenskommelse i artikeln [Regler vs. överenskommelser i polyamori](/sv/blog/regler-overenskommelser-polyamori/).
 
-**Det förskjuter det egentliga problemet.** Önskan om ett veto uppstår oftast ur osäkerhet eller svartsjuka i den befintliga relationen. Vetot hanterar dock inte den osäkerheten, utan tar bara bort dess orsak utifrån – utan att bearbeta den underliggande känslan. Läs mer i artikeln [Svartsjuka i polyamori](/sv/blog/svaartsjuka-polyamori).
+**Det förskjuter det egentliga problemet.** Önskan om ett veto uppstår oftast ur osäkerhet eller svartsjuka i den befintliga relationen. Vetot hanterar dock inte den osäkerheten, utan tar bara bort dess orsak utifrån – utan att bearbeta den underliggande känslan. Läs mer i artikeln [Svartsjuka i polyamori](/sv/blog/svaartsjuka-polyamori/).
 
 **Det skapar strukturell ojämlikhet.** Relationer med veto etablerar automatiskt en hierarki där en koppling när som helst kan återkallas och den andra inte – oavsett hur djup den "återkallbara" relationen faktiskt är.
 
@@ -48,7 +48,7 @@ Ett veto känns för vissa som trygghet, särskilt i den inledande fasen av att 
 
 ## Håll överenskommelser rättvisa och synliga
 
-Överenskommelser fungerar bäst när de är tydliga och synliga för alla inblandade, istället för att förbli implicita eller ensidiga. **Roster** hjälper dig att notera rättvisa, gemensamt förhandlade överenskommelser för varje koppling i ditt [polycule](/sv/blog/vad-ar-ett-polycule) – transparent för alla, sparat lokalt på din enhet.
+Överenskommelser fungerar bäst när de är tydliga och synliga för alla inblandade, istället för att förbli implicita eller ensidiga. **Roster** hjälper dig att notera rättvisa, gemensamt förhandlade överenskommelser för varje koppling i ditt [polycule](/sv/blog/vad-ar-ett-polycule/) – transparent för alla, sparat lokalt på din enhet.
 
 ## Vanliga frågor
 

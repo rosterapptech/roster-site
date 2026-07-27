@@ -13,7 +13,7 @@ Talvez você tenha percebido que o modelo de relacionamento clássico não combi
 
 Poliamoria significa manter, de forma consensual, vários relacionamentos amorosos ao mesmo tempo, com o conhecimento de todas as pessoas envolvidas. A palavra-chave é **consensual**: a poliamoria é o oposto da traição. Trata-se de honestidade, transparência e construir relacionamentos juntos — não de segredos.
 
-A poliamoria é uma das várias formas de não monogamia ética (ENM). Também fazem parte dela os relacionamentos abertos, a [anarquia relacional](/pt/blog/anarquia-relacional-vs-poliamoria-pt) e o swing. O que todas têm em comum: consentimento e comunicação.
+A poliamoria é uma das várias formas de não monogamia ética (ENM). Também fazem parte dela os relacionamentos abertos, a [anarquia relacional](/pt/blog/anarquia-relacional-vs-poliamoria-pt/) e o swing. O que todas têm em comum: consentimento e comunicação.
 
 ## Os mitos mais persistentes
 
@@ -23,7 +23,7 @@ A poliamoria é uma das várias formas de não monogamia ética (ENM). Também f
 
 **"É só por causa do sexo."** A poliamoria gira em torno do amor e do relacionamento, não principalmente do sexo. Alguns relacionamentos poli nem sequer são sexuais.
 
-**"Se você é poli, nunca sente ciúme."** Pessoas poliamorosas também sentem ciúme. A diferença está em como ele é gerenciado abertamente — mais sobre isso no nosso artigo sobre [ciúme](/pt/blog/ciumes-poliamoria).
+**"Se você é poli, nunca sente ciúme."** Pessoas poliamorosas também sentem ciúme. A diferença está em como ele é gerenciado abertamente — mais sobre isso no nosso artigo sobre [ciúme](/pt/blog/ciumes-poliamoria/).
 
 ## Os primeiros passos
 
@@ -33,7 +33,7 @@ Antes de falar com outras pessoas sobre poliamoria, vale a pena olhar para dentr
 
 ### 2. Aprenda o vocabulário
 
-Metamour, compersão, polycule, NRE — os termos ajudam você a se expressar e a entender os outros. Nosso [glossário](/pt/blog/glossario-poliamoria) é um bom ponto de partida.
+Metamour, compersão, polycule, NRE — os termos ajudam você a se expressar e a entender os outros. Nosso [glossário](/pt/blog/glossario-poliamoria/) é um bom ponto de partida.
 
 ### 3. Comunique-se com honestidade — desde o início
 
@@ -41,7 +41,7 @@ Seja você abrindo um relacionamento existente ou começando do zero na poliamor
 
 ### 4. Espere sentimentos — inclusive os desconfortáveis
 
-O [ciúme](/pt/blog/ciumes-poliamoria), a insegurança e a sensação de sobrecarga costumam fazer parte do processo, especialmente no começo. Não são sinal de fracasso, mas parte do aprendizado. Os sentimentos são sinais, não sinais de pare.
+O [ciúme](/pt/blog/ciumes-poliamoria/), a insegurança e a sensação de sobrecarga costumam fazer parte do processo, especialmente no começo. Não são sinal de fracasso, mas parte do aprendizado. Os sentimentos são sinais, não sinais de pare.
 
 ### 5. Vá devagar
 
@@ -55,7 +55,7 @@ Não espere acertar tudo de primeira. Ninguém acerta. A poliamoria é um caminh
 
 ## Uma ferramenta para o início
 
-Quando a teoria vira prática vivida, rapidamente se acumulam mais pessoas, encontros e detalhes do que dá para guardar na cabeça. O **Roster** foi feito exatamente para esse momento: um app que ajuda você a [organizar](/pt/blog/gerenciar-varios-relacionamentos) suas conexões, refletir sobre seus sentimentos em um diário privado e manter o controle — totalmente local no seu aparelho, sem conta e sem rastreamento. Especialmente no começo, quando tanta coisa é nova, pode ser um alívio ter um lugar tranquilo e privado para isso.
+Quando a teoria vira prática vivida, rapidamente se acumulam mais pessoas, encontros e detalhes do que dá para guardar na cabeça. O **Roster** foi feito exatamente para esse momento: um app que ajuda você a [organizar](/pt/blog/gerenciar-varios-relacionamentos/) suas conexões, refletir sobre seus sentimentos em um diário privado e manter o controle — totalmente local no seu aparelho, sem conta e sem rastreamento. Especialmente no começo, quando tanta coisa é nova, pode ser um alívio ter um lugar tranquilo e privado para isso.
 
 ## Você não precisa descobrir tudo sozinho
 

@@ -88,7 +88,7 @@ Vi byggde **Polycule Map** i **Roster** just för situationer som Maras: en egon
 
 <!-- SCREENSHOT: polycule-map -->
 
-Och om du letar efter konkreta system för att strukturera vardagen med flera relationer – tid, kommunikation och balans inräknat – går [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer) djupare in på det.
+Och om du letar efter konkreta system för att strukturera vardagen med flera relationer – tid, kommunikation och balans inräknat – går [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer/) djupare in på det.
 
 ## Vanliga frågor om polycules
 

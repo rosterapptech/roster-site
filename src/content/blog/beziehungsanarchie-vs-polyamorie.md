@@ -19,7 +19,7 @@ Anders gesagt: Polyamorie ist eine Beziehungsform, Beziehungsanarchie ist eine B
 
 ## Polyamorie im Detail
 
-In der Polyamorie geht es um mehrere parallele Liebesbeziehungen. Viele poly Menschen arbeiten dabei mit Strukturen: Es gibt vielleicht einen Nesting Partner, mit dem man zusammenlebt, und weitere Beziehungen daneben. Manche poly Konstellationen sind ausdrücklich **hierarchisch** – mit Primär- und Sekundärpartnern, bei denen bestimmte Beziehungen Vorrang haben. Andere sind **egalitär** und behandeln alle Beziehungen gleichwertig. Entscheidend ist: Polyamorie sagt nichts darüber aus, ob du Hierarchien ablehnst oder nutzt. Mehr zu den Grundbegriffen findest du in unserem [Polyamorie-Glossar](/blog/polyamorie-glossar).
+In der Polyamorie geht es um mehrere parallele Liebesbeziehungen. Viele poly Menschen arbeiten dabei mit Strukturen: Es gibt vielleicht einen Nesting Partner, mit dem man zusammenlebt, und weitere Beziehungen daneben. Manche poly Konstellationen sind ausdrücklich **hierarchisch** – mit Primär- und Sekundärpartnern, bei denen bestimmte Beziehungen Vorrang haben. Andere sind **egalitär** und behandeln alle Beziehungen gleichwertig. Entscheidend ist: Polyamorie sagt nichts darüber aus, ob du Hierarchien ablehnst oder nutzt. Mehr zu den Grundbegriffen findest du in unserem [Polyamorie-Glossar](/blog/polyamorie-glossar/).
 
 ## Beziehungsanarchie im Detail
 
@@ -49,7 +49,7 @@ Viele Menschen bewegen sich übrigens im Laufe der Zeit zwischen diesen Konzepte
 
 ## Egal welches Modell – der Überblick zählt
 
-Ob du nun klassisch poly lebst oder Beziehungsanarchie für dich entdeckst: In beiden Fällen führst du mehrere bedeutsame Verbindungen, die Aufmerksamkeit und Fürsorge brauchen. **Roster** ist bewusst offen gebaut – du legst selbst fest, welche Art von Verbindung du festhältst, ganz ohne vorgegebene Hierarchie. So passt die App zu deiner Definition von Beziehung, nicht umgekehrt. Wie du dabei den Überblick behältst, liest du in unserem Artikel über das [Organisieren mehrerer Beziehungen](/blog/mehrere-beziehungen-managen).
+Ob du nun klassisch poly lebst oder Beziehungsanarchie für dich entdeckst: In beiden Fällen führst du mehrere bedeutsame Verbindungen, die Aufmerksamkeit und Fürsorge brauchen. **Roster** ist bewusst offen gebaut – du legst selbst fest, welche Art von Verbindung du festhältst, ganz ohne vorgegebene Hierarchie. So passt die App zu deiner Definition von Beziehung, nicht umgekehrt. Wie du dabei den Überblick behältst, liest du in unserem Artikel über das [Organisieren mehrerer Beziehungen](/blog/mehrere-beziehungen-managen/).
 
 ## Häufige Fragen
 

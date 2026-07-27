@@ -21,7 +21,7 @@ Forskellige undersøgelser og studier fra de seneste år, primært fra USA, tegn
 
 ## Hvorfor præcise tal er svære at fastslå
 
-**Forskelle i definition.** Alt efter om et studie måler polyamori, åbne forhold og swinging samlet eller adskilt, varierer resultaterne betydeligt. Læs mere om begreberne i artiklen [Etisk ikke-monogami](/da/blog/etisk-ikke-monogami).
+**Forskelle i definition.** Alt efter om et studie måler polyamori, åbne forhold og swinging samlet eller adskilt, varierer resultaterne betydeligt. Læs mere om begreberne i artiklen [Etisk ikke-monogami](/da/blog/etisk-ikke-monogami/).
 
 **Mørketal på grund af tilbageholdenhed.** Ikke alle, der lever polyamort, er villige til åbent at angive det i en undersøgelse – især i regioner eller brancher, hvor ikke-monogami stigmatiseres eller endda medfører ulemper.
 
@@ -33,7 +33,7 @@ Forskning tyder på, at ENM-forhold forekommer på tværs af stort set alle alde
 
 ## Hvad det betyder for dig
 
-Disse tal er primært nyttige i én henseende: De viser, at mennesker, der lever polyamort, ikke er en lillebitte marginalgruppe, men en del af et voksende, mere synligt spektrum af relationsformer. Den, der selv lever polyamort eller overvejer det, er dermed langt mindre alene, end den offentlige opfattelse nogle gange antyder. En god start for alle, der er nye på området, findes i artiklen [Polyamori for begyndere](/da/blog/polyamori-for-begyndere).
+Disse tal er primært nyttige i én henseende: De viser, at mennesker, der lever polyamort, ikke er en lillebitte marginalgruppe, men en del af et voksende, mere synligt spektrum af relationsformer. Den, der selv lever polyamort eller overvejer det, er dermed langt mindre alene, end den offentlige opfattelse nogle gange antyder. En god start for alle, der er nye på området, findes i artiklen [Polyamori for begyndere](/da/blog/polyamori-for-begyndere/).
 
 ## Voksende synlighed frem for voksende antal
 
@@ -41,7 +41,7 @@ Det er mere sandsynligt, at den stigende samfundsmæssige synlighed af polyamori
 
 ## Struktur til dit eget polycule, uafhængigt af statistik
 
-Uanset hvor udbredt polyamori statistisk set er – den, der selv har flere forhold, har brug for praktiske værktøjer til det. **Roster** hjælper med at visualisere dit [polycule](/da/blog/hvad-er-et-polycule) og bevare overblikket over aftaler og terminer, helt uafhængigt af hvor mange andre mennesker der lever på lignende vis. Alle data forbliver lokale på din enhed.
+Uanset hvor udbredt polyamori statistisk set er – den, der selv har flere forhold, har brug for praktiske værktøjer til det. **Roster** hjælper med at visualisere dit [polycule](/da/blog/hvad-er-et-polycule/) og bevare overblikket over aftaler og terminer, helt uafhængigt af hvor mange andre mennesker der lever på lignende vis. Alle data forbliver lokale på din enhed.
 
 ## Ofte stillede spørgsmål
 

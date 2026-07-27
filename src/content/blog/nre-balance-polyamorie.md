@@ -21,7 +21,7 @@ Das Problem ist nicht die NRE selbst, sondern was sie unbemerkt mit der Zeit- un
 
 - **Zeit verschiebt sich unbemerkt.** Wer in NRE steckt, sagt öfter spontan Verabredungen mit der neuen Person zu – auf Kosten von Zeit, die eigentlich für bestehende Partner reserviert war.
 - **Vergleiche entstehen von selbst.** Bestehende Partner spüren oft, dass Gespräche kürzer, Nachrichten seltener oder die Präsenz beim gemeinsamen Abend dünner werden – auch wenn niemand das absichtlich tut.
-- **Eifersucht wird durch Schweigen verstärkt.** Nicht die NRE selbst löst Konflikte aus, sondern das Gefühl, im Unklaren gelassen zu werden. Mehr dazu im Artikel [Eifersucht in der Polyamorie](/blog/eifersucht-polyamorie).
+- **Eifersucht wird durch Schweigen verstärkt.** Nicht die NRE selbst löst Konflikte aus, sondern das Gefühl, im Unklaren gelassen zu werden. Mehr dazu im Artikel [Eifersucht in der Polyamorie](/blog/eifersucht-polyamorie/).
 
 ## Strategien, um NRE zu balancieren
 
@@ -31,7 +31,7 @@ Bestehende Partner vorab wissen zu lassen, dass eine neue Verbindung entsteht un
 
 ### 2. Feste Zeiten bleiben fest
 
-Genau in der NRE-Phase ist es entscheidend, vereinbarte Zeitfenster mit bestehenden Partnern nicht spontan zu verschieben. Wer eh schon feste Rhythmen hat, findet dazu mehr im Artikel [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen).
+Genau in der NRE-Phase ist es entscheidend, vereinbarte Zeitfenster mit bestehenden Partnern nicht spontan zu verschieben. Wer eh schon feste Rhythmen hat, findet dazu mehr im Artikel [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen/).
 
 ### 3. Aktiv reinvestieren, nicht nur nicht vernachlässigen
 
@@ -47,7 +47,7 @@ Das ist eine der häufigsten Ängste in der Polyamorie – und meistens geht es 
 
 ## Werkzeuge, die beim Balancieren helfen
 
-Ein Blick auf den gesamten [Polycule](/blog/was-ist-ein-polycule) hilft, NRE-bedingte Verschiebungen früh zu erkennen, statt sie erst zu bemerken, wenn eine Beziehung sich bereits vernachlässigt fühlt. **Roster** wurde genau dafür entwickelt: Mit dem Vibe-Radar siehst du auf einen Blick, welche Verbindung gerade wenig Aufmerksamkeit bekommen hat, und kannst feste Zeitrhythmen pro Beziehung festhalten – ohne Konto, alle Daten lokal auf deinem Gerät.
+Ein Blick auf den gesamten [Polycule](/blog/was-ist-ein-polycule/) hilft, NRE-bedingte Verschiebungen früh zu erkennen, statt sie erst zu bemerken, wenn eine Beziehung sich bereits vernachlässigt fühlt. **Roster** wurde genau dafür entwickelt: Mit dem Vibe-Radar siehst du auf einen Blick, welche Verbindung gerade wenig Aufmerksamkeit bekommen hat, und kannst feste Zeitrhythmen pro Beziehung festhalten – ohne Konto, alle Daten lokal auf deinem Gerät.
 
 ## Häufige Fragen
 

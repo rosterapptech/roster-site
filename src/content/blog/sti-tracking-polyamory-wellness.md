@@ -16,7 +16,7 @@ faq:
     a: 'Many health and cycle-tracking apps are built around accounts and cloud sync, and were never designed for a relationship network with multiple connections. Data this sensitive deserves a tool that stays local by design.'
 ---
 
-Talking about testing rhythms and protection is one thing – actually keeping them straight across multiple connections is another. For how to actually have those conversations without it being awkward, and how fluid bonding agreements work in detail, see [Safer Sex and STI Testing in Polyamorous Relationships](/en/blog/safer-sex-polyamory). This article picks up a step later: you have had the conversations, the agreements are in place – but with three, four, or five connections, how do you actually keep track of who was tested when, which agreement currently applies, and when the next check-in is due?
+Talking about testing rhythms and protection is one thing – actually keeping them straight across multiple connections is another. For how to actually have those conversations without it being awkward, and how fluid bonding agreements work in detail, see [Safer Sex and STI Testing in Polyamorous Relationships](/en/blog/safer-sex-polyamory/). This article picks up a step later: you have had the conversations, the agreements are in place – but with three, four, or five connections, how do you actually keep track of who was tested when, which agreement currently applies, and when the next check-in is due?
 
 ## Why keeping track gets harder as your network grows
 

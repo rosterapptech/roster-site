@@ -146,7 +146,7 @@ const schema = {
         <p class="lede" style="margin-bottom:48px">Cada pestaña de Roster asume una parte de la carga mental que conllevan múltiples relaciones.</p>
         <div class="grid">
           {features.map((f) => (
-            <a href={`/es/features/${f.slug}`} class="card feature">
+            <a href={`/es/features/${f.slug}/`} class="card feature">
               {f.vio ? <Vio size={34} /> : <span class="feat-icon" set:html={f.icon} />}
               <h3>{f.name}</h3>
               <p>{f.desc}</p>

@@ -39,7 +39,7 @@ Um acordo simples, mas eficaz: anunciar planos novos com margem de tempo suficie
 
 ## Quanta transparência é necessária?
 
-Depende muito do modelo de relacionamento escolhido. Quem vive segundo o modelo [kitchen table](/pt/blog/kitchen-table-vs-poliamoria-paralela-pt) costuma compartilhar abertamente quando passa tempo com quem. Quem se organiza de forma mais [paralela](/pt/blog/kitchen-table-vs-poliamoria-paralela-pt) geralmente só precisa da informação "esse dia não estou disponível", sem mais detalhes. Ambas as abordagens são legítimas, desde que o nível de transparência escolhido tenha sido combinado com todas as pessoas envolvidas.
+Depende muito do modelo de relacionamento escolhido. Quem vive segundo o modelo [kitchen table](/pt/blog/kitchen-table-vs-poliamoria-paralela-pt/) costuma compartilhar abertamente quando passa tempo com quem. Quem se organiza de forma mais [paralela](/pt/blog/kitchen-table-vs-poliamoria-paralela-pt/) geralmente só precisa da informação "esse dia não estou disponível", sem mais detalhes. Ambas as abordagens são legítimas, desde que o nível de transparência escolhido tenha sido combinado com todas as pessoas envolvidas.
 
 ## Quando os encontros colidem
 
@@ -47,11 +47,11 @@ Colisões acontecem mais cedo ou mais tarde, mesmo com um bom sistema: doenças,
 
 ## Planejamento e justiça emocional
 
-Um sistema puramente de gestão de tempo não basta se a divisão de fundo parece injusta de forma persistente. Se você percebe que um relacionamento sempre sai perdendo de forma estrutural, é melhor conversar sobre isso antes que o ressentimento se acumule. Mais sobre essa questão de fundo no artigo [Gerenciar vários relacionamentos](/pt/blog/gerenciar-varios-relacionamentos).
+Um sistema puramente de gestão de tempo não basta se a divisão de fundo parece injusta de forma persistente. Se você percebe que um relacionamento sempre sai perdendo de forma estrutural, é melhor conversar sobre isso antes que o ressentimento se acumule. Mais sobre essa questão de fundo no artigo [Gerenciar vários relacionamentos](/pt/blog/gerenciar-varios-relacionamentos/).
 
 ## Roster como sistema central
 
-O **Roster** foi pensado exatamente para esse problema: um app que visualiza o seu [polycule](/pt/blog/o-que-e-um-polycule), registra os encontros e detalhes principais de cada conexão, e usa o radar de clima para mostrar qual relacionamento precisa de atenção agora, antes que um conflito de agenda vire um conflito emocional. Todos os dados ficam locais no seu aparelho, sem necessidade de conta nem nuvem.
+O **Roster** foi pensado exatamente para esse problema: um app que visualiza o seu [polycule](/pt/blog/o-que-e-um-polycule/), registra os encontros e detalhes principais de cada conexão, e usa o radar de clima para mostrar qual relacionamento precisa de atenção agora, antes que um conflito de agenda vire um conflito emocional. Todos os dados ficam locais no seu aparelho, sem necessidade de conta nem nuvem.
 
 ## Perguntas frequentes
 

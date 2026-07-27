@@ -70,7 +70,7 @@ All of it local, with no account, no cloud, nothing ever reaching a server. [Ros
 
 ## Where to read next, depending on where you are
 
-Are you still in the phase of casually meeting several people rather than running established relationships? Then start with [What Is a Dating Roster?](/en/blog/what-is-a-dating-roster) — it covers that earlier, more open phase, before loose connections turn into set relationships. Already managing multiple relationships and looking for concrete systems? [Managing Multiple Relationships at Once](/en/blog/managing-multiple-relationships) is the practical guide for that.
+Are you still in the phase of casually meeting several people rather than running established relationships? Then start with [What Is a Dating Roster?](/en/blog/what-is-a-dating-roster/) — it covers that earlier, more open phase, before loose connections turn into set relationships. Already managing multiple relationships and looking for concrete systems? [Managing Multiple Relationships at Once](/en/blog/managing-multiple-relationships/) is the practical guide for that.
 
 ## Frequently asked questions
 

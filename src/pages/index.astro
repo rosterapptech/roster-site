@@ -229,7 +229,7 @@ const schema = {
         <div class="grid">
           {
             features.map((f) => (
-              <a href={`/features/${f.slug}`} class="card feature">
+              <a href={`/features/${f.slug}/`} class="card feature">
                 {f.vio ? <Vio size={34} /> : <span class="feat-icon" set:html={f.icon} />}
                 <h3>{f.name}</h3>
                 <p>{f.desc}</p>

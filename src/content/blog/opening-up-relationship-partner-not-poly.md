@@ -22,7 +22,7 @@ This article is for you if you're standing exactly at that point: you feel a pul
 
 ## Where you are if you're the only poly one
 
-This situation is different from a couple who has already decided together on an asymmetric structure. If you've been living for a while in a setup where one partner stays monogamous and the other has multiple relationships, the article on [mono-poly relationships](/en/blog/mono-poly-relationships) is more relevant — it describes exactly that already-established everyday dynamic. What this article covers is the step before that: the first honest conversation, where nothing has been decided yet.
+This situation is different from a couple who has already decided together on an asymmetric structure. If you've been living for a while in a setup where one partner stays monogamous and the other has multiple relationships, the article on [mono-poly relationships](/en/blog/mono-poly-relationships/) is more relevant — it describes exactly that already-established everyday dynamic. What this article covers is the step before that: the first honest conversation, where nothing has been decided yet.
 
 That also means there's no certainty yet about what the relationship will look like. That uncertainty is exactly what makes the topic so hard to raise for many people. You're afraid of breaking something that has worked so far — and so you put the conversation off for months, until the internal pressure gets too big and it comes out too abruptly, or at the wrong moment.
 
@@ -75,7 +75,7 @@ A few things belong to an honest process, even when they're uncomfortable:
 
 Everything in this process — timing, framing, expectations — rests on the same base: communication that's more honest than what many couples are used to. Concretely, that means naming feelings instead of hinting at them, asking instead of assuming, and admitting uncertainty instead of hiding it behind false confidence.
 
-If jealousy, fear, or feelings of loss come up for you or your partner during this process, that's not a sign something is going wrong — it's material to work with. The article [Jealousy in Polyamorous Relationships](/en/blog/jealousy-polyamory) covers seven concrete strategies that help even at this early stage, before a second relationship even exists.
+If jealousy, fear, or feelings of loss come up for you or your partner during this process, that's not a sign something is going wrong — it's material to work with. The article [Jealousy in Polyamorous Relationships](/en/blog/jealousy-polyamory/) covers seven concrete strategies that help even at this early stage, before a second relationship even exists.
 
 ## If the answer is no
 

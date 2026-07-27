@@ -19,9 +19,9 @@ A classic veto power works like this: one person in an existing (often called "p
 
 **It ignores the third person's autonomy.** The person whose relationship gets ended usually had no voice in the decision – their feelings and investment are effectively nullified.
 
-**It replaces consent with control.** Instead of all three people negotiating together what works for everyone, one person decides on the relationship of the other two. More on the difference between control and genuine agreement in [Rules vs. Agreements in Polyamory](/en/blog/polyamory-rules-agreements).
+**It replaces consent with control.** Instead of all three people negotiating together what works for everyone, one person decides on the relationship of the other two. More on the difference between control and genuine agreement in [Rules vs. Agreements in Polyamory](/en/blog/polyamory-rules-agreements/).
 
-**It displaces the actual problem.** The desire for a veto usually comes from insecurity or jealousy within the existing relationship. But the veto doesn't address that insecurity – it just eliminates its source from the outside, without working through the underlying feeling. More on that in [Jealousy in Polyamory](/en/blog/jealousy-polyamory).
+**It displaces the actual problem.** The desire for a veto usually comes from insecurity or jealousy within the existing relationship. But the veto doesn't address that insecurity – it just eliminates its source from the outside, without working through the underlying feeling. More on that in [Jealousy in Polyamory](/en/blog/jealousy-polyamory/).
 
 **It creates structural inequality.** Relationships with veto power automatically establish a hierarchy in which one connection is revocable at any time and the other isn't – regardless of how deep the "revocable" relationship actually is.
 
@@ -48,7 +48,7 @@ Veto power feels like security to some, especially early in opening up a relatio
 
 ## Keeping agreements fair and visible
 
-Agreements work best when they're clear and visible to everyone involved, rather than staying implicit or one-sided. **Roster** helps you record fair, jointly negotiated agreements for every connection in your [polycule](/en/blog/what-is-a-polycule) – transparent for everyone, stored locally on your device.
+Agreements work best when they're clear and visible to everyone involved, rather than staying implicit or one-sided. **Roster** helps you record fair, jointly negotiated agreements for every connection in your [polycule](/en/blog/what-is-a-polycule/) – transparent for everyone, stored locally on your device.
 
 ## Frequently asked questions
 

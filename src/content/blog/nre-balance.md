@@ -21,7 +21,7 @@ The problem isn't NRE itself, but what it quietly does to how you distribute tim
 
 - **Time shifts without anyone noticing.** People in the middle of NRE tend to say yes to spontaneous plans with the new person more often – at the expense of time that was actually set aside for existing partners.
 - **Comparisons happen on their own.** Existing partners often sense that conversations get shorter, messages less frequent, or presence during a shared evening thinner – even when nobody's doing it on purpose.
-- **Silence amplifies jealousy.** It's rarely NRE itself that triggers conflict, but the feeling of being left in the dark. More on this in [Jealousy in Polyamory](/en/blog/jealousy-polyamory).
+- **Silence amplifies jealousy.** It's rarely NRE itself that triggers conflict, but the feeling of being left in the dark. More on this in [Jealousy in Polyamory](/en/blog/jealousy-polyamory/).
 
 ## Strategies for balancing NRE
 
@@ -31,7 +31,7 @@ Letting existing partners know in advance that a new connection is forming, and 
 
 ### 2. Fixed time stays fixed
 
-Precisely during the NRE phase, it's crucial not to spontaneously reschedule agreed time with existing partners. If you already have solid rhythms in place, you'll find more on this in [Managing Multiple Relationships at Once](/en/blog/managing-multiple-relationships).
+Precisely during the NRE phase, it's crucial not to spontaneously reschedule agreed time with existing partners. If you already have solid rhythms in place, you'll find more on this in [Managing Multiple Relationships at Once](/en/blog/managing-multiple-relationships/).
 
 ### 3. Actively reinvest, don't just avoid neglecting
 
@@ -47,7 +47,7 @@ This is one of the most common fears in polyamory – and it's usually less abou
 
 ## Tools that help with balancing
 
-A look at the whole [polycule](/en/blog/what-is-a-polycule) helps you spot NRE-driven shifts early, instead of only noticing once a relationship already feels neglected. **Roster** was built exactly for this: with the Vibe Radar you can see at a glance which connection has been getting little attention lately, and log fixed time rhythms per relationship – no account needed, all data stays local on your device.
+A look at the whole [polycule](/en/blog/what-is-a-polycule/) helps you spot NRE-driven shifts early, instead of only noticing once a relationship already feels neglected. **Roster** was built exactly for this: with the Vibe Radar you can see at a glance which connection has been getting little attention lately, and log fixed time rhythms per relationship – no account needed, all data stays local on your device.
 
 ## Frequently asked questions
 

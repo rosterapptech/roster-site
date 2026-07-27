@@ -15,15 +15,15 @@ Den som möter polyamori för första gången får snabbt intrycket att alla pol
 
 I en polyfidel konstellation förbinder sig alla inblandade till romantisk och oftast även sexuell exklusivitet inom gruppen. Ingen letar aktivt efter nya partner, och om intresse för någon utanför gruppen ändå uppstår är det ett beslut som hela gruppen fattar tillsammans – inte något en enskild person bestämmer själv. Vanliga gruppstorlekar är tre (en triad) eller fyra (en quad) personer, och det krävs inte att varje medlem är romantiskt kopplad till alla andra – det avgörande är den gemensamma överenskommelsen att förbli sluten.
 
-Se grundbegreppen inom polyamori i vår [Polyamori-ordlista](/sv/blog/polyamori-ordlista).
+Se grundbegreppen inom polyamori i vår [Polyamori-ordlista](/sv/blog/polyamori-ordlista/).
 
 ## Polyfidelitet vs. ett throuple: inte samma sak
 
-Ett vanligt missförstånd är att behandla throuple och polyfidelitet som synonymer. Det är de inte: ett throuple beskriver bara gruppstorleken – tre personer i en gemensam relation. Om det throuplet är polyfidelt (slutet), eller om enskilda medlemmar får träffa andra utanför gruppen, är en separat överenskommelse. Det finns både öppna och slutna throuples. De exakta skillnaderna går vi igenom i [Throuple & triad: relationer med tre personer förklarade](/sv/blog/throuple-triad-sv).
+Ett vanligt missförstånd är att behandla throuple och polyfidelitet som synonymer. Det är de inte: ett throuple beskriver bara gruppstorleken – tre personer i en gemensam relation. Om det throuplet är polyfidelt (slutet), eller om enskilda medlemmar får träffa andra utanför gruppen, är en separat överenskommelse. Det finns både öppna och slutna throuples. De exakta skillnaderna går vi igenom i [Throuple & triad: relationer med tre personer förklarade](/sv/blog/throuple-triad-sv/).
 
 ## Polyfidelitet vs. kitchen-table-polyamori
 
-Det är också värt att skilja polyfidelitet från kitchen-table-polyamori. Där handlar det om att alla i ett nätverk – metamours inkluderade – kommer tillräckligt bra överens för att sitta vid samma bord, medan nätverket ändå kan förbli öppet för nya partner. Polyfidelitet definieras däremot av gruppens slutenhet, oavsett hur nära eller distanserade medlemmarna är sinsemellan. En mer utförlig jämförelse av liknande modeller hittar du i [Kitchen table vs. parallel polyamori](/sv/blog/kitchen-table-vs-parallel-polyamori-sv).
+Det är också värt att skilja polyfidelitet från kitchen-table-polyamori. Där handlar det om att alla i ett nätverk – metamours inkluderade – kommer tillräckligt bra överens för att sitta vid samma bord, medan nätverket ändå kan förbli öppet för nya partner. Polyfidelitet definieras däremot av gruppens slutenhet, oavsett hur nära eller distanserade medlemmarna är sinsemellan. En mer utförlig jämförelse av liknande modeller hittar du i [Kitchen table vs. parallel polyamori](/sv/blog/kitchen-table-vs-parallel-polyamori-sv/).
 
 ## Varför människor väljer polyfidelitet
 
@@ -43,7 +43,7 @@ Sällan är alla kopplingar inom en triad eller quad exakt lika starka. Ofta fin
 
 ### En persons uppbrott påverkar alla
 
-Lämnar någon gruppen, eller vill öppna upp den, är det inte en fråga mellan två personer utan en gruppfråga. De kvarvarande medlemmarna måste omförhandla hur man går vidare – strukturellt jämförbart med ett [uppbrott inom polycule](/sv/blog/uppbrott-polyamori), fast med fler inblandade samtidigt.
+Lämnar någon gruppen, eller vill öppna upp den, är det inte en fråga mellan två personer utan en gruppfråga. De kvarvarande medlemmarna måste omförhandla hur man går vidare – strukturellt jämförbart med ett [uppbrott inom polycule](/sv/blog/uppbrott-polyamori/), fast med fler inblandade samtidigt.
 
 ### Isolering utåt
 
@@ -51,11 +51,11 @@ Eftersom nya kontakter medvetet utesluts kan en polyfidel grupp bli frånkopplad
 
 ## Vad som håller polyfidelitet stabilt
 
-Tydliga överenskommelser som regelbundet ses över betyder här ännu mer än i mer öppna modeller, eftersom det inte finns någon buffertzon mot utomstående. Att i förväg ha bestämt när och hur man pratar om en möjlig öppning förebygger senare sprickor. Och även i en sluten grupp är det viktigt att fördela tid och uppmärksamhet mellan varje koppling – se [Hantera flera relationer](/sv/blog/hantera-flera-relationer) för den praktiska sidan av det.
+Tydliga överenskommelser som regelbundet ses över betyder här ännu mer än i mer öppna modeller, eftersom det inte finns någon buffertzon mot utomstående. Att i förväg ha bestämt när och hur man pratar om en möjlig öppning förebygger senare sprickor. Och även i en sluten grupp är det viktigt att fördela tid och uppmärksamhet mellan varje koppling – se [Hantera flera relationer](/sv/blog/hantera-flera-relationer/) för den praktiska sidan av det.
 
 ## Verktyg som hjälper
 
-Även en sluten grupp har nytta av att hålla varje enskild koppling synlig – vem som senast sågs med vem, vilka ämnen som fortfarande är öppna, hur var och en mår just nu. **Roster** kartlägger varje relation inom ditt [polycule](/sv/blog/vad-ar-ett-polycule) separat, utan inbyggd hierarki och utan konto – all din data stannar på din enhet.
+Även en sluten grupp har nytta av att hålla varje enskild koppling synlig – vem som senast sågs med vem, vilka ämnen som fortfarande är öppna, hur var och en mår just nu. **Roster** kartlägger varje relation inom ditt [polycule](/sv/blog/vad-ar-ett-polycule/) separat, utan inbyggd hierarki och utan konto – all din data stannar på din enhet.
 
 ## Vanliga frågor
 

@@ -57,33 +57,33 @@ Inom den här definitionen finns enormt mycket utrymme. Fyra konstellationer dyk
 
 ### Hierarkiskt eller icke-hierarkiskt
 
-I hierarkiska konstellationer finns en "primär" relation med extra tyngd – till exempel gemensamt boende eller ekonomi – vid sidan av ytterligare, "sekundära" förbindelser. Icke-hierarkiska modeller avvisar medvetet den rangordningen och försöker behandla alla relationer så jämbördigt som möjligt. Vilken modell som passar bäst beror mycket på de inblandade personerna – artikeln [Hierarkisk vs. icke-hierarkisk polyamori](/sv/blog/hierarkisk-vs-icke-hierarkisk-polyamori) jämför båda i detalj.
+I hierarkiska konstellationer finns en "primär" relation med extra tyngd – till exempel gemensamt boende eller ekonomi – vid sidan av ytterligare, "sekundära" förbindelser. Icke-hierarkiska modeller avvisar medvetet den rangordningen och försöker behandla alla relationer så jämbördigt som möjligt. Vilken modell som passar bäst beror mycket på de inblandade personerna – artikeln [Hierarkisk vs. icke-hierarkisk polyamori](/sv/blog/hierarkisk-vs-icke-hierarkisk-polyamori/) jämför båda i detalj.
 
 ### Triader
 
-En triad beskriver tre personer som står i relation till varandra – ibland alla tre jämbördigt, ibland som två befintliga partner plus en tredje person. De olika formerna och de vanliga fallgroparna gås igenom i artikeln [Throuple & triad förklarat enkelt](/sv/blog/throuple-triad-sv).
+En triad beskriver tre personer som står i relation till varandra – ibland alla tre jämbördigt, ibland som två befintliga partner plus en tredje person. De olika formerna och de vanliga fallgroparna gås igenom i artikeln [Throuple & triad förklarat enkelt](/sv/blog/throuple-triad-sv/).
 
 ### Solo-polyamori
 
-Solo-polyamoröst levande personer har flera relationer utan att utse någon av dem till den centrala, delade "huvudrelationen" – de förblir strukturellt oberoende i stället för att arbeta mot en samboende relation. Artikeln [Solo-polyamori](/sv/blog/solo-polyamori-sv) förklarar hur det ser ut i vardagen.
+Solo-polyamoröst levande personer har flera relationer utan att utse någon av dem till den centrala, delade "huvudrelationen" – de förblir strukturellt oberoende i stället för att arbeta mot en samboende relation. Artikeln [Solo-polyamori](/sv/blog/solo-polyamori-sv/) förklarar hur det ser ut i vardagen.
 
 ### Kitchen table kontra parallellt
 
-Vid "kitchen table"-polyamori känner och gillar i bästa fall alla inblandade och deras metamours varandra – man skulle kunna sitta tillsammans vid samma köksbord. Vid "parallell" polyamori löper de enskilda relationerna medvetet skilt åt, utan att alla inblandade nödvändigtvis behöver känna varandra. Båda synsätten har sin plats, vilket artikeln [Kitchen Table vs. Parallell Polyamori](/sv/blog/kitchen-table-vs-parallel-polyamori-sv) visar.
+Vid "kitchen table"-polyamori känner och gillar i bästa fall alla inblandade och deras metamours varandra – man skulle kunna sitta tillsammans vid samma köksbord. Vid "parallell" polyamori löper de enskilda relationerna medvetet skilt åt, utan att alla inblandade nödvändigtvis behöver känna varandra. Båda synsätten har sin plats, vilket artikeln [Kitchen Table vs. Parallell Polyamori](/sv/blog/kitchen-table-vs-parallel-polyamori-sv/) visar.
 
 ## Besläktade begrepp som lätt skapar förvirring
 
 Tre begrepp dyker ständigt upp tillsammans med polyamori, och de blandas lätt ihop.
 
-Nätverket av relationer som uppstår när flera sammanlänkade partner är inblandade kallas ofta ett **polycule** – artikeln [Vad är ett polycule?](/sv/blog/vad-ar-ett-polycule) förklarar hur sådana nätverk kan se ut och hur man behåller överblicken när de växer.
+Nätverket av relationer som uppstår när flera sammanlänkade partner är inblandade kallas ofta ett **polycule** – artikeln [Vad är ett polycule?](/sv/blog/vad-ar-ett-polycule/) förklarar hur sådana nätverk kan se ut och hur man behåller överblicken när de växer.
 
-Polyamori likställs dessutom ofta med ett **öppet förhållande**, även om de två har olika tyngdpunkter – öppna förhållanden är ofta mer inriktade på sexuell frihet utanför en huvudrelation, medan polyamori vanligtvis innebär flera känslomässigt bundna relationer. De subtila men viktiga skillnaderna beskrivs i artikeln [Polyamori vs. öppet förhållande](/sv/blog/polyamori-vs-oppet-forhallande).
+Polyamori likställs dessutom ofta med ett **öppet förhållande**, även om de två har olika tyngdpunkter – öppna förhållanden är ofta mer inriktade på sexuell frihet utanför en huvudrelation, medan polyamori vanligtvis innebär flera känslomässigt bundna relationer. De subtila men viktiga skillnaderna beskrivs i artikeln [Polyamori vs. öppet förhållande](/sv/blog/polyamori-vs-oppet-forhallande/).
 
-Och slutligen finns **relationsanarki**, som går ett steg längre och principiellt avvisar all hierarki mellan relationer – även den mellan romantiska och vänskapliga förbindelser. Var gränsen mot polyamori exakt går förklaras i artikeln [Relationsanarki vs. polyamori](/sv/blog/relationsanarki-vs-polyamori-sv).
+Och slutligen finns **relationsanarki**, som går ett steg längre och principiellt avvisar all hierarki mellan relationer – även den mellan romantiska och vänskapliga förbindelser. Var gränsen mot polyamori exakt går förklaras i artikeln [Relationsanarki vs. polyamori](/sv/blog/relationsanarki-vs-polyamori-sv/).
 
 ## Från att förstå till att leva det
 
-Att förstå en definition är det första steget – det andra, ofta svårare, är vardagen: hur hanterar man de känslor som oundvikligen dyker upp när en partner tillbringar tid med någon annan? Det ärliga svaret är att svartsjuka hör till för de flesta människor, även i välfungerande polyamorösa relationer, och att den går att hantera bra med rätt verktyg. Artikeln [Svartsjuka i polyamorösa relationer](/sv/blog/svaartsjuka-polyamori) går på djupet med just det.
+Att förstå en definition är det första steget – det andra, ofta svårare, är vardagen: hur hanterar man de känslor som oundvikligen dyker upp när en partner tillbringar tid med någon annan? Det ärliga svaret är att svartsjuka hör till för de flesta människor, även i välfungerande polyamorösa relationer, och att den går att hantera bra med rätt verktyg. Artikeln [Svartsjuka i polyamorösa relationer](/sv/blog/svaartsjuka-polyamori/) går på djupet med just det.
 
 ## Så kan Roster hjälpa till
 

@@ -32,7 +32,7 @@ Solo-poly appellerer ofte til mennesker, der:
 - sætter stor pris på deres autonomi og eget rum,
 - ikke ønsker, at én relation automatisk prioriteres over andre eller over deres eget liv,
 - gerne bor alene og selv styrer hverdagen,
-- er tiltrukket af [relationsanarki](/da/blog/relationsanarki-vs-polyamori-da), da begge koncepter sætter spørgsmålstegn ved hierarkier,
+- er tiltrukket af [relationsanarki](/da/blog/relationsanarki-vs-polyamori-da/), da begge koncepter sætter spørgsmålstegn ved hierarkier,
 - efter en skilsmisse eller børns udflytning bevidst ønsker at leve uafhængigt.
 
 ## Hvordan ser hverdagen ud?
@@ -44,7 +44,7 @@ Det gør to ting særligt vigtige:
 1. **Klar kommunikation.** Fordi solo-poly afviger fra gængse relationsskripts, er det vigtigt tidligt at gøre klart, hvordan du lever relationer – så ingen stiltiende regner med en eskalation hen mod at flytte sammen, som du ikke planlægger.
 2. **Eget overblik.** Uden fælles familiekalender har du brug for et system, der passer til din uafhængighed – et der tilhører dig og ikke er koblet til et bestemt forhold.
 
-Præcis her passer **Roster** godt til solo-poly: appen er centreret om dig, ikke om en husstand eller et hovedforhold. Du holder alle dine forbindelser på et privat sted – vigtige detaljer, vibe-radar for hvert forhold, refleksioner – uden at nogen forbindelse strukturelt stilles over en anden. Og fordi alt forbliver lokalt på din enhed, er din uafhængighed også hvad [privatlivet](/da/blog/polyamori-privatliv) angår bevaret.
+Præcis her passer **Roster** godt til solo-poly: appen er centreret om dig, ikke om en husstand eller et hovedforhold. Du holder alle dine forbindelser på et privat sted – vigtige detaljer, vibe-radar for hvert forhold, refleksioner – uden at nogen forbindelse strukturelt stilles over en anden. Og fordi alt forbliver lokalt på din enhed, er din uafhængighed også hvad [privatlivet](/da/blog/polyamori-privatliv/) angår bevaret.
 
 ## Uafhængighed og nærhed udelukker ikke hinanden
 

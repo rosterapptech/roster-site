@@ -62,7 +62,7 @@ Alt kører lokalt på din enhed, helt uden konto og uden tracking. [Roster kan h
 
 ## Hvor du kan læse videre
 
-Leder du snarere efter en app, der hjælper med at finde nye mennesker, frem for at organisere eksisterende forhold? Den skelnen forklares i [App til polyamori: Organisér forhold i stedet for bare at finde folk](/da/blog/app-til-at-organisere-polyamorose-forhold). Er du i gang med at sammenligne forskellige dating-trackere som Rostr eller Spread? Så hjælper [Rostr, Spread & co.: Hvorfor dating-trackere ikke er polyamori-apps](/da/blog/dating-tracker-vs-polyamori-app) videre. Og til konkrete systemer ud over værktøjer finder du i [Håndtere flere forhold på samme tid](/da/blog/styre-flere-forhold) den praktiske guide.
+Leder du snarere efter en app, der hjælper med at finde nye mennesker, frem for at organisere eksisterende forhold? Den skelnen forklares i [App til polyamori: Organisér forhold i stedet for bare at finde folk](/da/blog/app-til-at-organisere-polyamorose-forhold/). Er du i gang med at sammenligne forskellige dating-trackere som Rostr eller Spread? Så hjælper [Rostr, Spread & co.: Hvorfor dating-trackere ikke er polyamori-apps](/da/blog/dating-tracker-vs-polyamori-app/) videre. Og til konkrete systemer ud over værktøjer finder du i [Håndtere flere forhold på samme tid](/da/blog/styre-flere-forhold/) den praktiske guide.
 
 ## Ofte stillede spørgsmål
 

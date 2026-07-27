@@ -17,8 +17,8 @@ Falar de dinheiro é difícil para muita gente, mesmo em relacionamentos monogâ
 - **Encontros e programas juntos** – jantar fora, passeios, escapadinhas de fim de semana.
 - **Presentes** – em aniversários de namoro, aniversários de vida ou simplesmente porque sim.
 - **Viagens** – escapadas com um ou vários parceiros.
-- **Casa compartilhada** – aluguel, contas e custos de vida se você mora com um [nesting partner](/pt/blog/nesting-partner-explicado-pt).
-- **Cuidado com os filhos** – gastos extras quando há filhos na estrutura familiar; veja [Poliamoria e parentalidade](/pt/blog/poliamoria-parentalidade).
+- **Casa compartilhada** – aluguel, contas e custos de vida se você mora com um [nesting partner](/pt/blog/nesting-partner-explicado-pt/).
+- **Cuidado com os filhos** – gastos extras quando há filhos na estrutura familiar; veja [Poliamoria e parentalidade](/pt/blog/poliamoria-parentalidade/).
 
 ## Modelos para dividir os gastos
 
@@ -38,15 +38,15 @@ Quem mora com um nesting partner costuma manter um caixa comum para aluguel e de
 
 ## Nomeie as desigualdades abertamente
 
-Diferenças financeiras entre relacionamentos são normais, mas se não forem conversadas podem gerar tensão — por exemplo, se um relacionamento pode bancar restaurantes e viagens caras enquanto outro parceiro está mais apertado financeiramente. Isso pode gerar, sem querer, uma pressão comparativa entre metamores. Ajuda nomear isso abertamente: dinheiro não é sinônimo de carinho. Quem tem menos recursos financeiros ainda pode investir a mesma quantidade de tempo, atenção e cuidado; veja também nosso artigo sobre [dividir o tempo com justiça entre vários relacionamentos](/pt/blog/gerenciar-varios-relacionamentos).
+Diferenças financeiras entre relacionamentos são normais, mas se não forem conversadas podem gerar tensão — por exemplo, se um relacionamento pode bancar restaurantes e viagens caras enquanto outro parceiro está mais apertado financeiramente. Isso pode gerar, sem querer, uma pressão comparativa entre metamores. Ajuda nomear isso abertamente: dinheiro não é sinônimo de carinho. Quem tem menos recursos financeiros ainda pode investir a mesma quantidade de tempo, atenção e cuidado; veja também nosso artigo sobre [dividir o tempo com justiça entre vários relacionamentos](/pt/blog/gerenciar-varios-relacionamentos/).
 
 ## Quanta transparência é necessária?
 
-Metamores geralmente não precisam ter acesso às finanças concretas do relacionamento do outro; isso continua sendo privado. O que importa é a transparência dentro de cada relacionamento individual: as duas pessoas devem conhecer as obrigações e limites financeiros uma da outra, especialmente ao planejar uma casa compartilhada ou viagens em conjunto. Mais sobre o equilíbrio entre abertura e privacidade em [Poliamoria e privacidade](/pt/blog/poliamoria-privacidade).
+Metamores geralmente não precisam ter acesso às finanças concretas do relacionamento do outro; isso continua sendo privado. O que importa é a transparência dentro de cada relacionamento individual: as duas pessoas devem conhecer as obrigações e limites financeiros uma da outra, especialmente ao planejar uma casa compartilhada ou viagens em conjunto. Mais sobre o equilíbrio entre abertura e privacidade em [Poliamoria e privacidade](/pt/blog/poliamoria-privacidade/).
 
 ## Revisões periódicas em vez de acordos únicos
 
-Os acordos financeiros não devem ser combinados uma vez e depois esquecidos. Se a renda de alguém muda, um novo relacionamento entra em cena, ou duas pessoas passam a morar juntas, vale a pena retomar a conversa. O artigo [Regras vs. acordos na poliamoria](/pt/blog/regras-acordos-poliamoria) explica como criar acordos que consigam se adaptar com o tempo em vez de ficarem engessados.
+Os acordos financeiros não devem ser combinados uma vez e depois esquecidos. Se a renda de alguém muda, um novo relacionamento entra em cena, ou duas pessoas passam a morar juntas, vale a pena retomar a conversa. O artigo [Regras vs. acordos na poliamoria](/pt/blog/regras-acordos-poliamoria/) explica como criar acordos que consigam se adaptar com o tempo em vez de ficarem engessados.
 
 ## Ferramentas que ajudam
 

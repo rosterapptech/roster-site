@@ -13,37 +13,37 @@ Begrebet "nesting partner" dukker konstant op i poly-fællesskabet, netop fordi 
 
 ## Hvad er en nesting partner helt præcist?
 
-En nesting partner er den person, du bor sammen med og driver en fælles husholdning med – inklusive delt økonomi, hverdagsrutiner og ofte fælles børn eller kæledyr. Ordet "rede" understreger bevidst den praktiske, huslige dimension frem for forholdets følelsesmæssige vægt. Se flere grundbegreber i polyamori i vores [Polyamori-ordbog](/da/blog/polyamori-ordbog).
+En nesting partner er den person, du bor sammen med og driver en fælles husholdning med – inklusive delt økonomi, hverdagsrutiner og ofte fælles børn eller kæledyr. Ordet "rede" understreger bevidst den praktiske, huslige dimension frem for forholdets følelsesmæssige vægt. Se flere grundbegreber i polyamori i vores [Polyamori-ordbog](/da/blog/polyamori-ordbog/).
 
 ## Nesting partner vs. primær partner: ikke det samme
 
-En udbredt misforståelse er, at nesting partner og primær partner automatisk er det samme. I hierarkisk polyamori falder de to roller ofte sammen, men det behøver de ikke: nogle mennesker bor sammen med en partner, de eksplicit ikke kalder "primær", mens et andet forhold, hvor man ikke bor sammen, følelsesmæssigt vejer lige så meget eller mere. Artiklen [Hierarkisk vs. ikke-hierarkisk polyamori](/da/blog/hierarkisk-vs-ikke-hierarkisk-polyamori) går dybere ind i, hvordan rangorden og boligsituation hænger sammen – eller netop ikke gør.
+En udbredt misforståelse er, at nesting partner og primær partner automatisk er det samme. I hierarkisk polyamori falder de to roller ofte sammen, men det behøver de ikke: nogle mennesker bor sammen med en partner, de eksplicit ikke kalder "primær", mens et andet forhold, hvor man ikke bor sammen, følelsesmæssigt vejer lige så meget eller mere. Artiklen [Hierarkisk vs. ikke-hierarkisk polyamori](/da/blog/hierarkisk-vs-ikke-hierarkisk-polyamori/) går dybere ind i, hvordan rangorden og boligsituation hænger sammen – eller netop ikke gør.
 
 ## Hvorfor begrebet er så vigtigt
 
-Uden dette begreb opstår hurtigt den forkerte antagelse, at den, man bor sammen med, automatisk må være "hovedforholdet". Det lægger unødigt pres på partnere, man ikke bor sammen med, som derved kan føle sig som andenprioritet – et tema, der også indgår i artiklen [Metamour: sådan har du en god relation til din partners partner](/da/blog/metamour-forhold). "Nesting partner" skaber her begrebsmæssig klarhed: det er en udtalelse om logistik, ikke om kærlighed.
+Uden dette begreb opstår hurtigt den forkerte antagelse, at den, man bor sammen med, automatisk må være "hovedforholdet". Det lægger unødigt pres på partnere, man ikke bor sammen med, som derved kan føle sig som andenprioritet – et tema, der også indgår i artiklen [Metamour: sådan har du en god relation til din partners partner](/da/blog/metamour-forhold/). "Nesting partner" skaber her begrebsmæssig klarhed: det er en udtalelse om logistik, ikke om kærlighed.
 
 ## Typiske udfordringer med nesting partnere
 
 ### Andre partnere i det fælles hjem
 
-Hvor meget plads får andre forhold i det fælles hjem? Nogle par aftaler klare regler for, hvornår andre partnere må komme på besøg, eller hvor synligt det er. Det er særligt relevant, når der bor børn i husstanden – læs mere i artiklen [Polyamori og forældreskab](/da/blog/polyamori-foraeldreskab).
+Hvor meget plads får andre forhold i det fælles hjem? Nogle par aftaler klare regler for, hvornår andre partnere må komme på besøg, eller hvor synligt det er. Det er særligt relevant, når der bor børn i husstanden – læs mere i artiklen [Polyamori og forældreskab](/da/blog/polyamori-foraeldreskab/).
 
 ### Fordel hverdagen retfærdigt
 
-Den, der bor sammen med en partner, tilbringer uundgåeligt mere fælles tid i hverdagen – madlavning, ærinder, aftener på sofaen. Det bør ikke automatisk betyde, at andre forhold strukturelt kommer i anden række. Faste, synlige tidsrum for alle forbindelser hjælper med dette, se [Planlægning ved flere forhold](/da/blog/planlaegning-flere-forhold).
+Den, der bor sammen med en partner, tilbringer uundgåeligt mere fælles tid i hverdagen – madlavning, ærinder, aftener på sofaen. Det bør ikke automatisk betyde, at andre forhold strukturelt kommer i anden række. Faste, synlige tidsrum for alle forbindelser hjælper med dette, se [Planlægning ved flere forhold](/da/blog/planlaegning-flere-forhold/).
 
 ### Privatliv i et delt hjem
 
-Den, der bor sammen med en partner, deler uundgåeligt mere information om sine andre forhold, end nogen, der bor alene, ville gøre. Hvor meget privatliv man alligevel kan bevare, og hvordan man beskytter følsom information, beskrives i artiklen [Polyamori og privatliv](/da/blog/polyamori-privatliv).
+Den, der bor sammen med en partner, deler uundgåeligt mere information om sine andre forhold, end nogen, der bor alene, ville gøre. Hvor meget privatliv man alligevel kan bevare, og hvordan man beskytter følsom information, beskrives i artiklen [Polyamori og privatliv](/da/blog/polyamori-privatliv/).
 
 ## Når der ikke er nogen nesting partner
 
-Ikke alle polyamorøse mennesker har overhovedet en nesting partner. Den, der bor alene og bevidst ikke tilstræber en fælles boligsituation med nogen af sine partnere, lever ofte solo-polyamorøst. Læs mere i artiklen [Solo-polyamori: flere forhold uden nesting partner](/da/blog/solo-polyamori-da).
+Ikke alle polyamorøse mennesker har overhovedet en nesting partner. Den, der bor alene og bevidst ikke tilstræber en fælles boligsituation med nogen af sine partnere, lever ofte solo-polyamorøst. Læs mere i artiklen [Solo-polyamori: flere forhold uden nesting partner](/da/blog/solo-polyamori-da/).
 
 ## Værktøjer, der hjælper
 
-Med eller uden nesting partner: **Roster** kortlægger hvert forhold i dit [polycule](/da/blog/hvad-er-et-polycule) hver for sig, uanset hvem der bor hos dig, og hvem der ikke gør. På den måde får forhold uden samliv også den plads, de har brug for – helt uden konto, og alle data forbliver på din enhed.
+Med eller uden nesting partner: **Roster** kortlægger hvert forhold i dit [polycule](/da/blog/hvad-er-et-polycule/) hver for sig, uanset hvem der bor hos dig, og hvem der ikke gør. På den måde får forhold uden samliv også den plads, de har brug for – helt uden konto, og alle data forbliver på din enhed.
 
 ## Ofte stillede spørgsmål
 

@@ -9,7 +9,7 @@ tags: ['Roster Dating', 'Dating', 'Organization', 'Communication']
 
 **In short:** Roster Dating – seeing several people at once, casually and without commitment – works best with a simple system: keep track of details per person, stay honest about your own capacity, and communicate openly that there's no exclusivity (yet). Without a system, conversations, dates, and expectations blur together fast – with one, Roster Dating stays exactly what it's supposed to be: a relaxed phase of getting to know people.
 
-Seeing several people right now, texting with even more, and not always sure who said what to whom? Welcome to the daily reality of Roster Dating. What started on TikTok as a casual term for your own dating situation – more on that in [What Is a Dating Roster?](/en/blog/what-is-a-dating-roster) – tends to get messier in practice than the light tone of the phrase suggests.
+Seeing several people right now, texting with even more, and not always sure who said what to whom? Welcome to the daily reality of Roster Dating. What started on TikTok as a casual term for your own dating situation – more on that in [What Is a Dating Roster?](/en/blog/what-is-a-dating-roster/) – tends to get messier in practice than the light tone of the phrase suggests.
 
 ## Why Roster Dating Gets Messy Fast
 
@@ -39,7 +39,7 @@ A roster isn't a fixed structure. People leave it when:
 
 ## Roster Dating and Polyamory: Where the Paths Split or Meet
 
-Some people stay deliberately in Roster Dating mode because they don't want a fixed structure. Others consciously grow several parallel, committed relationships out of their roster – shifting toward polyamory. For a detailed look at how to actually manage that, see [Managing Multiple Relationships at Once](/en/blog/managing-multiple-relationships).
+Some people stay deliberately in Roster Dating mode because they don't want a fixed structure. Others consciously grow several parallel, committed relationships out of their roster – shifting toward polyamory. For a detailed look at how to actually manage that, see [Managing Multiple Relationships at Once](/en/blog/managing-multiple-relationships/).
 
 ## Tools for Your Roster Dating
 

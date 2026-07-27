@@ -38,11 +38,11 @@ This definition makes it clear: there's no such thing as "a little bit polyamoro
 
 ## From cheating to honest opening
 
-Some couples only discover, through an act of infidelity, that one person is drawn to non-monogamy. That can become the starting point for an honest opening – but only if the breach of trust is first named for what it was, rather than retroactively reframed as "basically already polyamory." Anyone genuinely wanting to move toward polyamory or [ethical non-monogamy](/en/blog/ethical-non-monogamy) will find a good starting point in [Polyamory for Beginners](/en/blog/polyamory-for-beginners).
+Some couples only discover, through an act of infidelity, that one person is drawn to non-monogamy. That can become the starting point for an honest opening – but only if the breach of trust is first named for what it was, rather than retroactively reframed as "basically already polyamory." Anyone genuinely wanting to move toward polyamory or [ethical non-monogamy](/en/blog/ethical-non-monogamy/) will find a good starting point in [Polyamory for Beginners](/en/blog/polyamory-for-beginners/).
 
 ## Building honesty into the structure
 
-The best protection against misunderstandings is transparency from the start: clear [agreements instead of one-sided rules](/en/blog/polyamory-rules-agreements), open communication about new connections, and a shared understanding of what's allowed in each relationship. **Roster** helps you record exactly these agreements for every connection in your [polycule](/en/blog/what-is-a-polycule) – transparent for everyone involved and stored locally on your device.
+The best protection against misunderstandings is transparency from the start: clear [agreements instead of one-sided rules](/en/blog/polyamory-rules-agreements/), open communication about new connections, and a shared understanding of what's allowed in each relationship. **Roster** helps you record exactly these agreements for every connection in your [polycule](/en/blog/what-is-a-polycule/) – transparent for everyone involved and stored locally on your device.
 
 ## Frequently asked questions
 

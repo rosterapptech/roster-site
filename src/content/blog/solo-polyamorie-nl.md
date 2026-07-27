@@ -32,7 +32,7 @@ Solo-poly spreekt vaak mensen aan die:
 - hun autonomie en eigen ruimte hoog waarderen,
 - niet willen dat één relatie automatisch voorrang krijgt op andere of op het eigen leven,
 - graag alleen wonen en zelf over hun dagelijks leven beslissen,
-- zich aangetrokken voelen tot [relatieAnarchie](/nl/blog/relatieAnarchie-vs-polyamorie), omdat beide concepten hiërarchieën bevragen,
+- zich aangetrokken voelen tot [relatieAnarchie](/nl/blog/relatieanarchie-vs-polyamorie/), omdat beide concepten hiërarchieën bevragen,
 - na een scheiding of het uitvliegen van kinderen bewust onafhankelijkheid willen leven.
 
 ## Hoe ziet het dagelijks leven eruit?
@@ -44,7 +44,7 @@ Dat maakt twee dingen bijzonder belangrijk:
 1. **Duidelijke communicatie.** Omdat solo-poly afwijkt van gangbare relatiescripts, is het belangrijk vroeg transparant te zijn over hoe jij relaties leeft – zodat niemand stilzwijgend uitgaat van een escalatie richting samenwonen die jij niet plant.
 2. **Eigen overzicht.** Zonder gedeelde familiekalender heb je een systeem nodig dat past bij jouw onafhankelijkheid – één dat van jou is en niet gekoppeld is aan een bepaalde relatie.
 
-Precies hier sluit **Roster** goed aan bij solo-poly: de app is op jou gericht, niet op een huishouden of een hoofdrelatie. Je houdt al je verbindingen op één privéplek bij – belangrijke details, vibe-radar per relatie, reflecties – zonder dat enige verbinding structureel boven de andere wordt geplaatst. En omdat alles lokaal op je apparaat blijft, is je onafhankelijkheid ook wat [privacy](/nl/blog/polyamorie-privacy) betreft gewaarborgd.
+Precies hier sluit **Roster** goed aan bij solo-poly: de app is op jou gericht, niet op een huishouden of een hoofdrelatie. Je houdt al je verbindingen op één privéplek bij – belangrijke details, vibe-radar per relatie, reflecties – zonder dat enige verbinding structureel boven de andere wordt geplaatst. En omdat alles lokaal op je apparaat blijft, is je onafhankelijkheid ook wat [privacy](/nl/blog/polyamorie-privacy/) betreft gewaarborgd.
 
 ## Onafhankelijkheid en nabijheid sluiten elkaar niet uit
 

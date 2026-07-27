@@ -11,7 +11,7 @@ tags: ['Polyamorie', 'Mono-Poly', 'Relatievormen', 'Communicatie']
 
 Poly is niet voor iedereen hetzelfde – soms wil of heeft maar één persoon in de relatie meerdere partners nodig, terwijl de ander heel bewust bij één verbinding wil blijven. Dit model heet mono-poly en wordt in de community vaak over het hoofd gezien, omdat het noch klassiek monogaam, noch symmetrisch polyamoor is.
 
-Dit artikel gaat ervan uit dat beide kanten samen al voor dit asymmetrische model hebben gekozen. Sta je nog aan het begin van dat traject – identificeert nu pas één persoon zich als poly, terwijl de ander nog onzeker of duidelijk monogaam is –, dan gaat het eerst om het gesprek daarvoor: hoe je het onderwerp "relatie openen" überhaupt bespreekbaar maakt, lees je in het artikel [Relatie openen: hoe je het gesprek begint](/nl/blog/relatie-openen-partner-overtuigen).
+Dit artikel gaat ervan uit dat beide kanten samen al voor dit asymmetrische model hebben gekozen. Sta je nog aan het begin van dat traject – identificeert nu pas één persoon zich als poly, terwijl de ander nog onzeker of duidelijk monogaam is –, dan gaat het eerst om het gesprek daarvoor: hoe je het onderwerp "relatie openen" überhaupt bespreekbaar maakt, lees je in het artikel [Relatie openen: hoe je het gesprek begint](/nl/blog/relatie-openen-partner-overtuigen/).
 
 ## Wat is een mono-poly relatie?
 
@@ -23,7 +23,7 @@ Anders dan bij symmetrische polyamore constellaties zit hier een ingebouwde onge
 
 Typische spanningspunten:
 
-- **De mono partner voelt zich inwisselbaar** als de poly partner NRE ervaart met andere partners, terwijl de eigen relatie in een sleur zit. Meer hierover in [New Relationship Energy in balans houden](/nl/blog/nre-balans-polyamorie).
+- **De mono partner voelt zich inwisselbaar** als de poly partner NRE ervaart met andere partners, terwijl de eigen relatie in een sleur zit. Meer hierover in [New Relationship Energy in balans houden](/nl/blog/nre-balans-polyamorie/).
 - **De poly partner voelt zich beperkt** als afspraken star aanvoelen, ook al zijn ze juist bedoeld om de monogame partner geruststelling te geven.
 - **Ongelijke onderhandelingspositie** ontstaat als alleen de ene kant regels opstelt voor de andere relaties van de partner, zonder dat de poly partner eigen grenzen kan inbrengen.
 
@@ -35,7 +35,7 @@ De mono partner doet er goed aan monogamie te zien als een eigen, volwaardige vo
 
 ### 2. Tijd en zichtbaarheid in plaats van vage geruststellingen
 
-Vaste, betrouwbare tijd met de poly partner is vaak belangrijker dan elke verzekering van belangrijkheid. Concrete tijdsblokken – zie [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen) – geven de mono partner iets tastbaars in plaats van alleen woorden.
+Vaste, betrouwbare tijd met de poly partner is vaak belangrijker dan elke verzekering van belangrijkheid. Concrete tijdsblokken – zie [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen/) – geven de mono partner iets tastbaars in plaats van alleen woorden.
 
 ### 3. Afspraken over veiligheid en informatie
 
@@ -47,11 +47,11 @@ Beide kanten hebben er baat bij periodiek eerlijk te vragen: voelt dit model nog
 
 ## Verschil met andere modellen
 
-Mono-poly verschilt van een open relatie doordat de mono partner zelf geen andere partners zoekt – meer over het verschil tussen deze modellen in [Polyamorie vs. open relatie](/nl/blog/polyamorie-vs-open-relatie). Het verschilt ook van hiërarchische polyamorie, omdat hier één persoon structureel helemaal niet poly is, in plaats van alleen een "primaire" positie in te nemen.
+Mono-poly verschilt van een open relatie doordat de mono partner zelf geen andere partners zoekt – meer over het verschil tussen deze modellen in [Polyamorie vs. open relatie](/nl/blog/polyamorie-vs-open-relatie/). Het verschilt ook van hiërarchische polyamorie, omdat hier één persoon structureel helemaal niet poly is, in plaats van alleen een "primaire" positie in te nemen.
 
 ## Hulpmiddelen die helpen
 
-Ook al heeft de mono partner zelf geen meerdere relaties, de relatie profiteert ervan als tijd en afspraken zichtbaar en betrouwbaar zijn. **Roster** helpt de poly partner om alle verbindingen in het oog te houden – inclusief de mono relatie, die net zo goed een vaste plek in het [polycule](/nl/blog/wat-is-een-polycule) verdient als elke andere. Alle gegevens blijven lokaal op het apparaat, zonder account.
+Ook al heeft de mono partner zelf geen meerdere relaties, de relatie profiteert ervan als tijd en afspraken zichtbaar en betrouwbaar zijn. **Roster** helpt de poly partner om alle verbindingen in het oog te houden – inclusief de mono relatie, die net zo goed een vaste plek in het [polycule](/nl/blog/wat-is-een-polycule/) verdient als elke andere. Alle gegevens blijven lokaal op het apparaat, zonder account.
 
 ## Veelgestelde vragen
 
@@ -65,7 +65,7 @@ Ja, als beide kanten de structurele asymmetrie openlijk erkennen, duidelijke afs
 Nee. Bij hiërarchische polyamorie zijn meestal beide partners poly, alleen met een andere rangorde. Bij mono-poly is één persoon structureel niet poly en zoekt zelf geen andere partners.
 
 **Hoe gaat de mono partner om met jaloezie in deze situatie?**
-Net als in elke polyamore relatie – door open communicatie in plaats van verdringing. Meer hierover in [Jaloezie in polyamore relaties](/nl/blog/jaloezie-polyamorie).
+Net als in elke polyamore relatie – door open communicatie in plaats van verdringing. Meer hierover in [Jaloezie in polyamore relaties](/nl/blog/jaloezie-polyamorie/).
 
 **Welke app helpt bij het organiseren van een mono-poly relatie?**
 Roster helpt de poly partner om alle verbindingen – inclusief de monogame relatie – gelijkwaardig in het oog te houden, met vaste tijdsritmes en zonder dat gegevens het apparaat verlaten.

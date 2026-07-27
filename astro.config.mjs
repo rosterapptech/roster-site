@@ -41,6 +41,12 @@ const LASTMOD = buildLastmodMap();
 export default defineConfig({
   site: SITE,
   output: 'server',
+  // Jede Seite ist unter genau EINER URL erreichbar (mit abschliessendem Slash).
+  // Der Vercel-Adapter uebernimmt das in die Build-Output-Config, wodurch
+  // /blog/foo per 308 auf /blog/foo/ umgeleitet wird. Ohne diese Einstellung
+  // liefert Vercel beide Varianten mit 200 aus – Google crawlt dann doppelt so
+  // viele URLs wie es Seiten gibt und halbiert damit das Crawl-Budget.
+  trailingSlash: 'always',
   // edgeMiddleware: Middleware laeuft auch fuer prerenderte/statische Seiten
   // (sonst wuerde die Spracherkennung fuer die deutschen Hauptseiten nicht
   // mehr greifen, sobald diese statisch ausgeliefert werden).

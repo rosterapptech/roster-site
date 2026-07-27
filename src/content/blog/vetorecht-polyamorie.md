@@ -19,9 +19,9 @@ Ein klassisches Vetorecht funktioniert so: Eine Person in einer bestehenden (mei
 
 **Es ignoriert die Autonomie der dritten Person.** Die Person, deren Beziehung beendet wird, hatte in der Regel keine Stimme in der Entscheidung – ihre Gefühle und Investitionen werden faktisch für nichtig erklärt.
 
-**Es ersetzt Zustimmung durch Kontrolle.** Statt dass alle drei Personen gemeinsam aushandeln, was für alle funktioniert, entscheidet eine Person über die Beziehung der beiden anderen. Mehr zum Unterschied zwischen Kontrolle und echter Vereinbarung im Artikel [Regeln vs. Vereinbarungen in der Polyamorie](/blog/polyamorie-regeln-vereinbarungen).
+**Es ersetzt Zustimmung durch Kontrolle.** Statt dass alle drei Personen gemeinsam aushandeln, was für alle funktioniert, entscheidet eine Person über die Beziehung der beiden anderen. Mehr zum Unterschied zwischen Kontrolle und echter Vereinbarung im Artikel [Regeln vs. Vereinbarungen in der Polyamorie](/blog/polyamorie-regeln-vereinbarungen/).
 
-**Es verlagert das eigentliche Problem.** Ein Vetowunsch entsteht meist aus Unsicherheit oder Eifersucht in der bestehenden Beziehung. Das Veto behandelt aber nicht diese Unsicherheit, sondern beseitigt einfach ihre Ursache von außen – ohne das zugrunde liegende Gefühl zu bearbeiten. Mehr dazu im Artikel [Eifersucht in der Polyamorie](/blog/eifersucht-polyamorie).
+**Es verlagert das eigentliche Problem.** Ein Vetowunsch entsteht meist aus Unsicherheit oder Eifersucht in der bestehenden Beziehung. Das Veto behandelt aber nicht diese Unsicherheit, sondern beseitigt einfach ihre Ursache von außen – ohne das zugrunde liegende Gefühl zu bearbeiten. Mehr dazu im Artikel [Eifersucht in der Polyamorie](/blog/eifersucht-polyamorie/).
 
 **Es schafft strukturelle Ungleichheit.** Beziehungen mit Vetorecht etablieren automatisch eine Hierarchie, in der eine Verbindung jederzeit widerrufbar ist und die andere nicht – unabhängig davon, wie tief die "widerrufbare" Beziehung tatsächlich ist.
 
@@ -48,7 +48,7 @@ Ein Vetorecht fühlt sich für manche wie Sicherheit an, besonders in der Anfang
 
 ## Vereinbarungen fair und sichtbar halten
 
-Vereinbarungen funktionieren am besten, wenn sie für alle Beteiligten klar und einsehbar sind, statt implizit oder einseitig zu bleiben. **Roster** hilft dabei, faire, gemeinsam ausgehandelte Vereinbarungen zu jeder Verbindung in deinem [Polycule](/blog/was-ist-ein-polycule) festzuhalten – transparent für alle, lokal auf deinem Gerät gespeichert.
+Vereinbarungen funktionieren am besten, wenn sie für alle Beteiligten klar und einsehbar sind, statt implizit oder einseitig zu bleiben. **Roster** hilft dabei, faire, gemeinsam ausgehandelte Vereinbarungen zu jeder Verbindung in deinem [Polycule](/blog/was-ist-ein-polycule/) festzuhalten – transparent für alle, lokal auf deinem Gerät gespeichert.
 
 ## Häufige Fragen
 

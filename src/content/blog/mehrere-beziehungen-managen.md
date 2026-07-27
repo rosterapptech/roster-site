@@ -80,13 +80,13 @@ Systeme brauchen einen Ort, an dem sie leben. In der Praxis kristallisieren sich
 
 ## Warum ein normaler Kalender nicht reicht
 
-[Google Calendar kennt nur Termine, keine Beziehungsgesundheit.](/blog/google-calendar-vs-poly-app) Er sagt dir, wann du dich triffst – aber nichts darüber, ob eine Verbindung gerade Aufmerksamkeit braucht, ob ihr seit Wochen nicht wirklich gesprochen habt, oder ob eine Vereinbarung stillschweigend eingeschlafen ist. Genau diese Lücke ist der Grund, warum viele poly Menschen irgendwann zu spezialisierten Werkzeugen wechseln: nicht, weil ein Kalender schlecht wäre, sondern weil er für eine andere Aufgabe gebaut wurde.
+[Google Calendar kennt nur Termine, keine Beziehungsgesundheit.](/blog/google-calendar-vs-poly-app/) Er sagt dir, wann du dich triffst – aber nichts darüber, ob eine Verbindung gerade Aufmerksamkeit braucht, ob ihr seit Wochen nicht wirklich gesprochen habt, oder ob eine Vereinbarung stillschweigend eingeschlafen ist. Genau diese Lücke ist der Grund, warum viele poly Menschen irgendwann zu spezialisierten Werkzeugen wechseln: nicht, weil ein Kalender schlecht wäre, sondern weil er für eine andere Aufgabe gebaut wurde.
 
 ## Organisieren ist Fürsorge, nicht Kontrolle
 
 **Roster** wurde genau für diese Lücke gebaut – als App, die Struktur gibt, ohne zu kontrollieren. Unter "Verbindungen" reicht eine kurze Wisch-Geste, um festzuhalten, dass du eine Person heute gesehen hast – kein aufwendiges Protokoll, nur ein ehrlicher Schnappschuss. Der Vibe-Radar zeigt dir auf einen Blick, wie es um jede Beziehung steht, von sonnig bis Funkstille. Und die Polycule Map macht dein gesamtes Netzwerk auf einen Blick sichtbar. Alle Daten bleiben dabei lokal auf deinem Gerät, ohne Konto und ohne Tracking. Das ist der Kern: Struktur, nicht Kontrolle – ein Werkzeug, das dir hilft, präsent zu sein, statt dir vorzuschreiben, wie deine Beziehungen auszusehen haben.
 
-Wenn dich dabei auch Eifersucht beschäftigt, findest du im Artikel [Eifersucht in der Polyamorie](/blog/eifersucht-polyamorie) mehr dazu. Und wenn du dein gesamtes Netzwerk besser verstehen willst, lohnt sich ein Blick in [Was ist ein Polycule?](/blog/was-ist-ein-polycule).
+Wenn dich dabei auch Eifersucht beschäftigt, findest du im Artikel [Eifersucht in der Polyamorie](/blog/eifersucht-polyamorie/) mehr dazu. Und wenn du dein gesamtes Netzwerk besser verstehen willst, lohnt sich ein Blick in [Was ist ein Polycule?](/blog/was-ist-ein-polycule/).
 
 ## Häufige Fragen
 

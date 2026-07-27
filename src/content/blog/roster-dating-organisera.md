@@ -9,7 +9,7 @@ tags: ['Roster Dating', 'Dejting', 'Organisation', 'Kommunikation']
 
 **Kort sagt:** Roster Dating – alltså att dejta flera personer parallellt och utan förpliktelser – fungerar bäst med ett enkelt system: håll koll på detaljer per person, var ärlig om din egen kapacitet och kommunicera öppet att det (ännu) inte finns någon exklusivitet. Utan system flyter samtal, träffar och förväntningar snabbt ihop – med ett system förblir Roster Dating precis det det ska vara: en avslappnad fas av att lära känna varandra.
 
-Träffar du flera personer just nu, skriver med ännu fler, och vet inte alltid själv vem som har berättat vad? Välkommen till vardagen med Roster Dating. Det som började på TikTok som ett avslappnat begrepp för ens egen dejtingsituation – mer om det i [Vad är en Dating Roster?](/sv/blog/vad-ar-en-dating-roster) – visar sig i praktiken ofta vara mer kaotiskt än begreppets lätta ton antyder.
+Träffar du flera personer just nu, skriver med ännu fler, och vet inte alltid själv vem som har berättat vad? Välkommen till vardagen med Roster Dating. Det som började på TikTok som ett avslappnat begrepp för ens egen dejtingsituation – mer om det i [Vad är en Dating Roster?](/sv/blog/vad-ar-en-dating-roster/) – visar sig i praktiken ofta vara mer kaotiskt än begreppets lätta ton antyder.
 
 ## Varför Roster Dating snabbt blir rörigt
 
@@ -39,7 +39,7 @@ En roster är ingen statisk konstruktion. Personer lämnar den när:
 
 ## Roster Dating och polyamori: var vägarna skiljs eller möts
 
-En del människor stannar medvetet kvar i Roster Dating-läge eftersom de inte vill ha en fast struktur. Andra låter medvetet sin roster utvecklas till flera parallella, engagerade relationer – och rör sig därmed mot polyamori. Hur det konkret kan hanteras beskrivs i detalj i artikeln [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer).
+En del människor stannar medvetet kvar i Roster Dating-läge eftersom de inte vill ha en fast struktur. Andra låter medvetet sin roster utvecklas till flera parallella, engagerade relationer – och rör sig därmed mot polyamori. Hur det konkret kan hanteras beskrivs i detalj i artikeln [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer/).
 
 ## Verktyg för din Roster Dating
 

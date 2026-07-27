@@ -29,7 +29,7 @@ Es gibt grundsätzlich zwei Wege:
 
 **Ungleichgewicht der Beziehungsintensität.** Selten entwickeln sich alle drei Verbindungen exakt gleich schnell oder gleich intensiv – das ist normal, sollte aber offen besprochen werden, statt eine Person implizit zurückzustufen.
 
-**Terminplanung zu dritt.** Wann trifft man sich alle drei gemeinsam, wann zu zweit? Klare Absprachen verhindern, dass sich jemand ausgeschlossen fühlt. Mehr zu Systemen dafür im Artikel [Terminplanung bei mehreren Beziehungen](/blog/terminplanung-mehrere-beziehungen).
+**Terminplanung zu dritt.** Wann trifft man sich alle drei gemeinsam, wann zu zweit? Klare Absprachen verhindern, dass sich jemand ausgeschlossen fühlt. Mehr zu Systemen dafür im Artikel [Terminplanung bei mehreren Beziehungen](/blog/terminplanung-mehrere-beziehungen/).
 
 **Konfliktdynamiken zu dritt.** Konflikte zwischen zwei Personen in einem Throuple betreffen automatisch auch die dritte – das kann entlasten (mehr Perspektiven) oder belasten (Koalitionsbildung), je nachdem wie offen kommuniziert wird.
 
@@ -43,11 +43,11 @@ Es gibt grundsätzlich zwei Wege:
 
 ## Nicht jedes Throuple bleibt für immer zu dritt
 
-Wie jede Beziehungsform kann sich auch eine Triade verändern: Manche bleiben über Jahre stabil, andere entwickeln sich zu einer offeneren Struktur mit mehr Beziehungen, wieder andere trennen sich in Einzelbeziehungen. Keines dieser Ergebnisse bedeutet automatisch "Scheitern" – siehe auch [Trennung in der Polyamorie](/blog/trennung-polyamorie).
+Wie jede Beziehungsform kann sich auch eine Triade verändern: Manche bleiben über Jahre stabil, andere entwickeln sich zu einer offeneren Struktur mit mehr Beziehungen, wieder andere trennen sich in Einzelbeziehungen. Keines dieser Ergebnisse bedeutet automatisch "Scheitern" – siehe auch [Trennung in der Polyamorie](/blog/trennung-polyamorie/).
 
 ## Struktur für Beziehungen zu dritt
 
-Gerade bei drei gleichwertigen Verbindungen lohnt es sich, den Überblick über Termine, Vereinbarungen und die Stimmung in jeder einzelnen Beziehung zu behalten. **Roster** visualisiert dein [Polycule](/blog/was-ist-ein-polycule) und hilft, keine der drei Verbindungen aus dem Blick zu verlieren – alles lokal auf deinem Gerät gespeichert.
+Gerade bei drei gleichwertigen Verbindungen lohnt es sich, den Überblick über Termine, Vereinbarungen und die Stimmung in jeder einzelnen Beziehung zu behalten. **Roster** visualisiert dein [Polycule](/blog/was-ist-ein-polycule/) und hilft, keine der drei Verbindungen aus dem Blick zu verlieren – alles lokal auf deinem Gerät gespeichert.
 
 ## Häufige Fragen
 

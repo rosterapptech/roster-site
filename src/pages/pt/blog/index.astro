@@ -24,7 +24,7 @@ const fmt = (d: Date) =>
     <p class="lede">{tr('blog.lede')}</p>
     <div class="posts">
       {posts.map((post) => (
-        <a href={`/pt/blog/${post.id}`} class="card post">
+        <a href={`/pt/blog/${post.id}/`} class="card post">
           <time datetime={post.data.pubDate.toISOString()}>{fmt(post.data.pubDate)}</time>
           <h2>{post.data.title}</h2>
           <p>{post.data.description}</p>

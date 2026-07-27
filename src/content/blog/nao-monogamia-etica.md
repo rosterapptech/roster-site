@@ -31,7 +31,7 @@ Se algum desses três pilares faltar, não é ENM: é simplesmente traição com
 
 **Anarquia relacional:** uma abordagem que negocia cada relacionamento individualmente, sem presumir categorias ou hierarquias fixas.
 
-Mais sobre esses termos e outros subtipos no [Glossário da poliamoria](/pt/blog/glossario-poliamoria).
+Mais sobre esses termos e outros subtipos no [Glossário da poliamoria](/pt/blog/glossario-poliamoria/).
 
 ## Por que o termo guarda-chuva é útil
 
@@ -43,11 +43,11 @@ A ENM como termo guarda-chuva é especialmente prática quando se quer falar de 
 
 **"ENM significa evitar o compromisso de verdade."** Muitas estruturas de ENM, a começar pela poliamoria, envolvem vínculos emocionais profundos e duradouros com várias pessoas ao mesmo tempo.
 
-**"ENM só funciona sem ciúme."** O ciúme também aparece nos relacionamentos de ENM; a diferença está em como ele é gerenciado, com abertura e de forma construtiva. Mais sobre isso em [Ciúme na poliamoria](/pt/blog/ciumes-poliamoria).
+**"ENM só funciona sem ciúme."** O ciúme também aparece nos relacionamentos de ENM; a diferença está em como ele é gerenciado, com abertura e de forma construtiva. Mais sobre isso em [Ciúme na poliamoria](/pt/blog/ciumes-poliamoria/).
 
 ## Encontrando o estilo de ENM certo para você
 
-Não existe uma forma "correta" de ENM, só aquela que combina com suas próprias necessidades, capacidade e valores. Se você é novo nisso, [Poliamoria para iniciantes](/pt/blog/poliamoria-para-iniciantes) é um bom ponto de partida, ainda que a poliamoria seja só uma das várias estruturas de ENM.
+Não existe uma forma "correta" de ENM, só aquela que combina com suas próprias necessidades, capacidade e valores. Se você é novo nisso, [Poliamoria para iniciantes](/pt/blog/poliamoria-para-iniciantes/) é um bom ponto de partida, ainda que a poliamoria seja só uma das várias estruturas de ENM.
 
 ## Estrutura para viver a ENM na prática
 

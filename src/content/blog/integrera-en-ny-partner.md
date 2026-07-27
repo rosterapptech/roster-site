@@ -13,23 +13,23 @@ En ny relation är spännande – för dig själv, och ofta påfrestande för be
 
 ## Först: informera, ställ inte inför fullbordat faktum
 
-Kärnan i polyamori är att alla inblandade vet och samtycker – mer om det i artikeln [Vad är polyamori?](/sv/blog/vad-ar-polyamori). I praktiken betyder det: befintliga partner bör få höra om den nya kopplingen innan den blir en fast del av ditt liv, inte först när allt redan är bestämt. Hur tidigt beror på era egna överenskommelser – vissa konstellationer vill gärna höra om tidiga dejter, andra först när något mer seriöst tar form.
+Kärnan i polyamori är att alla inblandade vet och samtycker – mer om det i artikeln [Vad är polyamori?](/sv/blog/vad-ar-polyamori/). I praktiken betyder det: befintliga partner bör få höra om den nya kopplingen innan den blir en fast del av ditt liv, inte först när allt redan är bestämt. Hur tidigt beror på era egna överenskommelser – vissa konstellationer vill gärna höra om tidiga dejter, andra först när något mer seriöst tar form.
 
 ## Håll NRE under kontroll
 
-Den tidiga fasen av en ny relation medför ofta intensiv new relationship energy – en känsla av förälskelse som tar mycket uppmärksamhet i anspråk. Det är normalt, men kan få befintliga partner att känna sig plötsligt mindre viktiga. Att medvetet motverka detta hjälper: reservera fast tid för befintliga relationer, även medan den nya kopplingen just nu drar mycket energi. Artikeln [Balansera new relationship energy](/sv/blog/nre-balans-polyamori) går djupare in på konkreta strategier för detta.
+Den tidiga fasen av en ny relation medför ofta intensiv new relationship energy – en känsla av förälskelse som tar mycket uppmärksamhet i anspråk. Det är normalt, men kan få befintliga partner att känna sig plötsligt mindre viktiga. Att medvetet motverka detta hjälper: reservera fast tid för befintliga relationer, även medan den nya kopplingen just nu drar mycket energi. Artikeln [Balansera new relationship energy](/sv/blog/nre-balans-polyamori/) går djupare in på konkreta strategier för detta.
 
 ## Metamours: träffas eller hållas åtskilda?
 
-Om och hur nya och befintliga partner lär känna varandra beror till stor del på vilken modell ni lever efter. I kitchen-table-polyamori önskas vanligtvis en viss grad av ömsesidig bekantskap, i parallell polyamori förblir relationerna medvetet åtskilda. Artikeln [Kitchen table vs. parallell polyamori](/sv/blog/kitchen-table-vs-parallel-polyamori-sv) hjälper dig att ta reda på vilken modell som passar er konstellation, innan du tvingar fram ett möte som ingen egentligen vill ha.
+Om och hur nya och befintliga partner lär känna varandra beror till stor del på vilken modell ni lever efter. I kitchen-table-polyamori önskas vanligtvis en viss grad av ömsesidig bekantskap, i parallell polyamori förblir relationerna medvetet åtskilda. Artikeln [Kitchen table vs. parallell polyamori](/sv/blog/kitchen-table-vs-parallel-polyamori-sv/) hjälper dig att ta reda på vilken modell som passar er konstellation, innan du tvingar fram ett möte som ingen egentligen vill ha.
 
 ## Gör befintliga överenskommelser transparenta
 
-En ny partner bör tidigt få veta vilka ramar som redan gäller i ditt polycule – till exempel överenskommen tidsfördelning, safer sex-överenskommelser eller, om det finns, en befintlig partners vetorätt. Det är ingen byråkrati, utan skyddar alla inblandade mot missförstånd. Läs mer i artiklarna [Regler vs. överenskommelser i polyamori](/sv/blog/regler-overenskommelser-polyamori) och [Vetorätt i polyamori](/sv/blog/veto-polyamori).
+En ny partner bör tidigt få veta vilka ramar som redan gäller i ditt polycule – till exempel överenskommen tidsfördelning, safer sex-överenskommelser eller, om det finns, en befintlig partners vetorätt. Det är ingen byråkrati, utan skyddar alla inblandade mot missförstånd. Läs mer i artiklarna [Regler vs. överenskommelser i polyamori](/sv/blog/regler-overenskommelser-polyamori/) och [Vetorätt i polyamori](/sv/blog/veto-polyamori/).
 
 ## Ta befintliga partners rädslor på allvar
 
-Svartsjuka eller osäkerhet hos befintliga partner är inga tecken på att något går fel – det hör till processen, särskilt medan en ny koppling fortfarande är färsk och spännande. Artikeln [Svartsjuka i polyamorösa relationer: 7 strategier som verkligen hjälper](/sv/blog/svaartsjuka-polyamori) erbjuder konkreta angreppssätt som är särskilt användbara i den här fasen.
+Svartsjuka eller osäkerhet hos befintliga partner är inga tecken på att något går fel – det hör till processen, särskilt medan en ny koppling fortfarande är färsk och spännande. Artikeln [Svartsjuka i polyamorösa relationer: 7 strategier som verkligen hjälper](/sv/blog/svaartsjuka-polyamori/) erbjuder konkreta angreppssätt som är särskilt användbara i den här fasen.
 
 ## Tempo: hellre stegvis än forcerat
 
@@ -37,11 +37,11 @@ En ny relation behöver inte omedelbart få samma status som etablerade koppling
 
 ## När det bor barn i hushållet
 
-Med barn krävs extra försiktighet: en ny partner bör inte introduceras i familjelivet för tidigt, innan relationen har visat sig stabil. Artikeln [Polyamori och föräldraskap](/sv/blog/polyamori-foraldraskap) beskriver vad som är viktigt här.
+Med barn krävs extra försiktighet: en ny partner bör inte introduceras i familjelivet för tidigt, innan relationen har visat sig stabil. Artikeln [Polyamori och föräldraskap](/sv/blog/polyamori-foraldraskap/) beskriver vad som är viktigt här.
 
 ## Verktyg som hjälper
 
-**Roster** hjälper dig att hålla koll på varje relation i ditt [polycule](/sv/blog/vad-ar-ett-polycule) separat – även den alldeles nya. På så sätt tappar du inte bort befintliga partner ur sikte medan en ny koppling just nu kräver mycket uppmärksamhet. All data stannar på din enhet, helt utan konto.
+**Roster** hjälper dig att hålla koll på varje relation i ditt [polycule](/sv/blog/vad-ar-ett-polycule/) separat – även den alldeles nya. På så sätt tappar du inte bort befintliga partner ur sikte medan en ny koppling just nu kräver mycket uppmärksamhet. All data stannar på din enhet, helt utan konto.
 
 ## Vanliga frågor
 

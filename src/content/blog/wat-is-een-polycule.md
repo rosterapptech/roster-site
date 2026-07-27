@@ -88,7 +88,7 @@ Precies voor situaties zoals die van Mara hebben we de **Polycule Map** in **Ros
 
 <!-- SCREENSHOT: polycule-map -->
 
-En als je op zoek bent naar concrete systemen om je dagelijks leven met meerdere relaties te structureren – tijd, communicatie en balans inbegrepen – lees dan verder in [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen).
+En als je op zoek bent naar concrete systemen om je dagelijks leven met meerdere relaties te structureren – tijd, communicatie en balans inbegrepen – lees dan verder in [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen/).
 
 ## Veelgestelde vragen over polycules
 

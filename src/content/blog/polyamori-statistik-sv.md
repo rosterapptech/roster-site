@@ -21,7 +21,7 @@ Olika undersökningar och studier från de senaste åren, främst från USA, tec
 
 ## Varför exakta siffror är svåra att fastställa
 
-**Skillnader i definition.** Beroende på om en studie mäter polyamori, öppna relationer och swingers tillsammans eller separat, skiljer sig resultaten avsevärt. Läs mer om begreppen i artikeln [Etisk icke-monogami](/sv/blog/etisk-icke-monogami).
+**Skillnader i definition.** Beroende på om en studie mäter polyamori, öppna relationer och swingers tillsammans eller separat, skiljer sig resultaten avsevärt. Läs mer om begreppen i artikeln [Etisk icke-monogami](/sv/blog/etisk-icke-monogami/).
 
 **Mörkertal på grund av återhållsamhet.** Inte alla som lever polyamoröst är villiga att öppet ange det i en undersökning – särskilt i regioner eller yrken där icke-monogami stigmatiseras eller till och med medför nackdelar.
 
@@ -33,7 +33,7 @@ Forskning tyder på att ENM-relationer förekommer inom praktiskt taget alla ål
 
 ## Vad det betyder för dig
 
-Dessa siffror är framför allt användbara i ett avseende: de visar att människor som lever polyamoröst inte är en liten marginalgrupp, utan del av ett växande, alltmer synligt spektrum av relationsformer. Den som själv lever polyamoröst eller funderar på det är därmed långt mindre ensam än vad den offentliga uppfattningen ibland antyder. En bra start för alla som är nya inom området finns i artikeln [Polyamori för nybörjare](/sv/blog/polyamori-for-nyborjare).
+Dessa siffror är framför allt användbara i ett avseende: de visar att människor som lever polyamoröst inte är en liten marginalgrupp, utan del av ett växande, alltmer synligt spektrum av relationsformer. Den som själv lever polyamoröst eller funderar på det är därmed långt mindre ensam än vad den offentliga uppfattningen ibland antyder. En bra start för alla som är nya inom området finns i artikeln [Polyamori för nybörjare](/sv/blog/polyamori-for-nyborjare/).
 
 ## Växande synlighet snarare än växande antal
 
@@ -41,7 +41,7 @@ Det är mer sannolikt att polyamoris ökande samhälleliga synlighet – genom m
 
 ## Struktur för ditt eget polycule, oavsett statistik
 
-Oavsett hur utbrett polyamori är statistiskt sett behöver den som själv har flera relationer praktiska verktyg för det. **Roster** hjälper dig att visualisera ditt [polycule](/sv/blog/vad-ar-ett-polycule) och hålla koll på avtal och överenskommelser, helt oberoende av hur många andra människor som lever på liknande sätt. All data stannar lokalt på din enhet.
+Oavsett hur utbrett polyamori är statistiskt sett behöver den som själv har flera relationer praktiska verktyg för det. **Roster** hjälper dig att visualisera ditt [polycule](/sv/blog/vad-ar-ett-polycule/) och hålla koll på avtal och överenskommelser, helt oberoende av hur många andra människor som lever på liknande sätt. All data stannar lokalt på din enhet.
 
 ## Vanliga frågor
 

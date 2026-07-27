@@ -25,7 +25,7 @@ O truque está em trazer o assunto cedo e de forma natural, não como um grande 
 
 Um resultado positivo é desconfortável, mas não é uma emergência de relacionamento. O passo mais importante é comunicar isso de forma rápida e direta a todas as pessoas que possam ser afetadas, incluindo os parceiros dos seus parceiros, quando relevante. Mantenha um tom objetivo: o que o resultado significa, quais são os próximos passos e o que isso implica para as atividades compartilhadas nesse meio tempo. Evite procurar culpados: a maioria das infecções não pode ser rastreada com certeza, e apontar o dedo não ajuda ninguém. Uma rede em que as pessoas se sentem seguras para ser honestas sobre resultados positivos é mais saudável do que uma em que o medo das reações mantém todo mundo em silêncio. Para os detalhes médicos, converse com um médico ou um centro de saúde sexual; aqui o que importa é a comunicação, não o tratamento.
 
-Para saber como manter o controle das datas de teste e dos acordos com várias conexões ao mesmo tempo — incluindo os das suas metamouras — sem enlouquecer, veja o artigo [Testes de IST com vários parceiros: como manter o controle na poliamoria](/pt/blog/acompanhamento-ist-bem-estar-poliamoria).
+Para saber como manter o controle das datas de teste e dos acordos com várias conexões ao mesmo tempo — incluindo os das suas metamouras — sem enlouquecer, veja o artigo [Testes de IST com vários parceiros: como manter o controle na poliamoria](/pt/blog/acompanhamento-ist-bem-estar-poliamoria/).
 
 ## Testes como autocuidado, não como motivo de vergonha
 

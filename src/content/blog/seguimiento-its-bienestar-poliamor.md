@@ -16,7 +16,7 @@ faq:
     a: 'Muchas apps de salud o de seguimiento del ciclo están construidas en torno a cuentas y sincronización en la nube, y nunca se diseñaron para una red de relaciones con varias conexiones. Datos de esta sensibilidad merecen una herramienta que se mantenga local por diseño.'
 ---
 
-Hablar del ritmo de pruebas y la protección es una cosa; llevar el control real de todo eso a lo largo de varias conexiones es otra muy distinta. Para saber cómo tener esa conversación sin que resulte incómodo, y cómo funcionan en detalle los acuerdos de fluid bonding, consulta [Sexo seguro y pruebas de ITS en relaciones poliamorosas](/es/blog/sexo-seguro-poliamoria). Este artículo continúa un paso más adelante: ya has tenido las conversaciones, los acuerdos están establecidos, pero con tres, cuatro o cinco conexiones, ¿cómo llevas realmente el control de quién se hizo la prueba y cuándo, qué acuerdo rige ahora mismo y cuándo toca el próximo control?
+Hablar del ritmo de pruebas y la protección es una cosa; llevar el control real de todo eso a lo largo de varias conexiones es otra muy distinta. Para saber cómo tener esa conversación sin que resulte incómodo, y cómo funcionan en detalle los acuerdos de fluid bonding, consulta [Sexo seguro y pruebas de ITS en relaciones poliamorosas](/es/blog/sexo-seguro-poliamoria/). Este artículo continúa un paso más adelante: ya has tenido las conversaciones, los acuerdos están establecidos, pero con tres, cuatro o cinco conexiones, ¿cómo llevas realmente el control de quién se hizo la prueba y cuándo, qué acuerdo rige ahora mismo y cuándo toca el próximo control?
 
 ## Por qué llevar el control se complica a medida que crece tu red
 

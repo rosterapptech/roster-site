@@ -71,7 +71,7 @@ const schema = {
 >
   <Header lang={lang} />
   <main class="container article">
-    <a href="/blog" class="back">{tr('blog.back')}</a>
+    <a href="/blog/" class="back">{tr('blog.back')}</a>
     <time datetime={post.data.pubDate.toISOString()}>{fmt(post.data.pubDate)}</time>
     <h1>{post.data.title}</h1>
     <div class="body">

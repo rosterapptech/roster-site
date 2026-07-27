@@ -48,7 +48,7 @@ Jaloezie voelt op het moment enorm en chaotisch. Het opschrijven sorteert het. N
 
 Compersion – de vreugde over het geluk van je partner met iemand anders – komt bij de meesten niet vanzelf. Maar het kan worden geoefend. Een eerste stap: let bewust op de momenten waarop het makkelijk is om mee te genieten, en bedenk dat het geluk van je partner jou niets afneemt.
 
-Jaloezie is trouwens zelden het enige dat onder druk komt te staan bij meerdere relaties – vaak zit er ook simpelweg te weinig structuur in de dagelijkse praktijk achter. Hoe je tijd, communicatie en capaciteit eerlijk verdeelt over meerdere verbindingen, lees je in het artikel [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen).
+Jaloezie is trouwens zelden het enige dat onder druk komt te staan bij meerdere relaties – vaak zit er ook simpelweg te weinig structuur in de dagelijkse praktijk achter. Hoe je tijd, communicatie en capaciteit eerlijk verdeelt over meerdere verbindingen, lees je in het artikel [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen/).
 
 ## 7. Geef jezelf tijd – gewenning is reëel
 

@@ -62,7 +62,7 @@ Tudo roda localmente no seu dispositivo, sem conta e sem rastreamento. [O Roster
 
 ## Para onde seguir a leitura
 
-Está procurando mais um app que ajude a conhecer pessoas novas, em vez de organizar relacionamentos já existentes? Essa distinção é explicada em [App para poliamoria: organizar relacionamentos, não só encontrar pessoas](/pt/blog/app-para-organizar-relacionamentos-poliamorosos). Está comparando agora diferentes rastreadores de encontros como Rostr ou Spread? Então [Rostr, Spread e cia.: por que rastreadores de encontros não são apps de poliamoria](/pt/blog/rastreador-namoro-vs-app-poliamoria) ajuda a esclarecer. E para sistemas concretos além das ferramentas, [Gerenciar vários relacionamentos ao mesmo tempo](/pt/blog/gerenciar-varios-relacionamentos) é o guia prático.
+Está procurando mais um app que ajude a conhecer pessoas novas, em vez de organizar relacionamentos já existentes? Essa distinção é explicada em [App para poliamoria: organizar relacionamentos, não só encontrar pessoas](/pt/blog/app-para-organizar-relacionamentos-poliamorosos/). Está comparando agora diferentes rastreadores de encontros como Rostr ou Spread? Então [Rostr, Spread e cia.: por que rastreadores de encontros não são apps de poliamoria](/pt/blog/rastreador-namoro-vs-app-poliamoria/) ajuda a esclarecer. E para sistemas concretos além das ferramentas, [Gerenciar vários relacionamentos ao mesmo tempo](/pt/blog/gerenciar-varios-relacionamentos/) é o guia prático.
 
 ## Perguntas frequentes
 

@@ -16,8 +16,8 @@ Att prata om pengar är svårt för många människor, även i monogama relation
 - **Dejter och gemensamma aktiviteter** – att äta ute, aktiviteter, mindre utflykter.
 - **Presenter** – till årsdagar, födelsedagar eller bara då och då.
 - **Resor** – gemensamma semestrar med en eller flera partner.
-- **Gemensamt hushåll** – hyra, driftskostnader och levnadsomkostnader, om du bor tillsammans med en [nesting partner](/sv/blog/nesting-partner-forklarad).
-- **Barnomsorg** – extra kostnader när barn är en del av familjestrukturen, se [Polyamori och föräldraskap](/sv/blog/polyamori-foraldraskap).
+- **Gemensamt hushåll** – hyra, driftskostnader och levnadsomkostnader, om du bor tillsammans med en [nesting partner](/sv/blog/nesting-partner-forklarad/).
+- **Barnomsorg** – extra kostnader när barn är en del av familjestrukturen, se [Polyamori och föräldraskap](/sv/blog/polyamori-foraldraskap/).
 
 ## Modeller för hur kostnader kan fördelas
 
@@ -37,15 +37,15 @@ Den som bor tillsammans med en nesting partner har ofta en gemensam kassa för h
 
 ## Namnge ojämlikheter öppet
 
-Ekonomiska skillnader mellan relationer är normala, men outtalade kan de skapa spänningar – till exempel om en relation har råd med dyra restauranger och resor medan en annan relation är mer ekonomiskt pressad. Det kan oavsiktligt skapa jämförelsetryck hos metamours. Det hjälper att namnge det öppet: pengar är inte samma sak som kärlek. Den som har mindre ekonomiska resurser kan ändå investera lika mycket tid, uppmärksamhet och omtanke – se även vår artikel om att [fördela tid rättvist mellan flera relationer](/sv/blog/hantera-flera-relationer).
+Ekonomiska skillnader mellan relationer är normala, men outtalade kan de skapa spänningar – till exempel om en relation har råd med dyra restauranger och resor medan en annan relation är mer ekonomiskt pressad. Det kan oavsiktligt skapa jämförelsetryck hos metamours. Det hjälper att namnge det öppet: pengar är inte samma sak som kärlek. Den som har mindre ekonomiska resurser kan ändå investera lika mycket tid, uppmärksamhet och omtanke – se även vår artikel om att [fördela tid rättvist mellan flera relationer](/sv/blog/hantera-flera-relationer/).
 
 ## Hur mycket öppenhet behövs?
 
-Metamours behöver i regel inte insyn i de konkreta finanserna i varandras relation – det förblir privat. Viktigare är öppenhet inom varje enskild relation: båda partnerna bör veta vilka ekonomiska åtaganden och gränser den andra har, särskilt när ett gemensamt hushåll eller gemensamma resor planeras. Läs mer om balansen mellan öppenhet och integritet i artikeln [Polyamori och integritet](/sv/blog/polyamori-integritet).
+Metamours behöver i regel inte insyn i de konkreta finanserna i varandras relation – det förblir privat. Viktigare är öppenhet inom varje enskild relation: båda partnerna bör veta vilka ekonomiska åtaganden och gränser den andra har, särskilt när ett gemensamt hushåll eller gemensamma resor planeras. Läs mer om balansen mellan öppenhet och integritet i artikeln [Polyamori och integritet](/sv/blog/polyamori-integritet/).
 
 ## Regelbundna avstämningar istället för engångsöverenskommelser
 
-Ekonomiska överenskommelser bör inte ingås en gång och sedan glömmas bort. Ändras någons inkomst, tillkommer en ny relation, eller flyttar två partner ihop, är det värt att ta upp samtalet igen. Artikeln [Regler vs. överenskommelser i polyamori](/sv/blog/regler-overenskommelser-polyamori) förklarar hur du utformar överenskommelser så att de kan anpassas över tid istället för att förbli fasta.
+Ekonomiska överenskommelser bör inte ingås en gång och sedan glömmas bort. Ändras någons inkomst, tillkommer en ny relation, eller flyttar två partner ihop, är det värt att ta upp samtalet igen. Artikeln [Regler vs. överenskommelser i polyamori](/sv/blog/regler-overenskommelser-polyamori/) förklarar hur du utformar överenskommelser så att de kan anpassas över tid istället för att förbli fasta.
 
 ## Verktyg som hjälper
 

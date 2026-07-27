@@ -68,7 +68,7 @@ Precisamente para esta rutina hemos construido el **Vibe-Radar** en **Roster**: 
 
 <!-- SCREENSHOT: vibe-radar -->
 
-Lo que era una corazonada vaga se convierte en una imagen clara, y ninguna de tus conexiones desaparece silenciosamente en el fondo. Sobre todo si llevas varias relaciones a la vez, el radar sustituye la memoria poco fiable por una visión de conjunto honesta y privada. Sobre cómo organizar además todo tu día a día con varias parejas sin que nadie se quede atrás, hablamos con detalle en nuestra [guía práctica para organizar varias relaciones de modo que ninguna desaparezca en silencio en segundo plano](/es/blog/gestionar-varias-relaciones). Todo permanece privado en tu dispositivo – Roster no guarda nada en la nube ni envía nada a un servidor.
+Lo que era una corazonada vaga se convierte en una imagen clara, y ninguna de tus conexiones desaparece silenciosamente en el fondo. Sobre todo si llevas varias relaciones a la vez, el radar sustituye la memoria poco fiable por una visión de conjunto honesta y privada. Sobre cómo organizar además todo tu día a día con varias parejas sin que nadie se quede atrás, hablamos con detalle en nuestra [guía práctica para organizar varias relaciones de modo que ninguna desaparezca en silencio en segundo plano](/es/blog/gestionar-varias-relaciones/). Todo permanece privado en tu dispositivo – Roster no guarda nada en la nube ni envía nada a un servidor.
 
 ## La atención es la verdadera moneda
 

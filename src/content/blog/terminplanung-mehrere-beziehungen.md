@@ -39,7 +39,7 @@ Eine einfache, aber wirkungsvolle Vereinbarung: Neue Termine mit ausreichend Vor
 
 ## Wie viel Transparenz ist nötig?
 
-Das hängt stark vom gewählten Beziehungsmodell ab. Wer nach dem Prinzip [Kitchen Table Polyamory](/blog/kitchen-table-vs-parallel-polyamorie) lebt, teilt oft offen, wann wer mit wem Zeit verbringt. Wer eher [parallel](/blog/kitchen-table-vs-parallel-polyamorie) organisiert ist, braucht meist nur die Info "ich bin an diesem Tag nicht verfügbar" – ohne Details. Beides ist legitim, solange die gewählte Transparenzstufe mit allen Beteiligten abgestimmt ist.
+Das hängt stark vom gewählten Beziehungsmodell ab. Wer nach dem Prinzip [Kitchen Table Polyamory](/blog/kitchen-table-vs-parallel-polyamorie/) lebt, teilt oft offen, wann wer mit wem Zeit verbringt. Wer eher [parallel](/blog/kitchen-table-vs-parallel-polyamorie/) organisiert ist, braucht meist nur die Info "ich bin an diesem Tag nicht verfügbar" – ohne Details. Beides ist legitim, solange die gewählte Transparenzstufe mit allen Beteiligten abgestimmt ist.
 
 ## Wenn Termine kollidieren
 
@@ -47,11 +47,11 @@ Kollisionen passieren trotz gutem System irgendwann – Krankheit, spontane Wün
 
 ## Terminplanung und emotionale Fairness
 
-Ein reines Zeitmanagement-System reicht nicht, wenn die zugrunde liegende Verteilung dauerhaft unfair wirkt. Wer merkt, dass eine Beziehung strukturell immer zu kurz kommt, sollte das ansprechen, bevor Groll entsteht. Mehr zur größeren Frage dahinter im Artikel [Mehrere Beziehungen managen](/blog/mehrere-beziehungen-managen).
+Ein reines Zeitmanagement-System reicht nicht, wenn die zugrunde liegende Verteilung dauerhaft unfair wirkt. Wer merkt, dass eine Beziehung strukturell immer zu kurz kommt, sollte das ansprechen, bevor Groll entsteht. Mehr zur größeren Frage dahinter im Artikel [Mehrere Beziehungen managen](/blog/mehrere-beziehungen-managen/).
 
 ## Roster als zentrales System
 
-**Roster** wurde genau für dieses Problem gebaut: eine App, die dein [Polycule](/blog/was-ist-ein-polycule) visualisiert, wichtige Termine und Details zu jeder Verbindung festhält und mit dem Vibe-Radar zeigt, welche Beziehung gerade Aufmerksamkeit braucht – bevor ein Termin-Konflikt zum emotionalen Konflikt wird. Alle Daten bleiben dabei lokal auf deinem Gerät, ganz ohne Konto oder Cloud-Zwang.
+**Roster** wurde genau für dieses Problem gebaut: eine App, die dein [Polycule](/blog/was-ist-ein-polycule/) visualisiert, wichtige Termine und Details zu jeder Verbindung festhält und mit dem Vibe-Radar zeigt, welche Beziehung gerade Aufmerksamkeit braucht – bevor ein Termin-Konflikt zum emotionalen Konflikt wird. Alle Daten bleiben dabei lokal auf deinem Gerät, ganz ohne Konto oder Cloud-Zwang.
 
 ## Häufige Fragen
 

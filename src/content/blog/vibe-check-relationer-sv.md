@@ -68,7 +68,7 @@ Precis för den här rutinen byggde vi **Vibe-Radar** i **Roster**: du kan regis
 
 <!-- SCREENSHOT: vibe-radar -->
 
-Det som var en vag magkänsla blir en tydlig bild, och ingen av dina förbindelser försvinner tyst i bakgrunden. Navigerar du flera relationer samtidigt ersätter radarn det opålitliga minnet med en ärlig, privat överblick. Hur du dessutom organiserar hela din vardag med flera partner så att ingen halkar efter beskriver vi utförligt i vår [praktiska guide till att organisera flera relationer så att ingen av dem tyst försvinner i bakgrunden](/sv/blog/hantera-flera-relationer). Allt förblir privat på din enhet – Roster sparar inget i molnet och skickar inget till en server.
+Det som var en vag magkänsla blir en tydlig bild, och ingen av dina förbindelser försvinner tyst i bakgrunden. Navigerar du flera relationer samtidigt ersätter radarn det opålitliga minnet med en ärlig, privat överblick. Hur du dessutom organiserar hela din vardag med flera partner så att ingen halkar efter beskriver vi utförligt i vår [praktiska guide till att organisera flera relationer så att ingen av dem tyst försvinner i bakgrunden](/sv/blog/hantera-flera-relationer/). Allt förblir privat på din enhet – Roster sparar inget i molnet och skickar inget till en server.
 
 ## Uppmärksamhet är den verkliga valutan
 

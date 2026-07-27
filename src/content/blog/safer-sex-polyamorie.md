@@ -25,7 +25,7 @@ Der Trick ist, das Thema früh und beiläufig einzuführen – nicht als große,
 
 Ein positives Testergebnis ist unangenehm, aber kein Beziehungs-Notfall. Der wichtigste Schritt ist zügige, direkte Information an alle, die betroffen sein könnten – auch an Partner deiner Partner, wenn das relevant ist. Formuliere es sachlich: was der Befund bedeutet, welche nächsten Schritte anstehen, und was das für gemeinsame Aktivitäten bedeutet. Vermeide es, jemanden zu beschuldigen – die meisten Infektionen lassen sich nicht eindeutig zurückverfolgen, und Vorwürfe helfen niemandem weiter. Ein Netzwerk, in dem Menschen sich trauen, ehrlich über positive Ergebnisse zu sprechen, ist gesünder als eines, in dem aus Angst vor Reaktionen geschwiegen wird. Kläre bei Bedarf medizinische Details mit einer Ärztin oder einem Sexual-Gesundheitszentrum – hier geht es um die Kommunikation, nicht um die Behandlung.
 
-Wie du bei mehreren Verbindungen gleichzeitig – inklusive der Absprachen mit Metamouren – eigentlich den Überblick behältst, wer wann getestet wurde und wann die nächste Kontrolle ansteht, ohne dabei den Verstand zu verlieren, liest du im Artikel [STI-Tests bei mehreren Partnern: Wie du in der Polyamorie den Überblick behältst](/blog/sti-tracking-poly-wellness).
+Wie du bei mehreren Verbindungen gleichzeitig – inklusive der Absprachen mit Metamouren – eigentlich den Überblick behältst, wer wann getestet wurde und wann die nächste Kontrolle ansteht, ohne dabei den Verstand zu verlieren, liest du im Artikel [STI-Tests bei mehreren Partnern: Wie du in der Polyamorie den Überblick behältst](/blog/sti-tracking-poly-wellness/).
 
 ## Tests als Selbstfürsorge, nicht als Makel
 

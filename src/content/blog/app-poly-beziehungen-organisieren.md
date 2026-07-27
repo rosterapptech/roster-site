@@ -70,7 +70,7 @@ All das lokal, ohne Konto, ohne Cloud, ohne dass irgendetwas davon je einen Serv
 
 ## Wo du in deiner Situation weiterliest
 
-Bist du eher noch in der Phase, mehrere Menschen locker und unverbindlich kennenzulernen, statt bereits etablierte Beziehungen zu führen? Dann lohnt sich zuerst ein Blick in [Was ist ein Dating Roster?](/blog/was-ist-ein-dating-roster) – das beschreibt die frühere, offenere Phase, bevor aus losen Verbindungen feste Beziehungen werden. Führst du dagegen bereits mehrere Beziehungen und suchst konkrete Systeme dafür, findest du in [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen) den passenden Praxis-Guide.
+Bist du eher noch in der Phase, mehrere Menschen locker und unverbindlich kennenzulernen, statt bereits etablierte Beziehungen zu führen? Dann lohnt sich zuerst ein Blick in [Was ist ein Dating Roster?](/blog/was-ist-ein-dating-roster/) – das beschreibt die frühere, offenere Phase, bevor aus losen Verbindungen feste Beziehungen werden. Führst du dagegen bereits mehrere Beziehungen und suchst konkrete Systeme dafür, findest du in [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen/) den passenden Praxis-Guide.
 
 ## Häufige Fragen
 

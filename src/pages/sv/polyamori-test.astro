@@ -128,7 +128,7 @@ const results: QuizResultTier[] = [
     title: 'Monogami passar troligen bättre för dig just nu',
     desc: 'Dina svar pekar på att exklusivitet, pålitlighet och fokus på ett förhållande ger dig trygghet. Det är varken bättre eller sämre än polyamori – bara ett annat svar på samma fråga: hur vill jag älska? Om ämnet ändå intresserar dig skadar det aldrig att läsa mer om det.',
     ctaGhostLabel: 'Vad är polyamori egentligen? →',
-    ctaGhostHref: '/sv/blog/vad-ar-polyamori',
+    ctaGhostHref: '/sv/blog/vad-ar-polyamori/',
   },
   {
     min: 13,
@@ -203,7 +203,7 @@ const alternates = [
         <div class="related-grid">
           {
             relatedPosts.map((p) => (
-              <a href={`/sv/blog/${p.slug}`} class="card related-card">
+              <a href={`/sv/blog/${p.slug}/`} class="card related-card">
                 {p.title}
               </a>
             ))

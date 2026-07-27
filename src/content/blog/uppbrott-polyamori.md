@@ -7,7 +7,7 @@ translationKey: 'breakups-polyamory'
 tags: ['Polyamori', 'Uppbrott', 'Metamour', 'Kommunikation']
 ---
 
-**Kort sagt:** Ett uppbrott inom polyamori berör sällan bara två personer – det påverkar oftast hela [polyculet](/sv/blog/vad-ar-ett-polycule): [metamours](/sv/blog/metamour-relationer), gemensamma vänskaper och befintliga relationer som fortsätter parallellt. Sorg över en koppling som tar slut utesluter inte lycka i andra relationer – båda kan finnas samtidigt. Öppen kommunikation med alla som berörs är det som skiljer ett kaotiskt slut från ett respektfullt.
+**Kort sagt:** Ett uppbrott inom polyamori berör sällan bara två personer – det påverkar oftast hela [polyculet](/sv/blog/vad-ar-ett-polycule/): [metamours](/sv/blog/metamour-relationer/), gemensamma vänskaper och befintliga relationer som fortsätter parallellt. Sorg över en koppling som tar slut utesluter inte lycka i andra relationer – båda kan finnas samtidigt. Öppen kommunikation med alla som berörs är det som skiljer ett kaotiskt slut från ett respektfullt.
 
 Uppbrott gör ont, oavsett relationsform. Men inom polyamori tillkommer ett extra lager: ett uppbrott berör sällan bara de två direkt inblandade personerna. Det får konsekvenser för metamours, gemensamma vänskaper och ibland hela nätverket av relationer.
 
@@ -31,7 +31,7 @@ En känsla som förvånar många: man kan vara genuint glad över en annan, fort
 
 ## Praktiska frågor efter ett uppbrott
 
-**Vad händer med gemensamma överenskommelser?** Avtal som gällde för hela polyculet – till exempel om [schemaläggning](/sv/blog/planering-flera-forhallanden) eller hälsa – behöver ofta omförhandlas efter ett uppbrott, eftersom utgångsläget har förändrats.
+**Vad händer med gemensamma överenskommelser?** Avtal som gällde för hela polyculet – till exempel om [schemaläggning](/sv/blog/planering-flera-forhallanden/) eller hälsa – behöver ofta omförhandlas efter ett uppbrott, eftersom utgångsläget har förändrats.
 
 **Hur kommunicerar man det utåt?** Vänner och familj som känner till hela polyculet behöver oftast en kort, tydlig förklaring, istället för att rykten fyller tomrummet.
 

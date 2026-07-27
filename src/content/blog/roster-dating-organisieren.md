@@ -9,7 +9,7 @@ tags: ['Roster Dating', 'Dating', 'Organisation', 'Kommunikation']
 
 **Kurz gesagt:** Roster Dating – also mehrere Personen parallel und unverbindlich zu daten – funktioniert am besten mit einem einfachen System: Details pro Person festhalten, ehrlich über die eigene Kapazität bleiben und offen kommunizieren, dass (noch) keine Exklusivität besteht. Ohne System verschwimmen Gespräche, Verabredungen und Erwartungen schnell – mit System bleibt Roster Dating das, was es sein soll: eine entspannte Phase des Kennenlernens.
 
-Du triffst dich gerade mit mehreren Personen, schreibst mit noch mehr und weißt selbst nicht immer, wer wann was erzählt hat? Willkommen im Alltag von Roster Dating. Was auf TikTok als lockerer Begriff für die eigene Dating-Situation entstanden ist – mehr dazu im Artikel [Was ist ein Dating Roster?](/blog/was-ist-ein-dating-roster) – ist in der Praxis oft chaotischer, als der leichte Ton des Begriffs vermuten lässt.
+Du triffst dich gerade mit mehreren Personen, schreibst mit noch mehr und weißt selbst nicht immer, wer wann was erzählt hat? Willkommen im Alltag von Roster Dating. Was auf TikTok als lockerer Begriff für die eigene Dating-Situation entstanden ist – mehr dazu im Artikel [Was ist ein Dating Roster?](/blog/was-ist-ein-dating-roster/) – ist in der Praxis oft chaotischer, als der leichte Ton des Begriffs vermuten lässt.
 
 ## Warum Roster Dating schnell unübersichtlich wird
 
@@ -39,7 +39,7 @@ Ein Roster ist kein statisches Konstrukt. Personen verlassen ihn, wenn:
 
 ## Roster Dating und Polyamorie: Wo die Wege sich trennen oder treffen
 
-Manche Menschen bleiben bewusst im Roster-Dating-Modus, weil sie keine feste Struktur wollen. Andere entwickeln aus ihrem Roster bewusst mehrere parallele, committete Beziehungen – und wechseln damit in Richtung Polyamorie. Wie sich das konkret managen lässt, beschreibt der Artikel [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen) im Detail.
+Manche Menschen bleiben bewusst im Roster-Dating-Modus, weil sie keine feste Struktur wollen. Andere entwickeln aus ihrem Roster bewusst mehrere parallele, committete Beziehungen – und wechseln damit in Richtung Polyamorie. Wie sich das konkret managen lässt, beschreibt der Artikel [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen/) im Detail.
 
 ## Werkzeuge für dein Roster Dating
 

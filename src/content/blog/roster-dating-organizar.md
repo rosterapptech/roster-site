@@ -9,7 +9,7 @@ tags: ['Roster Dating', 'Encontros', 'Organização', 'Comunicação']
 
 **Resumindo:** o Roster Dating — sair com várias pessoas ao mesmo tempo, de forma casual e sem compromisso — funciona melhor com um sistema simples: anotar os detalhes de cada pessoa, ser honesto sobre sua própria capacidade e comunicar abertamente que (ainda) não há exclusividade. Sem um sistema, as conversas, os encontros e as expectativas se misturam rapidinho; com um, o Roster Dating permanece o que deveria ser: uma fase tranquila de conhecer gente.
 
-Você está saindo com várias pessoas agora, trocando mensagem com ainda mais gente, e nem sempre lembra quem contou o quê? Bem-vindo ao dia a dia do Roster Dating. O que começou no TikTok como um termo descontraído para descrever a própria situação de encontros — mais sobre isso em [O que é um Dating Roster?](/pt/blog/o-que-e-um-dating-roster) — costuma ser, na prática, mais caótico do que o tom leve do termo sugere.
+Você está saindo com várias pessoas agora, trocando mensagem com ainda mais gente, e nem sempre lembra quem contou o quê? Bem-vindo ao dia a dia do Roster Dating. O que começou no TikTok como um termo descontraído para descrever a própria situação de encontros — mais sobre isso em [O que é um Dating Roster?](/pt/blog/o-que-e-um-dating-roster/) — costuma ser, na prática, mais caótico do que o tom leve do termo sugere.
 
 ## Por que o Roster Dating sai do controle rápido
 
@@ -39,7 +39,7 @@ Um roster não é uma estrutura fixa. As pessoas saem dele quando:
 
 ## Roster Dating e poliamoria: onde os caminhos se separam ou se encontram
 
-Algumas pessoas permanecem deliberadamente no modo Roster Dating porque não querem uma estrutura fixa. Outras deixam seu roster evoluir conscientemente para vários relacionamentos paralelos e comprometidos, aproximando-se assim da poliamoria. Como lidar com isso na prática é explicado em detalhe no artigo [Gerenciar vários relacionamentos ao mesmo tempo](/pt/blog/gerenciar-varios-relacionamentos).
+Algumas pessoas permanecem deliberadamente no modo Roster Dating porque não querem uma estrutura fixa. Outras deixam seu roster evoluir conscientemente para vários relacionamentos paralelos e comprometidos, aproximando-se assim da poliamoria. Como lidar com isso na prática é explicado em detalhe no artigo [Gerenciar vários relacionamentos ao mesmo tempo](/pt/blog/gerenciar-varios-relacionamentos/).
 
 ## Ferramentas para o seu Roster Dating
 

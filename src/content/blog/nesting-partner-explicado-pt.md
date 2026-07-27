@@ -13,37 +13,37 @@ O termo "nesting partner" aparece o tempo todo na comunidade poliamorosa, justam
 
 ## O que é exatamente um nesting partner?
 
-Um nesting partner é a pessoa com quem você mora e leva um lar compartilhado, incluindo finanças em comum, rotinas diárias e muitas vezes filhos ou pets em comum. A palavra "ninho" enfatiza deliberadamente a dimensão prática e doméstica, não o peso emocional do relacionamento. Para mais vocabulário básico, consulte nosso [Glossário da poliamoria](/pt/blog/glossario-poliamoria).
+Um nesting partner é a pessoa com quem você mora e leva um lar compartilhado, incluindo finanças em comum, rotinas diárias e muitas vezes filhos ou pets em comum. A palavra "ninho" enfatiza deliberadamente a dimensão prática e doméstica, não o peso emocional do relacionamento. Para mais vocabulário básico, consulte nosso [Glossário da poliamoria](/pt/blog/glossario-poliamoria/).
 
 ## Nesting partner vs. parceira primária: não é a mesma coisa
 
-Um mal-entendido comum é achar que nesting partner e parceira primária são automaticamente a mesma coisa. Na poliamoria hierárquica, os dois papéis costumam coincidir, mas não precisam: algumas pessoas moram com um parceiro que explicitamente não chamam de "primário", enquanto outro relacionamento, sem convivência, tem peso emocional igual ou maior. O artigo [Poliamoria hierárquica vs. não hierárquica](/pt/blog/poliamoria-hierarquica-vs-nao-hierarquica) aprofunda como o status e a situação de moradia se relacionam — ou não.
+Um mal-entendido comum é achar que nesting partner e parceira primária são automaticamente a mesma coisa. Na poliamoria hierárquica, os dois papéis costumam coincidir, mas não precisam: algumas pessoas moram com um parceiro que explicitamente não chamam de "primário", enquanto outro relacionamento, sem convivência, tem peso emocional igual ou maior. O artigo [Poliamoria hierárquica vs. não hierárquica](/pt/blog/poliamoria-hierarquica-vs-nao-hierarquica/) aprofunda como o status e a situação de moradia se relacionam — ou não.
 
 ## Por que o termo importa tanto
 
-Sem esse vocabulário, é fácil cair na ideia equivocada de que quem mora com você deve ser automaticamente o "relacionamento principal". Isso gera uma pressão desnecessária sobre os parceiros que não moram junto, que podem acabar se sentindo secundários — um tema que também aparece em [Relacionamento com o metamour: como se dar bem com o parceiro do seu parceiro](/pt/blog/metamour-relacionamentos). "Nesting partner" traz aqui clareza conceitual: é uma afirmação sobre logística, não sobre amor.
+Sem esse vocabulário, é fácil cair na ideia equivocada de que quem mora com você deve ser automaticamente o "relacionamento principal". Isso gera uma pressão desnecessária sobre os parceiros que não moram junto, que podem acabar se sentindo secundários — um tema que também aparece em [Relacionamento com o metamour: como se dar bem com o parceiro do seu parceiro](/pt/blog/metamour-relacionamentos/). "Nesting partner" traz aqui clareza conceitual: é uma afirmação sobre logística, não sobre amor.
 
 ## Desafios comuns com nesting partners
 
 ### Outros relacionamentos dentro do lar compartilhado
 
-Quanto espaço outros relacionamentos têm dentro do lar compartilhado? Alguns casais combinam regras claras sobre quando outros parceiros podem visitar ou quanta visibilidade isso tem. Isso importa especialmente quando há filhos em casa; mais sobre isso em [Poliamoria e parentalidade](/pt/blog/poliamoria-parentalidade).
+Quanto espaço outros relacionamentos têm dentro do lar compartilhado? Alguns casais combinam regras claras sobre quando outros parceiros podem visitar ou quanta visibilidade isso tem. Isso importa especialmente quando há filhos em casa; mais sobre isso em [Poliamoria e parentalidade](/pt/blog/poliamoria-parentalidade/).
 
 ### Dividir o tempo cotidiano de forma justa
 
-Morar junto implica inevitavelmente mais tempo compartilhado no dia a dia: cozinhar, resolver tarefas, tardes no sofá. Isso não deveria significar automaticamente que outros relacionamentos saiam estruturalmente prejudicados. Horários fixos e visíveis para cada conexão ajudam com isso; veja [Planejar vários relacionamentos](/pt/blog/planejar-varios-relacionamentos).
+Morar junto implica inevitavelmente mais tempo compartilhado no dia a dia: cozinhar, resolver tarefas, tardes no sofá. Isso não deveria significar automaticamente que outros relacionamentos saiam estruturalmente prejudicados. Horários fixos e visíveis para cada conexão ajudam com isso; veja [Planejar vários relacionamentos](/pt/blog/planejar-varios-relacionamentos/).
 
 ### Privacidade dentro de um lar compartilhado
 
-Morar com um parceiro implica inevitavelmente compartilhar mais informação sobre seus outros relacionamentos do que alguém que mora sozinho. Quanta privacidade ainda assim é possível manter, e como proteger informações sensíveis, é explicado em [Poliamoria e privacidade](/pt/blog/poliamoria-privacidade).
+Morar com um parceiro implica inevitavelmente compartilhar mais informação sobre seus outros relacionamentos do que alguém que mora sozinho. Quanta privacidade ainda assim é possível manter, e como proteger informações sensíveis, é explicado em [Poliamoria e privacidade](/pt/blog/poliamoria-privacidade/).
 
 ## Quando não existe nesting partner
 
-Nem toda pessoa poliamorosa tem um nesting partner. Quem mora sozinho e deliberadamente não busca um lar compartilhado com nenhum parceiro costuma viver a poliamoria em modo solo. Mais sobre isso em [Poliamoria solo: gerenciando vários relacionamentos sem nesting partner](/pt/blog/solo-poliamoria-pt).
+Nem toda pessoa poliamorosa tem um nesting partner. Quem mora sozinho e deliberadamente não busca um lar compartilhado com nenhum parceiro costuma viver a poliamoria em modo solo. Mais sobre isso em [Poliamoria solo: gerenciando vários relacionamentos sem nesting partner](/pt/blog/solo-poliamoria-pt/).
 
 ## Ferramentas que ajudam
 
-Com ou sem nesting partner, o **Roster** representa cada relacionamento do seu [polycule](/pt/blog/o-que-e-um-polycule) de forma individual, não importa quem mora com você e quem não mora. Assim, os relacionamentos sem convivência também recebem o espaço de que precisam, sem necessidade de conta e com todos os dados guardados no seu próprio aparelho.
+Com ou sem nesting partner, o **Roster** representa cada relacionamento do seu [polycule](/pt/blog/o-que-e-um-polycule/) de forma individual, não importa quem mora com você e quem não mora. Assim, os relacionamentos sem convivência também recebem o espaço de que precisam, sem necessidade de conta e com todos os dados guardados no seu próprio aparelho.
 
 ## Perguntas frequentes
 

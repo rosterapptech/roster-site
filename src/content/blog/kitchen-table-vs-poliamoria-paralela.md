@@ -7,7 +7,7 @@ translationKey: 'kitchen-table-vs-parallel-polyamory'
 tags: ['Poliamor', 'Estructuras de relación', 'Metamour', 'Comunicación']
 ---
 
-**En resumen:** El poliamor "kitchen table" y el poliamor paralelo describen lo cerca que están conectadas entre sí las personas de un [polycule](/es/blog/que-es-un-polycule). En el poliamor kitchen table, todos se sientan en sentido figurado a la misma mesa de cocina: se conocen, pasan tiempo juntos y mantienen contacto incluso con los [metamours](/es/blog/metamour-relaciones). En el poliamor paralelo, las relaciones avanzan de forma independiente, una junto a otra, con poco o ningún contacto directo entre las parejas de tus parejas. Ninguno de los dos es "mejor": lo que importa es qué encaja con tu personalidad y tu vida.
+**En resumen:** El poliamor "kitchen table" y el poliamor paralelo describen lo cerca que están conectadas entre sí las personas de un [polycule](/es/blog/que-es-un-polycule/). En el poliamor kitchen table, todos se sientan en sentido figurado a la misma mesa de cocina: se conocen, pasan tiempo juntos y mantienen contacto incluso con los [metamours](/es/blog/metamour-relaciones/). En el poliamor paralelo, las relaciones avanzan de forma independiente, una junto a otra, con poco o ningún contacto directo entre las parejas de tus parejas. Ninguno de los dos es "mejor": lo que importa es qué encaja con tu personalidad y tu vida.
 
 En cuanto un polycule incluye a más de dos personas, tarde o temprano surge la pregunta: ¿cuánto contacto debería haber realmente entre todas las personas implicadas? Esa pregunta ya tiene nombre: poliamor kitchen table y poliamor paralelo son las dos respuestas más conocidas.
 

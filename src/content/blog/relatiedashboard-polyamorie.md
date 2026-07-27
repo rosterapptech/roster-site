@@ -62,7 +62,7 @@ Alles draait lokaal op je apparaat, volledig zonder account en zonder tracking. 
 
 ## Waar je verder kunt lezen
 
-Zoek je eerder een app die helpt nieuwe mensen te vinden, in plaats van bestaande relaties te organiseren? Dat onderscheid wordt uitgelegd in [App voor polyamorie: relaties organiseren in plaats van alleen mensen vinden](/nl/blog/app-voor-polyamore-relaties-organiseren). Ben je op dit moment verschillende dating-trackers zoals Rostr of Spread aan het vergelijken? Dan helpt [Rostr, Spread & Co.: Waarom dating-trackers geen polyamorie-apps zijn](/nl/blog/dating-tracker-vs-polyamorie-app-nl) verder. En voor concrete systemen los van tools vind je in [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen) de praktische gids.
+Zoek je eerder een app die helpt nieuwe mensen te vinden, in plaats van bestaande relaties te organiseren? Dat onderscheid wordt uitgelegd in [App voor polyamorie: relaties organiseren in plaats van alleen mensen vinden](/nl/blog/app-voor-polyamore-relaties-organiseren/). Ben je op dit moment verschillende dating-trackers zoals Rostr of Spread aan het vergelijken? Dan helpt [Rostr, Spread & Co.: Waarom dating-trackers geen polyamorie-apps zijn](/nl/blog/dating-tracker-vs-polyamorie-app-nl/) verder. En voor concrete systemen los van tools vind je in [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen/) de praktische gids.
 
 ## Veelgestelde vragen
 

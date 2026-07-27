@@ -7,7 +7,7 @@ translationKey: 'polyamory-privacy'
 tags: ['Privatliv', 'Polyamori', 'Databeskyttelse', 'Sikkerhed']
 ---
 
-Relationsdata er noget af det mest følsomme, der findes: hvem er sammen med hvem, seksuel sundhed, grænser, intime detaljer, [polyculet](/da/blog/hvad-er-et-polycule) som helhed. I polyamori handler det ikke kun om dig, men også om dine partnere og deres metamours. Endnu mere overraskende er det, hvor sjældent privatliv diskuteres i denne sammenhæng.
+Relationsdata er noget af det mest følsomme, der findes: hvem er sammen med hvem, seksuel sundhed, grænser, intime detaljer, [polyculet](/da/blog/hvad-er-et-polycule/) som helhed. I polyamori handler det ikke kun om dig, men også om dine partnere og deres metamours. Endnu mere overraskende er det, hvor sjældent privatliv diskuteres i denne sammenhæng.
 
 Denne artikel forklarer, hvorfor privatliv har særlig betydning i ikke-monogame relationer – og hvordan du virkelig beskytter dine data.
 

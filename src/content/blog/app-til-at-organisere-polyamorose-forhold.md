@@ -70,7 +70,7 @@ Det hele lokalt, uden konto, uden cloud, uden at noget nogensinde når en server
 
 ## Hvor du kan læse videre, afhængigt af din situation
 
-Er du stadig i fasen med løst at lære flere mennesker at kende, i stedet for allerede at have etablerede forhold? Start så med [Hvad er en Dating Roster?](/da/blog/hvad-er-en-dating-roster) – den beskriver den tidligere, mere åbne fase, før løse forbindelser bliver til faste forhold. Styrer du allerede flere forhold og leder efter konkrete systemer til det? [Styr flere forhold ad gangen](/da/blog/styre-flere-forhold) er den praktiske guide, du har brug for.
+Er du stadig i fasen med løst at lære flere mennesker at kende, i stedet for allerede at have etablerede forhold? Start så med [Hvad er en Dating Roster?](/da/blog/hvad-er-en-dating-roster/) – den beskriver den tidligere, mere åbne fase, før løse forbindelser bliver til faste forhold. Styrer du allerede flere forhold og leder efter konkrete systemer til det? [Styr flere forhold ad gangen](/da/blog/styre-flere-forhold/) er den praktiske guide, du har brug for.
 
 ## Ofte stillede spørgsmål
 

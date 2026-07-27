@@ -31,7 +31,7 @@ Si falta cualquiera de estos tres pilares, no es ENM: es simplemente infidelidad
 
 **Anarquía relacional:** un enfoque que negocia cada relación de forma individual, sin dar por sentadas categorías o jerarquías fijas.
 
-Más sobre estos términos y otros subtipos en el [Glosario del poliamor](/es/blog/glosario-poliamoria).
+Más sobre estos términos y otros subtipos en el [Glosario del poliamor](/es/blog/glosario-poliamoria/).
 
 ## Por qué es útil el término paraguas
 
@@ -43,11 +43,11 @@ La ENM como término paraguas resulta especialmente práctica cuando se quiere h
 
 **"La ENM significa evitar el compromiso real."** Muchas estructuras de ENM, empezando por el poliamor, implican vínculos emocionales profundos y duraderos con varias personas a la vez.
 
-**"La ENM solo funciona sin celos."** Los celos también aparecen en las relaciones de ENM; la diferencia está en cómo se gestionan, con apertura y de forma constructiva. Más sobre esto en [Celos en el poliamor](/es/blog/celos-poliamoria).
+**"La ENM solo funciona sin celos."** Los celos también aparecen en las relaciones de ENM; la diferencia está en cómo se gestionan, con apertura y de forma constructiva. Más sobre esto en [Celos en el poliamor](/es/blog/celos-poliamoria/).
 
 ## Encontrar el estilo de ENM adecuado para ti
 
-No existe una forma "correcta" de ENM, solo la que encaja con tus propias necesidades, capacidad y valores. Si eres nuevo en este terreno, [Poliamor para principiantes](/es/blog/poliamoria-para-principiantes) es un buen punto de partida, aunque el poliamor sea solo una de varias estructuras de ENM.
+No existe una forma "correcta" de ENM, solo la que encaja con tus propias necesidades, capacidad y valores. Si eres nuevo en este terreno, [Poliamor para principiantes](/es/blog/poliamoria-para-principiantes/) es un buen punto de partida, aunque el poliamor sea solo una de varias estructuras de ENM.
 
 ## Estructura para vivir la ENM en la práctica
 

@@ -48,7 +48,7 @@ Svartsjukan känns enorm och kaotisk i stunden. Att skriva ned den sorterar den.
 
 Compersion – glädjen över din partners lycka med någon annan – kommer inte naturligt för de flesta. Men det kan övas. Ett första steg: lägg medvetet märke till de ögonblick då det är lätt att glädjas med någon, och påminn dig om att din partners lycka inte tar något ifrån dig.
 
-Svartsjuka är för övrigt sällan det enda som pressas när man har flera relationer – ofta ligger det egentliga problemet i för lite struktur i vardagen. Hur du fördelar tid, kommunikation och kapacitet rättvist mellan flera förbindelser kan du läsa om i artikeln [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer).
+Svartsjuka är för övrigt sällan det enda som pressas när man har flera relationer – ofta ligger det egentliga problemet i för lite struktur i vardagen. Hur du fördelar tid, kommunikation och kapacitet rättvist mellan flera förbindelser kan du läsa om i artikeln [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer/).
 
 ## 7. Ge dig själv tid – vänjning är verklig
 

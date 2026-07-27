@@ -35,7 +35,7 @@ Deze drie termen worden vaak door elkaar gehaald, maar betekenen iets anders:
 
 **Situationship** verwijst naar één verbinding die aanvoelt als een relatie, maar nooit officieel als zodanig benoemd is – vaak met onduidelijke verwachtingen en onzekerheid bij minstens één kant.
 
-**Polyamorie** is een bewust gekozen relatiemodel met open communicatie, waarbij meerdere gelijktijdige, meestal emotioneel gecommitteerde relaties bestaan – in tegenstelling tot de roster, die vaak nog vrijblijvend en verkennend is. Meer over dit onderscheid in het artikel [Polyamorie vs. open relatie](/nl/blog/polyamorie-vs-open-relatie).
+**Polyamorie** is een bewust gekozen relatiemodel met open communicatie, waarbij meerdere gelijktijdige, meestal emotioneel gecommitteerde relaties bestaan – in tegenstelling tot de roster, die vaak nog vrijblijvend en verkennend is. Meer over dit onderscheid in het artikel [Polyamorie vs. open relatie](/nl/blog/polyamorie-vs-open-relatie/).
 
 Een Dating Roster kan zich dus na verloop van tijd richting polyamorie ontwikkelen, als meerdere losse verbindingen bewust uitgroeien tot gecommitteerde meervoudige relaties – of hij kan zich beperken tot één relatie zodra een verbinding exclusief wordt.
 
@@ -45,7 +45,7 @@ Het succes van "Dating Roster" zit erin dat de term een reële datingervaring �
 
 ## Uitdagingen bij het bijhouden van een Dating Roster
 
-Hoe luchtig de term ook klinkt, de praktische uitdagingen zijn reëel: wie met meerdere mensen tegelijk appt en afspreekt, moet details uit elkaar houden, eerlijk omgaan met de eigen capaciteit en in de gaten houden wie wat weet. Precies daar gaat het artikel [Roster Dating organiseren](/nl/blog/roster-dating-organiseren) over – met concrete strategieën voor het dagelijks leven.
+Hoe luchtig de term ook klinkt, de praktische uitdagingen zijn reëel: wie met meerdere mensen tegelijk appt en afspreekt, moet details uit elkaar houden, eerlijk omgaan met de eigen capaciteit en in de gaten houden wie wat weet. Precies daar gaat het artikel [Roster Dating organiseren](/nl/blog/roster-dating-organiseren/) over – met concrete strategieën voor het dagelijks leven.
 
 ## Hulpmiddelen voor jouw Dating Roster
 

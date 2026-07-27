@@ -7,7 +7,7 @@ translationKey: 'kitchen-table-vs-parallel-polyamory'
 tags: ['Polyamory', 'Relationship structures', 'Metamour', 'Communication']
 ---
 
-**In short:** Kitchen table polyamory and parallel polyamory describe how closely the people in a [polycule](/en/blog/what-is-a-polycule) are connected to each other. In kitchen table polyamory, everyone figuratively sits at the same kitchen table – you know each other, spend time together, and stay in touch even with [metamours](/en/blog/metamour-relationships). In parallel polyamory, the relationships run independently side by side, with little to no direct contact between your partners' partners. Neither is "better" – what matters is what fits your personality and your life.
+**In short:** Kitchen table polyamory and parallel polyamory describe how closely the people in a [polycule](/en/blog/what-is-a-polycule/) are connected to each other. In kitchen table polyamory, everyone figuratively sits at the same kitchen table – you know each other, spend time together, and stay in touch even with [metamours](/en/blog/metamour-relationships/). In parallel polyamory, the relationships run independently side by side, with little to no direct contact between your partners' partners. Neither is "better" – what matters is what fits your personality and your life.
 
 Once a polycule includes more than two people, the question eventually comes up: how much contact should actually exist between everyone involved? That question has gotten a name – kitchen table polyamory and parallel polyamory are the two best-known answers.
 

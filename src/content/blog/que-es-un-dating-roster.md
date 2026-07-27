@@ -35,7 +35,7 @@ Estos tres términos se confunden a menudo, pero significan cosas distintas:
 
 **Situationship** se refiere a una sola conexión que se siente como una relación, pero que nunca se ha nombrado oficialmente como tal – a menudo con expectativas poco claras e inseguridad en al menos una de las partes.
 
-**Poliamoria** es un modelo de relación elegido de forma consciente, con comunicación abierta, en el que existen varias relaciones simultáneas, normalmente con compromiso emocional – a diferencia del roster, que suele ser todavía casual y exploratorio. Más sobre esta diferencia en el artículo [Poliamoria vs. relación abierta](/es/blog/poliamoria-vs-relacion-abierta).
+**Poliamoria** es un modelo de relación elegido de forma consciente, con comunicación abierta, en el que existen varias relaciones simultáneas, normalmente con compromiso emocional – a diferencia del roster, que suele ser todavía casual y exploratorio. Más sobre esta diferencia en el artículo [Poliamoria vs. relación abierta](/es/blog/poliamoria-vs-relacion-abierta/).
 
 Así, un Dating Roster puede evolucionar con el tiempo hacia la poliamoria, si varias conexiones sueltas se convierten deliberadamente en relaciones múltiples comprometidas – o puede reducirse a una sola relación cuando una conexión se vuelve exclusiva.
 
@@ -45,7 +45,7 @@ El éxito de "Dating Roster" está en que nombra una experiencia real de citas �
 
 ## Retos de llevar un Dating Roster
 
-Por muy ligero que suene el término, los retos prácticos son reales: quien escribe y queda con varias personas a la vez tiene que mantener los detalles claros, ser honesto con su propia capacidad y llevar el control de quién sabe qué. Justo de eso trata el artículo [Organizar tu Roster Dating](/es/blog/organizar-roster-dating) – con estrategias concretas para el día a día.
+Por muy ligero que suene el término, los retos prácticos son reales: quien escribe y queda con varias personas a la vez tiene que mantener los detalles claros, ser honesto con su propia capacidad y llevar el control de quién sabe qué. Justo de eso trata el artículo [Organizar tu Roster Dating](/es/blog/organizar-roster-dating/) – con estrategias concretas para el día a día.
 
 ## Herramientas para tu Dating Roster
 

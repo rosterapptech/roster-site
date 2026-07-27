@@ -44,7 +44,7 @@ Una entrada de calendario tiene una fecha, una hora, quizá un lugar y un títul
 
 ### No tiene sentido de la salud de la relación
 
-Este mismo punto ya lo apuntamos brevemente en [Gestionar varias relaciones a la vez](/es/blog/gestionar-varias-relaciones); aquí merece una mirada más profunda, porque es uno de los puntos ciegos más grandes de un calendario. Google Calendar te muestra cuándo es la próxima cita. No te muestra que lleváis tres semanas sin hablar de verdad, que una conexión se está apagando poco a poco sin que nadie haya hecho nada mal, o que un acuerdo se ha ido quedando en silencio. Un calendario lleno puede seguir describiendo una relación que se está muriendo de hambre emocional, porque "nos vemos" y "estamos bien" son dos cosas completamente distintas que un calendario no sabe diferenciar.
+Este mismo punto ya lo apuntamos brevemente en [Gestionar varias relaciones a la vez](/es/blog/gestionar-varias-relaciones/); aquí merece una mirada más profunda, porque es uno de los puntos ciegos más grandes de un calendario. Google Calendar te muestra cuándo es la próxima cita. No te muestra que lleváis tres semanas sin hablar de verdad, que una conexión se está apagando poco a poco sin que nadie haya hecho nada mal, o que un acuerdo se ha ido quedando en silencio. Un calendario lleno puede seguir describiendo una relación que se está muriendo de hambre emocional, porque "nos vemos" y "estamos bien" son dos cosas completamente distintas que un calendario no sabe diferenciar.
 
 ### Un problema de privacidad real para información sensible
 
@@ -58,7 +58,7 @@ Si se juntan estos tres puntos, aparece una imagen clara: Google Calendar no es 
 
 Aquí es exactamente donde entra **Roster**: no como sustituto de tu calendario, sino como una capa por encima. Las citas se quedan donde mejor están: en el calendario. Pero todo lo que tiene que ver con "cómo está realmente esta relación" tiene su propio sitio en Roster. El **mapa del polícula** muestra tu red entera de un vistazo, en lugar de tener que reconstruirla a partir de citas dispersas. El **Vibe Radar** registra, por cada conexión, si hace sol, está nublado, llueve o hay silencio de radio: algo que ningún campo de un calendario podría capturar jamás. La **Reflexión** te da un espacio privado para ordenar tus propios pensamientos sobre una relación, y **Wellness** lleva el control de cosas como los chequeos de sexo seguro sin que acaben visibles para todo el mundo en un calendario compartido. Todos estos datos se quedan completamente locales en tu dispositivo: sin cuenta, sin servidor, sin ninguna sincronización que pueda revelar algo sobre ti.
 
-Quien quiera ver cómo encajan en el día a día estas dos capas -calendario y gestión de relaciones-, encontrará más sistemas para eso en [Gestionar varias relaciones a la vez](/es/blog/gestionar-varias-relaciones). Y quien note que el verdadero reto es, sobre todo, darse cuenta a tiempo de cuándo una relación necesita atención, encontrará una rutina concreta para eso en la [guía del vibe-check](/es/blog/vibe-check-relaciones).
+Quien quiera ver cómo encajan en el día a día estas dos capas -calendario y gestión de relaciones-, encontrará más sistemas para eso en [Gestionar varias relaciones a la vez](/es/blog/gestionar-varias-relaciones/). Y quien note que el verdadero reto es, sobre todo, darse cuenta a tiempo de cuándo una relación necesita atención, encontrará una rutina concreta para eso en la [guía del vibe-check](/es/blog/vibe-check-relaciones/).
 
 ## Preguntas frecuentes
 

@@ -45,7 +45,7 @@ La compersión y los celos se alternan con frecuencia. Cuando apuntas ambos sent
 
 ## La compersión y los celos no son adversarios
 
-Es tentador ver la compersión como el "objetivo final" y los [celos](/es/blog/celos-poliamoria) como un fracaso. Es más útil entender ambos como dos caras del mismo trabajo emocional. Los celos te muestran una necesidad; la compersión te muestra tu conexión. Lidiar honestamente con los celos a menudo crea el espacio en el que la compersión puede crecer.
+Es tentador ver la compersión como el "objetivo final" y los [celos](/es/blog/celos-poliamoria/) como un fracaso. Es más útil entender ambos como dos caras del mismo trabajo emocional. Los celos te muestran una necesidad; la compersión te muestra tu conexión. Lidiar honestamente con los celos a menudo crea el espacio en el que la compersión puede crecer.
 
 ## Preguntas frecuentes
 

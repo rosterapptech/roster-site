@@ -37,7 +37,7 @@ const fmt = (d: Date) =>
         <h2>{tr('home.blog.title')}</h2>
         <div class="teaser-grid">
           {posts.map((p) => (
-            <a href={`${prefix}/blog/${p.id}`} class="card teaser-card">
+            <a href={`${prefix}/blog/${p.id}/`} class="card teaser-card">
               <time datetime={p.data.pubDate.toISOString()}>{fmt(p.data.pubDate)}</time>
               <h3>{p.data.title}</h3>
               <p>{p.data.description}</p>
@@ -45,7 +45,7 @@ const fmt = (d: Date) =>
             </a>
           ))}
         </div>
-        <a href={`${prefix}/blog`} class="all-link">{tr('home.blog.all')}</a>
+        <a href={`${prefix}/blog/`} class="all-link">{tr('home.blog.all')}</a>
       </div>
     </section>
   )

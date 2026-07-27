@@ -19,7 +19,7 @@ Dicho de otra manera: el poliamor es una estructura de relación; la anarquía r
 
 ## El poliamor en detalle
 
-El poliamor trata de múltiples relaciones románticas paralelas. Muchas personas poliamorosas trabajan con estructuras: quizás hay una nesting partner con quien conviven y otras relaciones además. Algunas constelaciones poliamorosas son explícitamente **jerárquicas** – con parejas primarias y secundarias donde ciertas relaciones tienen prioridad. Otras son **igualitarias** y tratan todas las relaciones con igual valor. El punto clave: el poliamor no dice nada sobre si rechazas o utilizas jerarquías. Para más sobre los conceptos básicos, consulta nuestro [glosario del poliamor](/es/blog/glosario-poliamoria).
+El poliamor trata de múltiples relaciones románticas paralelas. Muchas personas poliamorosas trabajan con estructuras: quizás hay una nesting partner con quien conviven y otras relaciones además. Algunas constelaciones poliamorosas son explícitamente **jerárquicas** – con parejas primarias y secundarias donde ciertas relaciones tienen prioridad. Otras son **igualitarias** y tratan todas las relaciones con igual valor. El punto clave: el poliamor no dice nada sobre si rechazas o utilizas jerarquías. Para más sobre los conceptos básicos, consulta nuestro [glosario del poliamor](/es/blog/glosario-poliamoria/).
 
 ## La anarquía relacional en detalle
 
@@ -49,7 +49,7 @@ Muchas personas se mueven entre estos conceptos con el tiempo – lo cual es com
 
 ## Cualquier modelo que elijas – mantener el control importa
 
-Ya sea que vivas el poliamor de forma clásica o estés descubriendo la anarquía relacional: en ambos casos gestionas múltiples conexiones significativas que necesitan atención y cuidado. **Roster** está construido deliberadamente sin jerarquía impuesta – tú decides qué tipo de conexión registras, completamente en tus propios términos. La app se adapta a tu definición de relación, no al revés. Cómo mantener el control lo explicamos en nuestro artículo sobre [organizar varias relaciones](/es/blog/gestionar-varias-relaciones).
+Ya sea que vivas el poliamor de forma clásica o estés descubriendo la anarquía relacional: en ambos casos gestionas múltiples conexiones significativas que necesitan atención y cuidado. **Roster** está construido deliberadamente sin jerarquía impuesta – tú decides qué tipo de conexión registras, completamente en tus propios términos. La app se adapta a tu definición de relación, no al revés. Cómo mantener el control lo explicamos en nuestro artículo sobre [organizar varias relaciones](/es/blog/gestionar-varias-relaciones/).
 
 ## Preguntas frecuentes
 

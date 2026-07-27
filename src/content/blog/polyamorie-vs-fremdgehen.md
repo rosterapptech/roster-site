@@ -38,11 +38,11 @@ Diese Definition macht deutlich: Es gibt kein "ein bisschen polyamor, ohne dass 
 
 ## Vom Fremdgehen zur ehrlichen Öffnung
 
-Manche Paare entdecken erst durch eine Untreue, dass eine Person sich zu Nicht-Monogamie hingezogen fühlt. Das kann der Ausgangspunkt für eine ehrliche Öffnung sein – aber nur, wenn der Vertrauensbruch zuerst als das benannt wird, was er war, statt ihn rückwirkend als "eigentlich schon Polyamorie" umzudeuten. Wer wirklich zu Polyamorie oder [ethischer Nicht-Monogamie](/blog/ethische-nicht-monogamie) übergehen möchte, findet einen guten Einstieg im Artikel [Polyamorie für Anfänger](/blog/polyamorie-fuer-anfaenger).
+Manche Paare entdecken erst durch eine Untreue, dass eine Person sich zu Nicht-Monogamie hingezogen fühlt. Das kann der Ausgangspunkt für eine ehrliche Öffnung sein – aber nur, wenn der Vertrauensbruch zuerst als das benannt wird, was er war, statt ihn rückwirkend als "eigentlich schon Polyamorie" umzudeuten. Wer wirklich zu Polyamorie oder [ethischer Nicht-Monogamie](/blog/ethische-nicht-monogamie/) übergehen möchte, findet einen guten Einstieg im Artikel [Polyamorie für Anfänger](/blog/polyamorie-fuer-anfaenger/).
 
 ## Ehrlichkeit strukturell absichern
 
-Der beste Schutz gegen Missverständnisse ist Transparenz von Anfang an: klare [Vereinbarungen statt einseitiger Regeln](/blog/polyamorie-regeln-vereinbarungen), offene Kommunikation über neue Verbindungen und ein gemeinsames Verständnis davon, was in der jeweiligen Beziehung erlaubt ist. **Roster** hilft dabei, genau diese Vereinbarungen für jede Verbindung in deinem [Polycule](/blog/was-ist-ein-polycule) festzuhalten – transparent für alle Beteiligten und lokal auf deinem Gerät gespeichert.
+Der beste Schutz gegen Missverständnisse ist Transparenz von Anfang an: klare [Vereinbarungen statt einseitiger Regeln](/blog/polyamorie-regeln-vereinbarungen/), offene Kommunikation über neue Verbindungen und ein gemeinsames Verständnis davon, was in der jeweiligen Beziehung erlaubt ist. **Roster** hilft dabei, genau diese Vereinbarungen für jede Verbindung in deinem [Polycule](/blog/was-ist-ein-polycule/) festzuhalten – transparent für alle Beteiligten und lokal auf deinem Gerät gespeichert.
 
 ## Häufige Fragen
 

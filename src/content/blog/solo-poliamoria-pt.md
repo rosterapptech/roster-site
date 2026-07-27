@@ -32,7 +32,7 @@ A solo-poly costuma atrair pessoas que:
 - valorizam muito a própria autonomia e o próprio espaço,
 - não querem que um relacionamento tenha automaticamente prioridade sobre outros ou sobre a própria vida,
 - preferem morar sozinhas e tomar as próprias decisões sobre o dia a dia,
-- se sentem atraídas pela [anarquia relacional](/pt/blog/anarquia-relacional-vs-poliamoria-pt), já que os dois conceitos questionam hierarquias,
+- se sentem atraídas pela [anarquia relacional](/pt/blog/anarquia-relacional-vs-poliamoria-pt/), já que os dois conceitos questionam hierarquias,
 - depois de um divórcio ou quando os filhos saem de casa, querem viver de forma conscientemente independente.
 
 ## Como é o dia a dia?
@@ -44,7 +44,7 @@ Isso torna duas coisas especialmente importantes:
 1. **Comunicação clara.** Como a solo-poly foge dos roteiros de relacionamento habituais, é importante ser transparente desde o início sobre como você vive os relacionamentos — para que ninguém presuma silenciosamente uma escalada rumo à convivência que você não está planejando.
 2. **Seu próprio controle.** Sem uma agenda familiar compartilhada, você precisa de um sistema que se adapte à sua independência — um que seja seu e não esteja vinculado a nenhum relacionamento em particular.
 
-É exatamente aqui que o **Roster** encaixa bem com a solo-poly: o app é centrado em você, não numa casa ou num relacionamento principal. Você mantém todas as suas conexões à vista num só lugar privado — detalhes importantes, radar de clima de cada relacionamento, reflexões — sem que nenhuma conexão seja estruturalmente colocada acima de outra. E como tudo permanece localmente no seu dispositivo, sua independência fica protegida também em termos de [privacidade](/pt/blog/poliamoria-privacidade).
+É exatamente aqui que o **Roster** encaixa bem com a solo-poly: o app é centrado em você, não numa casa ou num relacionamento principal. Você mantém todas as suas conexões à vista num só lugar privado — detalhes importantes, radar de clima de cada relacionamento, reflexões — sem que nenhuma conexão seja estruturalmente colocada acima de outra. E como tudo permanece localmente no seu dispositivo, sua independência fica protegida também em termos de [privacidade](/pt/blog/poliamoria-privacidade/).
 
 ## Independência e proximidade não se excluem
 

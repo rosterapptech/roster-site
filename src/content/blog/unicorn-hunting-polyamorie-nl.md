@@ -38,7 +38,7 @@ Als jullie je als koppel openstellen en samen willen daten, helpen een paar conc
 - **Behandel een nieuwe persoon als een volwaardig mens met eigen handelingsvrijheid**, niet als aanvulling op jullie bestaande relatie. Ze heeft eigen behoeften, een eigen tempo en het recht om nee te zeggen.
 - **Eis geen exclusiviteit die je zelf niet biedt.** Als jullie als koppel elkaars prioriteit blijven, is het oneerlijk om van de nieuwe persoon te verwachten dat ze andere verbindingen opgeeft.
 - **Betrek haar bij het opstellen van regels**, in plaats van haar kant-en-klare regels voor te leggen. Afspraken die iemand aangaan, moeten ook mét haar gemaakt worden – niet alleen over haar.
-- **Geef jezelf geen vetorecht over haar autonomie.** Meer over waarom vetorecht problematisch is in polyamorie lees je in ons artikel over [vetorecht in polyamorie](/nl/blog/vetorecht-polyamorie-nl).
+- **Geef jezelf geen vetorecht over haar autonomie.** Meer over waarom vetorecht problematisch is in polyamorie lees je in ons artikel over [vetorecht in polyamorie](/nl/blog/vetorecht-polyamorie-nl/).
 - **Vraag jezelf eerlijk af of jullie op zoek zijn naar een persoon of een gat willen opvullen.** Het verschil tussen "we willen iemand leren kennen met wie iets eigens kan groeien" en "we zoeken iemand die past bij ons bestaande leven" is subtiel, maar cruciaal.
 
 ## Als je merkt dat je in het patroon zit

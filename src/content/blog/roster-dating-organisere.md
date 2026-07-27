@@ -9,7 +9,7 @@ tags: ['Roster Dating', 'Dating', 'Organisering', 'Kommunikation']
 
 **Kort sagt:** Roster Dating – altså at date flere personer parallelt og uforpligtende – fungerer bedst med et enkelt system: hold styr på detaljer pr. person, vær ærlig om din egen kapacitet, og kommuniker åbent, at der (endnu) ikke er eksklusivitet. Uden et system flyder samtaler, aftaler og forventninger hurtigt sammen – med et system forbliver Roster Dating præcis det, det skal være: en afslappet fase, hvor man lærer hinanden at kende.
 
-Går du og date flere personer lige nu, skriver med endnu flere, og kan ikke altid huske, hvem der har fortalt hvad? Velkommen til hverdagen med Roster Dating. Det, der startede på TikTok som et løst begreb for ens egen datingsituation – læs mere i [Hvad er en Dating Roster?](/da/blog/hvad-er-en-dating-roster) – viser sig i praksis ofte at være mere kaotisk, end begrebets lette tone antyder.
+Går du og date flere personer lige nu, skriver med endnu flere, og kan ikke altid huske, hvem der har fortalt hvad? Velkommen til hverdagen med Roster Dating. Det, der startede på TikTok som et løst begreb for ens egen datingsituation – læs mere i [Hvad er en Dating Roster?](/da/blog/hvad-er-en-dating-roster/) – viser sig i praksis ofte at være mere kaotisk, end begrebets lette tone antyder.
 
 ## Hvorfor Roster Dating hurtigt bliver uoverskueligt
 
@@ -39,7 +39,7 @@ En roster er ikke en statisk størrelse. Personer forlader den, når:
 
 ## Roster Dating og polyamori: hvor vejene skilles eller mødes
 
-Nogle mennesker bliver bevidst i Roster Dating-tilstand, fordi de ikke ønsker en fast struktur. Andre lader bevidst deres roster udvikle sig til flere parallelle, forpligtende forhold – og bevæger sig dermed mod polyamori. Hvordan det konkret kan håndteres, beskrives i detaljer i artiklen [Håndtere flere forhold på samme tid](/da/blog/styre-flere-forhold).
+Nogle mennesker bliver bevidst i Roster Dating-tilstand, fordi de ikke ønsker en fast struktur. Andre lader bevidst deres roster udvikle sig til flere parallelle, forpligtende forhold – og bevæger sig dermed mod polyamori. Hvordan det konkret kan håndteres, beskrives i detaljer i artiklen [Håndtere flere forhold på samme tid](/da/blog/styre-flere-forhold/).
 
 ## Værktøjer til din Roster Dating
 

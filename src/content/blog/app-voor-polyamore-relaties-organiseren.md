@@ -70,7 +70,7 @@ Alles lokaal, zonder account, zonder cloud, zonder dat iets ooit een server bere
 
 ## Waar je verder kunt lezen, afhankelijk van je situatie
 
-Ben je nog in de fase van losjes meerdere mensen leren kennen, in plaats van al gevestigde relaties te hebben? Begin dan bij [Wat is een Dating Roster?](/nl/blog/wat-is-een-dating-roster) – dat gaat over die eerdere, meer open fase, voordat losse verbindingen overgaan in vaste relaties. Beheer je al meerdere relaties en zoek je concrete systemen daarvoor? Dan is [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen) de praktische gids die je zoekt.
+Ben je nog in de fase van losjes meerdere mensen leren kennen, in plaats van al gevestigde relaties te hebben? Begin dan bij [Wat is een Dating Roster?](/nl/blog/wat-is-een-dating-roster/) – dat gaat over die eerdere, meer open fase, voordat losse verbindingen overgaan in vaste relaties. Beheer je al meerdere relaties en zoek je concrete systemen daarvoor? Dan is [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen/) de praktische gids die je zoekt.
 
 ## Veelgestelde vragen
 

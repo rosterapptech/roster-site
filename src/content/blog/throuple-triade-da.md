@@ -29,7 +29,7 @@ Der er grundlæggende to veje:
 
 **Ubalance i forholdenes intensitet.** Sjældent udvikler alle tre forbindelser sig præcis lige hurtigt eller lige intenst – det er normalt, men bør drøftes åbent i stedet for implicit at nedgradere én person.
 
-**Terminplanlægning for tre.** Hvornår mødes alle tre sammen, og hvornår to og to? Klare aftaler forhindrer, at nogen føler sig udelukket. Læs mere om systemer til dette i artiklen [Terminplanlægning ved flere forhold](/da/blog/planlaegning-flere-forhold).
+**Terminplanlægning for tre.** Hvornår mødes alle tre sammen, og hvornår to og to? Klare aftaler forhindrer, at nogen føler sig udelukket. Læs mere om systemer til dette i artiklen [Terminplanlægning ved flere forhold](/da/blog/planlaegning-flere-forhold/).
 
 **Konfliktdynamikker mellem tre.** Konflikter mellem to personer i et throuple berører automatisk også den tredje – det kan aflaste (flere perspektiver) eller belaste (koalitionsdannelse), afhængigt af hvor åbent der kommunikeres.
 
@@ -43,11 +43,11 @@ Der er grundlæggende to veje:
 
 ## Ikke alle throuples forbliver tre for evigt
 
-Som enhver relationsform kan også en triade ændre sig: nogle forbliver stabile i årevis, andre udvikler sig til en mere åben struktur med flere forhold, og andre igen deler sig op i enkeltforhold. Ingen af disse udfald betyder automatisk et "nederlag" – se også artiklen [Brud i polyamori](/da/blog/brud-polyamori).
+Som enhver relationsform kan også en triade ændre sig: nogle forbliver stabile i årevis, andre udvikler sig til en mere åben struktur med flere forhold, og andre igen deler sig op i enkeltforhold. Ingen af disse udfald betyder automatisk et "nederlag" – se også artiklen [Brud i polyamori](/da/blog/brud-polyamori/).
 
 ## Struktur til forhold mellem tre
 
-Netop med tre ligeværdige forbindelser er det værd at bevare overblikket over aftaler, terminer og stemningen i hvert enkelt forhold. **Roster** visualiserer dit [polycule](/da/blog/hvad-er-et-polycule) og hjælper med at sikre, at ingen af de tre forbindelser tabes af syne – alt gemt lokalt på din enhed.
+Netop med tre ligeværdige forbindelser er det værd at bevare overblikket over aftaler, terminer og stemningen i hvert enkelt forhold. **Roster** visualiserer dit [polycule](/da/blog/hvad-er-et-polycule/) og hjælper med at sikre, at ingen af de tre forbindelser tabes af syne – alt gemt lokalt på din enhed.
 
 ## Ofte stillede spørgsmål
 

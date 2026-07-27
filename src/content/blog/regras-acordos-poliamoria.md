@@ -21,7 +21,7 @@ Os **acordos**, por outro lado, são construídos em conjunto, entre todas as pe
 
 **Restringem a autonomia.** Regras que deixam uma pessoa decidir os sentimentos ou o comportamento de outra (como proibir se apaixonar) são praticamente impossíveis de fazer cumprir: sentimentos não se controlam por decreto.
 
-**Costumam nascer do medo, não do cuidado.** Muitas regras buscam aliviar o ciúme ou a insegurança dentro de um casal já existente, mas só deslocam o problema real para a nova pessoa, em vez de enfrentá-lo diretamente. Mais sobre isso no artigo [Ciúme na poliamoria](/pt/blog/ciumes-poliamoria).
+**Costumam nascer do medo, não do cuidado.** Muitas regras buscam aliviar o ciúme ou a insegurança dentro de um casal já existente, mas só deslocam o problema real para a nova pessoa, em vez de enfrentá-lo diretamente. Mais sobre isso no artigo [Ciúme na poliamoria](/pt/blog/ciumes-poliamoria/).
 
 **Nem todo mundo as apoia.** Quem não pôde ajudar a definir uma regra costuma cumpri-la com menos consistência, não por má-fé, mas porque a falta de voz raramente gera consentimento de verdade.
 
@@ -35,9 +35,9 @@ Os **acordos**, por outro lado, são construídos em conjunto, entre todas as pe
 ## Exemplos de acordos razoáveis
 
 - **Saúde:** testes de IST periódicos e comunicação aberta sobre novos contatos sexuais, algo que protege a todos sem controlar ninguém.
-- **Tempo:** quanto tempo de antecedência é necessário para novos planos? Mais no artigo [Planejar o tempo com vários relacionamentos](/pt/blog/planejar-varios-relacionamentos).
+- **Tempo:** quanto tempo de antecedência é necessário para novos planos? Mais no artigo [Planejar o tempo com vários relacionamentos](/pt/blog/planejar-varios-relacionamentos/).
 - **Comunicação:** como e quando novas conexões são apresentadas, ou pelo menos mencionadas, aos parceiros existentes?
-- **Proximidade entre metamours:** vive-se mais no modo [kitchen table ou paralelo](/pt/blog/kitchen-table-vs-poliamoria-paralela-pt), e quanto contato cada pessoa envolvida realmente quer?
+- **Proximidade entre metamours:** vive-se mais no modo [kitchen table ou paralelo](/pt/blog/kitchen-table-vs-poliamoria-paralela-pt/), e quanto contato cada pessoa envolvida realmente quer?
 
 ## Quando faz sentido ter regras
 
@@ -45,7 +45,7 @@ Alguns limites não são regras injustas, mas limites pessoais legítimos; por e
 
 ## Mantenha o controle sobre seus acordos
 
-Acordos que não são anotados em lugar nenhum tendem a se embaçar com o tempo: cada pessoa se lembra deles de um jeito um pouco diferente. O **Roster** te dá um lugar para registrar os acordos-chave de cada conexão no seu [polycule](/pt/blog/o-que-e-um-polycule), para que nada se perca na neblina da memória. Todos os dados permanecem locais no seu dispositivo.
+Acordos que não são anotados em lugar nenhum tendem a se embaçar com o tempo: cada pessoa se lembra deles de um jeito um pouco diferente. O **Roster** te dá um lugar para registrar os acordos-chave de cada conexão no seu [polycule](/pt/blog/o-que-e-um-polycule/), para que nada se perca na neblina da memória. Todos os dados permanecem locais no seu dispositivo.
 
 ## Perguntas frequentes
 

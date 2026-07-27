@@ -16,7 +16,7 @@ faq:
     a: 'Många hälso- och cykelappar är byggda kring konton och molnsynkning och var aldrig designade för ett relationsnätverk med flera kopplingar. Data av den här känsligheten förtjänar ett verktyg som är lokalt från grunden.'
 ---
 
-Att prata om testrytm och skydd är en sak – att faktiskt hålla koll på det över flera kopplingar är något helt annat. För hur du faktiskt tar det samtalet utan att det blir pinsamt, och hur fluid bonding-överenskommelser fungerar i detalj, se [Safer sex och STI-testning i polyamorösa relationer](/sv/blog/safer-sex-polyamori-sv). Den här artikeln tar vid ett steg senare: du har haft samtalen, överenskommelserna är på plats – men hur håller du egentligen koll på vem som testades när, vilken överenskommelse som gäller just nu och när nästa kontroll är dags, när du har tre, fyra eller fem kopplingar?
+Att prata om testrytm och skydd är en sak – att faktiskt hålla koll på det över flera kopplingar är något helt annat. För hur du faktiskt tar det samtalet utan att det blir pinsamt, och hur fluid bonding-överenskommelser fungerar i detalj, se [Safer sex och STI-testning i polyamorösa relationer](/sv/blog/safer-sex-polyamori-sv/). Den här artikeln tar vid ett steg senare: du har haft samtalen, överenskommelserna är på plats – men hur håller du egentligen koll på vem som testades när, vilken överenskommelse som gäller just nu och när nästa kontroll är dags, när du har tre, fyra eller fem kopplingar?
 
 ## Varför det blir svårare att hålla koll ju större ditt nätverk blir
 

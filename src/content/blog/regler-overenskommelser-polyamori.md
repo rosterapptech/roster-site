@@ -21,7 +21,7 @@ Knappt något ämne skapar så mycket diskussion inom polyamori som frågan om v
 
 **De begränsar autonomi.** Regler som låter en person bestämma över någon annans känslor eller beteende (som att förbjuda att bli kär) går i praktiken inte att upprätthålla – känslor styrs inte av en regel.
 
-**De uppstår ofta ur rädsla istället för omtanke.** Många regler ska lindra svartsjuka eller osäkerhet inom ett befintligt par, men flyttar bara det egentliga problemet till den nya personen istället för att ta itu med det direkt. Läs mer i artikeln [Svartsjuka i polyamori](/sv/blog/svaartsjuka-polyamori).
+**De uppstår ofta ur rädsla istället för omtanke.** Många regler ska lindra svartsjuka eller osäkerhet inom ett befintligt par, men flyttar bara det egentliga problemet till den nya personen istället för att ta itu med det direkt. Läs mer i artikeln [Svartsjuka i polyamori](/sv/blog/svaartsjuka-polyamori/).
 
 **De bärs inte upp av alla.** Den som inte fått vara med och forma en regel följer den mer sällan på riktigt – inte av illvilja, utan för att bristande inflytande sällan leder till äkta samtycke.
 
@@ -35,9 +35,9 @@ Knappt något ämne skapar så mycket diskussion inom polyamori som frågan om v
 ## Exempel på rimliga överenskommelser
 
 - **Hälsa:** Regelbundna STI-test och öppen kommunikation om nya sexuella kontakter – skyddar alla utan att kontrollera någon.
-- **Tid:** Hur mycket förvarning behövs för nya planer? Läs mer i artikeln [Schemaläggning med flera förhållanden](/sv/blog/planering-flera-forhallanden).
+- **Tid:** Hur mycket förvarning behövs för nya planer? Läs mer i artikeln [Schemaläggning med flera förhållanden](/sv/blog/planering-flera-forhallanden/).
 - **Kommunikation:** Hur och när presenteras nya kopplingar för, eller åtminstone nämns för, befintliga partners?
-- **Närhet mellan metamours:** Lever man mest enligt [kitchen table eller parallellt](/sv/blog/kitchen-table-vs-parallel-polyamori-sv) – och hur mycket kontakt vill alla inblandade egentligen ha?
+- **Närhet mellan metamours:** Lever man mest enligt [kitchen table eller parallellt](/sv/blog/kitchen-table-vs-parallel-polyamori-sv/) – och hur mycket kontakt vill alla inblandade egentligen ha?
 
 ## När regler ändå är önskvärda
 
@@ -45,7 +45,7 @@ Vissa gränser är inte orättvisa regler utan legitima personliga gränser – 
 
 ## Håll koll på era överenskommelser
 
-Överenskommelser som inte skrivs ner någonstans suddas ut med tiden – alla minns dem lite olika. **Roster** ger dig utrymme att notera viktiga överenskommelser för varje koppling i ditt [polycule](/sv/blog/vad-ar-ett-polycule), så att inget försvinner i minnets dimma. All data stannar lokalt på din enhet.
+Överenskommelser som inte skrivs ner någonstans suddas ut med tiden – alla minns dem lite olika. **Roster** ger dig utrymme att notera viktiga överenskommelser för varje koppling i ditt [polycule](/sv/blog/vad-ar-ett-polycule/), så att inget försvinner i minnets dimma. All data stannar lokalt på din enhet.
 
 ## Vanliga frågor
 

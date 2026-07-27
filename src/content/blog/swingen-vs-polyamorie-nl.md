@@ -17,7 +17,7 @@ Swingen (ook wel partnerruil of "de lifestyle" genoemd) beschrijft de praktijk w
 
 ## Wat is polyamorie?
 
-Polyamorie betekent meerdere romantische relaties tegelijk hebben – openlijk, eerlijk en met medeweten en instemming van alle betrokkenen. In tegenstelling tot swingen is emotionele nabijheid hier niet de uitzondering, maar de kern van de zaak. Een uitgebreide definitie vind je in het artikel [Wat is polyamorie?](/nl/blog/wat-is-polyamorie).
+Polyamorie betekent meerdere romantische relaties tegelijk hebben – openlijk, eerlijk en met medeweten en instemming van alle betrokkenen. In tegenstelling tot swingen is emotionele nabijheid hier niet de uitzondering, maar de kern van de zaak. Een uitgebreide definitie vind je in het artikel [Wat is polyamorie?](/nl/blog/wat-is-polyamorie/).
 
 ## Het doorslaggevende verschil: emotionele focus in plaats van aantal partners
 
@@ -31,15 +31,15 @@ Polyamorie daarentegen is:
 
 - **Relatiegericht** – elke connectie kan zich onafhankelijk ontwikkelen, met een eigen dynamiek en eigen tempo.
 - **Emotioneel inclusief** – verliefdheid, new relationship energy en langdurige binding zijn expliciet mogelijk en vaak gewenst.
-- **Niet per se stelgebonden** – ook individuen zonder kernrelatie kunnen polyamoor leven, zie [Solo-polyamorie](/nl/blog/solo-polyamorie-nl).
+- **Niet per se stelgebonden** – ook individuen zonder kernrelatie kunnen polyamoor leven, zie [Solo-polyamorie](/nl/blog/solo-polyamorie-nl/).
 
 ## Toch is er overlap
 
-De twee modellen sluiten elkaar niet uit. Sommige stellen bewegen zich tussen beide werelden, ontwikkelen uit oorspronkelijk puur seksuele contacten echte gevoelens, of kiezen bewust voor een mengvorm. In beide gevallen geldt dezelfde basisregel van ethische non-monogamie: alle betrokkenen weten ervan en hebben ermee ingestemd. Meer over de overkoepelende term in het artikel [Ethische non-monogamie (ENM): definitie, vormen en afbakening](/nl/blog/ethische-non-monogamie).
+De twee modellen sluiten elkaar niet uit. Sommige stellen bewegen zich tussen beide werelden, ontwikkelen uit oorspronkelijk puur seksuele contacten echte gevoelens, of kiezen bewust voor een mengvorm. In beide gevallen geldt dezelfde basisregel van ethische non-monogamie: alle betrokkenen weten ervan en hebben ermee ingestemd. Meer over de overkoepelende term in het artikel [Ethische non-monogamie (ENM): definitie, vormen en afbakening](/nl/blog/ethische-non-monogamie/).
 
 ## Een veelvoorkomend misverstand
 
-Een wijdverbreide mythe stelt dat polyamorie in wezen vreemdgaan met toestemming is, of dat swingen "oneerlijker" is dan polyamorie. Beide beweringen slaan de plank mis. Het artikel [Mythes over polyamorie](/nl/blog/mythes-polyamorie) ontkracht precies deze misverstanden, en [Polyamorie vs. vreemdgaan](/nl/blog/polyamorie-vs-vreemdgaan) legt het doorslaggevende verschil uit tussen instemmende openheid en bedrog – een punt dat voor beide modellen evenzeer geldt.
+Een wijdverbreide mythe stelt dat polyamorie in wezen vreemdgaan met toestemming is, of dat swingen "oneerlijker" is dan polyamorie. Beide beweringen slaan de plank mis. Het artikel [Mythes over polyamorie](/nl/blog/mythes-polyamorie/) ontkracht precies deze misverstanden, en [Polyamorie vs. vreemdgaan](/nl/blog/polyamorie-vs-vreemdgaan/) legt het doorslaggevende verschil uit tussen instemmende openheid en bedrog – een punt dat voor beide modellen evenzeer geldt.
 
 ## Welk model past bij wie?
 
@@ -47,7 +47,7 @@ Wie de eigen kernrelatie bewust als exclusief emotioneel middelpunt wil bescherm
 
 ## Veiligheid geldt voor beide
 
-Ongeacht het model geldt: wie met meerdere personen seksueel actief is, moet safer sex en regelmatige tests tot vaste routine maken. Het artikel [Safer sex en soa-tests in polyamore relaties](/nl/blog/safer-sex-polyamorie-nl) geldt inhoudelijk net zo goed voor swingstellen.
+Ongeacht het model geldt: wie met meerdere personen seksueel actief is, moet safer sex en regelmatige tests tot vaste routine maken. Het artikel [Safer sex en soa-tests in polyamore relaties](/nl/blog/safer-sex-polyamorie-nl/) geldt inhoudelijk net zo goed voor swingstellen.
 
 ## Hulpmiddelen die helpen
 

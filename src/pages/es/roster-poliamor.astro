@@ -19,11 +19,11 @@ const highlights = [
 ];
 
 const related = [
-  { title: '¿Qué es el poliamor? Significado, definición y lo esencial', href: '/es/blog/que-es-el-poliamor' },
-  { title: 'No monogamia ética: definición, formas y diferencias', href: '/es/blog/no-monogamia-etica' },
-  { title: 'Poliamor para principiantes: un inicio honesto', href: '/es/blog/poliamoria-para-principiantes' },
-  { title: '¿Qué es un polycule? Formas de relación y ejemplos', href: '/es/blog/que-es-un-polycule' },
-  { title: 'Metamour, compersión, NRE y más – el glosario completo', href: '/es/blog/glosario-poliamoria' },
+  { title: '¿Qué es el poliamor? Significado, definición y lo esencial', href: '/es/blog/que-es-el-poliamor/' },
+  { title: 'No monogamia ética: definición, formas y diferencias', href: '/es/blog/no-monogamia-etica/' },
+  { title: 'Poliamor para principiantes: un inicio honesto', href: '/es/blog/poliamoria-para-principiantes/' },
+  { title: '¿Qué es un polycule? Formas de relación y ejemplos', href: '/es/blog/que-es-un-polycule/' },
+  { title: 'Metamour, compersión, NRE y más – el glosario completo', href: '/es/blog/glosario-poliamoria/' },
 ];
 
 const faqs = [
@@ -93,7 +93,7 @@ const schema = {
             de gestión de proyectos.
           </p>
           <p>
-            Ahí empieza Roster. Lee una <a href="/es/blog/app-para-organizar-relaciones-poliamorosas">comparación honesta de cómo Roster se diferencia de las apps de citas puras</a> en el blog.
+            Ahí empieza Roster. Lee una <a href="/es/blog/app-para-organizar-relaciones-poliamorosas/">comparación honesta de cómo Roster se diferencia de las apps de citas puras</a> en el blog.
           </p>
         </div>
       </div>
@@ -105,7 +105,7 @@ const schema = {
         <h2>Hecha para el poliamor real, no para la teoría.</h2>
         <div class="grid">
           {highlights.map((h) => (
-            <a href={`/es/features/${h.slug}`} class="card highlight">
+            <a href={`/es/features/${h.slug}/`} class="card highlight">
               {h.vio ? <Vio size={30} /> : <span class="dot" />}
               <h3>{h.name}</h3>
               <p>{h.desc}</p>

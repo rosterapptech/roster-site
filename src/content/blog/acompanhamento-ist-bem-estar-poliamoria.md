@@ -16,7 +16,7 @@ faq:
     a: 'Muitos apps de saúde ou de acompanhamento de ciclo são construídos em torno de contas e sincronização na nuvem, e nunca foram pensados para uma rede de relacionamentos com várias conexões. Dados dessa sensibilidade merecem uma ferramenta que permaneça local por design.'
 ---
 
-Falar sobre o ritmo de testes e proteção é uma coisa; manter o controle real de tudo isso ao longo de várias conexões é bem outra. Para saber como ter essa conversa sem que fique estranho, e como funcionam em detalhe os acordos de fluid bonding, veja [Sexo seguro e testes de IST em relacionamentos poliamorosos](/pt/blog/sexo-seguro-poliamoria-pt). Este artigo continua um passo à frente: você já teve as conversas, os acordos já estão definidos, mas com três, quatro ou cinco conexões, como você realmente mantém o controle de quem fez o teste e quando, qual acordo vale agora, e quando é a hora do próximo check-up?
+Falar sobre o ritmo de testes e proteção é uma coisa; manter o controle real de tudo isso ao longo de várias conexões é bem outra. Para saber como ter essa conversa sem que fique estranho, e como funcionam em detalhe os acordos de fluid bonding, veja [Sexo seguro e testes de IST em relacionamentos poliamorosos](/pt/blog/sexo-seguro-poliamoria-pt/). Este artigo continua um passo à frente: você já teve as conversas, os acordos já estão definidos, mas com três, quatro ou cinco conexões, como você realmente mantém o controle de quem fez o teste e quando, qual acordo vale agora, e quando é a hora do próximo check-up?
 
 ## Por que manter o controle fica mais complicado à medida que sua rede cresce
 

@@ -45,7 +45,7 @@ Compersion och svartsjuka turas ofta om. När du antecknar båda känslorna ser 
 
 ## Compersion och svartsjuka är inte motståndare
 
-Det är frestande att se compersion som "slutmålet" och [svartsjuka](/sv/blog/svaartsjuka-polyamori) som ett misslyckande. Det är mer hjälpsamt att förstå båda som två sidor av samma känslomässiga arbete. Svartsjuka visar dig ett behov; compersion visar dig din samhörighet. Att hantera svartsjuka ärligt skapar ofta först det utrymme där compersion kan växa.
+Det är frestande att se compersion som "slutmålet" och [svartsjuka](/sv/blog/svaartsjuka-polyamori/) som ett misslyckande. Det är mer hjälpsamt att förstå båda som två sidor av samma känslomässiga arbete. Svartsjuka visar dig ett behov; compersion visar dig din samhörighet. Att hantera svartsjuka ärligt skapar ofta först det utrymme där compersion kan växa.
 
 ## Vanliga frågor
 

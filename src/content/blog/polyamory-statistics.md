@@ -21,7 +21,7 @@ Various surveys and studies from recent years, mostly from the US, paint a fairl
 
 ## Why exact numbers are hard to pin down
 
-**Definitional differences.** Depending on whether a study lumps polyamory, open relationships, and swinging together or measures them separately, results can differ substantially. More on the terms in [Ethical Non-Monogamy](/en/blog/ethical-non-monogamy).
+**Definitional differences.** Depending on whether a study lumps polyamory, open relationships, and swinging together or measures them separately, results can differ substantially. More on the terms in [Ethical Non-Monogamy](/en/blog/ethical-non-monogamy/).
 
 **Underreporting due to reticence.** Not everyone living polyamorously is willing to disclose that in a survey – especially in regions or professions where non-monogamy is stigmatized or even comes with real disadvantages.
 
@@ -33,7 +33,7 @@ Research suggests ENM relationships occur across practically every age group, ge
 
 ## What this means for you
 
-These numbers are useful mainly in one respect: they show that people living polyamorously aren't a tiny fringe group, but part of a growing, increasingly visible spectrum of relationship structures. Anyone living polyamorously themselves, or considering it, is far less alone than public perception sometimes suggests. A good starting point for anyone new to this space is [Polyamory for Beginners](/en/blog/polyamory-for-beginners).
+These numbers are useful mainly in one respect: they show that people living polyamorously aren't a tiny fringe group, but part of a growing, increasingly visible spectrum of relationship structures. Anyone living polyamorously themselves, or considering it, is far less alone than public perception sometimes suggests. A good starting point for anyone new to this space is [Polyamory for Beginners](/en/blog/polyamory-for-beginners/).
 
 ## Growing visibility, not necessarily growing numbers
 
@@ -41,7 +41,7 @@ It's more likely that the increasing social visibility of polyamory – through 
 
 ## Structure for your own polycule, regardless of statistics
 
-However common polyamory statistically is, anyone maintaining multiple relationships themselves needs practical tools for it. **Roster** helps you visualize your [polycule](/en/blog/what-is-a-polycule) and keep track of dates and agreements, entirely independent of how many other people live similarly. All data stays local on your device.
+However common polyamory statistically is, anyone maintaining multiple relationships themselves needs practical tools for it. **Roster** helps you visualize your [polycule](/en/blog/what-is-a-polycule/) and keep track of dates and agreements, entirely independent of how many other people live similarly. All data stays local on your device.
 
 ## Frequently asked questions
 

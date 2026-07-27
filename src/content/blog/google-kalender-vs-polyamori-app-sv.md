@@ -44,7 +44,7 @@ En kalenderpost har ett datum, en tid, kanske en plats och en titel. Det finns i
 
 ### Den har inget sinne för relationshälsa
 
-Just den här punkten har vi redan berört kort i [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer) – här är det värt en djupare titt, för det är en av kalenderns största blinda fläckar. Google Kalender visar dig när nästa bokning är. Den visar dig inte att ni inte har pratat på riktigt på tre veckor, att en relation tystnar mer och mer utan att någon gjort något fel, eller att en överenskommelse tyst har runnit ut i sanden. En full kalender kan mycket väl beskriva en relation som svälter känslomässigt – för "vi ses" och "vi mår bra" är två helt olika saker som en kalender inte kan skilja åt.
+Just den här punkten har vi redan berört kort i [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer/) – här är det värt en djupare titt, för det är en av kalenderns största blinda fläckar. Google Kalender visar dig när nästa bokning är. Den visar dig inte att ni inte har pratat på riktigt på tre veckor, att en relation tystnar mer och mer utan att någon gjort något fel, eller att en överenskommelse tyst har runnit ut i sanden. En full kalender kan mycket väl beskriva en relation som svälter känslomässigt – för "vi ses" och "vi mår bra" är två helt olika saker som en kalender inte kan skilja åt.
 
 ### Ett verkligt integritetsproblem för känslig information
 
@@ -58,7 +58,7 @@ Lägger man ihop dessa tre punkter framträder en tydlig bild: Google Kalender �
 
 Precis här kommer **Roster** in – inte som ersättning för din kalender, utan som ett lager ovanpå. Bokningar stannar där de hör hemma bäst: i kalendern. Men allt som handlar om "hur mår den här relationen egentligen" får sin egen plats i Roster. **Polycule Map** visar hela ditt nätverk med en blick, i stället för att du ska pussla ihop det från spridda bokningar. **Vibe Radar** håller för varje relation koll på om det just nu är soligt, mulet, regnigt eller radiotystnad – något inget kalenderfält någonsin skulle kunna fånga. **Reflektion** ger dig ett privat utrymme att sortera dina egna tankar om en relation, och **Wellness** håller koll på saker som säkrare-sex-avstämningar utan att de hamnar synliga för alla i en delad kalender. All denna data förblir helt lokal på din enhet – inget konto, ingen server, ingen synkning som skulle kunna avslöja något om dig.
 
-Den som vill se hur dessa två lager – kalender och relationshantering – samspelar i vardagen hittar fler system för det i [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer). Och den som märker att den egentliga utmaningen mest handlar om att upptäcka när en relation behöver uppmärksamhet hittar en konkret rutin för det i [Vibe-check-guiden](/sv/blog/vibe-check-relationer-sv).
+Den som vill se hur dessa två lager – kalender och relationshantering – samspelar i vardagen hittar fler system för det i [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer/). Och den som märker att den egentliga utmaningen mest handlar om att upptäcka när en relation behöver uppmärksamhet hittar en konkret rutin för det i [Vibe-check-guiden](/sv/blog/vibe-check-relationer-sv/).
 
 ## Vanliga frågor
 

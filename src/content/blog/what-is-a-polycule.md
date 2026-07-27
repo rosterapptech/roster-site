@@ -88,7 +88,7 @@ We built the **Polycule Map** in **Roster** for exactly situations like Mara's: 
 
 <!-- SCREENSHOT: polycule-map -->
 
-And if you're looking for concrete systems for structuring daily life across multiple relationships – time, communication and balance included – [Managing Multiple Relationships](/en/blog/managing-multiple-relationships) goes further into that.
+And if you're looking for concrete systems for structuring daily life across multiple relationships – time, communication and balance included – [Managing Multiple Relationships](/en/blog/managing-multiple-relationships/) goes further into that.
 
 ## Common questions about polycules
 

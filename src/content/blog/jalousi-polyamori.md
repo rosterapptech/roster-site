@@ -48,7 +48,7 @@ Jalousien føles enorm og kaotisk i øjeblikket. At skrive den ned sorterer den.
 
 Compersion – glæden over din partners lykke med en anden – kommer ikke af sig selv for de fleste. Men det kan øves. Et første skridt: læg bevidst mærke til de øjeblikke, hvor det er let at glæde sig med nogen, og mind dig selv om, at din partners lykke ikke tager noget fra dig.
 
-Jalousi er i øvrigt sjældent det eneste, der kommer under pres, når man har flere forhold – ofte er den egentlige årsag simpelthen for lidt struktur i hverdagen. Hvordan du fordeler tid, kommunikation og kapacitet fair mellem flere forbindelser, kan du læse i artiklen [Styr flere forhold på én gang](/da/blog/styre-flere-forhold).
+Jalousi er i øvrigt sjældent det eneste, der kommer under pres, når man har flere forhold – ofte er den egentlige årsag simpelthen for lidt struktur i hverdagen. Hvordan du fordeler tid, kommunikation og kapacitet fair mellem flere forbindelser, kan du læse i artiklen [Styr flere forhold på én gang](/da/blog/styre-flere-forhold/).
 
 ## 7. Giv dig selv tid – tilvænning er reel
 

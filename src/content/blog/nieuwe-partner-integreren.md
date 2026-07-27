@@ -13,23 +13,23 @@ Een nieuwe relatie is spannend – voor jezelf, en vaak belastend voor bestaande
 
 ## Eerst: informeren, niet voor een voldongen feit stellen
 
-De kern van polyamorie is dat alle betrokkenen weten en instemmen – meer daarover in [Wat is polyamorie?](/nl/blog/wat-is-polyamorie). In de praktijk betekent dit: bestaande partners moeten van de nieuwe verbinding horen voordat die een vaste plek krijgt, niet pas als alles al beslist is. Hoe vroeg precies hangt af van jullie onderlinge afspraken – sommige constellaties willen al horen over eerste dates, andere pas als er een serieuze verbinding ontstaat.
+De kern van polyamorie is dat alle betrokkenen weten en instemmen – meer daarover in [Wat is polyamorie?](/nl/blog/wat-is-polyamorie/). In de praktijk betekent dit: bestaande partners moeten van de nieuwe verbinding horen voordat die een vaste plek krijgt, niet pas als alles al beslist is. Hoe vroeg precies hangt af van jullie onderlinge afspraken – sommige constellaties willen al horen over eerste dates, andere pas als er een serieuze verbinding ontstaat.
 
 ## NRE onder controle houden
 
-De beginfase van een nieuwe relatie brengt vaak intense new relationship energy met zich mee – een gevoel van verliefdheid dat veel aandacht opeist. Dat is normaal, maar kan bestaande partners het gevoel geven plotseling minder belangrijk te zijn. Bewust tegensturen helpt: reserveer vaste tijd voor bestaande relaties, ook als de nieuwe verbinding net veel energie vraagt. Het artikel [NRE balanceren](/nl/blog/nre-balans-polyamorie) gaat dieper in op concrete strategieën hiervoor.
+De beginfase van een nieuwe relatie brengt vaak intense new relationship energy met zich mee – een gevoel van verliefdheid dat veel aandacht opeist. Dat is normaal, maar kan bestaande partners het gevoel geven plotseling minder belangrijk te zijn. Bewust tegensturen helpt: reserveer vaste tijd voor bestaande relaties, ook als de nieuwe verbinding net veel energie vraagt. Het artikel [NRE balanceren](/nl/blog/nre-balans-polyamorie/) gaat dieper in op concrete strategieën hiervoor.
 
 ## Metamours: leren kennen of gescheiden houden?
 
-Of en hoe nieuwe en bestaande partners elkaar leren kennen, hangt sterk af van het gehanteerde model. Bij kitchen-table-polyamorie is een zekere mate van elkaar leren kennen vaak gewenst, bij parallelle polyamorie blijven de relaties bewust gescheiden. Het artikel [Kitchen table vs. parallelle polyamorie](/nl/blog/kitchen-table-vs-parallel-polyamorie-nl) helpt je te bepalen welk model bij jouw constellatie past, voordat je een ontmoeting forceert die niemand echt wil.
+Of en hoe nieuwe en bestaande partners elkaar leren kennen, hangt sterk af van het gehanteerde model. Bij kitchen-table-polyamorie is een zekere mate van elkaar leren kennen vaak gewenst, bij parallelle polyamorie blijven de relaties bewust gescheiden. Het artikel [Kitchen table vs. parallelle polyamorie](/nl/blog/kitchen-table-vs-parallel-polyamorie-nl/) helpt je te bepalen welk model bij jouw constellatie past, voordat je een ontmoeting forceert die niemand echt wil.
 
 ## Bestaande afspraken transparant maken
 
-Een nieuwe partner moet vroeg te weten komen welke kaders al gelden binnen je polycule – bijvoorbeeld afgesproken tijdsverdeling, safer-sex-afspraken, of, indien van toepassing, een vetorecht van bestaande partners. Dat is geen bureaucratie, maar beschermt iedereen tegen misverstanden. Meer hierover in de artikelen [Regels vs. afspraken in de polyamorie](/nl/blog/polyamorie-regels-afspraken) en [Vetorecht in de polyamorie](/nl/blog/vetorecht-polyamorie-nl).
+Een nieuwe partner moet vroeg te weten komen welke kaders al gelden binnen je polycule – bijvoorbeeld afgesproken tijdsverdeling, safer-sex-afspraken, of, indien van toepassing, een vetorecht van bestaande partners. Dat is geen bureaucratie, maar beschermt iedereen tegen misverstanden. Meer hierover in de artikelen [Regels vs. afspraken in de polyamorie](/nl/blog/polyamorie-regels-afspraken/) en [Vetorecht in de polyamorie](/nl/blog/vetorecht-polyamorie-nl/).
 
 ## Angsten van bestaande partners serieus nemen
 
-Jaloezie of onzekerheid bij bestaande partners is geen teken dat er iets misgaat – het hoort bij het proces, zeker wanneer een nieuwe verbinding nog fris en spannend is. Het artikel [Jaloezie in polyamore relaties: 7 strategieën die echt helpen](/nl/blog/jaloezie-polyamorie) biedt concrete aanpakken die juist in deze fase nuttig zijn.
+Jaloezie of onzekerheid bij bestaande partners is geen teken dat er iets misgaat – het hoort bij het proces, zeker wanneer een nieuwe verbinding nog fris en spannend is. Het artikel [Jaloezie in polyamore relaties: 7 strategieën die echt helpen](/nl/blog/jaloezie-polyamorie/) biedt concrete aanpakken die juist in deze fase nuttig zijn.
 
 ## Tempo: liever stapsgewijs dan overhaast
 
@@ -37,11 +37,11 @@ Een nieuwe relatie hoeft niet meteen dezelfde status te krijgen als gevestigde v
 
 ## Als er kinderen in het huishouden wonen
 
-Bij kinderen is extra voorzichtigheid geboden: een nieuwe partner mag niet te vroeg in het gezinsleven worden geïntroduceerd, voordat de relatie zich stabiel heeft bewezen. Het artikel [Polyamorie en ouderschap](/nl/blog/polyamorie-ouderschap) beschrijft waar het dan op aankomt.
+Bij kinderen is extra voorzichtigheid geboden: een nieuwe partner mag niet te vroeg in het gezinsleven worden geïntroduceerd, voordat de relatie zich stabiel heeft bewezen. Het artikel [Polyamorie en ouderschap](/nl/blog/polyamorie-ouderschap/) beschrijft waar het dan op aankomt.
 
 ## Hulpmiddelen die helpen
 
-**Roster** helpt je elke relatie in je [polycule](/nl/blog/wat-is-een-polycule) apart bij te houden – ook de gloednieuwe. Zo verlies je bestaande partners niet uit het oog terwijl een nieuwe verbinding net veel aandacht vraagt. Alle gegevens blijven op je apparaat, zonder account.
+**Roster** helpt je elke relatie in je [polycule](/nl/blog/wat-is-een-polycule/) apart bij te houden – ook de gloednieuwe. Zo verlies je bestaande partners niet uit het oog terwijl een nieuwe verbinding net veel aandacht vraagt. Alle gegevens blijven op je apparaat, zonder account.
 
 ## Veelgestelde vragen
 

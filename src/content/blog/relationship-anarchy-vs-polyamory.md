@@ -19,7 +19,7 @@ Put differently: polyamory is a relationship structure; relationship anarchy is 
 
 ## Polyamory in detail
 
-Polyamory is about multiple parallel romantic relationships. Many polyamorous people work with structures: there might be a nesting partner they live with and further relationships alongside. Some polyamorous constellations are explicitly **hierarchical** – with primary and secondary partners where certain relationships take precedence. Others are **egalitarian** and treat all relationships as equally valued. The key point: polyamory says nothing about whether you reject or use hierarchies. For more on the core vocabulary, see our [polyamory glossary](/en/blog/polyamory-glossary).
+Polyamory is about multiple parallel romantic relationships. Many polyamorous people work with structures: there might be a nesting partner they live with and further relationships alongside. Some polyamorous constellations are explicitly **hierarchical** – with primary and secondary partners where certain relationships take precedence. Others are **egalitarian** and treat all relationships as equally valued. The key point: polyamory says nothing about whether you reject or use hierarchies. For more on the core vocabulary, see our [polyamory glossary](/en/blog/polyamory-glossary/).
 
 ## Relationship anarchy in detail
 
@@ -49,7 +49,7 @@ Many people move between these concepts over time – which is completely normal
 
 ## Whatever model you choose – staying organised matters
 
-Whether you live classically poly or are discovering relationship anarchy: in both cases you are managing multiple meaningful connections that need attention and care. **Roster** is deliberately built without imposed hierarchy – you decide what type of connection you record, entirely on your own terms. The app fits your definition of relationship, not the other way around. How to keep the overview is covered in our article on [organising multiple relationships](/en/blog/managing-multiple-relationships).
+Whether you live classically poly or are discovering relationship anarchy: in both cases you are managing multiple meaningful connections that need attention and care. **Roster** is deliberately built without imposed hierarchy – you decide what type of connection you record, entirely on your own terms. The app fits your definition of relationship, not the other way around. How to keep the overview is covered in our article on [organising multiple relationships](/en/blog/managing-multiple-relationships/).
 
 ## Common questions
 

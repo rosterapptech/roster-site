@@ -57,33 +57,33 @@ Within this definition there's enormous room to move. Four setups come up especi
 
 ### Hierarchical or non-hierarchical
 
-In hierarchical setups, there's a "primary" relationship that carries extra weight — shared housing or finances, for instance — alongside further, "secondary" connections. Non-hierarchical models deliberately reject that ranking and try to treat all relationships as equally as possible. Which model fits better depends heavily on the people involved — the article [Hierarchical vs. Non-Hierarchical Polyamory](/en/blog/hierarchical-vs-non-hierarchical-polyamory) compares both in detail.
+In hierarchical setups, there's a "primary" relationship that carries extra weight — shared housing or finances, for instance — alongside further, "secondary" connections. Non-hierarchical models deliberately reject that ranking and try to treat all relationships as equally as possible. Which model fits better depends heavily on the people involved — the article [Hierarchical vs. Non-Hierarchical Polyamory](/en/blog/hierarchical-vs-non-hierarchical-polyamory/) compares both in detail.
 
 ### Triads
 
-A triad describes three people who are all connected to one another — sometimes all three equally, sometimes as two existing partners plus a third person. The different shapes this can take, and the typical pitfalls, are covered in [Throuple & Triad Explained Simply](/en/blog/throuple-triad).
+A triad describes three people who are all connected to one another — sometimes all three equally, sometimes as two existing partners plus a third person. The different shapes this can take, and the typical pitfalls, are covered in [Throuple & Triad Explained Simply](/en/blog/throuple-triad/).
 
 ### Solo polyamory
 
-Solo polyamorous people maintain multiple relationships without designating any one of them as a central, shared "primary relationship" — they stay structurally independent rather than building toward a nesting partnership. The article [Solo Polyamory](/en/blog/solo-polyamory) covers what that looks like day to day.
+Solo polyamorous people maintain multiple relationships without designating any one of them as a central, shared "primary relationship" — they stay structurally independent rather than building toward a nesting partnership. The article [Solo Polyamory](/en/blog/solo-polyamory/) covers what that looks like day to day.
 
 ### Kitchen table vs. parallel
 
-In "kitchen table" polyamory, ideally everyone involved and their metamours know and like each other — you could all sit around one kitchen table together. In "parallel" polyamory, the individual relationships run deliberately side by side, without everyone necessarily knowing one another. Both approaches have their place, as the article [Kitchen Table vs. Parallel Polyamory](/en/blog/kitchen-table-vs-parallel-polyamory) shows.
+In "kitchen table" polyamory, ideally everyone involved and their metamours know and like each other — you could all sit around one kitchen table together. In "parallel" polyamory, the individual relationships run deliberately side by side, without everyone necessarily knowing one another. Both approaches have their place, as the article [Kitchen Table vs. Parallel Polyamory](/en/blog/kitchen-table-vs-parallel-polyamory/) shows.
 
 ## Related terms that easily cause confusion
 
 Three terms come up constantly alongside polyamory, and they're easy to mix up.
 
-The network of relationships formed when multiple connected partners are involved is often called a **polycule** — the article [What Is a Polycule?](/en/blog/what-is-a-polycule) explains what these networks can look like and how to keep track as they grow.
+The network of relationships formed when multiple connected partners are involved is often called a **polycule** — the article [What Is a Polycule?](/en/blog/what-is-a-polycule/) explains what these networks can look like and how to keep track as they grow.
 
-Polyamory also frequently gets equated with an **open relationship**, even though the two have different emphases — open relationships tend to focus more on sexual freedom outside a main partnership, while polyamory usually means multiple emotionally connected relationships. The subtle but important differences are laid out in [Polyamory vs. Open Relationship](/en/blog/polyamory-vs-open-relationship).
+Polyamory also frequently gets equated with an **open relationship**, even though the two have different emphases — open relationships tend to focus more on sexual freedom outside a main partnership, while polyamory usually means multiple emotionally connected relationships. The subtle but important differences are laid out in [Polyamory vs. Open Relationship](/en/blog/polyamory-vs-open-relationship/).
 
-And then there's **relationship anarchy**, which goes a step further and rejects hierarchy between relationships altogether — including the hierarchy between romantic and platonic connections. Exactly where the line to polyamory falls is explained in [Relationship Anarchy vs. Polyamory](/en/blog/relationship-anarchy-vs-polyamory).
+And then there's **relationship anarchy**, which goes a step further and rejects hierarchy between relationships altogether — including the hierarchy between romantic and platonic connections. Exactly where the line to polyamory falls is explained in [Relationship Anarchy vs. Polyamory](/en/blog/relationship-anarchy-vs-polyamory/).
 
 ## From understanding to living it
 
-Understanding a definition is the first step — the second, often harder one, is everyday life: how do you deal with the feelings that inevitably surface when a partner spends time with someone else? The honest answer is that jealousy is part of it for most people, even in polyamorous relationships that work well, and it can be worked with using the right tools. The article [Jealousy in Polyamorous Relationships](/en/blog/jealousy-polyamory) goes into exactly that.
+Understanding a definition is the first step — the second, often harder one, is everyday life: how do you deal with the feelings that inevitably surface when a partner spends time with someone else? The honest answer is that jealousy is part of it for most people, even in polyamorous relationships that work well, and it can be worked with using the right tools. The article [Jealousy in Polyamorous Relationships](/en/blog/jealousy-polyamory/) goes into exactly that.
 
 ## How Roster can help
 

@@ -21,7 +21,7 @@ Verschiedene Umfragen und Studien aus den letzten Jahren, vor allem aus den USA,
 
 ## Warum genaue Zahlen schwer zu erfassen sind
 
-**Definitionsunterschiede.** Je nachdem, ob eine Studie Polyamorie, offene Beziehungen und Swinging zusammen oder getrennt erfasst, unterscheiden sich die Ergebnisse erheblich. Mehr zu den Begriffen im Artikel [Ethische Nicht-Monogamie](/blog/ethische-nicht-monogamie).
+**Definitionsunterschiede.** Je nachdem, ob eine Studie Polyamorie, offene Beziehungen und Swinging zusammen oder getrennt erfasst, unterscheiden sich die Ergebnisse erheblich. Mehr zu den Begriffen im Artikel [Ethische Nicht-Monogamie](/blog/ethische-nicht-monogamie/).
 
 **Dunkelziffer durch Zurückhaltung.** Nicht jede Person, die polyamor lebt, ist bereit, das in einer Umfrage offen anzugeben – gerade in Regionen oder Berufsfeldern, in denen Nicht-Monogamie stigmatisiert oder sogar mit Nachteilen verbunden ist.
 
@@ -33,7 +33,7 @@ Forschung deutet darauf hin, dass ENM-Beziehungen über praktisch alle Altersgru
 
 ## Was das für dich bedeutet
 
-Diese Zahlen sind vor allem in einer Hinsicht nützlich: Sie zeigen, dass polyamor lebende Menschen keine winzige Randgruppe sind, sondern Teil eines wachsenden, sichtbareren Spektrums an Beziehungsformen. Wer selbst polyamor lebt oder darüber nachdenkt, ist damit weit weniger allein, als die öffentliche Wahrnehmung manchmal suggeriert. Ein guter Einstieg für alle, die neu in diesem Feld sind, findet sich im Artikel [Polyamorie für Anfänger](/blog/polyamorie-fuer-anfaenger).
+Diese Zahlen sind vor allem in einer Hinsicht nützlich: Sie zeigen, dass polyamor lebende Menschen keine winzige Randgruppe sind, sondern Teil eines wachsenden, sichtbareren Spektrums an Beziehungsformen. Wer selbst polyamor lebt oder darüber nachdenkt, ist damit weit weniger allein, als die öffentliche Wahrnehmung manchmal suggeriert. Ein guter Einstieg für alle, die neu in diesem Feld sind, findet sich im Artikel [Polyamorie für Anfänger](/blog/polyamorie-fuer-anfaenger/).
 
 ## Wachsende Sichtbarkeit statt wachsender Zahl
 
@@ -41,7 +41,7 @@ Es ist wahrscheinlicher, dass die zunehmende gesellschaftliche Sichtbarkeit von 
 
 ## Struktur für dein eigenes Polycule, unabhängig von Statistiken
 
-Egal wie verbreitet Polyamorie statistisch ist – wer selbst mehrere Beziehungen führt, braucht praktische Werkzeuge dafür. **Roster** hilft, dein [Polycule](/blog/was-ist-ein-polycule) zu visualisieren und den Überblick über Termine und Vereinbarungen zu behalten, ganz unabhängig davon, wie viele andere Menschen ähnlich leben. Alle Daten bleiben lokal auf deinem Gerät.
+Egal wie verbreitet Polyamorie statistisch ist – wer selbst mehrere Beziehungen führt, braucht praktische Werkzeuge dafür. **Roster** hilft, dein [Polycule](/blog/was-ist-ein-polycule/) zu visualisieren und den Überblick über Termine und Vereinbarungen zu behalten, ganz unabhängig davon, wie viele andere Menschen ähnlich leben. Alle Daten bleiben lokal auf deinem Gerät.
 
 ## Häufige Fragen
 

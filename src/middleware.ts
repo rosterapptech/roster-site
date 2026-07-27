@@ -38,7 +38,9 @@ export const onRequest = defineMiddleware(async (ctx, next) => {
   // Kompatibilitaets-Test hat sprachspezifische Slugs (wie der Blog) → niemals
   // umleiten, sonst landet z.B. ein EN-Browser auf /en/polyamorie-test (falscher
   // Slug, 404) statt /en/polyamory-test.
-  if (pathname === `/${QUIZ_SLUG.de}`) return next();
+  // (trailingSlash: 'always' → Pfad kommt normalerweise mit Slash an,
+  // die slashlose Variante wird davor schon per 308 umgeleitet.)
+  if (pathname.replace(/\/$/, '') === `/${QUIZ_SLUG.de}`) return next();
 
   // Cookie hat Vorrang (wenn User manuell Sprache gewählt hat)
   const cookieLang = ctx.cookies.get('roster-lang')?.value as Lang | undefined;

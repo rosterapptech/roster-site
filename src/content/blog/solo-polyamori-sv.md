@@ -32,7 +32,7 @@ Solo-poly lockar ofta människor som:
 - värdesätter sin autonomi och eget utrymme högt,
 - inte vill att en relation automatiskt ska ha företräde framför andra eller framför det egna livet,
 - gärna bor ensamma och bestämmer över sin vardag,
-- känner sig dragna till [relationsanarki](/sv/blog/relationsanarki-vs-polyamori-sv), eftersom båda koncepten ifrågasätter hierarkier,
+- känner sig dragna till [relationsanarki](/sv/blog/relationsanarki-vs-polyamori-sv/), eftersom båda koncepten ifrågasätter hierarkier,
 - efter en skilsmässa eller att barnen har flyttat ut medvetet vill leva självständigt.
 
 ## Hur ser vardagen ut?
@@ -44,7 +44,7 @@ Det gör två saker särskilt viktiga:
 1. **Tydlig kommunikation.** Eftersom solo-poly avviker från vanliga relationsmanus är det viktigt att tidigt vara transparent om hur du lever relationer – så att ingen tyst utgår från en eskalation mot att flytta ihop som du inte planerar.
 2. **Eget överblick.** Utan en delad familjekalender behöver du ett system som passar din självständighet – ett som är ditt och inte kopplat till någon specifik relation.
 
-Precis här passar **Roster** bra till solo-poly: appen är centrerad på dig, inte på ett hushåll eller en huvudrelation. Du håller alla dina förbindelser på ett privat ställe – viktiga detaljer, vibe-radar för varje relation, reflektioner – utan att någon förbindelse strukturellt ställs över en annan. Och eftersom allt stannar lokalt på din enhet är din självständighet också vad [integritet](/sv/blog/polyamori-integritet) beträffar skyddad.
+Precis här passar **Roster** bra till solo-poly: appen är centrerad på dig, inte på ett hushåll eller en huvudrelation. Du håller alla dina förbindelser på ett privat ställe – viktiga detaljer, vibe-radar för varje relation, reflektioner – utan att någon förbindelse strukturellt ställs över en annan. Och eftersom allt stannar lokalt på din enhet är din självständighet också vad [integritet](/sv/blog/polyamori-integritet/) beträffar skyddad.
 
 ## Självständighet och närhet utesluter inte varandra
 

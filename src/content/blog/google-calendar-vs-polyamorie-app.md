@@ -44,7 +44,7 @@ Een agenda-item heeft een datum, een tijd, misschien een locatie en een titel. E
 
 ### Hij heeft geen gevoel voor relatiegezondheid
 
-Precies dit punt hebben we al kort aangestipt in [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen) – hier is een dieper blik op zijn plaats, want het is een van de grootste blinde vlekken van een agenda. Google Calendar laat je zien wanneer de volgende afspraak is. Het laat je niet zien dat jullie al drie weken niet echt gepraat hebben, dat een verbinding stilletjes stiller wordt terwijl niemand iets fout heeft gedaan, of dat een afspraak zonder woorden is weggezakt. Een volle agenda kan best een relatie beschrijven die emotioneel uithongert – omdat "we zien elkaar" en "het gaat goed met ons" twee compleet verschillende dingen zijn, die een agenda niet uit elkaar kan houden.
+Precies dit punt hebben we al kort aangestipt in [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen/) – hier is een dieper blik op zijn plaats, want het is een van de grootste blinde vlekken van een agenda. Google Calendar laat je zien wanneer de volgende afspraak is. Het laat je niet zien dat jullie al drie weken niet echt gepraat hebben, dat een verbinding stilletjes stiller wordt terwijl niemand iets fout heeft gedaan, of dat een afspraak zonder woorden is weggezakt. Een volle agenda kan best een relatie beschrijven die emotioneel uithongert – omdat "we zien elkaar" en "het gaat goed met ons" twee compleet verschillende dingen zijn, die een agenda niet uit elkaar kan houden.
 
 ### Een reëel privacyprobleem voor gevoelige informatie
 
@@ -58,7 +58,7 @@ Zet deze drie punten bij elkaar en er ontstaat een helder beeld: Google Calendar
 
 Precies daar komt **Roster** in beeld – niet als vervanging van je agenda, maar als laag daarboven. Afspraken blijven waar ze het beste thuishoren: in de agenda. Maar alles wat te maken heeft met "hoe gaat het eigenlijk met deze relatie" krijgt in Roster een eigen plek. De **Polycule Map** toont je hele netwerk in één oogopslag, in plaats van dat je het uit verspreide afspraken moet samenpuzzelen. De **Vibe Radar** houdt per verbinding bij of het nu zonnig, bewolkt, regenachtig of radiostilte is – iets wat geen agendaveld ooit zou kunnen vastleggen. **Reflectie** geeft je een privéruimte om je eigen gedachten over een relatie te ordenen, en **Wellness** houdt dingen zoals safer-sex-momenten bij zonder dat ze zichtbaar worden voor iedereen in een gedeelde agenda. Al deze gegevens blijven volledig lokaal op je apparaat – geen account, geen server, geen synchronisatie die iets over je zou kunnen prijsgeven.
 
-Wie wil zien hoe deze twee lagen – agenda en relatiebeheer – in de praktijk samenwerken, vindt in [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen) meer systemen daarvoor. En wie merkt dat de echte uitdaging vooral is om op te merken wanneer een relatie aandacht nodig heeft, vindt in de [Vibe-Check-gids](/nl/blog/vibe-check-relaties) een concrete routine daarvoor.
+Wie wil zien hoe deze twee lagen – agenda en relatiebeheer – in de praktijk samenwerken, vindt in [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen/) meer systemen daarvoor. En wie merkt dat de echte uitdaging vooral is om op te merken wanneer een relatie aandacht nodig heeft, vindt in de [Vibe-Check-gids](/nl/blog/vibe-check-relaties/) een concrete routine daarvoor.
 
 ## Veelgestelde vragen
 

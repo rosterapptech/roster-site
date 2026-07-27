@@ -13,7 +13,7 @@ Vielleicht hast du gemerkt, dass das klassische Beziehungsmodell sich für dich 
 
 Polyamorie bedeutet, einvernehmlich mehrere Liebesbeziehungen gleichzeitig zu führen, wobei alle Beteiligten davon wissen. Das entscheidende Wort ist **einvernehmlich**: Polyamorie ist das Gegenteil von Fremdgehen. Es geht um Ehrlichkeit, Transparenz und das gemeinsame Gestalten von Beziehungen – nicht um Heimlichkeit.
 
-Polyamorie ist eine von vielen Formen der ethischen Nicht-Monogamie (ENM). Dazu gehören auch offene Beziehungen, [Beziehungsanarchie](/blog/beziehungsanarchie-vs-polyamorie) oder Swinging. Was sie alle verbindet: Konsens und Kommunikation.
+Polyamorie ist eine von vielen Formen der ethischen Nicht-Monogamie (ENM). Dazu gehören auch offene Beziehungen, [Beziehungsanarchie](/blog/beziehungsanarchie-vs-polyamorie/) oder Swinging. Was sie alle verbindet: Konsens und Kommunikation.
 
 ## Die hartnäckigsten Mythen
 
@@ -23,7 +23,7 @@ Polyamorie ist eine von vielen Formen der ethischen Nicht-Monogamie (ENM). Dazu 
 
 **„Das ist nur was für Sex."** Polyamorie dreht sich um Liebe und Beziehung, nicht primär um Sex. Manche poly Beziehungen sind nicht einmal sexuell.
 
-**„Wer poly ist, ist nie eifersüchtig."** Auch poly Menschen sind eifersüchtig. Der Unterschied liegt im offenen Umgang damit – mehr dazu in unserem Artikel über [Eifersucht](/blog/eifersucht-polyamorie).
+**„Wer poly ist, ist nie eifersüchtig."** Auch poly Menschen sind eifersüchtig. Der Unterschied liegt im offenen Umgang damit – mehr dazu in unserem Artikel über [Eifersucht](/blog/eifersucht-polyamorie/).
 
 ## Die ersten Schritte
 
@@ -33,7 +33,7 @@ Bevor du mit anderen über Polyamorie sprichst, lohnt der Blick nach innen. Was 
 
 ### 2. Lerne das Vokabular
 
-Metamour, Compersion, Polycule, NRE – die Begriffe helfen dir, dich auszudrücken und andere zu verstehen. Unser [Glossar](/blog/polyamorie-glossar) gibt dir einen guten Startpunkt.
+Metamour, Compersion, Polycule, NRE – die Begriffe helfen dir, dich auszudrücken und andere zu verstehen. Unser [Glossar](/blog/polyamorie-glossar/) gibt dir einen guten Startpunkt.
 
 ### 3. Kommuniziere ehrlich – von Anfang an
 
@@ -41,7 +41,7 @@ Ob du eine bestehende Beziehung öffnen oder neu poly starten willst: Ehrlichkei
 
 ### 4. Rechne mit Gefühlen – auch unbequemen
 
-[Eifersucht](/blog/eifersucht-polyamorie), Unsicherheit, Überforderung gehören oft dazu, besonders am Anfang. Das ist kein Zeichen des Scheiterns, sondern Teil des Lernprozesses. Gefühle sind Wegweiser, keine Stoppschilder.
+[Eifersucht](/blog/eifersucht-polyamorie/), Unsicherheit, Überforderung gehören oft dazu, besonders am Anfang. Das ist kein Zeichen des Scheiterns, sondern Teil des Lernprozesses. Gefühle sind Wegweiser, keine Stoppschilder.
 
 ### 5. Geh es langsam an
 
@@ -55,7 +55,7 @@ Erwarte nicht, dass du alles sofort richtig machst. Niemand tut das. Polyamorie 
 
 ## Ein Werkzeug für den Anfang
 
-Wenn aus der Theorie gelebte Praxis wird, kommen schnell mehr Menschen, Termine und Details zusammen, als man im Kopf behalten kann. **Roster** wurde genau für diesen Moment gebaut: eine App, die dir hilft, deine Verbindungen zu [organisieren](/blog/mehrere-beziehungen-managen), deine Gefühle in einem privaten Journal zu reflektieren und den Überblick zu behalten – komplett lokal auf deinem Gerät, ohne Konto und ohne Tracking. Gerade am Anfang, wenn vieles neu ist, kann es entlasten, einen ruhigen, privaten Ort dafür zu haben.
+Wenn aus der Theorie gelebte Praxis wird, kommen schnell mehr Menschen, Termine und Details zusammen, als man im Kopf behalten kann. **Roster** wurde genau für diesen Moment gebaut: eine App, die dir hilft, deine Verbindungen zu [organisieren](/blog/mehrere-beziehungen-managen/), deine Gefühle in einem privaten Journal zu reflektieren und den Überblick zu behalten – komplett lokal auf deinem Gerät, ohne Konto und ohne Tracking. Gerade am Anfang, wenn vieles neu ist, kann es entlasten, einen ruhigen, privaten Ort dafür zu haben.
 
 ## Du musst das nicht allein herausfinden
 

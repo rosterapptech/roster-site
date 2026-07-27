@@ -16,8 +16,8 @@ tags: ['Finanzen', 'Polyamorie', 'Beziehungspflege', 'Fairness']
 - **Dates und gemeinsame Unternehmungen** – Essen gehen, Aktivitäten, kleine Ausflüge.
 - **Geschenke** – zu Jahrestagen, Geburtstagen oder einfach zwischendurch.
 - **Reisen** – gemeinsame Urlaube mit einem oder mehreren Partnern.
-- **Gemeinsamer Haushalt** – Miete, Nebenkosten und Lebenshaltungskosten, falls du mit einem [Nesting Partner](/blog/nesting-partner-erklaert) zusammenlebst.
-- **Kinderbetreuung** – zusätzliche Kosten, wenn Kinder Teil der Familienstruktur sind, siehe [Polyamorie und Elternschaft](/blog/polyamorie-elternschaft).
+- **Gemeinsamer Haushalt** – Miete, Nebenkosten und Lebenshaltungskosten, falls du mit einem [Nesting Partner](/blog/nesting-partner-erklaert/) zusammenlebst.
+- **Kinderbetreuung** – zusätzliche Kosten, wenn Kinder Teil der Familienstruktur sind, siehe [Polyamorie und Elternschaft](/blog/polyamorie-elternschaft/).
 
 ## Modelle, wie Kosten verteilt werden können
 
@@ -37,15 +37,15 @@ Wer mit einem Nesting Partner zusammenlebt, hat oft einen gemeinsamen Topf für 
 
 ## Ungleichheiten offen ansprechen
 
-Finanzielle Unterschiede zwischen Beziehungen sind normal, aber unausgesprochen können sie zu Spannungen führen – etwa wenn eine Beziehung sich teure Restaurants und Reisen leisten kann, während eine andere Partnerschaft finanziell knapper ist. Das kann bei Metamouren unbeabsichtigt Vergleichsdruck erzeugen. Hilfreich ist, offen zu benennen: Geld ist nicht gleich Zuneigung. Wer weniger finanzielle Mittel hat, kann trotzdem genauso viel Zeit, Aufmerksamkeit und Fürsorge investieren – siehe dazu auch unseren Artikel zum [fairen Verteilen von Zeit auf mehrere Beziehungen](/blog/mehrere-beziehungen-managen).
+Finanzielle Unterschiede zwischen Beziehungen sind normal, aber unausgesprochen können sie zu Spannungen führen – etwa wenn eine Beziehung sich teure Restaurants und Reisen leisten kann, während eine andere Partnerschaft finanziell knapper ist. Das kann bei Metamouren unbeabsichtigt Vergleichsdruck erzeugen. Hilfreich ist, offen zu benennen: Geld ist nicht gleich Zuneigung. Wer weniger finanzielle Mittel hat, kann trotzdem genauso viel Zeit, Aufmerksamkeit und Fürsorge investieren – siehe dazu auch unseren Artikel zum [fairen Verteilen von Zeit auf mehrere Beziehungen](/blog/mehrere-beziehungen-managen/).
 
 ## Wie viel Transparenz ist nötig?
 
-Metamouren müssen in der Regel keine Einblicke in die konkreten Finanzen der jeweils anderen Beziehung haben – das bleibt Privatsache. Wichtiger ist Transparenz innerhalb jeder einzelnen Beziehung: Beide Partner sollten wissen, welche finanziellen Verpflichtungen und Grenzen der jeweils andere hat, gerade wenn ein gemeinsamer Haushalt oder gemeinsame Reisen geplant werden. Mehr zur Balance zwischen Offenheit und Privatsphäre liest du im Artikel [Polyamorie und Datenschutz](/blog/polyamorie-datenschutz).
+Metamouren müssen in der Regel keine Einblicke in die konkreten Finanzen der jeweils anderen Beziehung haben – das bleibt Privatsache. Wichtiger ist Transparenz innerhalb jeder einzelnen Beziehung: Beide Partner sollten wissen, welche finanziellen Verpflichtungen und Grenzen der jeweils andere hat, gerade wenn ein gemeinsamer Haushalt oder gemeinsame Reisen geplant werden. Mehr zur Balance zwischen Offenheit und Privatsphäre liest du im Artikel [Polyamorie und Datenschutz](/blog/polyamorie-datenschutz/).
 
 ## Regelmäßige Check-ins statt einmaliger Absprachen
 
-Finanzielle Vereinbarungen sollten nicht einmalig getroffen und dann vergessen werden. Ändert sich das Einkommen einer Person, kommt eine neue Beziehung dazu, oder ziehen zwei Partner zusammen, lohnt sich ein erneutes Gespräch. Der Artikel [Regeln vs. Vereinbarungen in der Polyamorie](/blog/polyamorie-regeln-vereinbarungen) erklärt, wie du Absprachen so gestaltest, dass sie sich mit der Zeit anpassen lassen, statt starr zu bleiben.
+Finanzielle Vereinbarungen sollten nicht einmalig getroffen und dann vergessen werden. Ändert sich das Einkommen einer Person, kommt eine neue Beziehung dazu, oder ziehen zwei Partner zusammen, lohnt sich ein erneutes Gespräch. Der Artikel [Regeln vs. Vereinbarungen in der Polyamorie](/blog/polyamorie-regeln-vereinbarungen/) erklärt, wie du Absprachen so gestaltest, dass sie sich mit der Zeit anpassen lassen, statt starr zu bleiben.
 
 ## Werkzeuge, die helfen
 

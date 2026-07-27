@@ -19,11 +19,11 @@ El poliamor a distancia junta dos retos a la vez: el trabajo emocional de manten
 
 **La distribución desigual del tiempo se hace más visible.** Quien vive en la misma ciudad recibe inevitablemente más tiempo espontáneo y cotidiano que una pareja a distancia, lo que puede hacer que la persona lejana sienta que está estructuralmente en desventaja. Las conversaciones honestas sobre cómo vive cada parte esa distribución importan más que intentar igualar matemáticamente el tiempo.
 
-**Las visitas necesitan planificación deliberada.** A diferencia de las relaciones cercanas, una visita a distancia no se puede reprogramar de forma espontánea. Más sobre sistemas para esto en [Planificar el tiempo con varias relaciones](/es/blog/planificar-varias-relaciones).
+**Las visitas necesitan planificación deliberada.** A diferencia de las relaciones cercanas, una visita a distancia no se puede reprogramar de forma espontánea. Más sobre sistemas para esto en [Planificar el tiempo con varias relaciones](/es/blog/planificar-varias-relaciones/).
 
 **Las zonas horarias dificultan la comunicación espontánea.** Con diferencias horarias grandes, un ritmo de comunicación fijo y recurrente ayuda más que intentar estar disponible de forma espontánea.
 
-**Los celos pueden sentirse distintos.** Quien sabe que otra pareja recibe más cercanía cotidiana "en persona" a veces vive los celos de forma más espacial que emocional. Más sobre cómo gestionarlo en [Celos en el poliamor](/es/blog/celos-poliamoria).
+**Los celos pueden sentirse distintos.** Quien sabe que otra pareja recibe más cercanía cotidiana "en persona" a veces vive los celos de forma más espacial que emocional. Más sobre cómo gestionarlo en [Celos en el poliamor](/es/blog/celos-poliamoria/).
 
 ## Cómo construir la cercanía a distancia de forma activa
 
@@ -38,7 +38,7 @@ Las relaciones a distancia rara vez se mantienen así para siempre: una mudanza,
 
 ## Estructura para conexiones a distancia
 
-Quien mantiene varias relaciones con distinta cercanía geográfica se beneficia especialmente de una visión centralizada de citas, planes de visita y el ambiente en cada conexión. **Roster** visualiza tu [polycule](/es/blog/que-es-un-polycule) sin importar la distancia y usa el radar de ambiente para ayudarte a ver qué relación, cercana o lejana, necesita atención en cada momento. Todos los datos permanecen locales en tu dispositivo.
+Quien mantiene varias relaciones con distinta cercanía geográfica se beneficia especialmente de una visión centralizada de citas, planes de visita y el ambiente en cada conexión. **Roster** visualiza tu [polycule](/es/blog/que-es-un-polycule/) sin importar la distancia y usa el radar de ambiente para ayudarte a ver qué relación, cercana o lejana, necesita atención en cada momento. Todos los datos permanecen locales en tu dispositivo.
 
 ## Preguntas frecuentes
 

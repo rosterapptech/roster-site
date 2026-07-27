@@ -34,7 +34,7 @@ Os quatro são ferramentas sólidas para aquilo que foram criados. Mas em nenhum
 
 ## A confusão de nomes: dois apps se chamam "Roster"
 
-Um detalhe que gera confusão: tanto "Roster: Date Smarter" quanto "The Roster AI - Dating Diary" trazem o termo "Roster" no nome – e nenhum deles é o mesmo app descrito aqui. O termo "Roster" vem originalmente do esporte (a lista de jogadores de um time) e virou gíria de encontros via TikTok, veja [O que é um Dating Roster?](/pt/blog/o-que-e-um-dating-roster). Por isso não é surpresa que vários desenvolvedores independentes tenham chegado ao mesmo nome. Quem procura por "app Roster" deve, portanto, observar com atenção qual dos vários apps homônimos é o pretendido, e para que ele foi feito.
+Um detalhe que gera confusão: tanto "Roster: Date Smarter" quanto "The Roster AI - Dating Diary" trazem o termo "Roster" no nome – e nenhum deles é o mesmo app descrito aqui. O termo "Roster" vem originalmente do esporte (a lista de jogadores de um time) e virou gíria de encontros via TikTok, veja [O que é um Dating Roster?](/pt/blog/o-que-e-um-dating-roster/). Por isso não é surpresa que vários desenvolvedores independentes tenham chegado ao mesmo nome. Quem procura por "app Roster" deve, portanto, observar com atenção qual dos vários apps homônimos é o pretendido, e para que ele foi feito.
 
 ## A verdadeira lacuna: registrar vs. realmente cuidar de relacionamentos
 
@@ -73,7 +73,7 @@ Tudo fica local no seu aparelho, sem conta e sem nuvem. [O Roster está disponí
 
 ## Onde continuar a leitura, conforme sua situação
 
-Você ainda está conhecendo várias pessoas, em vez de já manter relacionamentos comprometidos? Então um rastreador de encontros dedicado como os citados acima pode ser, por ora, a ferramenta mais adequada – mais sobre essa distinção em [O que é um Dating Roster?](/pt/blog/o-que-e-um-dating-roster). Está procurando a diferença entre apps de encontros para conhecer pessoas e apps para organizar relacionamentos já existentes? Encontra isso em [App para poliamoria: organizar relacionamentos, não só encontrar pessoas](/pt/blog/app-para-organizar-relacionamentos-poliamorosos). Já mantém vários relacionamentos e procura sistemas concretos para isso? [Gerenciar vários relacionamentos ao mesmo tempo](/pt/blog/gerenciar-varios-relacionamentos) ajuda a seguir em frente.
+Você ainda está conhecendo várias pessoas, em vez de já manter relacionamentos comprometidos? Então um rastreador de encontros dedicado como os citados acima pode ser, por ora, a ferramenta mais adequada – mais sobre essa distinção em [O que é um Dating Roster?](/pt/blog/o-que-e-um-dating-roster/). Está procurando a diferença entre apps de encontros para conhecer pessoas e apps para organizar relacionamentos já existentes? Encontra isso em [App para poliamoria: organizar relacionamentos, não só encontrar pessoas](/pt/blog/app-para-organizar-relacionamentos-poliamorosos/). Já mantém vários relacionamentos e procura sistemas concretos para isso? [Gerenciar vários relacionamentos ao mesmo tempo](/pt/blog/gerenciar-varios-relacionamentos/) ajuda a seguir em frente.
 
 ## Perguntas frequentes
 

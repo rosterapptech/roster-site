@@ -57,33 +57,33 @@ Dentro dessa definição há uma margem enorme. Quatro configurações aparecem 
 
 ### Hierárquica ou não hierárquica
 
-Em configurações hierárquicas, existe um relacionamento "primário" com peso especial — por exemplo, moradia ou finanças compartilhadas — ao lado de outras conexões "secundárias". Modelos não hierárquicos rejeitam deliberadamente essa ordem de prioridade e tentam tratar todos os relacionamentos da forma mais equivalente possível. Qual modelo combina melhor depende muito das pessoas envolvidas; o artigo [Poliamoria hierárquica vs. não hierárquica](/pt/blog/poliamoria-hierarquica-vs-nao-hierarquica) compara os dois em detalhe.
+Em configurações hierárquicas, existe um relacionamento "primário" com peso especial — por exemplo, moradia ou finanças compartilhadas — ao lado de outras conexões "secundárias". Modelos não hierárquicos rejeitam deliberadamente essa ordem de prioridade e tentam tratar todos os relacionamentos da forma mais equivalente possível. Qual modelo combina melhor depende muito das pessoas envolvidas; o artigo [Poliamoria hierárquica vs. não hierárquica](/pt/blog/poliamoria-hierarquica-vs-nao-hierarquica/) compara os dois em detalhe.
 
 ### Tríades
 
-Uma tríade descreve três pessoas que estão em relacionamento entre si: às vezes as três em pé de igualdade, às vezes como dois casais já existentes mais uma terceira pessoa. As diferentes formas que isso pode assumir e os obstáculos típicos são explicados no artigo [Throuple e tríade explicados de forma simples](/pt/blog/throuple-triade-pt).
+Uma tríade descreve três pessoas que estão em relacionamento entre si: às vezes as três em pé de igualdade, às vezes como dois casais já existentes mais uma terceira pessoa. As diferentes formas que isso pode assumir e os obstáculos típicos são explicados no artigo [Throuple e tríade explicados de forma simples](/pt/blog/throuple-triade-pt/).
 
 ### Poliamoria solo
 
-Pessoas solo-poliamorosas mantêm vários relacionamentos sem designar nenhum deles como o "relacionamento principal" central e compartilhado: permanecem estruturalmente independentes em vez de caminhar rumo a um relacionamento de convivência. O artigo [Solo-poliamoria](/pt/blog/solo-poliamoria-pt) explica como isso se parece no dia a dia.
+Pessoas solo-poliamorosas mantêm vários relacionamentos sem designar nenhum deles como o "relacionamento principal" central e compartilhado: permanecem estruturalmente independentes em vez de caminhar rumo a um relacionamento de convivência. O artigo [Solo-poliamoria](/pt/blog/solo-poliamoria-pt/) explica como isso se parece no dia a dia.
 
 ### Kitchen table vs. paralelo
 
-Na poliamoria "kitchen table", no caso ideal todas as pessoas envolvidas e seus metamours se conhecem e gostam umas das outras; poderiam todas se sentar juntas ao redor de uma mesma mesa de cozinha. Na poliamoria "paralela", os relacionamentos individuais transcorrem deliberadamente separados, sem que todos os envolvidos precisem se conhecer. Ambas as abordagens têm sua razão de ser, como mostra o artigo [Kitchen Table vs. poliamoria paralela](/pt/blog/kitchen-table-vs-poliamoria-paralela-pt).
+Na poliamoria "kitchen table", no caso ideal todas as pessoas envolvidas e seus metamours se conhecem e gostam umas das outras; poderiam todas se sentar juntas ao redor de uma mesma mesa de cozinha. Na poliamoria "paralela", os relacionamentos individuais transcorrem deliberadamente separados, sem que todos os envolvidos precisem se conhecer. Ambas as abordagens têm sua razão de ser, como mostra o artigo [Kitchen Table vs. poliamoria paralela](/pt/blog/kitchen-table-vs-poliamoria-paralela-pt/).
 
 ## Termos relacionados que geram confusão com facilidade
 
 Há três termos que aparecem constantemente ao lado da poliamoria e que são facilmente confundidos entre si.
 
-A rede de relacionamentos que surge quando vários parceiros estão interconectados costuma ser chamada de **polycule** — o artigo [O que é um polycule?](/pt/blog/o-que-e-um-polycule) explica como essas redes podem se parecer e como manter o controle quando elas crescem.
+A rede de relacionamentos que surge quando vários parceiros estão interconectados costuma ser chamada de **polycule** — o artigo [O que é um polycule?](/pt/blog/o-que-e-um-polycule/) explica como essas redes podem se parecer e como manter o controle quando elas crescem.
 
-Além disso, a poliamoria é frequentemente equiparada ao **relacionamento aberto**, embora ambos tenham nuances diferentes: relacionamentos abertos costumam focar mais na liberdade sexual fora de um relacionamento principal, enquanto a poliamoria normalmente envolve vários relacionamentos com conexão emocional. As diferenças sutis, mas importantes, são detalhadas no artigo [Poliamoria vs. relacionamento aberto](/pt/blog/poliamoria-vs-relacionamento-aberto).
+Além disso, a poliamoria é frequentemente equiparada ao **relacionamento aberto**, embora ambos tenham nuances diferentes: relacionamentos abertos costumam focar mais na liberdade sexual fora de um relacionamento principal, enquanto a poliamoria normalmente envolve vários relacionamentos com conexão emocional. As diferenças sutis, mas importantes, são detalhadas no artigo [Poliamoria vs. relacionamento aberto](/pt/blog/poliamoria-vs-relacionamento-aberto/).
 
-E, por fim, há a **anarquia relacional**, que vai um passo além e rejeita desde a raiz qualquer hierarquia entre relacionamentos, incluindo a que existe entre conexões românticas e de amizade. Onde exatamente fica o limite com a poliamoria é explicado no artigo [Anarquia relacional vs. poliamoria](/pt/blog/anarquia-relacional-vs-poliamoria-pt).
+E, por fim, há a **anarquia relacional**, que vai um passo além e rejeita desde a raiz qualquer hierarquia entre relacionamentos, incluindo a que existe entre conexões românticas e de amizade. Onde exatamente fica o limite com a poliamoria é explicado no artigo [Anarquia relacional vs. poliamoria](/pt/blog/anarquia-relacional-vs-poliamoria-pt/).
 
 ## De entender a viver
 
-Entender uma definição é o primeiro passo; o segundo, muitas vezes mais exigente, é o dia a dia: como lidar com os sentimentos que inevitavelmente surgem quando um parceiro passa tempo com outra pessoa? A resposta honesta é que o ciúme faz parte da experiência para a maioria das pessoas, mesmo em relacionamentos poliamorosos que funcionam bem, e que pode ser bem acompanhado com as ferramentas certas. O artigo [O ciúme nos relacionamentos poliamorosos](/pt/blog/ciumes-poliamoria) se aprofunda exatamente nisso.
+Entender uma definição é o primeiro passo; o segundo, muitas vezes mais exigente, é o dia a dia: como lidar com os sentimentos que inevitavelmente surgem quando um parceiro passa tempo com outra pessoa? A resposta honesta é que o ciúme faz parte da experiência para a maioria das pessoas, mesmo em relacionamentos poliamorosos que funcionam bem, e que pode ser bem acompanhado com as ferramentas certas. O artigo [O ciúme nos relacionamentos poliamorosos](/pt/blog/ciumes-poliamoria/) se aprofunda exatamente nisso.
 
 ## Como o Roster pode ajudar
 

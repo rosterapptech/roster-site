@@ -32,7 +32,7 @@ Solo poly often appeals to people who:
 - value their autonomy and personal space highly,
 - do not want one relationship to automatically take precedence over others or over their own life,
 - like living alone and making their own decisions about their daily life,
-- are drawn to [relationship anarchy](/en/blog/relationship-anarchy-vs-polyamory), as both concepts question hierarchies,
+- are drawn to [relationship anarchy](/en/blog/relationship-anarchy-vs-polyamory/), as both concepts question hierarchies,
 - after a divorce or their children leaving home, want to consciously live independently.
 
 ## What does daily life look like?
@@ -44,7 +44,7 @@ This makes two things especially important:
 1. **Clear communication.** Since solo poly deviates from common relationship scripts, it is important to be transparent early about how you live relationships – so that nobody silently assumes an escalation towards moving in together that you are not planning.
 2. **Your own overview.** Without a shared family calendar you need a system that fits your independence – one that belongs to you and is not tied to any particular relationship.
 
-This is exactly where **Roster** fits well with solo poly: the app is centred on you, not on a household or a main relationship. You keep all your connections in view in one private place – important details, a vibe reading for each relationship, reflections – without any connection being structurally placed above another. And because everything stays locally on your device, your independence is protected when it comes to [privacy](/en/blog/polyamory-privacy) too.
+This is exactly where **Roster** fits well with solo poly: the app is centred on you, not on a household or a main relationship. You keep all your connections in view in one private place – important details, a vibe reading for each relationship, reflections – without any connection being structurally placed above another. And because everything stays locally on your device, your independence is protected when it comes to [privacy](/en/blog/polyamory-privacy/) too.
 
 ## Independence and closeness are not opposites
 

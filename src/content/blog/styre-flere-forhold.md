@@ -80,13 +80,13 @@ Systemer har brug for et sted at leve. I praksis krystalliserer fire tilgange si
 
 ## Hvorfor en almindelig kalender ikke er nok
 
-[En almindelig kalender kender kun aftaler, ikke relationssundhed.](/da/blog/google-kalender-vs-polyamori-app) Den fortæller dig, hvornår I mødes – men intet om, hvorvidt en forbindelse lige nu har brug for opmærksomhed, om I ikke har talt rigtigt sammen i ugevis, eller om en aftale stille og roligt er sygnet hen. Netop dette hul er grunden til, at mange polyamorøse mennesker på et tidspunkt skifter til et specialiseret værktøj: ikke fordi en kalender er dårlig, men fordi den er bygget til en anden opgave.
+[En almindelig kalender kender kun aftaler, ikke relationssundhed.](/da/blog/google-kalender-vs-polyamori-app/) Den fortæller dig, hvornår I mødes – men intet om, hvorvidt en forbindelse lige nu har brug for opmærksomhed, om I ikke har talt rigtigt sammen i ugevis, eller om en aftale stille og roligt er sygnet hen. Netop dette hul er grunden til, at mange polyamorøse mennesker på et tidspunkt skifter til et specialiseret værktøj: ikke fordi en kalender er dårlig, men fordi den er bygget til en anden opgave.
 
 ## At organisere er omsorg, ikke kontrol
 
 **Roster** er bygget netop til dette hul – en app, der giver struktur uden at kontrollere. Under "Relationer" er en hurtig swipe nok til at registrere, at du har set en person i dag – ingen omstændelig log, bare et ærligt øjebliksbillede. Vibe Radar viser dig med et blik, hvordan hvert forhold har det, fra solrigt til radiotavshed. Og Polycule Map gør hele dit netværk synligt på én gang. Alle data forbliver lokalt på din enhed, uden konto og uden sporing. Det er kernen: struktur, ikke kontrol – et værktøj, der hjælper dig med at være til stede i stedet for at diktere, hvordan dine forhold skal se ud.
 
-Fylder jalousi også noget for dig, går [Jalousi i polyamori](/da/blog/jalousi-polyamori) mere i dybden med det. Og vil du forstå dit hele netværk bedre, er det værd at læse [Hvad er et polycule?](/da/blog/hvad-er-et-polycule)
+Fylder jalousi også noget for dig, går [Jalousi i polyamori](/da/blog/jalousi-polyamori/) mere i dybden med det. Og vil du forstå dit hele netværk bedre, er det værd at læse [Hvad er et polycule?](/da/blog/hvad-er-et-polycule/)
 
 ## Ofte stillede spørgsmål
 

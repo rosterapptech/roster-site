@@ -35,7 +35,7 @@ Disse tre begreber bliver ofte blandet sammen, men betyder forskellige ting:
 
 **Situationship** betegner én enkelt forbindelse, der føles som et forhold, men som aldrig officielt er blevet kaldt det – ofte med uklare forventninger og usikkerhed hos mindst den ene part.
 
-**Polyamori** er en bevidst valgt forholdsmodel med åben kommunikation, hvor der findes flere samtidige, som regel følelsesmæssigt forpligtende forhold – i modsætning til rosteret, der ofte stadig er uforpligtende og udforskende. Læs mere om forskellen i artiklen [Polyamori vs. åbent forhold](/da/blog/polyamori-vs-aben-forhold).
+**Polyamori** er en bevidst valgt forholdsmodel med åben kommunikation, hvor der findes flere samtidige, som regel følelsesmæssigt forpligtende forhold – i modsætning til rosteret, der ofte stadig er uforpligtende og udforskende. Læs mere om forskellen i artiklen [Polyamori vs. åbent forhold](/da/blog/polyamori-vs-aben-forhold/).
 
 En Dating Roster kan altså med tiden udvikle sig i retning af polyamori, hvis flere løse forbindelser bevidst udvikler sig til forpligtende flerfoldige forhold – eller den kan indsnævres til ét enkelt forhold, hvis en forbindelse bliver eksklusiv.
 
@@ -45,7 +45,7 @@ Succesen for "Dating Roster" ligger i, at det gør det muligt at italesætte en 
 
 ## Udfordringer ved at holde styr på en Dating Roster
 
-Så let som begrebet lyder, så reelle er de praktiske udfordringer: den, der skriver og mødes med flere personer samtidig, skal holde detaljer adskilt, være ærlig om sin egen kapacitet og huske, hvem der ved hvad. Det er præcis her, artiklen [Organisér din Roster Dating](/da/blog/roster-dating-organisere) kommer ind i billedet – med konkrete strategier til hverdagen.
+Så let som begrebet lyder, så reelle er de praktiske udfordringer: den, der skriver og mødes med flere personer samtidig, skal holde detaljer adskilt, være ærlig om sin egen kapacitet og huske, hvem der ved hvad. Det er præcis her, artiklen [Organisér din Roster Dating](/da/blog/roster-dating-organisere/) kommer ind i billedet – med konkrete strategier til hverdagen.
 
 ## Værktøjer til din Dating Roster
 

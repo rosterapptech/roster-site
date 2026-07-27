@@ -70,7 +70,7 @@ Allt lokalt, utan konto, utan moln, utan att något någonsin når en server. [R
 
 ## Var du kan läsa vidare, beroende på din situation
 
-Är du fortfarande i fasen att avslappnat lära känna flera personer, i stället för att redan ha etablerade relationer? Börja då med [Vad är en Dating Roster?](/sv/blog/vad-ar-en-dating-roster) – den beskriver den tidigare, mer öppna fasen, innan lösa förbindelser blir till fasta relationer. Hanterar du redan flera relationer och letar efter konkreta system för det? [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer) är den praktiska guiden du behöver.
+Är du fortfarande i fasen att avslappnat lära känna flera personer, i stället för att redan ha etablerade relationer? Börja då med [Vad är en Dating Roster?](/sv/blog/vad-ar-en-dating-roster/) – den beskriver den tidigare, mer öppna fasen, innan lösa förbindelser blir till fasta relationer. Hanterar du redan flera relationer och letar efter konkreta system för det? [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer/) är den praktiska guiden du behöver.
 
 ## Vanliga frågor
 

@@ -38,7 +38,7 @@ Legalmente, a diferença é clara: casamentos poligâmicos não são reconhecido
 
 ## Anarquia relacional: sem categorias impostas
 
-A anarquia relacional vai um passo além da poliamoria igualitária: ela rejeita desde a raiz qualquer hierarquia imposta de fora e qualquer categoria fixa — "parceiro" versus "só uma amizade", "mais importante" versus "menos importante". Cada relacionamento é negociado individualmente, tenha sexo ou romance envolvido ou não, e independentemente do que sugerem as convenções sociais. Explicamos em detalhes em que isso se diferencia da poliamoria clássica, mesmo a hierárquica, e onde os limites se confundem, na nossa comparação [Anarquia relacional vs. poliamoria](/pt/blog/anarquia-relacional-vs-poliamoria-pt).
+A anarquia relacional vai um passo além da poliamoria igualitária: ela rejeita desde a raiz qualquer hierarquia imposta de fora e qualquer categoria fixa — "parceiro" versus "só uma amizade", "mais importante" versus "menos importante". Cada relacionamento é negociado individualmente, tenha sexo ou romance envolvido ou não, e independentemente do que sugerem as convenções sociais. Explicamos em detalhes em que isso se diferencia da poliamoria clássica, mesmo a hierárquica, e onde os limites se confundem, na nossa comparação [Anarquia relacional vs. poliamoria](/pt/blog/anarquia-relacional-vs-poliamoria-pt/).
 
 ## Os quatro modelos comparados
 
@@ -52,7 +52,7 @@ A anarquia relacional vai um passo além da poliamoria igualitária: ela rejeita
 
 ## E dentro da própria poliamoria?
 
-A tabela já sugere isso: "poliamoria" é, em si, um termo guarda-chuva para muitas variantes, não um modelo uniforme com regras fixas. Algumas configurações são [hierárquicas, outras não hierárquicas](/pt/blog/poliamoria-hierarquica-vs-nao-hierarquica) — com ou sem relacionamento primário, com ou sem casa compartilhada como centro. Algumas pessoas vivem a [poliamoria solo](/pt/blog/solo-poliamoria-pt) e deliberadamente não colocam nenhum relacionamento no centro da vida, mantendo-se independentes enquanto levam vários relacionamentos. Outras se organizam como um polycule kitchen table, em que todos os envolvidos se conhecem bem e gostam de passar tempo juntos, enquanto outras preferem relacionamentos paralelos que quase não se cruzam. E algumas vivem em tríade, com três parceiros em pé de igualdade. Quem quiser se aprofundar encontra os detalhes nos artigos linkados.
+A tabela já sugere isso: "poliamoria" é, em si, um termo guarda-chuva para muitas variantes, não um modelo uniforme com regras fixas. Algumas configurações são [hierárquicas, outras não hierárquicas](/pt/blog/poliamoria-hierarquica-vs-nao-hierarquica/) — com ou sem relacionamento primário, com ou sem casa compartilhada como centro. Algumas pessoas vivem a [poliamoria solo](/pt/blog/solo-poliamoria-pt/) e deliberadamente não colocam nenhum relacionamento no centro da vida, mantendo-se independentes enquanto levam vários relacionamentos. Outras se organizam como um polycule kitchen table, em que todos os envolvidos se conhecem bem e gostam de passar tempo juntos, enquanto outras preferem relacionamentos paralelos que quase não se cruzam. E algumas vivem em tríade, com três parceiros em pé de igualdade. Quem quiser se aprofundar encontra os detalhes nos artigos linkados.
 
 ## Por que a distinção importa na prática
 
@@ -62,7 +62,7 @@ Quanto mais modelos de relacionamento você conhece, mais fácil fica encontrar 
 
 > O Roster não analisa nada nem envia nada para um servidor. Seus relacionamentos não são da conta de ninguém além de você.
 
-Se você se pergunta se categorias fixas sequer combinam com sua vida relacional, ou se prefere deixá-las de lado por completo, vale a pena ler nossa comparação detalhada [Anarquia relacional vs. poliamoria](/pt/blog/anarquia-relacional-vs-poliamoria-pt) — lá entramos em detalhes sobre quando cada modelo faz mais sentido e como perceber qual combina com você.
+Se você se pergunta se categorias fixas sequer combinam com sua vida relacional, ou se prefere deixá-las de lado por completo, vale a pena ler nossa comparação detalhada [Anarquia relacional vs. poliamoria](/pt/blog/anarquia-relacional-vs-poliamoria-pt/) — lá entramos em detalhes sobre quando cada modelo faz mais sentido e como perceber qual combina com você.
 
 ## Perguntas frequentes
 
@@ -73,7 +73,7 @@ Não. Relacionamentos abertos costumam ser sexualmente abertos, mas romanticamen
 A poligamia é um casamento múltiplo e não é reconhecida na maioria dos sistemas legais ocidentais, sendo até crime em alguns lugares. A poliamoria é um estilo de relacionamento sem pretensão de casamento múltiplo, então a questão do reconhecimento matrimonial normalmente nem se coloca na prática.
 
 **O que é exatamente a anarquia relacional?**
-A anarquia relacional rejeita hierarquias impostas e categorias fixas como "parceiro" ou "só uma amizade". Cada relacionamento é negociado individualmente. Mais sobre isso na nossa [comparação detalhada](/pt/blog/anarquia-relacional-vs-poliamoria-pt).
+A anarquia relacional rejeita hierarquias impostas e categorias fixas como "parceiro" ou "só uma amizade". Cada relacionamento é negociado individualmente. Mais sobre isso na nossa [comparação detalhada](/pt/blog/anarquia-relacional-vs-poliamoria-pt/).
 
 **O Roster funciona só para a poliamoria?**
 Não. O Roster funciona para qualquer forma de não monogamia ética — relacionamentos abertos, poliamoria clássica, anarquia relacional, solo-poli e mais.

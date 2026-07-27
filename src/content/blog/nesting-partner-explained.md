@@ -13,37 +13,37 @@ The term "nesting partner" comes up constantly in the poly community, precisely 
 
 ## What exactly is a nesting partner?
 
-A nesting partner is the person you live with and run a shared household with — including shared finances, daily routines, and often shared kids or pets. The word "nest" deliberately emphasizes the practical, domestic dimension rather than the emotional weight of the relationship. For more foundational vocabulary, see our [Polyamory Glossary](/en/blog/polyamory-glossary).
+A nesting partner is the person you live with and run a shared household with — including shared finances, daily routines, and often shared kids or pets. The word "nest" deliberately emphasizes the practical, domestic dimension rather than the emotional weight of the relationship. For more foundational vocabulary, see our [Polyamory Glossary](/en/blog/polyamory-glossary/).
 
 ## Nesting partner vs. primary partner: not the same thing
 
-A common misconception is that nesting partner and primary partner are automatically the same. In hierarchical polyamory, the two roles often do overlap, but they don't have to: some people live with a partner they explicitly don't call "primary," while a different, non-cohabiting relationship carries just as much or more emotional weight. [Hierarchical vs. Non-Hierarchical Polyamory](/en/blog/hierarchical-vs-non-hierarchical-polyamory) goes deeper into how ranking and living arrangements do — or don't — connect.
+A common misconception is that nesting partner and primary partner are automatically the same. In hierarchical polyamory, the two roles often do overlap, but they don't have to: some people live with a partner they explicitly don't call "primary," while a different, non-cohabiting relationship carries just as much or more emotional weight. [Hierarchical vs. Non-Hierarchical Polyamory](/en/blog/hierarchical-vs-non-hierarchical-polyamory/) goes deeper into how ranking and living arrangements do — or don't — connect.
 
 ## Why the term matters so much
 
-Without this vocabulary, it's easy to slip into the false assumption that whoever you live with must automatically be the "main relationship." That puts unnecessary pressure on non-cohabiting partners, who may end up feeling secondary — a theme that also comes up in [Metamour Relationships: Getting Along With Your Partner's Partner](/en/blog/metamour-relationships). "Nesting partner" brings clarity here: it's a statement about logistics, not about love.
+Without this vocabulary, it's easy to slip into the false assumption that whoever you live with must automatically be the "main relationship." That puts unnecessary pressure on non-cohabiting partners, who may end up feeling secondary — a theme that also comes up in [Metamour Relationships: Getting Along With Your Partner's Partner](/en/blog/metamour-relationships/). "Nesting partner" brings clarity here: it's a statement about logistics, not about love.
 
 ## Typical challenges with nesting partners
 
 ### Other partners in the shared home
 
-How much room do other relationships get in the shared home? Some couples set clear rules about when other partners can visit or how visible those visits are. This matters especially when kids live in the household — more on that in [Polyamory and Parenting](/en/blog/polyamory-parenting).
+How much room do other relationships get in the shared home? Some couples set clear rules about when other partners can visit or how visible those visits are. This matters especially when kids live in the household — more on that in [Polyamory and Parenting](/en/blog/polyamory-parenting/).
 
 ### Splitting everyday time fairly
 
-Living together inevitably means more shared everyday time — cooking, errands, evenings on the couch. That shouldn't automatically mean other relationships get structurally shortchanged. Fixed, visible time slots for every connection help with this; see [Scheduling Multiple Relationships](/en/blog/scheduling-multiple-relationships).
+Living together inevitably means more shared everyday time — cooking, errands, evenings on the couch. That shouldn't automatically mean other relationships get structurally shortchanged. Fixed, visible time slots for every connection help with this; see [Scheduling Multiple Relationships](/en/blog/scheduling-multiple-relationships/).
 
 ### Privacy inside a shared home
 
-Living with a partner inevitably means sharing more information about your other relationships than someone who lives alone would. How much privacy you can still keep, and how to protect sensitive information anyway, is covered in [Polyamory and Privacy](/en/blog/polyamory-privacy).
+Living with a partner inevitably means sharing more information about your other relationships than someone who lives alone would. How much privacy you can still keep, and how to protect sensitive information anyway, is covered in [Polyamory and Privacy](/en/blog/polyamory-privacy/).
 
 ## When there is no nesting partner
 
-Not every polyamorous person has a nesting partner at all. People who live alone and deliberately don't aim for a shared household with any partner are often living solo polyamorously. More on that in [Solo Polyamory: Managing Multiple Relationships Without a Nesting Partner](/en/blog/solo-polyamory).
+Not every polyamorous person has a nesting partner at all. People who live alone and deliberately don't aim for a shared household with any partner are often living solo polyamorously. More on that in [Solo Polyamory: Managing Multiple Relationships Without a Nesting Partner](/en/blog/solo-polyamory/).
 
 ## Tools that help
 
-Whether you have a nesting partner or not, **Roster** maps every relationship in your [polycule](/en/blog/what-is-a-polycule) individually, regardless of who lives with you and who doesn't. That way, non-cohabiting relationships get the space they need too — no account required, all data stays on your device.
+Whether you have a nesting partner or not, **Roster** maps every relationship in your [polycule](/en/blog/what-is-a-polycule/) individually, regardless of who lives with you and who doesn't. That way, non-cohabiting relationships get the space they need too — no account required, all data stays on your device.
 
 ## Frequently asked questions
 

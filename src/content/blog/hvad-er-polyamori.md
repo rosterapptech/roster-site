@@ -57,33 +57,33 @@ Inden for denne definition er der enormt meget spillerum. Fire konstellationer o
 
 ### Hierarkisk eller ikke-hierarkisk
 
-I hierarkiske konstellationer er der et "primært" forhold med særlig vægt – for eksempel fælles bolig eller økonomi – og yderligere, "sekundære" forbindelser. Ikke-hierarkiske modeller afviser bevidst denne rangorden og forsøger at behandle alle forhold så ligeværdigt som muligt. Hvilken model der passer bedst, afhænger meget af de involverede personer – artiklen [Hierarkisk vs. ikke-hierarkisk polyamori](/da/blog/hierarkisk-vs-ikke-hierarkisk-polyamori) sammenligner begge i detaljer.
+I hierarkiske konstellationer er der et "primært" forhold med særlig vægt – for eksempel fælles bolig eller økonomi – og yderligere, "sekundære" forbindelser. Ikke-hierarkiske modeller afviser bevidst denne rangorden og forsøger at behandle alle forhold så ligeværdigt som muligt. Hvilken model der passer bedst, afhænger meget af de involverede personer – artiklen [Hierarkisk vs. ikke-hierarkisk polyamori](/da/blog/hierarkisk-vs-ikke-hierarkisk-polyamori/) sammenligner begge i detaljer.
 
 ### Triader
 
-En triade beskriver tre mennesker, der står i forhold til hinanden – nogle gange alle tre ligeværdigt, nogle gange som to eksisterende partnere plus en tredje person. De forskellige former og typiske faldgruber gennemgås i artiklen [Throuple & triade forklaret enkelt](/da/blog/throuple-triade-da).
+En triade beskriver tre mennesker, der står i forhold til hinanden – nogle gange alle tre ligeværdigt, nogle gange som to eksisterende partnere plus en tredje person. De forskellige former og typiske faldgruber gennemgås i artiklen [Throuple & triade forklaret enkelt](/da/blog/throuple-triade-da/).
 
 ### Solo-polyamori
 
-Solo-polyamore mennesker har flere forhold uden at udpege ét af dem som det centrale, fælles "hovedforhold" – de forbliver strukturelt uafhængige i stedet for at arbejde hen imod et samboende parforhold. Artiklen [Solo-polyamori](/da/blog/solo-polyamori-da) forklarer, hvordan det ser ud i hverdagen.
+Solo-polyamore mennesker har flere forhold uden at udpege ét af dem som det centrale, fælles "hovedforhold" – de forbliver strukturelt uafhængige i stedet for at arbejde hen imod et samboende parforhold. Artiklen [Solo-polyamori](/da/blog/solo-polyamori-da/) forklarer, hvordan det ser ud i hverdagen.
 
 ### Kitchen table vs. parallel
 
-Ved "kitchen table"-polyamori kender og kan i bedste fald alle involverede og deres metamours lide hinanden – man kunne sætte sig sammen ved samme køkkenbord. Ved "parallel" polyamori forløber de enkelte forhold bevidst adskilt fra hinanden, uden at alle involverede nødvendigvis skal kende hinanden. Begge tilgange har deres berettigelse, som artiklen [Kitchen Table vs. Parallel Polyamori](/da/blog/kitchen-table-vs-parallel-polyamori-da) viser.
+Ved "kitchen table"-polyamori kender og kan i bedste fald alle involverede og deres metamours lide hinanden – man kunne sætte sig sammen ved samme køkkenbord. Ved "parallel" polyamori forløber de enkelte forhold bevidst adskilt fra hinanden, uden at alle involverede nødvendigvis skal kende hinanden. Begge tilgange har deres berettigelse, som artiklen [Kitchen Table vs. Parallel Polyamori](/da/blog/kitchen-table-vs-parallel-polyamori-da/) viser.
 
 ## Beslægtede begreber, der let skaber forvirring
 
 Tre begreber dukker konstant op i forbindelse med polyamori og bliver let blandet sammen.
 
-Det netværk af relationer, der opstår, når flere indbyrdes forbundne partnere er involveret, kaldes ofte et **polycule** – artiklen [Hvad er et polycule?](/da/blog/hvad-er-et-polycule) forklarer, hvordan sådanne netværk kan se ud, og hvordan man bevarer overblikket, når de vokser.
+Det netværk af relationer, der opstår, når flere indbyrdes forbundne partnere er involveret, kaldes ofte et **polycule** – artiklen [Hvad er et polycule?](/da/blog/hvad-er-et-polycule/) forklarer, hvordan sådanne netværk kan se ud, og hvordan man bevarer overblikket, når de vokser.
 
-Polyamori bliver desuden ofte sat lig med et **åbent forhold**, selvom de to har forskellige tyngdepunkter – åbne forhold er ofte mere fokuseret på seksuel frihed uden for et hovedforhold, mens polyamori som regel betyder flere følelsesmæssigt forbundne forhold. De fine, men vigtige forskelle gennemgås i artiklen [Polyamori vs. åbent forhold](/da/blog/polyamori-vs-aben-forhold).
+Polyamori bliver desuden ofte sat lig med et **åbent forhold**, selvom de to har forskellige tyngdepunkter – åbne forhold er ofte mere fokuseret på seksuel frihed uden for et hovedforhold, mens polyamori som regel betyder flere følelsesmæssigt forbundne forhold. De fine, men vigtige forskelle gennemgås i artiklen [Polyamori vs. åbent forhold](/da/blog/polyamori-vs-aben-forhold/).
 
-Og endelig er der **relationsanarki**, der går et skridt videre og principielt afviser enhver hierarki mellem relationer – også mellem romantiske og venskabelige forbindelser. Hvor grænsen til polyamori præcist går, forklares i artiklen [Relationsanarki vs. polyamori](/da/blog/relationsanarki-vs-polyamori-da).
+Og endelig er der **relationsanarki**, der går et skridt videre og principielt afviser enhver hierarki mellem relationer – også mellem romantiske og venskabelige forbindelser. Hvor grænsen til polyamori præcist går, forklares i artiklen [Relationsanarki vs. polyamori](/da/blog/relationsanarki-vs-polyamori-da/).
 
 ## Fra at forstå til at leve det
 
-At forstå en definition er det første skridt – det andet, ofte sværere, er hverdagen: hvordan håndterer man de følelser, der uundgåeligt dukker op, når en partner tilbringer tid med en anden? Det ærlige svar er, at jalousi hører med for de fleste mennesker, også i velfungerende polyamore forhold, og at den kan håndteres godt med de rigtige redskaber. Artiklen [Jalousi i polyamore forhold](/da/blog/jalousi-polyamori) går netop i dybden med det.
+At forstå en definition er det første skridt – det andet, ofte sværere, er hverdagen: hvordan håndterer man de følelser, der uundgåeligt dukker op, når en partner tilbringer tid med en anden? Det ærlige svar er, at jalousi hører med for de fleste mennesker, også i velfungerende polyamore forhold, og at den kan håndteres godt med de rigtige redskaber. Artiklen [Jalousi i polyamore forhold](/da/blog/jalousi-polyamori/) går netop i dybden med det.
 
 ## Hvordan Roster kan hjælpe
 

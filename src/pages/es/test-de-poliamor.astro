@@ -128,7 +128,7 @@ const results: QuizResultTier[] = [
     title: 'La monogamia probablemente encaja mejor contigo ahora mismo',
     desc: 'Tus respuestas apuntan a que la exclusividad, la fiabilidad y centrarte en una sola relación te dan seguridad. Eso no es ni mejor ni peor que el poliamor – solo otra respuesta a la misma pregunta: ¿cómo quiero amar? Si aun así el tema te interesa, nunca está de más leer más al respecto.',
     ctaGhostLabel: '¿Qué es el poliamor exactamente? →',
-    ctaGhostHref: '/es/blog/que-es-el-poliamor',
+    ctaGhostHref: '/es/blog/que-es-el-poliamor/',
   },
   {
     min: 13,
@@ -203,7 +203,7 @@ const alternates = [
         <div class="related-grid">
           {
             relatedPosts.map((p) => (
-              <a href={`/es/blog/${p.slug}`} class="card related-card">
+              <a href={`/es/blog/${p.slug}/`} class="card related-card">
                 {p.title}
               </a>
             ))

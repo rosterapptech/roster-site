@@ -19,11 +19,11 @@ const highlights = [
 ];
 
 const related = [
-  { title: 'What Is Polyamory? Meaning, Definition and the Basics', href: '/en/blog/what-is-polyamory' },
-  { title: 'Ethical Non-Monogamy (ENM): Definition, Types and Distinctions', href: '/en/blog/ethical-non-monogamy' },
-  { title: 'Polyamory for Beginners: An Honest Starting Point', href: '/en/blog/polyamory-for-beginners' },
-  { title: 'What Is a Polycule? Relationship Shapes and Examples', href: '/en/blog/what-is-a-polycule' },
-  { title: 'Metamour, Compersion, NRE & More — the Full Glossary', href: '/en/blog/polyamory-glossary' },
+  { title: 'What Is Polyamory? Meaning, Definition and the Basics', href: '/en/blog/what-is-polyamory/' },
+  { title: 'Ethical Non-Monogamy (ENM): Definition, Types and Distinctions', href: '/en/blog/ethical-non-monogamy/' },
+  { title: 'Polyamory for Beginners: An Honest Starting Point', href: '/en/blog/polyamory-for-beginners/' },
+  { title: 'What Is a Polycule? Relationship Shapes and Examples', href: '/en/blog/what-is-a-polycule/' },
+  { title: 'Metamour, Compersion, NRE & More — the Full Glossary', href: '/en/blog/polyamory-glossary/' },
 ];
 
 const faqs = [
@@ -93,7 +93,7 @@ const schema = {
             like a project management tool.
           </p>
           <p>
-            That's where Roster starts. Read an <a href="/en/blog/app-for-organizing-polyamorous-relationships">honest comparison of how Roster differs from pure dating apps</a> on the blog.
+            That's where Roster starts. Read an <a href="/en/blog/app-for-organizing-polyamorous-relationships/">honest comparison of how Roster differs from pure dating apps</a> on the blog.
           </p>
         </div>
       </div>
@@ -105,7 +105,7 @@ const schema = {
         <h2>Built for real polyamory, not the theory of it.</h2>
         <div class="grid">
           {highlights.map((h) => (
-            <a href={`/en/features/${h.slug}`} class="card highlight">
+            <a href={`/en/features/${h.slug}/`} class="card highlight">
               {h.vio ? <Vio size={30} /> : <span class="dot" />}
               <h3>{h.name}</h3>
               <p>{h.desc}</p>

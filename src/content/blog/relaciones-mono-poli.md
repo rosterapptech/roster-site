@@ -11,7 +11,7 @@ tags: ['Poliamor', 'Mono-Poli', 'Modelos de relación', 'Comunicación']
 
 El poliamor no significa lo mismo para todo el mundo: a veces solo una persona en la relación quiere o necesita varias parejas, mientras que la otra elige de forma deliberada quedarse con un único vínculo. Este modelo se llama mono-poli y a menudo se pasa por alto en la comunidad porque no es ni monogamia clásica ni poliamor simétrico.
 
-Este artículo parte de que ambas partes ya han acordado juntas este modelo asimétrico. Si todavía estáis al principio de ese camino —si solo una persona se identifica ahora mismo como poli, mientras la otra no está segura o es claramente monógama—, la conversación que viene antes es otra: cómo plantear siquiera el tema de abrir la relación. Eso lo tratamos en el artículo [Abrir la relación: cómo empezar la conversación](/es/blog/abrir-relacion-convencer-pareja).
+Este artículo parte de que ambas partes ya han acordado juntas este modelo asimétrico. Si todavía estáis al principio de ese camino —si solo una persona se identifica ahora mismo como poli, mientras la otra no está segura o es claramente monógama—, la conversación que viene antes es otra: cómo plantear siquiera el tema de abrir la relación. Eso lo tratamos en el artículo [Abrir la relación: cómo empezar la conversación](/es/blog/abrir-relacion-convencer-pareja/).
 
 ## ¿Qué es una relación mono-poli?
 
@@ -23,7 +23,7 @@ A diferencia de las configuraciones poliamorosas simétricas, aquí hay una desi
 
 Puntos de fricción habituales:
 
-- **La persona mona se siente reemplazable** cuando la persona poli vive NRE con otras parejas mientras su propia relación está instalada en la rutina. Más sobre esto en [Equilibrar la energía de relación nueva (NRE)](/es/blog/equilibrio-nre-poliamoria).
+- **La persona mona se siente reemplazable** cuando la persona poli vive NRE con otras parejas mientras su propia relación está instalada en la rutina. Más sobre esto en [Equilibrar la energía de relación nueva (NRE)](/es/blog/equilibrio-nre-poliamoria/).
 - **La persona poli se siente limitada** cuando los acuerdos parecen demasiado rígidos, aunque su intención sea dar seguridad a la parte monógama.
 - **Un poder de negociación desigual** surge cuando solo una parte establece las reglas para las otras relaciones de su pareja, sin que la persona poli pueda aportar sus propios límites.
 
@@ -35,7 +35,7 @@ La persona mona debería entender la monogamia como una preferencia propia y vá
 
 ### 2. Tiempo y visibilidad en lugar de garantías vagas
 
-Un tiempo fijo y fiable con la persona poli suele importar más que cualquier afirmación de lo importante que eres. Franjas horarias concretas —ver [Gestionar varias relaciones a la vez](/es/blog/gestionar-varias-relaciones)— dan a la persona mona algo tangible en lugar de solo palabras.
+Un tiempo fijo y fiable con la persona poli suele importar más que cualquier afirmación de lo importante que eres. Franjas horarias concretas —ver [Gestionar varias relaciones a la vez](/es/blog/gestionar-varias-relaciones/)— dan a la persona mona algo tangible en lugar de solo palabras.
 
 ### 3. Acuerdos sobre seguridad e información
 
@@ -47,11 +47,11 @@ Ambas partes se benefician de preguntarse periódicamente y con honestidad: ¿si
 
 ## Diferencias con otros modelos
 
-Mono-poli se diferencia de la relación abierta en que la persona mona no busca más parejas por su cuenta; más sobre la diferencia entre ambos modelos en [Poliamoria vs. relación abierta](/es/blog/poliamoria-vs-relacion-abierta). También se diferencia del poliamor jerárquico, ya que aquí una persona no es poli en absoluto de forma estructural, en lugar de ocupar solo una posición "primaria".
+Mono-poli se diferencia de la relación abierta en que la persona mona no busca más parejas por su cuenta; más sobre la diferencia entre ambos modelos en [Poliamoria vs. relación abierta](/es/blog/poliamoria-vs-relacion-abierta/). También se diferencia del poliamor jerárquico, ya que aquí una persona no es poli en absoluto de forma estructural, en lugar de ocupar solo una posición "primaria".
 
 ## Herramientas que ayudan
 
-Aunque la persona mona no lleve varias relaciones, la relación se beneficia de que el tiempo y los acuerdos sean visibles y fiables. **Roster** ayuda a la persona poli a mantener a la vista todas sus conexiones, incluida la relación mona, que merece un lugar tan firme en el [polycule](/es/blog/que-es-un-polycule) como cualquier otra. Todos los datos permanecen locales en el dispositivo, sin necesidad de cuenta.
+Aunque la persona mona no lleve varias relaciones, la relación se beneficia de que el tiempo y los acuerdos sean visibles y fiables. **Roster** ayuda a la persona poli a mantener a la vista todas sus conexiones, incluida la relación mona, que merece un lugar tan firme en el [polycule](/es/blog/que-es-un-polycule/) como cualquier otra. Todos los datos permanecen locales en el dispositivo, sin necesidad de cuenta.
 
 ## Preguntas frecuentes
 
@@ -65,7 +65,7 @@ Sí, si ambas partes reconocen abiertamente la asimetría estructural, establece
 No. En el poliamor jerárquico normalmente ambas personas son poli, solo que con un orden distinto. En mono-poli, una persona no es poli de forma estructural y no busca más parejas por su cuenta.
 
 **¿Cómo gestiona la persona mona los celos en esta configuración?**
-De forma parecida a cualquier relación poliamorosa: mediante comunicación abierta en lugar de reprimirlos. Más sobre esto en [Los celos en las relaciones poliamorosas](/es/blog/celos-poliamoria).
+De forma parecida a cualquier relación poliamorosa: mediante comunicación abierta en lugar de reprimirlos. Más sobre esto en [Los celos en las relaciones poliamorosas](/es/blog/celos-poliamoria/).
 
 **¿Qué app ayuda a organizar una relación mono-poli?**
 Roster ayuda a la persona poli a mantener a la vista todas sus conexiones —incluida la relación monógama— en igualdad de condiciones, con ritmos de tiempo estables y sin que ningún dato salga del dispositivo.

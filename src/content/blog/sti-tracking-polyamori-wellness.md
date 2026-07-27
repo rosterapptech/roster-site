@@ -16,7 +16,7 @@ faq:
     a: 'Mange sundheds- og cyklusapps er bygget op omkring konti og cloud-synkronisering og er aldrig designet til et relationsnetværk med flere forbindelser. Data af denne følsomhed fortjener et værktøj, der er lokalt fra bunden.'
 ---
 
-At tale om testrytme og beskyttelse er én ting – faktisk at holde styr på det på tværs af flere forbindelser er noget helt andet. For hvordan du rent faktisk tager den samtale uden at det bliver akavet, og hvordan fluid bonding-aftaler fungerer i detaljer, se [Safer sex og STI-test i polyamorøse forhold](/da/blog/safer-sex-polyamori-da). Denne artikel tager fat et skridt senere: du har haft samtalerne, aftalerne står – men hvordan holder du egentlig styr på, hvem der blev testet hvornår, hvilken aftale der gælder lige nu, og hvornår den næste kontrol står for døren, når du har tre, fire eller fem forbindelser?
+At tale om testrytme og beskyttelse er én ting – faktisk at holde styr på det på tværs af flere forbindelser er noget helt andet. For hvordan du rent faktisk tager den samtale uden at det bliver akavet, og hvordan fluid bonding-aftaler fungerer i detaljer, se [Safer sex og STI-test i polyamorøse forhold](/da/blog/safer-sex-polyamori-da/). Denne artikel tager fat et skridt senere: du har haft samtalerne, aftalerne står – men hvordan holder du egentlig styr på, hvem der blev testet hvornår, hvilken aftale der gælder lige nu, og hvornår den næste kontrol står for døren, når du har tre, fire eller fem forbindelser?
 
 ## Hvorfor det bliver sværere at holde styr på, jo større dit netværk bliver
 

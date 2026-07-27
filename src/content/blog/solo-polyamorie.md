@@ -32,7 +32,7 @@ Solo-Poly spricht oft Menschen an, die:
 - ihre Autonomie und ihren eigenen Raum hoch schätzen,
 - nicht möchten, dass eine Beziehung automatisch Vorrang vor anderen oder vor dem eigenen Leben bekommt,
 - gerne allein wohnen und über ihren Alltag selbst bestimmen,
-- [Beziehungsanarchie](/blog/beziehungsanarchie-vs-polyamorie) nahestehen, weil beide Konzepte Hierarchien hinterfragen,
+- [Beziehungsanarchie](/blog/beziehungsanarchie-vs-polyamorie/) nahestehen, weil beide Konzepte Hierarchien hinterfragen,
 - nach einer Scheidung oder dem Auszug der Kinder bewusst Unabhängigkeit leben wollen.
 
 ## Wie sieht der Alltag aus?
@@ -44,7 +44,7 @@ Das macht zwei Dinge besonders wichtig:
 1. **Klare Kommunikation.** Da Solo-Poly von gängigen Beziehungsskripten abweicht, ist es wichtig, früh transparent zu machen, wie du Beziehungen lebst – damit niemand stillschweigend von einer Eskalation Richtung Zusammenziehen ausgeht, die du nicht planst.
 2. **Eigene Übersicht.** Ohne gemeinsamen Familienkalender brauchst du ein System, das zu deiner Unabhängigkeit passt – eines, das dir gehört und nicht an eine bestimmte Beziehung gekoppelt ist.
 
-Genau hier passt **Roster** gut zu Solo-Poly: Die App ist auf dich zentriert, nicht auf einen Haushalt oder eine Hauptbeziehung. Du behältst alle deine Verbindungen an einem privaten Ort im Blick – wichtige Details, Vibe-Radar jeder Beziehung, Reflexionen – ohne dass irgendeine Verbindung strukturell über die andere gestellt wird. Und weil alles lokal auf deinem Gerät bleibt, bleibt deine Unabhängigkeit auch beim [Datenschutz](/blog/polyamorie-datenschutz) gewahrt.
+Genau hier passt **Roster** gut zu Solo-Poly: Die App ist auf dich zentriert, nicht auf einen Haushalt oder eine Hauptbeziehung. Du behältst alle deine Verbindungen an einem privaten Ort im Blick – wichtige Details, Vibe-Radar jeder Beziehung, Reflexionen – ohne dass irgendeine Verbindung strukturell über die andere gestellt wird. Und weil alles lokal auf deinem Gerät bleibt, bleibt deine Unabhängigkeit auch beim [Datenschutz](/blog/polyamorie-datenschutz/) gewahrt.
 
 ## Unabhängigkeit und Nähe schließen sich nicht aus
 

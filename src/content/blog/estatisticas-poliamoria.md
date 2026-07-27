@@ -22,7 +22,7 @@ Diversas pesquisas e estudos dos últimos anos, principalmente dos Estados Unido
 
 ## Por que é difícil precisar os números exatos
 
-**Diferenças de definição.** Dependendo de um estudo agrupar poliamoria, relacionamentos abertos e swing, ou medi-los separadamente, os resultados variam bastante. Mais sobre esses termos em [Não monogamia ética](/pt/blog/nao-monogamia-etica).
+**Diferenças de definição.** Dependendo de um estudo agrupar poliamoria, relacionamentos abertos e swing, ou medi-los separadamente, os resultados variam bastante. Mais sobre esses termos em [Não monogamia ética](/pt/blog/nao-monogamia-etica/).
 
 **Subnotificação por receio.** Nem todas as pessoas que vivem em poliamoria estão dispostas a declarar isso abertamente em uma pesquisa, especialmente em regiões ou profissões onde a não monogamia é estigmatizada ou até traz desvantagens reais.
 
@@ -34,7 +34,7 @@ A pesquisa sugere que relacionamentos de ENM aparecem em praticamente todas as f
 
 ## O que isso significa para você
 
-Esses números são úteis principalmente em um sentido: mostram que quem vive em poliamoria não faz parte de um grupo minúsculo e marginal, mas de um espectro crescente e cada vez mais visível de estruturas de relacionamento. Quem vive em poliamoria, ou está considerando isso, está muito menos sozinho do que a percepção pública às vezes sugere. Um bom ponto de partida para quem é novo nesse universo é o artigo [Poliamoria para iniciantes](/pt/blog/poliamoria-para-iniciantes).
+Esses números são úteis principalmente em um sentido: mostram que quem vive em poliamoria não faz parte de um grupo minúsculo e marginal, mas de um espectro crescente e cada vez mais visível de estruturas de relacionamento. Quem vive em poliamoria, ou está considerando isso, está muito menos sozinho do que a percepção pública às vezes sugere. Um bom ponto de partida para quem é novo nesse universo é o artigo [Poliamoria para iniciantes](/pt/blog/poliamoria-para-iniciantes/).
 
 ## Mais visibilidade, não necessariamente mais casos
 
@@ -42,7 +42,7 @@ Esses números são úteis principalmente em um sentido: mostram que quem vive e
 
 ## Estrutura para o seu próprio polycule, além das estatísticas
 
-Seja qual for a prevalência estatística da poliamoria, quem mantém vários relacionamentos precisa de ferramentas práticas para gerenciá-los. O **Roster** ajuda você a visualizar seu [polycule](/pt/blog/o-que-e-um-polycule) e a manter o controle de encontros e acordos, independentemente de quantas outras pessoas vivam de forma parecida. Todos os dados permanecem locais no seu aparelho.
+Seja qual for a prevalência estatística da poliamoria, quem mantém vários relacionamentos precisa de ferramentas práticas para gerenciá-los. O **Roster** ajuda você a visualizar seu [polycule](/pt/blog/o-que-e-um-polycule/) e a manter o controle de encontros e acordos, independentemente de quantas outras pessoas vivam de forma parecida. Todos os dados permanecem locais no seu aparelho.
 
 ## Perguntas frequentes
 

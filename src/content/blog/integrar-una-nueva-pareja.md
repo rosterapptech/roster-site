@@ -13,23 +13,23 @@ Una relación nueva es emocionante, para ti, y a menudo genera tensión en las p
 
 ## Primero: informar, no presentar como un hecho consumado
 
-El núcleo del poliamor es que todas las personas implicadas saben y consienten; más sobre esto en [¿Qué es el poliamor?](/es/blog/que-es-el-poliamor). En la práctica, eso significa que las parejas existentes deberían enterarse de la nueva conexión antes de que se convierta en algo fijo, no después de que ya esté todo decidido. Cuán pronto exactamente depende de vuestros propios acuerdos: algunas configuraciones quieren saber ya de las primeras citas, otras solo cuando algo empieza a tomar forma más seria.
+El núcleo del poliamor es que todas las personas implicadas saben y consienten; más sobre esto en [¿Qué es el poliamor?](/es/blog/que-es-el-poliamor/). En la práctica, eso significa que las parejas existentes deberían enterarse de la nueva conexión antes de que se convierta en algo fijo, no después de que ya esté todo decidido. Cuán pronto exactamente depende de vuestros propios acuerdos: algunas configuraciones quieren saber ya de las primeras citas, otras solo cuando algo empieza a tomar forma más seria.
 
 ## Mantener la NRE bajo control
 
-La etapa inicial de una relación nueva suele venir con una intensa energía de relación nueva (NRE), una sensación de enamoramiento que absorbe mucha atención. Eso es normal, pero puede hacer que las parejas existentes se sientan de pronto menos importantes. Contrarrestarlo conscientemente ayuda: reserva tiempo fijo para las relaciones existentes, incluso mientras la nueva conexión está tirando de mucha energía ahora mismo. El artículo [Equilibrar la NRE](/es/blog/equilibrio-nre-poliamoria) profundiza en estrategias concretas para esto.
+La etapa inicial de una relación nueva suele venir con una intensa energía de relación nueva (NRE), una sensación de enamoramiento que absorbe mucha atención. Eso es normal, pero puede hacer que las parejas existentes se sientan de pronto menos importantes. Contrarrestarlo conscientemente ayuda: reserva tiempo fijo para las relaciones existentes, incluso mientras la nueva conexión está tirando de mucha energía ahora mismo. El artículo [Equilibrar la NRE](/es/blog/equilibrio-nre-poliamoria/) profundiza en estrategias concretas para esto.
 
 ## Metamores: ¿conocerse o mantenerse separados?
 
-Que las parejas nuevas y existentes se conozcan o no, y cómo, depende en gran medida del modelo que vivas. En la poliamoria kitchen-table suele desearse cierto grado de trato mutuo; en la poliamoria paralela, las relaciones se mantienen deliberadamente separadas. El artículo [Kitchen table vs. poliamoria paralela](/es/blog/kitchen-table-vs-poliamoria-paralela) te ayuda a averiguar qué modelo encaja con tu configuración antes de forzar un encuentro que en realidad nadie quiere.
+Que las parejas nuevas y existentes se conozcan o no, y cómo, depende en gran medida del modelo que vivas. En la poliamoria kitchen-table suele desearse cierto grado de trato mutuo; en la poliamoria paralela, las relaciones se mantienen deliberadamente separadas. El artículo [Kitchen table vs. poliamoria paralela](/es/blog/kitchen-table-vs-poliamoria-paralela/) te ayuda a averiguar qué modelo encaja con tu configuración antes de forzar un encuentro que en realidad nadie quiere.
 
 ## Hacer transparentes los acuerdos existentes
 
-Una nueva pareja debería conocer pronto qué reglas de base ya existen en tu polycule: repartos de tiempo acordados, acuerdos de sexo seguro o, si existe, un derecho de veto de alguna pareja actual. Esto no es burocracia, protege a todas las personas implicadas de malentendidos. Más sobre esto en [Reglas vs. acuerdos en el poliamor](/es/blog/reglas-acuerdos-poliamoria) y [Derecho de veto en el poliamor](/es/blog/derecho-veto-poliamor).
+Una nueva pareja debería conocer pronto qué reglas de base ya existen en tu polycule: repartos de tiempo acordados, acuerdos de sexo seguro o, si existe, un derecho de veto de alguna pareja actual. Esto no es burocracia, protege a todas las personas implicadas de malentendidos. Más sobre esto en [Reglas vs. acuerdos en el poliamor](/es/blog/reglas-acuerdos-poliamoria/) y [Derecho de veto en el poliamor](/es/blog/derecho-veto-poliamor/).
 
 ## Tomar en serio los miedos de las parejas existentes
 
-Los celos o la inseguridad en las parejas existentes no son señal de que algo va mal, forman parte del proceso, especialmente mientras una nueva conexión todavía es reciente y emocionante. [Los celos en las relaciones poliamorosas: 7 estrategias que realmente ayudan](/es/blog/celos-poliamoria) ofrece enfoques concretos especialmente útiles en esta fase.
+Los celos o la inseguridad en las parejas existentes no son señal de que algo va mal, forman parte del proceso, especialmente mientras una nueva conexión todavía es reciente y emocionante. [Los celos en las relaciones poliamorosas: 7 estrategias que realmente ayudan](/es/blog/celos-poliamoria/) ofrece enfoques concretos especialmente útiles en esta fase.
 
 ## Ritmo: mejor gradual que precipitado
 
@@ -37,11 +37,11 @@ Una relación nueva no necesita ocupar de inmediato el mismo lugar que las conex
 
 ## Cuando hay hijos en el hogar
 
-Con hijos de por medio hace falta más cuidado: no conviene introducir a una nueva pareja en la vida familiar demasiado pronto, antes de que la relación haya demostrado ser estable. El artículo [Poliamor y crianza](/es/blog/poliamoria-crianza) explica qué tener en cuenta en ese caso.
+Con hijos de por medio hace falta más cuidado: no conviene introducir a una nueva pareja en la vida familiar demasiado pronto, antes de que la relación haya demostrado ser estable. El artículo [Poliamor y crianza](/es/blog/poliamoria-crianza/) explica qué tener en cuenta en ese caso.
 
 ## Herramientas que ayudan
 
-**Roster** te ayuda a registrar cada relación de tu [polycule](/es/blog/que-es-un-polycule) de forma individual, incluida la más nueva. Así, las parejas existentes no se te escapan de vista mientras una nueva conexión reclama mucha atención. Todos los datos permanecen en tu dispositivo, sin necesidad de cuenta.
+**Roster** te ayuda a registrar cada relación de tu [polycule](/es/blog/que-es-un-polycule/) de forma individual, incluida la más nueva. Así, las parejas existentes no se te escapan de vista mientras una nueva conexión reclama mucha atención. Todos los datos permanecen en tu dispositivo, sin necesidad de cuenta.
 
 ## Preguntas frecuentes
 
