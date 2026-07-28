@@ -1,10 +1,9 @@
 import type { CollectionEntry } from 'astro:content';
 import type { Lang } from './ui';
 import { withSlash } from './url';
+import { HREFLANG, LANG_ORDER as ORDER } from './slugAlternates';
 
 type Post = CollectionEntry<'blog'>;
-
-const ORDER: Lang[] = ['de', 'en', 'nl', 'es', 'da', 'sv', 'pt'];
 
 /** URL-Pfad eines Artikels: DE ohne Praefix, alle anderen mit /{lang}. */
 function postPath(post: Post): string {
@@ -38,7 +37,7 @@ export function blogAlternates(
   const href = (p: Post) => new URL(postPath(p), site).href;
 
   const alternates = ORDER.filter((l) => byLang.has(l)).map((l) => ({
-    hreflang: l as string,
+    hreflang: HREFLANG[l],
     href: href(byLang.get(l)!),
   }));
 

@@ -3,6 +3,7 @@ import '../styles/global.css';
 import Analytics from '@vercel/analytics/astro';
 import type { Lang } from '../i18n/ui';
 import { withSlash } from '../i18n/url';
+import { HREFLANG, LANG_ORDER } from '../i18n/slugAlternates';
 
 interface Props {
   title: string;
@@ -55,14 +56,15 @@ const ogLocale = {
   pt: 'pt_BR',
 }[lang] ?? 'de_DE';
 
+// Default: gleicher Pfad in jeder Sprache. Gilt nur fuer Seiten mit
+// sprachunabhaengigem Pfad (Homepage, /blog/, /features/...). Seiten mit
+// uebersetztem Slug MUESSEN `alternates` setzen – sonst zeigen die Links auf
+// 404s (siehe slugAlternates.ts). Dagegen laeuft scripts/check-hreflang.mjs.
 const alternates = alternatesProp ?? [
-  { hreflang: 'de', href: new URL(slashPath, site).href },
-  { hreflang: 'en', href: new URL(`/en${slashPath}`, site).href },
-  { hreflang: 'nl', href: new URL(`/nl${slashPath}`, site).href },
-  { hreflang: 'es', href: new URL(`/es${slashPath}`, site).href },
-  { hreflang: 'da', href: new URL(`/da${slashPath}`, site).href },
-  { hreflang: 'sv', href: new URL(`/sv${slashPath}`, site).href },
-  { hreflang: 'pt-BR', href: new URL(`/pt${slashPath}`, site).href },
+  ...LANG_ORDER.map((l) => ({
+    hreflang: HREFLANG[l],
+    href: new URL(l === 'de' ? slashPath : `/${l}${slashPath}`, site).href,
+  })),
   { hreflang: 'x-default', href: new URL(slashPath, site).href },
 ];
 

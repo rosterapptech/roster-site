@@ -4,7 +4,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import Vio from '../../components/Vio.astro';
-import { ROSTER_POLY_SLUG } from '../../i18n/rosterPolyPath';
+import { ROSTER_POLY_SLUG, rosterPolyPath } from '../../i18n/rosterPolyPath';
+import { slugAlternates } from '../../i18n/slugAlternates';
 import { rosterPolyBreadcrumb } from '../../i18n/breadcrumbs';
 import { quizPath } from '../../i18n/quizPath';
 
@@ -57,6 +58,7 @@ const schema = {
 <BaseLayout
   lang={lang}
   path={`/${ROSTER_POLY_SLUG.nl}`}
+  alternates={slugAlternates(rosterPolyPath, Astro.site!)}
   title="Roster Polyamorie – de app voor al je relaties"
   description="Roster Polyamorie: de relatie-app voor iedereen die meerdere relaties bewust beheert – lokaal opgeslagen, geen account, geen tracking."
   schema={schema}

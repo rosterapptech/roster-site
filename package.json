@@ -7,6 +7,8 @@
     "dev": "astro dev",
     "prebuild": "node scripts/check-blog-links.mjs",
     "build": "astro build",
+    "postbuild": "node scripts/check-hreflang.mjs",
+    "check-hreflang": "node scripts/check-hreflang.mjs",
     "preview": "astro preview",
     "astro": "astro",
     "check-blog-links": "node scripts/check-blog-links.mjs"

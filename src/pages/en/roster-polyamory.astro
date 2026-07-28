@@ -4,7 +4,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import Vio from '../../components/Vio.astro';
-import { ROSTER_POLY_SLUG } from '../../i18n/rosterPolyPath';
+import { ROSTER_POLY_SLUG, rosterPolyPath } from '../../i18n/rosterPolyPath';
+import { slugAlternates } from '../../i18n/slugAlternates';
 import { rosterPolyBreadcrumb } from '../../i18n/breadcrumbs';
 import { quizPath } from '../../i18n/quizPath';
 
@@ -57,6 +58,7 @@ const schema = {
 <BaseLayout
   lang={lang}
   path={`/${ROSTER_POLY_SLUG.en}`}
+  alternates={slugAlternates(rosterPolyPath, Astro.site!)}
   title="Roster Polyamory & ENM – One App for Every Relationship"
   description="Roster polyamory app for people managing more than one relationship — polyamorous, ENM, solo poly or relationship anarchy. Local-first, no account, no tracking."
   schema={schema}

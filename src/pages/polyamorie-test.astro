@@ -4,7 +4,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import PolyQuiz, { type QuizQuestion, type QuizResultTier } from '../components/PolyQuiz.astro';
-import { QUIZ_SLUG } from '../i18n/quizPath';
+import { QUIZ_SLUG, quizPath } from '../i18n/quizPath';
+import { slugAlternates } from '../i18n/slugAlternates';
 
 const lang = 'de';
 const APP_STORE_URL = 'https://apps.apple.com/app/roster-polyamory-tracker/id6786782804';
@@ -156,16 +157,6 @@ const relatedPosts = [
   { slug: 'polyamorie-vs-offene-beziehung', title: 'Polyamorie vs. offene Beziehung: Wo liegt der Unterschied?' },
 ];
 
-const alternates = [
-  { hreflang: 'de', href: `https://rosterapp.tech/${QUIZ_SLUG.de}` },
-  { hreflang: 'en', href: `https://rosterapp.tech/en/${QUIZ_SLUG.en}` },
-  { hreflang: 'nl', href: `https://rosterapp.tech/nl/${QUIZ_SLUG.nl}` },
-  { hreflang: 'es', href: `https://rosterapp.tech/es/${QUIZ_SLUG.es}` },
-  { hreflang: 'da', href: `https://rosterapp.tech/da/${QUIZ_SLUG.da}` },
-  { hreflang: 'sv', href: `https://rosterapp.tech/sv/${QUIZ_SLUG.sv}` },
-  { hreflang: 'pt-BR', href: `https://rosterapp.tech/pt/${QUIZ_SLUG.pt}` },
-  { hreflang: 'x-default', href: `https://rosterapp.tech/${QUIZ_SLUG.de}` },
-];
 ---
 
 <BaseLayout
@@ -173,7 +164,7 @@ const alternates = [
   path={`/${QUIZ_SLUG.de}`}
   title="Polyamorie-Test: Passt Polyamorie zu dir? | Roster"
   description="Finde in 12 Fragen heraus, ob Polyamorie zu dir passen könnte. Anonym und kostenlos – deine Antworten verlassen nie deinen Browser."
-  alternates={alternates}
+  alternates={slugAlternates(quizPath, Astro.site!)}
 >
   <Header lang={lang} />
 
