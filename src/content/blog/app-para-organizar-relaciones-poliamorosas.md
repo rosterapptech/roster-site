@@ -66,7 +66,7 @@ En cuanto tus relaciones van más allá del primer contacto, Roster entra en jue
 
 **Wellness.** Una sección privada para citas de pruebas de sexo seguro y resultados, visible solo para ti, para que nunca pierdas de vista cuándo toca tu próximo control.
 
-Todo de forma local, sin cuenta, sin nube, sin que nada llegue jamás a un servidor. [Roster está disponible en la App Store](https://apps.apple.com/app/roster).
+Todo de forma local, sin cuenta, sin nube, sin que nada llegue jamás a un servidor. [Roster está disponible en la App Store](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Por dónde seguir leyendo, según tu situación
 

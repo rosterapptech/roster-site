@@ -69,7 +69,7 @@ Wie een dagboek bijhoudt over dates, chemie en emotionele details, doet er goed 
 
 **Reflectie.** Een dagboek voor je eigen perspectief op elke afzonderlijke relatie.
 
-Alles blijft daarbij lokaal op je apparaat, zonder account en zonder cloud. [Roster is verkrijgbaar in de App Store](https://apps.apple.com/app/roster).
+Alles blijft daarbij lokaal op je apparaat, zonder account en zonder cloud. [Roster is verkrijgbaar in de App Store](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Waar je verder leest, afhankelijk van je situatie
 

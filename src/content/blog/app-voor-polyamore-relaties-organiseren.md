@@ -66,7 +66,7 @@ Zodra je relaties verder gaan dan het eerste kennismaken, neemt Roster het over:
 
 **Wellness.** Een privé-onderdeel voor safer-sex-afspraken en testresultaten, alleen zichtbaar voor jou, zodat je nooit het overzicht verliest over wanneer je volgende check-in gepland staat.
 
-Alles lokaal, zonder account, zonder cloud, zonder dat iets ooit een server bereikt. [Roster is verkrijgbaar in de App Store](https://apps.apple.com/app/roster).
+Alles lokaal, zonder account, zonder cloud, zonder dat iets ooit een server bereikt. [Roster is verkrijgbaar in de App Store](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Waar je verder kunt lezen, afhankelijk van je situatie
 

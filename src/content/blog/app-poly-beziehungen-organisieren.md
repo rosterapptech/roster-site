@@ -66,7 +66,7 @@ Sobald deine Beziehungen also über das erste Kennenlernen hinausgehen, übernim
 
 **Wellness.** Ein privater Bereich für Safer-Sex-Termine und Testergebnisse, sichtbar nur für dich, damit du nie den Überblick verlierst, wann die nächste Kontrolle ansteht.
 
-All das lokal, ohne Konto, ohne Cloud, ohne dass irgendetwas davon je einen Server erreicht. [Roster ist im App Store erhältlich](https://apps.apple.com/app/roster).
+All das lokal, ohne Konto, ohne Cloud, ohne dass irgendetwas davon je einen Server erreicht. [Roster ist im App Store erhältlich](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Wo du in deiner Situation weiterliest
 

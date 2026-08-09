@@ -58,7 +58,7 @@ Det är ingen bisak i ett relationsdashboard, utan kärnan i problemet: Notion-a
 
 **Reflektion.** En dagbok för ditt eget perspektiv på varje relation, i stället för spridda anteckningar i flera appar.
 
-Allt körs lokalt på din enhet, helt utan konto och utan spårning. [Roster finns i App Store](https://apps.apple.com/app/roster).
+Allt körs lokalt på din enhet, helt utan konto och utan spårning. [Roster finns i App Store](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Var du kan läsa vidare
 

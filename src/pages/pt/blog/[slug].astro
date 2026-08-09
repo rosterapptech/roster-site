@@ -3,6 +3,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import RelatedPosts from '../../../components/RelatedPosts.astro';
+import Vio from '../../../components/Vio.astro';
 import { getCollection, render } from 'astro:content';
 import { t } from '../../../i18n/ui';
 import { blogAlternates } from '../../../i18n/blogAlternates';
@@ -77,6 +78,13 @@ const schema = {
     <div class="body">
       <Content />
     </div>
+    <section class="cta">
+      <Vio size={40} />
+      <h2>{tr('blog.cta.title')}</h2>
+      <a href="https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&amp;ct=Website&amp;mt=8" class="btn btn-primary"
+        >{tr('nav.cta')}</a
+      >
+    </section>
     <RelatedPosts lang={lang} currentId={post.id} tags={post.data.tags} />
   </main>
   <Footer lang={lang} />
@@ -91,4 +99,6 @@ const schema = {
   .body :global(p) { color: var(--text-muted); line-height: 1.75; }
   .body :global(blockquote) { border-left: 3px solid var(--purple); margin: 1.5em 0; padding: 4px 0 4px 20px; color: var(--lavender); font-style: italic; }
   .body :global(strong) { color: var(--text); }
+  .cta { text-align: center; display: flex; flex-direction: column; align-items: center; gap: 14px; margin-top: 48px; padding-top: 40px; border-top: 1px solid var(--border); }
+  .cta h2 { max-width: 20ch; }
 </style>

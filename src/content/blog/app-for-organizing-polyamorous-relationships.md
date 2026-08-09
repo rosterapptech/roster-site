@@ -66,7 +66,7 @@ Once your relationships move past the initial getting-to-know-you stage, Roster 
 
 **Wellness.** A private section for safer sex appointments and test results, visible only to you, so you never lose track of when your next check-in is due.
 
-All of it local, with no account, no cloud, nothing ever reaching a server. [Roster is available on the App Store](https://apps.apple.com/app/roster).
+All of it local, with no account, no cloud, nothing ever reaching a server. [Roster is available on the App Store](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Where to read next, depending on where you are
 

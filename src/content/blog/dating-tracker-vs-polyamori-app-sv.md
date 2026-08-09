@@ -69,7 +69,7 @@ Den som för dagbok om dejter, kemi och känslomässiga detaljer bör veta vart 
 
 **Reflektion.** En dagbok för ditt eget perspektiv på varje enskild relation.
 
-Allt körs lokalt på din enhet, utan konto och utan moln. [Roster finns i App Store](https://apps.apple.com/app/roster).
+Allt körs lokalt på din enhet, utan konto och utan moln. [Roster finns i App Store](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Var du kan läsa vidare, beroende på din situation
 

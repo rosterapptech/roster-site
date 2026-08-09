@@ -66,7 +66,7 @@ Så snart dine forhold bevæger sig ud over det første møde, tager Roster over
 
 **Wellness.** En privat sektion til safer sex-aftaler og testresultater, kun synlig for dig, så du aldrig mister overblikket over, hvornår din næste kontrol står for døren.
 
-Det hele lokalt, uden konto, uden cloud, uden at noget nogensinde når en server. [Roster kan hentes i App Store](https://apps.apple.com/app/roster).
+Det hele lokalt, uden konto, uden cloud, uden at noget nogensinde når en server. [Roster kan hentes i App Store](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Hvor du kan læse videre, afhængigt af din situation
 

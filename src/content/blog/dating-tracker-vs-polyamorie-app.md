@@ -69,7 +69,7 @@ Wer über Dates, Chemie und emotionale Details Tagebuch führt, sollte wissen, w
 
 **Reflexion.** Ein Journal für die eigene Perspektive auf jede einzelne Beziehung.
 
-Alles läuft dabei lokal auf dem Gerät, ohne Konto und ohne Cloud. [Roster ist im App Store erhältlich](https://apps.apple.com/app/roster).
+Alles läuft dabei lokal auf dem Gerät, ohne Konto und ohne Cloud. [Roster ist im App Store erhältlich](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Wo du in deiner Situation weiterliest
 

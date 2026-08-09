@@ -69,7 +69,7 @@ Quien lleva un diario de citas, química y detalles emocionales debería saber a
 
 **Reflexión.** Un diario para tu propia perspectiva sobre cada relación individual.
 
-Todo se queda en local en tu dispositivo, sin cuenta y sin nube. [Roster está disponible en la App Store](https://apps.apple.com/app/roster).
+Todo se queda en local en tu dispositivo, sin cuenta y sin nube. [Roster está disponible en la App Store](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Dónde seguir leyendo según tu situación
 

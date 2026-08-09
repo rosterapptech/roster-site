@@ -58,7 +58,7 @@ Det er ikke en bagatel ved et relations-dashboard, men kernen af problemet: Noti
 
 **Refleksion.** En journal til dit eget perspektiv på hvert forhold, i stedet for spredte noter i flere apps.
 
-Alt kører lokalt på din enhed, helt uden konto og uden tracking. [Roster kan hentes i App Store](https://apps.apple.com/app/roster).
+Alt kører lokalt på din enhed, helt uden konto og uden tracking. [Roster kan hentes i App Store](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Hvor du kan læse videre
 

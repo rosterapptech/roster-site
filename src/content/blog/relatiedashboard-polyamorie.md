@@ -58,7 +58,7 @@ Dat is bij een relatiedashboard geen bijzaak, maar de kern van het probleem: Not
 
 **Reflectie.** Een dagboek voor je eigen perspectief op elke relatie, in plaats van verspreide notities in meerdere apps.
 
-Alles draait lokaal op je apparaat, volledig zonder account en zonder tracking. [Roster is verkrijgbaar in de App Store](https://apps.apple.com/app/roster).
+Alles draait lokaal op je apparaat, volledig zonder account en zonder tracking. [Roster is verkrijgbaar in de App Store](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Waar je verder kunt lezen
 

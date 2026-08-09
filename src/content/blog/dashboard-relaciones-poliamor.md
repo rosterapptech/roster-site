@@ -58,7 +58,7 @@ En un dashboard de relaciones esto no es un detalle secundario, sino el núcleo 
 
 **Reflexión.** Un diario para tu propia perspectiva sobre cada relación, en lugar de notas dispersas en varias apps.
 
-Todo funciona en local en tu dispositivo, sin cuenta y sin seguimiento. [Roster está disponible en la App Store](https://apps.apple.com/app/roster).
+Todo funciona en local en tu dispositivo, sin cuenta y sin seguimiento. [Roster está disponible en la App Store](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Dónde seguir leyendo
 

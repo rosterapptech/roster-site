@@ -69,7 +69,7 @@ If you're journaling about dates, chemistry, and emotional details, it's worth k
 
 **Reflection.** A journal for your own perspective on each individual relationship.
 
-Everything stays local on your device, with no account and no cloud. [Roster is available on the App Store](https://apps.apple.com/app/roster).
+Everything stays local on your device, with no account and no cloud. [Roster is available on the App Store](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Where to read next, depending on your situation
 

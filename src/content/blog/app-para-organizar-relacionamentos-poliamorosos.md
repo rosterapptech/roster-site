@@ -66,7 +66,7 @@ Assim que seus relacionamentos vão além do primeiro contato, o Roster entra em
 
 **Wellness.** Uma seção privada para datas de testes de sexo seguro e resultados, visível só para você, para que você nunca perca de vista quando é o seu próximo exame.
 
-Tudo localmente, sem conta, sem nuvem, sem que nada chegue jamais a um servidor. [O Roster está disponível na App Store](https://apps.apple.com/app/roster).
+Tudo localmente, sem conta, sem nuvem, sem que nada chegue jamais a um servidor. [O Roster está disponível na App Store](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Por onde continuar lendo, conforme sua situação
 

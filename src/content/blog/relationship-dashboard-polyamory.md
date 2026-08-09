@@ -58,7 +58,7 @@ This isn't a side note for a relationship dashboard — it's the core of the pro
 
 **Reflection.** A journal for your own perspective on each relationship, instead of scattered notes across several apps.
 
-Everything runs locally on your device, with no account and no tracking. [Roster is available on the App Store](https://apps.apple.com/app/roster).
+Everything runs locally on your device, with no account and no tracking. [Roster is available on the App Store](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Where to read next
 

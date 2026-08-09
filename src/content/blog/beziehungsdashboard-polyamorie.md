@@ -58,7 +58,7 @@ Das ist bei einem Beziehungsdashboard kein Nebenaspekt, sondern der Kern des Pro
 
 **Reflexion.** Ein Journal für die eigene Perspektive auf jede Beziehung, statt verstreuter Notizen in mehreren Apps.
 
-Alles läuft lokal auf dem Gerät, ganz ohne Konto und ohne Tracking. [Roster ist im App Store erhältlich](https://apps.apple.com/app/roster).
+Alles läuft lokal auf dem Gerät, ganz ohne Konto und ohne Tracking. [Roster ist im App Store erhältlich](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Wo du weiterliest
 

@@ -58,7 +58,7 @@ O **Roster** foi construído desde o início exatamente para aquilo que outras s
 
 **Reflexão.** Um diário para sua própria perspectiva sobre cada relacionamento, em vez de notas espalhadas em vários apps.
 
-Tudo roda localmente no seu dispositivo, sem conta e sem rastreamento. [O Roster está disponível na App Store](https://apps.apple.com/app/roster).
+Tudo roda localmente no seu dispositivo, sem conta e sem rastreamento. [O Roster está disponível na App Store](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Para onde seguir a leitura
 

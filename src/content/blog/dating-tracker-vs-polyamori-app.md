@@ -69,7 +69,7 @@ Den, der fører dagbog om dates, kemi og følelsesmæssige detaljer, bør vide, 
 
 **Refleksion.** En dagbog til dit eget perspektiv på hvert enkelt forhold.
 
-Alt kører lokalt på din enhed, uden konto og uden cloud. [Roster kan hentes i App Store](https://apps.apple.com/app/roster).
+Alt kører lokalt på din enhed, uden konto og uden cloud. [Roster kan hentes i App Store](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Hvor du kan læse videre, afhængigt af din situation
 

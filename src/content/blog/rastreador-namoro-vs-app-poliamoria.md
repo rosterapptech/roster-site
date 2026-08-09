@@ -69,7 +69,7 @@ O **Roster** não pretende substituir o Rostr, o Spread ou rastreadores parecido
 
 **Reflexão.** Um diário para sua própria perspectiva sobre cada relacionamento individual.
 
-Tudo fica local no seu aparelho, sem conta e sem nuvem. [O Roster está disponível na App Store](https://apps.apple.com/app/roster).
+Tudo fica local no seu aparelho, sem conta e sem nuvem. [O Roster está disponível na App Store](https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8).
 
 ## Onde continuar a leitura, conforme sua situação
 
