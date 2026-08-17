@@ -77,17 +77,24 @@ const base = lang === 'de' ? '' : `/${lang}`;
     color: var(--text);
     text-decoration: none;
   }
+  /* Auf mittleren Breiten enger stellen, damit die 5 Punkte samt CTA auch in
+     den langen Sprachen (NL, PT) nebeneinander passen. Am Desktop bleibt es
+     luftig. */
+  @media (max-width: 1000px) {
+    .nav {
+      gap: 16px;
+    }
+  }
   .header-cta {
     font-size: 0.9rem;
     padding: 0.6em 1.1em;
     white-space: nowrap;
   }
   /* Ab hier passen Marke + 5 Nav-Punkte + CTA nicht mehr nebeneinander.
-     Massgeblich ist Portugiesisch ("Funcionalidades" + "Mapa polycule"):
-     das braucht 802px, darunter wurde der CTA-Button zusammengedrueckt und
-     dreizeilig. Mit 900 statt 861 bleibt Reserve fuer abweichendes
-     Font-Rendering – bei 861 waeren es nur 11px. */
-  @media (max-width: 900px) {
+     Massgeblich ist Portugiesisch ("Funcionalidades" + "Baixar na App Store"):
+     das braucht 753px. Die Grenze liegt bewusst knapp unter 768px, damit
+     iPad-Hochkant die Navigation noch zeigt. */
+  @media (max-width: 760px) {
     .nav {
       display: none;
     }
