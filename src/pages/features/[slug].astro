@@ -1,10 +1,9 @@
 ---
-import { Image } from 'astro:assets';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import Vio from '../../components/Vio.astro';
-import { featureData, featureScreenshots, featureSlugs, type FeatureSlug } from '../../config/features';
+import { featureData, featureSlugs, type FeatureSlug } from '../../config/features';
 import { featureBreadcrumb } from '../../i18n/breadcrumbs';
 
 export const prerender = true;
@@ -19,7 +18,6 @@ const { slug } = Astro.params;
 const lang = 'de';
 const feature = featureData[lang][slug as FeatureSlug];
 if (!feature) return Astro.redirect('/');
-const screenshot = featureScreenshots[slug as FeatureSlug];
 
 const schema = {
   '@context': 'https://schema.org',
@@ -56,21 +54,6 @@ const schema = {
         )}
         <a href="https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&amp;ct=Website&amp;mt=8" class="btn btn-primary cta">Im App Store laden</a>
       </div>
-
-      {screenshot && (
-        <div class="screenshot-area">
-          <Image
-            src={screenshot}
-            alt={`${feature.name} – Roster App Screenshot`}
-            class="screenshot"
-            width={300}
-            densities={[1, 2]}
-            format="webp"
-            quality={80}
-            loading="eager"
-          />
-        </div>
-      )}
     </div>
   </main>
   <Footer lang={lang} />
@@ -86,10 +69,7 @@ const schema = {
     font-size: 0.9rem;
   }
   .feature-layout {
-    display: grid;
-    grid-template-columns: 1fr auto;
-    gap: 64px;
-    align-items: center;
+    max-width: 640px;
     margin-top: 48px;
   }
   .feature-text {
@@ -118,15 +98,6 @@ const schema = {
     line-height: 1.75;
     margin-top: 28px;
     font-size: 1rem;
-  }
-  .screenshot-area {
-    flex-shrink: 0;
-  }
-  .screenshot {
-    width: 260px;
-    border-radius: 32px;
-    box-shadow: 0 24px 80px -16px rgba(0, 0, 0, 0.6);
-    display: block;
   }
   .feature-bullets {
     margin-top: 24px;
@@ -157,13 +128,7 @@ const schema = {
   }
   @media (max-width: 720px) {
     .feature-layout {
-      grid-template-columns: 1fr;
       gap: 40px;
-    }
-    .screenshot {
-      width: 100%;
-      max-width: 300px;
-      margin-inline: auto;
     }
     .cta {
       align-self: center;

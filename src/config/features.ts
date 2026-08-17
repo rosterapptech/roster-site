@@ -1,11 +1,3 @@
-import type { ImageMetadata } from 'astro';
-import connectionsShot from '../assets/screenshots/connections.png';
-import polyculeMapShot from '../assets/screenshots/polycule-map.png';
-import wellnessShot from '../assets/screenshots/wellness.png';
-import reflectionShot from '../assets/screenshots/reflection.png';
-import insightsShot from '../assets/screenshots/insights.png';
-import vioShot from '../assets/screenshots/vio.png';
-
 export type FeatureSlug = 'connections' | 'polycule-map' | 'wellness' | 'reflection' | 'insights' | 'vio' | 'safe-call' | 'notifications' | 'vibe-radar';
 export type Lang = 'de' | 'en' | 'nl' | 'es' | 'da' | 'sv' | 'pt';
 
@@ -30,18 +22,6 @@ const iconInsights = `<svg width="48" height="48" viewBox="0 0 34 34" fill="none
 const iconSafeCall = `<svg width="48" height="48" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M17 4L6 8.5V17c0 6 4.925 11.5 11 12.8C23.075 28.5 28 23 28 17V8.5L17 4z" stroke="#8b5cf6" stroke-width="2" stroke-linejoin="round"/><path d="M12 17l3 3 6-6" stroke="#c4b5fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
 const iconNotifications = `<svg width="48" height="48" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M17 5a7 7 0 0 0-7 7v5l-2 3h18l-2-3v-5a7 7 0 0 0-7-7z" stroke="#8b5cf6" stroke-width="2" stroke-linejoin="round"/><path d="M14 23a3 3 0 0 0 6 0" stroke="#c4b5fd" stroke-width="1.75"/><circle cx="17" cy="5" r="1.5" fill="#8b5cf6"/></svg>`;
 const iconVibeRadar = `<svg width="48" height="48" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="17" cy="17" r="3" fill="#8b5cf6"/><path d="M11.5 11.5a7.8 7.8 0 0 0 0 11" stroke="#8b5cf6" stroke-width="1.75" stroke-linecap="round"/><path d="M22.5 11.5a7.8 7.8 0 0 1 0 11" stroke="#8b5cf6" stroke-width="1.75" stroke-linecap="round"/><path d="M7 7a14 14 0 0 0 0 19.8" stroke="#c4b5fd" stroke-width="1.5" stroke-linecap="round"/><path d="M27 7a14 14 0 0 1 0 19.8" stroke="#c4b5fd" stroke-width="1.5" stroke-linecap="round"/></svg>`;
-
-export const featureScreenshots: Record<FeatureSlug, ImageMetadata | null> = {
-  connections: connectionsShot,
-  'polycule-map': polyculeMapShot,
-  wellness: wellnessShot,
-  reflection: reflectionShot,
-  insights: insightsShot,
-  vio: vioShot,
-  'safe-call': null,
-  notifications: null,
-  'vibe-radar': null,
-};
 
 export const featureIcons: Record<FeatureSlug, string | null> = {
   connections: iconConnections,
