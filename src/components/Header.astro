@@ -2,6 +2,7 @@
 import Vio from './Vio.astro';
 import { t, type Lang } from '../i18n/ui';
 import { quizPath } from '../i18n/quizPath';
+import { polyculePath } from '../i18n/polyculePath';
 
 interface Props {
   lang?: Lang;
@@ -22,6 +23,7 @@ const base = lang === 'de' ? '' : `/${lang}`;
       <a href={`${base}/#features`}>{tr('nav.features')}</a>
       <a href={`${base}/#pricing`}>{tr('nav.pricing')}</a>
       <a href={quizPath(lang)}>{tr('nav.quiz')}</a>
+      <a href={polyculePath(lang)}>{tr('nav.polycule')}</a>
       <a href={`${base}/blog/`}>{tr('nav.blog')}</a>
     </nav>
 
@@ -78,8 +80,14 @@ const base = lang === 'de' ? '' : `/${lang}`;
   .header-cta {
     font-size: 0.9rem;
     padding: 0.6em 1.1em;
+    white-space: nowrap;
   }
-  @media (max-width: 720px) {
+  /* Ab hier passen Marke + 5 Nav-Punkte + CTA nicht mehr nebeneinander.
+     Massgeblich ist Portugiesisch ("Funcionalidades" + "Mapa polycule"):
+     das braucht 802px, darunter wurde der CTA-Button zusammengedrueckt und
+     dreizeilig. Mit 900 statt 861 bleibt Reserve fuer abweichendes
+     Font-Rendering – bei 861 waeren es nur 11px. */
+  @media (max-width: 900px) {
     .nav {
       display: none;
     }
