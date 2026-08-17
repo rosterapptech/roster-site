@@ -1,0 +1,1195 @@
+---
+// Polycule-Studio: interaktiver Editor fuer Beziehungslandkarten.
+//
+// Laeuft zu 100 % im Browser – wie das Quiz (siehe PolyQuiz.astro). Es gibt
+// keinen Fetch, keinen API-Call, kein localStorage: Namen realer Menschen plus
+// Beziehungstyp waeren Daten nach Art. 9 DSGVO, deshalb verlaesst nichts das
+// Geraet. Sichern geht nur ueber eine Datei, die die Person selbst ablegt.
+//
+// Alle sichtbaren SVG-Eigenschaften stehen als Praesentations-Attribute direkt
+// am Element (nicht in CSS). Sonst waere der PNG-/SVG-Export unbrauchbar: beim
+// Serialisieren des Canvas gehen scoped Styles verloren.
+
+export interface PolyculeLinkType {
+  id: string;
+  label: string;
+  /** Kurzerklaerung fuer die Legende – auch fuer Suchmaschinen lesbar. */
+  desc: string;
+}
+
+export interface PolyculeTemplate {
+  id: string;
+  label: string;
+}
+
+export interface PolyculeStudioStrings {
+  addPerson: string;
+  connect: string;
+  tidy: string;
+  undo: string;
+  reset: string;
+  resetConfirm: string;
+  templates: string;
+  templateList: PolyculeTemplate[];
+  exportLabel: string;
+  exportPng: string;
+  exportSvg: string;
+  saveFile: string;
+  loadFile: string;
+  loadError: string;
+  personName: string;
+  personColor: string;
+  deletePerson: string;
+  linkType: string;
+  linkTypeList: PolyculeLinkType[];
+  linkLabel: string;
+  linkLabelPlaceholder: string;
+  deleteLink: string;
+  legend: string;
+  hintIdle: string;
+  hintPerson: string;
+  hintConnect: string;
+  hintLink: string;
+  youLabel: string;
+  newPersonName: string;
+  unsavedWarning: string;
+  canvasLabel: string;
+  noscript: string;
+  privacyNote: string;
+}
+
+interface Props {
+  t: PolyculeStudioStrings;
+}
+
+const { t } = Astro.props;
+
+// Farbe + Strichbild je Beziehungstyp. Muss zu STYLES im Script passen –
+// deshalb wird die Map unten als JSON in den DOM gelegt, statt sie zweimal zu
+// pflegen.
+const LINK_STYLE: Record<string, { color: string; w: number; dash?: string }> = {
+  romantic: { color: '#f0789f', w: 2.8 },
+  sexual: { color: '#8b5cf6', w: 2.4 },
+  platonic: { color: '#4fd6c2', w: 2.4 },
+  nesting: { color: '#c4b5fd', w: 4.2 },
+  comet: { color: '#4fd6c2', w: 2.4, dash: '2 9' },
+  metamour: { color: '#9b96ab', w: 1.8, dash: '1 7' },
+  past: { color: '#6b6678', w: 2, dash: '9 7' },
+};
+
+const COLORS = ['#8b5cf6', '#f0789f', '#4fd6c2', '#c4b5fd', '#e8b04b', '#6fb3ef'];
+---
+
+<div
+  class="studio"
+  data-studio
+  data-you={t.youLabel}
+  data-newperson={t.newPersonName}
+  data-hint-idle={t.hintIdle}
+  data-hint-person={t.hintPerson}
+  data-hint-connect={t.hintConnect}
+  data-hint-link={t.hintLink}
+  data-unsaved={t.unsavedWarning}
+  data-reset-confirm={t.resetConfirm}
+  data-load-error={t.loadError}
+>
+  <script type="application/json" data-link-styles set:html={JSON.stringify(LINK_STYLE)} />
+  <script type="application/json" data-colors set:html={JSON.stringify(COLORS)} />
+
+  <div class="studio-bar">
+    <button type="button" class="s-btn s-btn-primary" data-act="add">{t.addPerson}</button>
+    <button type="button" class="s-btn" data-act="tidy">{t.tidy}</button>
+    <button type="button" class="s-btn" data-act="undo" disabled>{t.undo}</button>
+
+    <details class="s-menu">
+      <summary class="s-btn">{t.templates}</summary>
+      <div class="s-menu-list">
+        {t.templateList.map((tpl) => (
+          <button type="button" data-template={tpl.id}>{tpl.label}</button>
+        ))}
+        <button type="button" data-act="reset">{t.reset}</button>
+      </div>
+    </details>
+
+    <details class="s-menu s-menu-end">
+      <summary class="s-btn">{t.exportLabel}</summary>
+      <div class="s-menu-list">
+        <button type="button" data-act="png">{t.exportPng}</button>
+        <button type="button" data-act="svg">{t.exportSvg}</button>
+        <button type="button" data-act="save">{t.saveFile}</button>
+        <button type="button" data-act="load">{t.loadFile}</button>
+      </div>
+    </details>
+
+    <input type="file" accept="application/json,.json" data-file hidden />
+  </div>
+
+  <div class="studio-stage">
+    <svg
+      data-canvas
+      viewBox="0 0 880 640"
+      xmlns="http://www.w3.org/2000/svg"
+      role="application"
+      aria-label={t.canvasLabel}
+    >
+      <g data-rings>
+        <circle cx="440" cy="320" r="112" fill="none" stroke="#2a2833" stroke-width="1" />
+        <circle cx="440" cy="320" r="192" fill="none" stroke="#2a2833" stroke-width="1" />
+        <circle cx="440" cy="320" r="262" fill="none" stroke="#2a2833" stroke-width="1" opacity="0.45" />
+      </g>
+      <g data-links></g>
+      <g data-nodes></g>
+    </svg>
+  </div>
+
+  <p class="studio-hint" data-hint>{t.hintIdle}</p>
+
+  <div class="studio-inspector">
+    <div data-panel="person" hidden>
+      <div class="s-field">
+        <label for="poly-name">{t.personName}</label>
+        <input type="text" id="poly-name" data-name maxlength="18" autocomplete="off" />
+      </div>
+      <div class="s-field">
+        <span class="s-label">{t.personColor}</span>
+        <div class="s-swatches" data-swatches></div>
+      </div>
+      <div class="s-actions">
+        <button type="button" class="s-btn s-btn-primary" data-act="connect">{t.connect}</button>
+        <button type="button" class="s-btn s-btn-danger" data-act="delete-person">{t.deletePerson}</button>
+      </div>
+    </div>
+
+    <div data-panel="link" hidden>
+      <div class="s-field">
+        <label for="poly-type">{t.linkType}</label>
+        <select id="poly-type" data-link-type>
+          {t.linkTypeList.map((lt) => <option value={lt.id}>{lt.label}</option>)}
+        </select>
+      </div>
+      <div class="s-field">
+        <label for="poly-linklabel">{t.linkLabel}</label>
+        <input
+          type="text"
+          id="poly-linklabel"
+          data-link-label
+          maxlength="24"
+          autocomplete="off"
+          placeholder={t.linkLabelPlaceholder}
+        />
+      </div>
+      <div class="s-actions">
+        <button type="button" class="s-btn s-btn-danger" data-act="delete-link">{t.deleteLink}</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="studio-legend">
+    <p class="s-legend-title">{t.legend}</p>
+    <ul>
+      {t.linkTypeList.map((lt) => (
+        <li>
+          <svg width="34" height="12" viewBox="0 0 34 12" aria-hidden="true">
+            <line
+              x1="1"
+              y1="6"
+              x2="33"
+              y2="6"
+              stroke={LINK_STYLE[lt.id]?.color ?? '#9b96ab'}
+              stroke-width={LINK_STYLE[lt.id]?.w ?? 2}
+              stroke-linecap="round"
+              stroke-dasharray={LINK_STYLE[lt.id]?.dash}
+            />
+          </svg>
+          <span><strong>{lt.label}</strong> – {lt.desc}</span>
+        </li>
+      ))}
+    </ul>
+  </div>
+
+  <p class="studio-privacy">{t.privacyNote}</p>
+
+  <noscript>
+    <p class="studio-noscript">{t.noscript}</p>
+  </noscript>
+</div>
+
+<style>
+  .studio {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: clamp(14px, 2.4vw, 22px);
+  }
+
+  /* --- Toolbar --- */
+  .studio-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+    margin-bottom: 14px;
+  }
+  .s-menu-end {
+    margin-left: auto;
+  }
+  .s-btn {
+    font-family: var(--font-body);
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--text);
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 9px 16px;
+    cursor: pointer;
+    transition: border-color 0.15s ease, background 0.15s ease;
+    white-space: nowrap;
+  }
+  .s-btn:hover:not(:disabled) {
+    border-color: var(--purple);
+  }
+  .s-btn:disabled {
+    opacity: 0.4;
+    cursor: default;
+  }
+  .s-btn-primary {
+    background: linear-gradient(135deg, var(--purple), var(--purple-deep));
+    border-color: transparent;
+  }
+  .s-btn-danger {
+    color: var(--accent-rose);
+  }
+  .s-btn-danger:hover {
+    border-color: var(--accent-rose);
+  }
+  .s-btn.is-active {
+    border-color: var(--lavender);
+    color: var(--lavender);
+  }
+
+  /* --- Dropdowns (details/summary, kein JS noetig) --- */
+  .s-menu {
+    position: relative;
+  }
+  .s-menu summary {
+    list-style: none;
+    display: inline-block;
+  }
+  .s-menu summary::-webkit-details-marker {
+    display: none;
+  }
+  .s-menu[open] summary {
+    border-color: var(--purple);
+  }
+  .s-menu-list {
+    position: absolute;
+    z-index: 20;
+    top: calc(100% + 6px);
+    left: 0;
+    min-width: 210px;
+    display: flex;
+    flex-direction: column;
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 6px;
+    box-shadow: 0 18px 40px rgb(0 0 0 / 0.45);
+  }
+  .s-menu-end .s-menu-list {
+    left: auto;
+    right: 0;
+  }
+  .s-menu-list button {
+    font-family: var(--font-body);
+    font-size: 0.85rem;
+    text-align: left;
+    color: var(--text);
+    background: none;
+    border: 0;
+    border-radius: 8px;
+    padding: 9px 12px;
+    cursor: pointer;
+  }
+  .s-menu-list button:hover {
+    background: var(--surface);
+    color: var(--lavender);
+  }
+
+  /* --- Zeichenflaeche --- */
+  .studio-stage {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    overflow: hidden;
+  }
+  .studio-stage svg {
+    display: block;
+    width: 100%;
+    height: auto;
+    touch-action: none; /* sonst scrollt die Seite beim Ziehen */
+  }
+  /* Keine feste Hoehe fuers Handy: die Hoehe ergibt sich aus dem viewBox.
+     Auf schmalen Flaechen schaltet das Script auf MOBILE_BOX um (hochkant,
+     enger) – sonst waere die Flaeche bei 880:640 nur ~215px hoch und die
+     Knoten mit 17px Durchmesser nicht mit dem Finger zu treffen. */
+  .studio-stage :global([data-node]) {
+    cursor: grab;
+  }
+  .studio-stage :global([data-node]:focus-visible) {
+    outline: 2px solid var(--lavender);
+    outline-offset: 2px;
+  }
+
+  .studio-hint {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin: 12px 0 0;
+    min-height: 1.4em;
+  }
+
+  /* --- Inspector --- */
+  .studio-inspector:empty {
+    display: none;
+  }
+  .studio-inspector > div {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px 18px;
+    align-items: end;
+    margin-top: 14px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+  }
+  /* Muss nach der display:grid-Regel stehen: sonst gewinnt die gegen das
+     [hidden]-Attribut aus dem Browser-Stylesheet und beide Panels sind
+     immer sichtbar. */
+  .studio-inspector > div[hidden] {
+    display: none;
+  }
+  .s-field {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .s-field label,
+  .s-label {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+  }
+  .s-field input,
+  .s-field select {
+    font-family: var(--font-body);
+    font-size: 0.92rem;
+    color: var(--text);
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 10px 12px;
+    width: 100%;
+  }
+  .s-field input:focus-visible,
+  .s-field select:focus-visible {
+    outline: 2px solid var(--lavender);
+    outline-offset: 1px;
+  }
+  .s-swatches {
+    display: flex;
+    gap: 8px;
+  }
+  .s-swatches button {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 2px solid transparent;
+    cursor: pointer;
+    padding: 0;
+  }
+  .s-swatches button[aria-pressed='true'] {
+    border-color: var(--text);
+  }
+  .s-actions {
+    grid-column: 1 / -1;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  /* --- Legende --- */
+  .studio-legend {
+    margin-top: 20px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+  }
+  .s-legend-title {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    margin: 0 0 10px;
+  }
+  .studio-legend ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 8px 20px;
+  }
+  .studio-legend li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 0.82rem;
+    color: var(--text-muted);
+  }
+  .studio-legend strong {
+    color: var(--text);
+    font-weight: 500;
+  }
+  .studio-legend svg {
+    flex: none;
+  }
+
+  .studio-privacy {
+    font-size: 0.78rem;
+    color: var(--text-dim);
+    margin: 16px 0 0;
+  }
+  .studio-noscript {
+    margin-top: 14px;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+  }
+
+  @media (max-width: 700px) {
+    .s-menu-end {
+      margin-left: auto;
+    }
+    /* Kompakter, damit die Leiste zwei statt drei Zeilen braucht */
+    .studio-bar {
+      gap: 6px;
+    }
+    .s-btn {
+      font-size: 0.8rem;
+      padding: 8px 12px;
+    }
+    .studio-inspector > div {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<script>
+  type Person = { id: string; name: string; x: number; y: number; c: number; me?: boolean };
+  type Link = { id: string; a: string; b: string; t: string; label: string };
+  type Model = { people: Person[]; links: Link[] };
+  type LinkStyle = { color: string; w: number; dash?: string };
+  type Selection = { kind: 'person' | 'link'; id: string } | null;
+
+  const NS = 'http://www.w3.org/2000/svg';
+  const CX = 440;
+  const CY = 320;
+  // Sichere Zone: auf schmalen Viewports wird auf diesen Ausschnitt gezoomt,
+  // damit die Knoten auch mit dem Finger treffbar bleiben.
+  const MOBILE_BOX = '190 40 500 600';
+  const FULL_BOX = '0 0 880 640';
+  const FONT = "Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif";
+
+  /** Vorlagen. Namen: "du" kommt aus dem Markup, der Rest sind Buchstaben –
+   *  die brauchen keine Uebersetzung und lesen sich im Diagramm sauber. */
+  const TEMPLATES: Record<string, { people: [string, number, number, number][]; links: [number, number, string][] }> = {
+    // [name, x, y, colorIndex] – Name "@" = Platzhalter fuer "du"
+    vee: {
+      people: [['@', 440, 200, 0], ['A', 230, 470, 1], ['B', 650, 470, 2]],
+      links: [[0, 1, 'romantic'], [0, 2, 'romantic'], [1, 2, 'metamour']],
+    },
+    triad: {
+      people: [['@', 440, 170, 0], ['A', 235, 480, 1], ['B', 645, 480, 2]],
+      links: [[0, 1, 'romantic'], [0, 2, 'romantic'], [1, 2, 'romantic']],
+    },
+    quad: {
+      people: [['@', 260, 190, 0], ['A', 620, 190, 1], ['B', 620, 470, 2], ['C', 260, 470, 3]],
+      links: [[0, 1, 'romantic'], [1, 2, 'romantic'], [2, 3, 'romantic'], [3, 0, 'romantic']],
+    },
+    chain: {
+      people: [['@', 220, 480, 0], ['A', 400, 210, 1], ['B', 590, 470, 2], ['C', 690, 220, 3]],
+      links: [[0, 1, 'romantic'], [1, 2, 'romantic'], [2, 3, 'romantic']],
+    },
+    hierarchy: {
+      people: [['@', 440, 190, 0], ['A', 440, 380, 3], ['B', 225, 510, 1], ['C', 655, 510, 2]],
+      links: [[0, 1, 'nesting'], [0, 2, 'romantic'], [0, 3, 'comet'], [1, 2, 'metamour'], [1, 3, 'metamour']],
+    },
+    network: {
+      people: [
+        ['@', 440, 320, 0], ['A', 230, 200, 1], ['B', 650, 200, 2],
+        ['C', 690, 430, 3], ['D', 440, 545, 4], ['E', 200, 430, 5],
+      ],
+      links: [
+        [0, 1, 'romantic'], [0, 2, 'platonic'], [0, 3, 'sexual'],
+        [0, 4, 'nesting'], [0, 5, 'past'], [1, 2, 'romantic'], [3, 4, 'metamour'],
+      ],
+    },
+  };
+
+  document.querySelectorAll<HTMLElement>('[data-studio]').forEach((root) => {
+    const svg = root.querySelector<SVGSVGElement>('[data-canvas]');
+    const linkLayer = root.querySelector<SVGGElement>('[data-links]');
+    const nodeLayer = root.querySelector<SVGGElement>('[data-nodes]');
+    if (!svg || !linkLayer || !nodeLayer) return;
+
+    const STYLES: Record<string, LinkStyle> = JSON.parse(
+      root.querySelector('[data-link-styles]')?.textContent ?? '{}',
+    );
+    const COLORS: string[] = JSON.parse(root.querySelector('[data-colors]')?.textContent ?? '[]');
+    const DEFAULT_TYPE = Object.keys(STYLES)[0] ?? 'romantic';
+
+    const hintEl = root.querySelector<HTMLElement>('[data-hint]');
+    const personPanel = root.querySelector<HTMLElement>('[data-panel="person"]');
+    const linkPanel = root.querySelector<HTMLElement>('[data-panel="link"]');
+    const nameInput = root.querySelector<HTMLInputElement>('[data-name]');
+    const swatchWrap = root.querySelector<HTMLElement>('[data-swatches]');
+    const typeSelect = root.querySelector<HTMLSelectElement>('[data-link-type]');
+    const labelInput = root.querySelector<HTMLInputElement>('[data-link-label]');
+    const undoBtn = root.querySelector<HTMLButtonElement>('[data-act="undo"]');
+    const connectBtn = root.querySelector<HTMLButtonElement>('[data-act="connect"]');
+    const fileInput = root.querySelector<HTMLInputElement>('[data-file]');
+
+    const txt = {
+      you: root.dataset.you ?? 'you',
+      newPerson: root.dataset.newperson ?? 'Person',
+      idle: root.dataset.hintIdle ?? '',
+      person: root.dataset.hintPerson ?? '',
+      connect: root.dataset.hintConnect ?? '',
+      link: root.dataset.hintLink ?? '',
+      unsaved: root.dataset.unsaved ?? '',
+      resetConfirm: root.dataset.resetConfirm ?? '',
+      loadError: root.dataset.loadError ?? '',
+    };
+
+    let model: Model = { people: [], links: [] };
+    let selected: Selection = null;
+    let connecting = false;
+    let history: string[] = [];
+    let dirty = false;
+
+    const uid = () => Math.random().toString(36).slice(2, 9);
+    const person = (id: string) => model.people.find((p) => p.id === id);
+    const link = (id: string) => model.links.find((l) => l.id === id);
+
+    function el<K extends keyof SVGElementTagNameMap>(
+      tag: K,
+      attrs: Record<string, string>,
+    ): SVGElementTagNameMap[K] {
+      const node = document.createElementNS(NS, tag);
+      for (const [k, v] of Object.entries(attrs)) node.setAttribute(k, v);
+      return node;
+    }
+
+    function snapshot() {
+      history.push(JSON.stringify(model));
+      if (history.length > 40) history.shift();
+      if (undoBtn) undoBtn.disabled = false;
+      dirty = true;
+    }
+
+    function loadTemplate(id: string) {
+      const tpl = TEMPLATES[id];
+      if (!tpl) return;
+      const ids = tpl.people.map(() => uid());
+      model = {
+        people: tpl.people.map(([name, x, y, c], i) => ({
+          id: ids[i]!,
+          name: name === '@' ? txt.you : name,
+          x,
+          y,
+          c,
+          me: name === '@',
+        })),
+        links: tpl.links.map(([a, b, type]) => ({
+          id: uid(),
+          a: ids[a]!,
+          b: ids[b]!,
+          t: type,
+          label: '',
+        })),
+      };
+      select(null);
+    }
+
+    /** Bogen zwischen zwei Personen + Mittelpunkt fuer das Label. */
+    function curve(a: Person, b: Person) {
+      const dx = b.x - a.x;
+      const dy = b.y - a.y;
+      const len = Math.hypot(dx, dy) || 1;
+      const bend = Math.min(38, len * 0.12);
+      const mx = (a.x + b.x) / 2 - (dy / len) * bend;
+      const my = (a.y + b.y) / 2 + (dx / len) * bend;
+      return {
+        d: `M ${a.x} ${a.y} Q ${mx} ${my} ${b.x} ${b.y}`,
+        // Punkt auf der quadratischen Bezier bei t = 0.5
+        lx: 0.25 * a.x + 0.5 * mx + 0.25 * b.x,
+        ly: 0.25 * a.y + 0.5 * my + 0.25 * b.y,
+      };
+    }
+
+    const radius = (p: Person) => (p.me ? 32 : 25);
+
+    function render() {
+      linkLayer.replaceChildren();
+      nodeLayer.replaceChildren();
+
+      for (const l of model.links) {
+        const a = person(l.a);
+        const b = person(l.b);
+        if (!a || !b) continue;
+        const st = STYLES[l.t] ?? STYLES[DEFAULT_TYPE]!;
+        const { d, lx, ly } = curve(a, b);
+        const isSel = selected?.kind === 'link' && selected.id === l.id;
+
+        linkLayer.append(
+          el('path', {
+            d,
+            fill: 'none',
+            stroke: 'transparent',
+            'stroke-width': '22',
+            'data-link': l.id,
+            'data-hit': '1',
+          }),
+        );
+        const line = el('path', {
+          d,
+          fill: 'none',
+          stroke: st.color,
+          'stroke-width': String(isSel ? st.w + 1.6 : st.w),
+          'stroke-linecap': 'round',
+          'data-link': l.id,
+          ...(st.dash ? { 'stroke-dasharray': st.dash } : {}),
+          ...(isSel ? {} : { opacity: '0.9' }),
+        });
+        linkLayer.append(line);
+
+        if (l.label) {
+          const label = el('text', {
+            x: String(lx),
+            y: String(ly + 4),
+            'text-anchor': 'middle',
+            'font-family': FONT,
+            'font-size': '13',
+            fill: '#9b96ab',
+            // Halo statt gemessenem Hintergrund-Rechteck
+            stroke: '#0a0b0d',
+            'stroke-width': '5',
+            'paint-order': 'stroke',
+            'stroke-linejoin': 'round',
+          });
+          label.textContent = l.label;
+          linkLayer.append(label);
+        }
+      }
+
+      for (const p of model.people) {
+        const r = radius(p);
+        const g = el('g', {
+          transform: `translate(${p.x} ${p.y})`,
+          'data-node': p.id,
+          tabindex: '0',
+          role: 'button',
+          'aria-label': p.name,
+        });
+        if (selected?.kind === 'person' && selected.id === p.id) {
+          g.append(
+            el('circle', {
+              r: String(r + 7),
+              fill: 'none',
+              stroke: '#f4f2fb',
+              'stroke-width': '2',
+              'data-sel': '1',
+            }),
+          );
+        }
+        // Unsichtbare, groessere Trefferflaeche fuer Touch. data-hit, damit sie
+        // beim Export verschwindet – sonst liegen im SVG unsichtbare Kreise,
+        // die man in Figma & Co. staendig aus Versehen anfasst.
+        g.append(el('circle', { r: String(Math.max(r + 14, 38)), fill: 'transparent', 'data-hit': '1' }));
+        g.append(
+          el('circle', {
+            r: String(r),
+            fill: COLORS[p.c % COLORS.length] ?? COLORS[0]!,
+            stroke: '#0a0b0d',
+            'stroke-width': '3',
+          }),
+        );
+        const label = el('text', {
+          y: String(r + 22),
+          'text-anchor': 'middle',
+          'font-family': FONT,
+          'font-size': '15',
+          'font-weight': '500',
+          fill: '#f4f2fb',
+          stroke: '#0a0b0d',
+          'stroke-width': '4',
+          'paint-order': 'stroke',
+          'stroke-linejoin': 'round',
+        });
+        label.textContent = p.name;
+        g.append(label);
+        nodeLayer.append(g);
+      }
+    }
+
+    function renderInspector() {
+      if (personPanel) personPanel.hidden = selected?.kind !== 'person';
+      if (linkPanel) linkPanel.hidden = selected?.kind !== 'link';
+
+      if (selected?.kind === 'person') {
+        const p = person(selected.id);
+        if (p) {
+          if (nameInput && document.activeElement !== nameInput) nameInput.value = p.name;
+          swatchWrap?.querySelectorAll<HTMLButtonElement>('button').forEach((b, i) => {
+            b.setAttribute('aria-pressed', String(i === p.c));
+          });
+        }
+      } else if (selected?.kind === 'link') {
+        const l = link(selected.id);
+        if (l) {
+          if (typeSelect) typeSelect.value = l.t;
+          if (labelInput && document.activeElement !== labelInput) labelInput.value = l.label;
+        }
+      }
+
+      connectBtn?.classList.toggle('is-active', connecting);
+      if (hintEl) {
+        hintEl.textContent = connecting
+          ? txt.connect
+          : selected?.kind === 'person'
+            ? txt.person
+            : selected?.kind === 'link'
+              ? txt.link
+              : txt.idle;
+      }
+    }
+
+    function select(next: Selection) {
+      selected = next;
+      if (next?.kind !== 'person') connecting = false;
+      render();
+      renderInspector();
+    }
+
+    // --- Zeigereingabe: Tippen = auswaehlen, Ziehen = verschieben ---------
+    let drag: { id: string; dx: number; dy: number; moved: boolean; pid: number } | null = null;
+
+    function toSvg(e: PointerEvent) {
+      const ctm = svg!.getScreenCTM();
+      if (!ctm) return { x: 0, y: 0 };
+      const pt = new DOMPoint(e.clientX, e.clientY).matrixTransform(ctm.inverse());
+      return { x: pt.x, y: pt.y };
+    }
+
+    svg.addEventListener('pointerdown', (e) => {
+      const target = e.target as Element;
+      const nodeEl = target.closest('[data-node]');
+      const linkEl = target.closest('[data-link]');
+
+      if (nodeEl) {
+        const id = (nodeEl as SVGGElement).dataset.node!;
+        if (connecting && selected?.kind === 'person' && selected.id !== id) {
+          addLink(selected.id, id);
+          return;
+        }
+        const p = person(id);
+        if (!p) return;
+        const { x, y } = toSvg(e);
+        drag = { id, dx: p.x - x, dy: p.y - y, moved: false, pid: e.pointerId };
+        // Capture auf dem SVG (nicht auf dem Knoten): render() ersetzt die
+        // Knoten-Elemente, ein Capture darauf ginge beim ersten Frame verloren.
+        svg!.setPointerCapture(e.pointerId);
+        return;
+      }
+
+      if (linkEl) {
+        select({ kind: 'link', id: (linkEl as SVGPathElement).dataset.link! });
+        return;
+      }
+      select(null);
+    });
+
+    svg.addEventListener('pointermove', (e) => {
+      if (!drag || e.pointerId !== drag.pid) return;
+      const p = person(drag.id);
+      if (!p) return;
+      if (!drag.moved) {
+        snapshot();
+        drag.moved = true;
+      }
+      const { x, y } = toSvg(e);
+      p.x = Math.max(30, Math.min(850, x + drag.dx));
+      p.y = Math.max(30, Math.min(610, y + drag.dy));
+      render();
+    });
+
+    function endDrag(e: PointerEvent) {
+      if (!drag || e.pointerId !== drag.pid) return;
+      const { id, moved } = drag;
+      drag = null;
+      if (svg!.hasPointerCapture(e.pointerId)) svg!.releasePointerCapture(e.pointerId);
+      if (!moved) select({ kind: 'person', id });
+      else renderInspector();
+    }
+    svg.addEventListener('pointerup', endDrag);
+    svg.addEventListener('pointercancel', endDrag);
+
+    // Tastatur: auswaehlen mit Enter/Space, verschieben mit den Pfeiltasten
+    svg.addEventListener('keydown', (e) => {
+      const nodeEl = (e.target as Element).closest('[data-node]');
+      if (!nodeEl) return;
+      const id = (nodeEl as SVGGElement).dataset.node!;
+      const p = person(id);
+      if (!p) return;
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        if (connecting && selected?.kind === 'person' && selected.id !== id) addLink(selected.id, id);
+        else select({ kind: 'person', id });
+        return;
+      }
+      const step = e.shiftKey ? 24 : 8;
+      const moves: Record<string, [number, number]> = {
+        ArrowUp: [0, -step],
+        ArrowDown: [0, step],
+        ArrowLeft: [-step, 0],
+        ArrowRight: [step, 0],
+      };
+      const m = moves[e.key];
+      if (!m) return;
+      e.preventDefault();
+      snapshot();
+      p.x = Math.max(30, Math.min(850, p.x + m[0]));
+      p.y = Math.max(30, Math.min(610, p.y + m[1]));
+      render();
+      root.querySelector<SVGGElement>(`[data-node="${id}"]`)?.focus();
+    });
+
+    // --- Mutationen -------------------------------------------------------
+    function addPerson() {
+      snapshot();
+      // Freien Platz auf dem Ring suchen, damit nichts uebereinander landet
+      const n = model.people.length;
+      const angle = (n * 2.399) % (Math.PI * 2); // goldener Winkel
+      const dist = n < 7 ? 192 : 258;
+      const p: Person = {
+        id: uid(),
+        name: `${txt.newPerson}`,
+        x: CX + Math.cos(angle) * dist,
+        y: CY + Math.sin(angle) * dist * 0.82,
+        c: n % COLORS.length,
+        me: n === 0,
+      };
+      model.people.push(p);
+      select({ kind: 'person', id: p.id });
+      nameInput?.focus();
+      nameInput?.select();
+    }
+
+    function addLink(a: string, b: string) {
+      const exists = model.links.some(
+        (l) => (l.a === a && l.b === b) || (l.a === b && l.b === a),
+      );
+      connecting = false;
+      if (exists) {
+        const l = model.links.find((x) => (x.a === a && x.b === b) || (x.a === b && x.b === a))!;
+        select({ kind: 'link', id: l.id });
+        return;
+      }
+      snapshot();
+      const l: Link = { id: uid(), a, b, t: DEFAULT_TYPE, label: '' };
+      model.links.push(l);
+      select({ kind: 'link', id: l.id });
+    }
+
+    function tidy() {
+      snapshot();
+      const me = model.people.find((p) => p.me) ?? model.people[0];
+      const others = model.people.filter((p) => p !== me);
+      if (me) {
+        me.x = CX;
+        me.y = CY;
+      }
+      const perRing = 7;
+      others.forEach((p, i) => {
+        const ring = Math.floor(i / perRing);
+        const inRing = others.length - ring * perRing > perRing ? perRing : others.length - ring * perRing;
+        const idx = i % perRing;
+        const dist = ring === 0 ? 192 : 262;
+        const angle = (idx / inRing) * Math.PI * 2 - Math.PI / 2 + (ring ? 0.4 : 0);
+        p.x = CX + Math.cos(angle) * dist;
+        p.y = CY + Math.sin(angle) * dist * 0.82;
+      });
+      render();
+    }
+
+    function undo() {
+      const prev = history.pop();
+      if (!prev) return;
+      model = JSON.parse(prev);
+      if (undoBtn) undoBtn.disabled = history.length === 0;
+      select(null);
+    }
+
+    // --- Export -----------------------------------------------------------
+    function download(name: string, blob: Blob) {
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = name;
+      document.body.append(a);
+      a.click();
+      a.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 4000);
+      dirty = false;
+    }
+
+    /** Klon der Zeichenflaeche als eigenstaendiges SVG – ohne Auswahlringe,
+     *  ohne Trefferflaechen, mit Hintergrund und Signatur. */
+    function exportSvgString(): string {
+      const clone = svg!.cloneNode(true) as SVGSVGElement;
+      clone.removeAttribute('role');
+      clone.removeAttribute('aria-label');
+      clone.setAttribute('viewBox', FULL_BOX);
+      clone.setAttribute('width', '1760');
+      clone.setAttribute('height', '1280');
+      clone.setAttribute('xmlns', NS);
+      clone.querySelectorAll('[data-hit], [data-sel]').forEach((n) => n.remove());
+      clone.querySelectorAll('[data-node]').forEach((n) => {
+        n.removeAttribute('tabindex');
+        n.removeAttribute('role');
+      });
+
+      const bg = document.createElementNS(NS, 'rect');
+      bg.setAttribute('x', '0');
+      bg.setAttribute('y', '0');
+      bg.setAttribute('width', '880');
+      bg.setAttribute('height', '640');
+      bg.setAttribute('fill', '#0a0b0d');
+      clone.prepend(bg);
+
+      const mark = document.createElementNS(NS, 'text');
+      mark.setAttribute('x', '860');
+      mark.setAttribute('y', '618');
+      mark.setAttribute('text-anchor', 'end');
+      mark.setAttribute('font-family', FONT);
+      mark.setAttribute('font-size', '15');
+      mark.setAttribute('fill', '#6b6678');
+      mark.textContent = 'rosterapp.tech';
+      clone.append(mark);
+
+      return new XMLSerializer().serializeToString(clone);
+    }
+
+    function exportPng() {
+      const src = 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(exportSvgString());
+      const img = new Image();
+      img.onload = () => {
+        const canvas = document.createElement('canvas');
+        canvas.width = 1760;
+        canvas.height = 1280;
+        const ctx = canvas.getContext('2d');
+        if (!ctx) return;
+        ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+        canvas.toBlob((blob) => {
+          if (blob) download('polycule.png', blob);
+        }, 'image/png');
+      };
+      img.src = src;
+    }
+
+    function importJson(file: File) {
+      const reader = new FileReader();
+      reader.onload = () => {
+        try {
+          const data = JSON.parse(String(reader.result));
+          if (!Array.isArray(data?.people) || !Array.isArray(data?.links)) throw new Error('shape');
+          snapshot();
+          model = {
+            people: data.people.map((p: Person) => ({
+              id: String(p.id ?? uid()),
+              name: String(p.name ?? '').slice(0, 18),
+              x: Number(p.x) || CX,
+              y: Number(p.y) || CY,
+              c: Number(p.c) || 0,
+              me: !!p.me,
+            })),
+            links: data.links.map((l: Link) => ({
+              id: String(l.id ?? uid()),
+              a: String(l.a),
+              b: String(l.b),
+              t: STYLES[l.t] ? l.t : DEFAULT_TYPE,
+              label: String(l.label ?? '').slice(0, 24),
+            })),
+          };
+          dirty = false;
+          select(null);
+        } catch {
+          alert(txt.loadError);
+        }
+      };
+      reader.readAsText(file);
+    }
+
+    // --- Verdrahtung ------------------------------------------------------
+    const closeMenus = () =>
+      root.querySelectorAll<HTMLDetailsElement>('.s-menu[open]').forEach((d) => {
+        d.open = false;
+      });
+
+    root.querySelectorAll<HTMLButtonElement>('[data-act]').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const act = btn.dataset.act;
+        if (act !== 'connect') closeMenus();
+        switch (act) {
+          case 'add':
+            addPerson();
+            break;
+          case 'tidy':
+            tidy();
+            break;
+          case 'undo':
+            undo();
+            break;
+          case 'reset':
+            if (confirm(txt.resetConfirm)) {
+              snapshot();
+              loadTemplate('vee');
+            }
+            break;
+          case 'connect':
+            connecting = !connecting;
+            renderInspector();
+            break;
+          case 'delete-person': {
+            if (selected?.kind !== 'person') break;
+            snapshot();
+            const id = selected.id;
+            model.people = model.people.filter((p) => p.id !== id);
+            model.links = model.links.filter((l) => l.a !== id && l.b !== id);
+            select(null);
+            break;
+          }
+          case 'delete-link': {
+            if (selected?.kind !== 'link') break;
+            snapshot();
+            const id = selected.id;
+            model.links = model.links.filter((l) => l.id !== id);
+            select(null);
+            break;
+          }
+          case 'png':
+            exportPng();
+            break;
+          case 'svg':
+            download('polycule.svg', new Blob([exportSvgString()], { type: 'image/svg+xml' }));
+            break;
+          case 'save':
+            download('polycule.json', new Blob([JSON.stringify(model, null, 2)], { type: 'application/json' }));
+            break;
+          case 'load':
+            fileInput?.click();
+            break;
+        }
+      });
+    });
+
+    root.querySelectorAll<HTMLButtonElement>('[data-template]').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        closeMenus();
+        snapshot();
+        loadTemplate(btn.dataset.template!);
+      });
+    });
+
+    fileInput?.addEventListener('change', () => {
+      const file = fileInput.files?.[0];
+      if (file) importJson(file);
+      fileInput.value = '';
+    });
+
+    nameInput?.addEventListener('input', () => {
+      if (selected?.kind !== 'person') return;
+      const p = person(selected.id);
+      if (!p) return;
+      p.name = nameInput.value;
+      dirty = true;
+      render();
+    });
+
+    typeSelect?.addEventListener('change', () => {
+      if (selected?.kind !== 'link') return;
+      const l = link(selected.id);
+      if (!l) return;
+      snapshot();
+      l.t = typeSelect.value;
+      render();
+    });
+
+    labelInput?.addEventListener('input', () => {
+      if (selected?.kind !== 'link') return;
+      const l = link(selected.id);
+      if (!l) return;
+      l.label = labelInput.value;
+      dirty = true;
+      render();
+    });
+
+    COLORS.forEach((color, i) => {
+      const b = document.createElement('button');
+      b.type = 'button';
+      b.style.background = color;
+      b.setAttribute('aria-pressed', 'false');
+      b.setAttribute('aria-label', color);
+      b.addEventListener('click', () => {
+        if (selected?.kind !== 'person') return;
+        const p = person(selected.id);
+        if (!p) return;
+        snapshot();
+        p.c = i;
+        render();
+        renderInspector();
+      });
+      swatchWrap?.append(b);
+    });
+
+    // Dropdown schliessen, wenn woanders geklickt wird
+    document.addEventListener('click', (e) => {
+      if (!root.contains(e.target as Node)) closeMenus();
+      else if (!(e.target as Element).closest('.s-menu')) closeMenus();
+    });
+
+    // Auf schmalen Flaechen auf die sichere Zone zoomen, damit die Knoten
+    // gross genug zum Antippen bleiben. Gemessen wird die Zeichenflaeche
+    // selbst, nicht das Fenster: ein matchMedia-Listener verpasst Faelle, in
+    // denen sich nur der Container aendert (Orientierungswechsel, Zoom).
+    const stage = svg.parentElement;
+    const applyBox = () => {
+      const w = stage?.clientWidth ?? 0;
+      // Breite 0 heisst "noch nicht vermessen" (versteckter Tab, Layout laeuft
+      // noch). Dann nichts umschalten – sonst blitzt der Handy-Ausschnitt am
+      // Desktop kurz auf. Der ResizeObserver meldet sich, sobald es eine gibt.
+      if (w === 0) return;
+      svg!.setAttribute('viewBox', w >= 560 ? FULL_BOX : MOBILE_BOX);
+    };
+    if (stage && 'ResizeObserver' in window) {
+      new ResizeObserver(applyBox).observe(stage);
+    } else {
+      window.addEventListener('resize', applyBox);
+    }
+    applyBox();
+
+    // Es wird nichts gespeichert – also warnen, bevor Arbeit verloren geht.
+    window.addEventListener('beforeunload', (e) => {
+      if (!dirty) return;
+      e.preventDefault();
+      e.returnValue = txt.unsaved;
+      return txt.unsaved;
+    });
+
+    loadTemplate('vee');
+  });
+</script>

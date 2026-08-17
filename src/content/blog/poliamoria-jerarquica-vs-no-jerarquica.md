@@ -33,6 +33,8 @@ Un punto clave que a menudo se pasa por alto: incluso en relaciones explícitame
 
 El modelo elegido cambia de qué tienen que hablar realmente las parejas y las redes de relaciones. Las estructuras jerárquicas requieren acuerdos claros sobre qué decisiones puede influir la pareja primaria y dónde está el límite entre una influencia legítima y un poder de veto excesivo. Las estructuras no jerárquicas, en cambio, requieren más negociación individual por relación: cada vínculo necesita sus propios acuerdos en lugar de apoyarse en una regla general que abarque todo. Aquí es donde ayuda mantener una visión de conjunto: en la app **Roster** puedes representar tus conexiones con su propio tipo y estado de forma honesta, ya sea que una relación esté clasificada jerárquicamente o se sostenga completamente por sí misma, sin imponer una estructura sobre otra.
 
+A veces ayuda más ver una red así una vez que describirla. En el [generador de mapas de polycule](/es/crear-mapa-de-polycule/) dibujas tu propia constelación en unos minutos: gratis, sin cuenta y sin que nada salga de tu navegador.
+
 ## Preguntas frecuentes
 
 **¿La poliamoría jerárquica es automáticamente mala para las parejas secundarias?**

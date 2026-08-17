@@ -49,6 +49,8 @@ Som enhver relationsform kan også en triade ændre sig: nogle forbliver stabile
 
 Netop med tre ligeværdige forbindelser er det værd at bevare overblikket over aftaler, terminer og stemningen i hvert enkelt forhold. **Roster** visualiserer dit [polycule](/da/blog/hvad-er-et-polycule/) og hjælper med at sikre, at ingen af de tre forbindelser tabes af syne – alt gemt lokalt på din enhed.
 
+Nogle gange hjælper det mere at se sådan et netværk end at beskrive det. I [polycule-kortgeneratoren](/da/lav-polycule-kort/) tegner du din egen konstellation på få minutter – gratis, uden konto, og intet af det forlader din browser.
+
 ## Ofte stillede spørgsmål
 
 **Hvad er et throuple?**

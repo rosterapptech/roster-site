@@ -49,6 +49,8 @@ Precis som alla relationsformer kan en triad förändras: vissa förblir stabila
 
 Just med tre jämlika kopplingar är det värt att hålla koll på avtal, tider och stämningen i varje enskild relation. **Roster** visualiserar ditt [polycule](/sv/blog/vad-ar-ett-polycule/) och hjälper till att se till att ingen av de tre kopplingarna tappas ur sikte – allt sparat lokalt på din enhet.
 
+Ibland hjälper det mer att se ett sådant nätverk än att beskriva det. I [polycule-kartgeneratorn](/sv/gor-polycule-karta/) ritar du din egen konstellation på några minuter – gratis, utan konto, och inget av det lämnar din webbläsare.
+
 ## Vanliga frågor
 
 **Vad är ett throuple?**

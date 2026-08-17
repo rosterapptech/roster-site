@@ -33,6 +33,8 @@ En central poäng som ofta förbises: även i uttryckligen icke-hierarkiska rela
 
 Den valda modellen förändrar vad par och nätverk över huvud taget behöver prata om. Hierarkiska strukturer kräver tydliga överenskommelser om vilka beslut primary-partnern har inflytande över och var gränsen går mellan legitimt inflytande och en vetorätt som går för långt. Icke-hierarkiska strukturer kräver istället mer individuell förhandling per relation – varje relation behöver sina egna överenskommelser i stället för att luta sig mot en övergripande regel. Just här hjälper det att behålla överblicken: i appen **Roster** kan du representera dina relationer med sin egen typ och status på ett ärligt sätt, oavsett om en relation är hierarkiskt placerad eller står helt för sig själv – utan att en struktur tvingas på en annan.
 
+Ibland hjälper det mer att se ett sådant nätverk än att beskriva det. I [polycule-kartgeneratorn](/sv/gor-polycule-karta/) ritar du din egen konstellation på några minuter – gratis, utan konto, och inget av det lämnar din webbläsare.
+
 ## Vanliga frågor
 
 **Är hierarkisk polyamori automatiskt dåligt för secondaries?**

@@ -49,6 +49,8 @@ Wie jede Beziehungsform kann sich auch eine Triade verändern: Manche bleiben ü
 
 Gerade bei drei gleichwertigen Verbindungen lohnt es sich, den Überblick über Termine, Vereinbarungen und die Stimmung in jeder einzelnen Beziehung zu behalten. **Roster** visualisiert dein [Polycule](/blog/was-ist-ein-polycule/) und hilft, keine der drei Verbindungen aus dem Blick zu verlieren – alles lokal auf deinem Gerät gespeichert.
 
+Manchmal hilft es mehr, so ein Netz einmal zu sehen, statt es zu beschreiben. Im [Polycule-Map-Generator](/polycule-map-erstellen/) zeichnest du deine eigene Konstellation in ein paar Minuten – kostenlos, ohne Konto, und nichts davon verlässt deinen Browser.
+
 ## Häufige Fragen
 
 **Was ist ein Throuple?**

@@ -90,6 +90,8 @@ Precies voor situaties zoals die van Mara hebben we de **Polycule Map** in **Ros
 
 En als je op zoek bent naar concrete systemen om je dagelijks leven met meerdere relaties te structureren – tijd, communicatie en balans inbegrepen – lees dan verder in [Meerdere relaties tegelijk managen](/nl/blog/meerdere-relaties-managen/).
 
+Soms helpt het meer om zo'n netwerk één keer te zien dan het te beschrijven. In de [polycule map maker](/nl/polycule-map-maken/) teken je je eigen constellatie in een paar minuten – gratis, zonder account, en niets ervan verlaat je browser.
+
 ## Veelgestelde vragen over polycules
 
 **Hoeveel mensen heeft een polycule?**

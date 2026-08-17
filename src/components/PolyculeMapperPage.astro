@@ -1,0 +1,309 @@
+---
+// Komplette Polycule-Mapper-Seite. Die 7 Sprachseiten sind reine Wrapper und
+// uebergeben nur ihre Sprache – so kann keine Sprachversion strukturell
+// auseinanderlaufen, nur der Text aus polyculeContent.ts unterscheidet sich.
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from './Header.astro';
+import Footer from './Footer.astro';
+import PolyculeStudio from './PolyculeStudio.astro';
+import type { Lang } from '../i18n/ui';
+import { POLYCULE_CONTENT } from '../i18n/polyculeContent';
+import { POLYCULE_SLUG, polyculePath } from '../i18n/polyculePath';
+import { slugAlternates } from '../i18n/slugAlternates';
+import { polyculeBreadcrumb } from '../i18n/breadcrumbs';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const c = POLYCULE_CONTENT[lang];
+
+const APP_STORE_URL =
+  'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=PolyculeMapper&mt=8';
+
+const blogHref = (slug: string) =>
+  lang === 'de' ? `/blog/${slug}/` : `/${lang}/blog/${slug}/`;
+
+const canonical = new URL(polyculePath(lang), Astro.site!).href;
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    polyculeBreadcrumb(lang, c.breadcrumb, Astro.site!),
+    {
+      '@type': 'WebApplication',
+      '@id': `${canonical}#app`,
+      name: c.h1,
+      url: canonical,
+      applicationCategory: 'DesignApplication',
+      operatingSystem: 'Web',
+      browserRequirements: 'Requires JavaScript',
+      description: c.description,
+      inLanguage: lang,
+      offers: { '@type': 'Offer', price: '0', priceCurrency: 'EUR' },
+      publisher: { '@id': new URL('/#organization', Astro.site!).href },
+    },
+    {
+      '@type': 'HowTo',
+      name: c.stepsTitle,
+      step: c.steps.map((s, i) => ({
+        '@type': 'HowToStep',
+        position: i + 1,
+        name: s.title,
+        text: s.text,
+      })),
+    },
+    {
+      '@type': 'FAQPage',
+      mainEntity: c.faq.map((f) => ({
+        '@type': 'Question',
+        name: f.q,
+        acceptedAnswer: { '@type': 'Answer', text: f.a },
+      })),
+    },
+  ],
+};
+---
+
+<BaseLayout
+  lang={lang}
+  path={`/${POLYCULE_SLUG[lang]}`}
+  title={c.title}
+  description={c.description}
+  alternates={slugAlternates(polyculePath, Astro.site!)}
+  schema={schema}
+>
+  <Header lang={lang} />
+
+  <main>
+    <section class="intro">
+      <div class="container">
+        <h1>{c.h1}</h1>
+        <p class="lede">{c.lede}</p>
+      </div>
+    </section>
+
+    <section class="studio-section">
+      <div class="container">
+        <PolyculeStudio t={c.studio} />
+      </div>
+    </section>
+
+    <section class="steps">
+      <div class="container">
+        <h2>{c.stepsTitle}</h2>
+        <ol class="step-grid">
+          {c.steps.map((s, i) => (
+            <li class="card step">
+              <span class="step-num">{i + 1}</span>
+              <h3>{s.title}</h3>
+              <p>{s.text}</p>
+            </li>
+          ))}
+        </ol>
+      </div>
+    </section>
+
+    <section class="forms">
+      <div class="container">
+        <h2>{c.formsTitle}</h2>
+        <p class="section-lede">{c.formsIntro}</p>
+        <div class="form-grid">
+          {c.forms.map((f) => (
+            <div class="card form-card">
+              <h3>{f.name}</h3>
+              <p>{f.text}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="cta">
+      <div class="container">
+        <div class="card cta-card">
+          <p class="eyebrow">{c.ctaEyebrow}</p>
+          <h2>{c.ctaTitle}</h2>
+          <p>{c.ctaText}</p>
+          <a class="btn btn-primary" href={APP_STORE_URL} rel="noopener">{c.ctaButton}</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="faq">
+      <div class="container">
+        <h2>{c.faqTitle}</h2>
+        <div class="faq-list">
+          {c.faq.map((f) => (
+            <details class="card">
+              <summary>{f.q}</summary>
+              <p>{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="related">
+      <div class="container">
+        <p class="eyebrow">{c.relatedTitle}</p>
+        <div class="related-grid">
+          {c.related.map((p) => (
+            <a href={blogHref(p.slug)} class="card related-card">{p.title}</a>
+          ))}
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .intro {
+    padding-top: clamp(48px, 7vw, 88px);
+    padding-bottom: 0;
+    text-align: center;
+  }
+  .intro h1 {
+    margin-bottom: 14px;
+  }
+  .lede {
+    max-width: 620px;
+    margin-inline: auto;
+    color: var(--text-muted);
+  }
+  .studio-section {
+    padding-top: clamp(28px, 4vw, 44px);
+  }
+  .section-lede {
+    max-width: 620px;
+    color: var(--text-muted);
+    margin-bottom: 28px;
+  }
+
+  .steps h2,
+  .forms h2,
+  .faq h2 {
+    margin-bottom: 18px;
+  }
+
+  .step-grid {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+  }
+  .step {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .step-num {
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    color: var(--purple);
+    line-height: 1;
+  }
+  .step h3,
+  .form-card h3 {
+    font-size: 1rem;
+    margin: 0;
+  }
+  .step p,
+  .form-card p {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    margin: 0;
+  }
+
+  .form-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+
+  .cta-card {
+    text-align: center;
+    padding: clamp(28px, 5vw, 48px);
+  }
+  .cta-card h2 {
+    margin: 6px 0 12px;
+  }
+  .cta-card p {
+    max-width: 560px;
+    margin: 0 auto 22px;
+    color: var(--text-muted);
+  }
+
+  .faq-list {
+    display: grid;
+    gap: 10px;
+  }
+  .faq-list details {
+    padding: 0;
+  }
+  .faq-list summary {
+    cursor: pointer;
+    padding: 18px 22px;
+    font-weight: 500;
+    list-style: none;
+  }
+  .faq-list summary::-webkit-details-marker {
+    display: none;
+  }
+  .faq-list summary::after {
+    content: '+';
+    float: right;
+    color: var(--purple);
+  }
+  .faq-list details[open] summary::after {
+    content: '–';
+  }
+  .faq-list details p {
+    margin: 0;
+    padding: 0 22px 20px;
+    color: var(--text-muted);
+    font-size: 0.94rem;
+  }
+
+  .related {
+    padding-top: 0;
+  }
+  .related .eyebrow {
+    display: block;
+    margin-bottom: 14px;
+  }
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+  .related-card {
+    color: var(--text);
+    font-size: 0.92rem;
+    text-decoration: none;
+  }
+  .related-card:hover {
+    border-color: var(--purple);
+    text-decoration: none;
+  }
+
+  @media (max-width: 900px) {
+    .step-grid,
+    .form-grid,
+    .related-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  @media (max-width: 620px) {
+    .step-grid,
+    .form-grid,
+    .related-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

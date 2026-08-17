@@ -90,6 +90,8 @@ Construimos el **Polycule Map** de **Roster** precisamente para situaciones como
 
 Y si buscas sistemas concretos para estructurar tu día a día con varias relaciones —tiempo, comunicación y equilibrio incluidos—, en [Gestionar varias relaciones a la vez](/es/blog/gestionar-varias-relaciones/) profundizamos en ello.
 
+A veces ayuda más ver una red así una vez que describirla. En el [generador de mapas de polycule](/es/crear-mapa-de-polycule/) dibujas tu propia constelación en unos minutos: gratis, sin cuenta y sin que nada salga de tu navegador.
+
 ## Preguntas frecuentes sobre los polycules
 
 **¿Cuántas personas necesita un polycule?**

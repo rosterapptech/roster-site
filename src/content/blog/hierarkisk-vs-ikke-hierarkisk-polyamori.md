@@ -33,6 +33,8 @@ Et centralt punkt, der ofte overses: Selv i eksplicit ikke-hierarkiske forhold o
 
 Den valgte model ændrer, hvad par og netværk overhovedet skal tale om. Hierarkiske strukturer kræver klare aftaler om, hvilke beslutninger primary partneren har medbestemmelse i, og hvor grænsen går mellem legitim indflydelse og en vetoret, der går for vidt. Ikke-hierarkiske strukturer kræver til gengæld mere individuel forhandling pr. forhold – hver forbindelse har brug for sine egne aftaler i stedet for at læne sig op ad én overordnet regel. Det er netop her, det hjælper at bevare overblikket: I **Roster**-appen kan du repræsentere dine forbindelser med deres egen type og status ærligt, uanset om et forhold er hierarkisk placeret eller står helt for sig selv – uden at én struktur bliver presset ned over en anden.
 
+Nogle gange hjælper det mere at se sådan et netværk end at beskrive det. I [polycule-kortgeneratoren](/da/lav-polycule-kort/) tegner du din egen konstellation på få minutter – gratis, uden konto, og intet af det forlader din browser.
+
 ## Ofte stillede spørgsmål
 
 **Er hierarkisk polyamori automatisk dårligt for secondaries?**

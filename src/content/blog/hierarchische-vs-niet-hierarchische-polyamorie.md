@@ -33,6 +33,8 @@ Een centraal punt dat vaak over het hoofd wordt gezien: ook in expliciet niet-hi
 
 Het gekozen model verandert waarover stellen en netwerken eigenlijk moeten praten. Hiërarchische structuren vragen om duidelijke afspraken over welke beslissingen de primary partner mag meebepalen en waar de grens ligt tussen legitieme invloed en een te ver doorgeschoten vetorecht. Niet-hiërarchische structuren vragen juist om meer individuele onderhandeling per relatie – elke verbinding heeft haar eigen afspraken nodig, in plaats van te leunen op één overkoepelende regel. Precies hier helpt het om overzicht te bewaren: in de **Roster**-app kun je verbindingen met hun eigen type en status eerlijk weergeven, ongeacht of een relatie hiërarchisch is ingedeeld of volledig op zichzelf staat – zonder dat de ene structuur over de andere heen wordt gelegd.
 
+Soms helpt het meer om zo'n netwerk één keer te zien dan het te beschrijven. In de [polycule map maker](/nl/polycule-map-maken/) teken je je eigen constellatie in een paar minuten – gratis, zonder account, en niets ervan verlaat je browser.
+
 ## Veelgestelde vragen
 
 **Is hiërarchische polyamorie automatisch slecht voor secondaries?**

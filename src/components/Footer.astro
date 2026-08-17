@@ -2,6 +2,7 @@
 import Vio from './Vio.astro';
 import { t, type Lang } from '../i18n/ui';
 import { rosterPolyPath } from '../i18n/rosterPolyPath';
+import { polyculePath } from '../i18n/polyculePath';
 
 interface Props {
   lang?: Lang;
@@ -37,6 +38,7 @@ const year = new Date().getFullYear();
         <a href={`${base}/appinfo/agb/`}>{tr('footer.app.agb')}</a>
         <a href={`${base}/appinfo/datenschutzrichtlinie/`}>{tr('footer.app.privacy')}</a>
         <a href={rosterPolyPath(lang)}>{tr('footer.rosterpoly')}</a>
+        <a href={polyculePath(lang)}>{tr('footer.polycule')}</a>
       </nav>
 
       <nav class="links" aria-label="Sprache / Language">

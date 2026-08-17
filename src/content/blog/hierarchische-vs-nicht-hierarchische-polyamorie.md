@@ -33,6 +33,8 @@ Ein zentraler Punkt, der oft übersehen wird: Auch in explizit nicht-hierarchisc
 
 Das gewählte Modell verändert, worüber Paare und Netzwerke überhaupt sprechen müssen. Hierarchische Strukturen brauchen klare Absprachen darüber, welche Entscheidungen der Primary Partner mitbestimmen darf und wo die Grenze zum übergriffigen Vetorecht liegt. Nicht-hierarchische Strukturen erfordern dagegen mehr individuelle Aushandlung pro Beziehung – jede Verbindung braucht ihre eigenen Vereinbarungen, statt sich an einer übergeordneten Regel zu orientieren. Genau hier hilft es, den Überblick zu behalten: In der **Roster**-App lassen sich Verbindungen mit ihrem jeweiligen Typ und Status ehrlich abbilden, egal ob eine Beziehung hierarchisch eingeordnet ist oder eigenständig für sich steht – ohne dass eine Struktur der anderen übergestülpt wird.
 
+Manchmal hilft es mehr, so ein Netz einmal zu sehen, statt es zu beschreiben. Im [Polycule-Map-Generator](/polycule-map-erstellen/) zeichnest du deine eigene Konstellation in ein paar Minuten – kostenlos, ohne Konto, und nichts davon verlässt deinen Browser.
+
 ## Häufige Fragen
 
 **Ist hierarchische Polyamorie automatisch schlecht für Secondaries?**

@@ -90,6 +90,8 @@ Vi byggde **Polycule Map** i **Roster** just för situationer som Maras: en egon
 
 Och om du letar efter konkreta system för att strukturera vardagen med flera relationer – tid, kommunikation och balans inräknat – går [Hantera flera relationer samtidigt](/sv/blog/hantera-flera-relationer/) djupare in på det.
 
+Ibland hjälper det mer att se ett sådant nätverk än att beskriva det. I [polycule-kartgeneratorn](/sv/gor-polycule-karta/) ritar du din egen konstellation på några minuter – gratis, utan konto, och inget av det lämnar din webbläsare.
+
 ## Vanliga frågor om polycules
 
 **Hur många människor kräver ett polycule?**

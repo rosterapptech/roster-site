@@ -49,6 +49,8 @@ Como cualquier estructura de relación, una tríada puede cambiar: algunas se ma
 
 Precisamente con tres conexiones iguales, vale la pena mantener el control de las citas, los acuerdos y el ambiente en cada relación individual. **Roster** visualiza tu [polycule](/es/blog/que-es-un-polycule/) y ayuda a que ninguna de las tres conexiones se pierda de vista, todo guardado localmente en tu dispositivo.
 
+A veces ayuda más ver una red así una vez que describirla. En el [generador de mapas de polycule](/es/crear-mapa-de-polycule/) dibujas tu propia constelación en unos minutos: gratis, sin cuenta y sin que nada salga de tu navegador.
+
 ## Preguntas frecuentes
 
 **¿Qué es un throuple?**

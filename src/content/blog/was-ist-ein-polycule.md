@@ -90,6 +90,8 @@ Genau für Szenarien wie das von Mara haben wir die **Polycule Map** in **Roster
 
 Und wenn du nach konkreten Systemen suchst, wie du deinen Alltag mit mehreren Beziehungen strukturierst – Zeit, Kommunikation und Balance eingeschlossen –, findest du im Artikel [Mehrere Beziehungen gleichzeitig managen](/blog/mehrere-beziehungen-managen/) weiterführende Tipps.
 
+Manchmal hilft es mehr, so ein Netz einmal zu sehen, statt es zu beschreiben. Im [Polycule-Map-Generator](/polycule-map-erstellen/) zeichnest du deine eigene Konstellation in ein paar Minuten – kostenlos, ohne Konto, und nichts davon verlässt deinen Browser.
+
 ## Häufige Fragen zum Polycule
 
 **Wie viele Menschen gehören zu einem Polycule?**

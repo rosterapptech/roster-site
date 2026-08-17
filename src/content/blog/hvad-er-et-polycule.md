@@ -90,6 +90,8 @@ Vi har bygget **Polycule Map** i **Roster** netop til situationer som Maras: en 
 
 Og hvis du leder efter konkrete systemer til at strukturere din hverdag med flere relationer – tid, kommunikation og balance inklusive – kan du læse videre i [Styr flere forhold på én gang](/da/blog/styre-flere-forhold/).
 
+Nogle gange hjælper det mere at se sådan et netværk end at beskrive det. I [polycule-kortgeneratoren](/da/lav-polycule-kort/) tegner du din egen konstellation på få minutter – gratis, uden konto, og intet af det forlader din browser.
+
 ## Ofte stillede spørgsmål om polycules
 
 **Hvor mange mennesker kræver et polycule?**

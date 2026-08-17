@@ -49,6 +49,8 @@ Zoals elke relatievorm kan ook een triade veranderen: sommige blijven jarenlang 
 
 Juist bij drie gelijkwaardige connecties loont het om het overzicht te behouden over afspraken, overeenkomsten en de stemming in elke afzonderlijke relatie. **Roster** visualiseert je [polycule](/nl/blog/wat-is-een-polycule/) en helpt ervoor te zorgen dat geen van de drie connecties uit het zicht raakt – alles lokaal opgeslagen op je apparaat.
 
+Soms helpt het meer om zo'n netwerk één keer te zien dan het te beschrijven. In de [polycule map maker](/nl/polycule-map-maken/) teken je je eigen constellatie in een paar minuten – gratis, zonder account, en niets ervan verlaat je browser.
+
 ## Veelgestelde vragen
 
 **Wat is een throuple?**

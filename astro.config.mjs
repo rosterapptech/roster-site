@@ -127,6 +127,7 @@ const PAGE_ALTERNATES = new Map([
   ...slugPageAlternates(
     readSlugMap('./src/i18n/rosterPolyPath.ts', 'ROSTER_POLY_SLUG'),
   ),
+  ...slugPageAlternates(readSlugMap('./src/i18n/polyculePath.ts', 'POLYCULE_SLUG')),
 ]);
 
 // lastmod pro Pfad aus dem Blog-Frontmatter (updatedDate vor pubDate).

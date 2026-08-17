@@ -49,6 +49,8 @@ Like any relationship structure, a triad can change: some stay stable for years,
 
 Especially with three equal connections, it's worth keeping track of dates, agreements, and the mood in each individual relationship. **Roster** visualizes your [polycule](/en/blog/what-is-a-polycule/) and helps make sure none of the three connections falls out of view – all stored locally on your device.
 
+Sometimes it helps more to see a network like this than to describe it. In the [polycule map maker](/en/polycule-map-maker/) you can draw your own constellation in a few minutes – free, no account, and none of it leaves your browser.
+
 ## Frequently asked questions
 
 **What is a throuple?**

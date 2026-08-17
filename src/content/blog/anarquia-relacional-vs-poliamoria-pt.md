@@ -51,6 +51,8 @@ Muita gente transita entre esses conceitos ao longo do tempo — o que é totalm
 
 Seja vivendo a poliamoria de forma clássica ou descobrindo a anarquia relacional: nos dois casos você está administrando várias conexões significativas que precisam de atenção e cuidado. O **Roster** foi construído deliberadamente sem hierarquia imposta — você decide que tipo de conexão registra, totalmente nos seus próprios termos. O app se adapta à sua definição de relacionamento, não o contrário. Como manter o controle, explicamos no nosso artigo sobre [organizar vários relacionamentos](/pt/blog/gerenciar-varios-relacionamentos/).
 
+Às vezes ajuda mais ver uma rede dessas do que descrevê-la. No [gerador de mapas de polycule](/pt/criar-mapa-de-polycule/) você desenha a sua própria constelação em poucos minutos – grátis, sem conta, e nada disso sai do seu navegador.
+
 ## Perguntas frequentes
 
 **A anarquia relacional é uma forma de poliamoria?**
