@@ -20,6 +20,12 @@ export const onRequest = defineMiddleware(async (ctx, next) => {
   // Statische Assets überspringen
   if (pathname.startsWith('/_') || pathname.includes('.')) return next();
 
+  // API-Routen niemals sprachlich umleiten. Der App-Store-Webhook unter
+  // /api/asn/ wird von Apples Servern aufgerufen – käme dort je ein
+  // Accept-Language ungleich 'de' an, würde die Weiterleitung unten die
+  // Notification auf /en/api/asn/ schicken und Apple bekäme kein 200.
+  if (pathname.startsWith('/api/')) return next();
+
   // Bereits auf einer nicht-deutschen Sprachversion → nichts tun
   const nonDeLangs = SUPPORTED.filter((l) => l !== 'de');
   const alreadyLocalized = nonDeLangs.some(
