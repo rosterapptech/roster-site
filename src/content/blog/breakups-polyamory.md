@@ -21,7 +21,7 @@ Breakups hurt, no matter the relationship structure. But in polyamory, there's a
 
 ## Grief and compersion at the same time
 
-One feeling that surprises many people: you can be genuinely happy about another, still-ongoing relationship while grieving the one that's ending. That simultaneity isn't a contradiction – it's typical of breakup situations in polyamory. Giving yourself room for both, without playing one feeling off against the other, makes the process considerably easier.
+One feeling that surprises many people: you can be genuinely happy about another, still-ongoing relationship while grieving the one that's ending. That simultaneity isn't a contradiction – it's typical of breakup situations in polyamory. Giving yourself room for both, without playing one feeling off against the other, makes the process considerably easier. How compersion develops in the first place is covered in [Learning Compersion](/en/blog/compersion-learning/).
 
 ## How to include metamours in a breakup
 

@@ -25,7 +25,7 @@ Vi har inddelt begreberne i fire grupper: relationsformer, mennesker og roller, 
 
 **Polyfidelitet:** En lukket polyamorøs gruppe, hvor alle kun har intime relationer inden for gruppen.
 
-**Triade / throuple:** Et forhold mellem tre personer, der alle er forbundet med hinanden.
+**Triade / throuple:** Et forhold mellem tre personer, der alle er forbundet med hinanden. Mere om det: [Throuple & triade forklaret](/da/blog/throuple-triade-da/).
 
 **Quad:** En konstellation af fire personer.
 
@@ -35,7 +35,7 @@ Vi har inddelt begreberne i fire grupper: relationsformer, mennesker og roller, 
 
 **Metamour:** Din partners partner, som du selv ikke har en relation med. Et af de mest centrale begreber i fællesskabet.
 
-**Polycule:** Det samlede netværk af mennesker, der er forbundet med hinanden via relationer.
+**Polycule:** Det samlede netværk af mennesker, der er forbundet med hinanden via relationer. Uddybet i [Hvad er et polycule?](/da/blog/hvad-er-et-polycule/) – tegnes kan det i [polycule-kort-generatoren](/da/lav-polycule-kort/).
 
 **Hinge (hængsel):** Personen i en V-form, der har to partnere, som ikke er kærester med hinanden.
 
@@ -47,7 +47,7 @@ Vi har inddelt begreberne i fire grupper: relationsformer, mennesker og roller, 
 
 ## Følelser og dynamikker
 
-**Compersion:** Den glæde du mærker, når din partner er lykkelig med en anden. Beskrives ofte som modsætningen til jalousi.
+**Compersion:** Den glæde du mærker, når din partner er lykkelig med en anden. Beskrives ofte som modsætningen til jalousi. Uddybet i artiklen [Lære compersion](/da/blog/compersion-laere/).
 
 **Jalousi:** I polyamore relationer ikke et tabu, men et signal, der tages alvorligt og kommunikeres.
 

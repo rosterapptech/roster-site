@@ -4,7 +4,7 @@ description: 'Was "Unicorn Hunting" bedeutet, warum der Begriff in der Poly-Comm
 pubDate: 2026-07-07
 lang: 'de'
 translationKey: 'unicorn-hunting-polyamory'
-tags: ['Unicorn Hunting', 'Polyamorie', 'Triaden', 'Paarprivileg', 'Öffnung']
+tags: ['Unicorn Hunting', 'Polyamorie', 'Triade', 'Paarprivileg', 'Öffnung']
 ---
 
 Wer sich in der Poly-Community umhört, stößt früher oder später auf den Begriff „Unicorn Hunting" – meist nicht wohlwollend gemeint. Gemeint ist damit ein bestimmtes Muster, in dem ein bestehendes Paar (meist ein Mann und eine Frau) gemeinsam nach einer bisexuellen Frau sucht, die zu ihnen dazukommt. Der Begriff ist eine Kritik an einer Dynamik, nicht an der Beziehungsform selbst. Dieser Artikel erklärt, worum es geht, warum die Kritik berechtigt ist – und wie Paare, die sich öffnen wollen, es besser machen können.
@@ -29,7 +29,7 @@ Die Kritik am Unicorn Hunting richtet sich gegen mehrere wiederkehrende Probleme
 
 ## Gesunde Triaden sind trotzdem möglich
 
-Wichtig ist: Die Kritik am Unicorn Hunting bedeutet nicht, dass Dreierbeziehungen grundsätzlich problematisch sind. Es gibt viele glückliche, stabile Triaden und Thruples, in denen drei Menschen einander tatsächlich gleichwertig begegnen. Der Unterschied liegt nicht in der Anzahl der Beteiligten, sondern darin, wie die Beziehung entsteht und geführt wird. Eine Triade, in der alle drei von Anfang an mitentscheiden, ist etwas fundamental anderes als eine Suche, bei der zwei Menschen bereits alles festgelegt haben und die dritte Person nur noch „passen" muss.
+Wichtig ist: Die Kritik am Unicorn Hunting bedeutet nicht, dass Dreierbeziehungen grundsätzlich problematisch sind. Es gibt viele glückliche, stabile Triaden und [Throuples](/blog/throuple-triade/), in denen drei Menschen einander tatsächlich gleichwertig begegnen. Der Unterschied liegt nicht in der Anzahl der Beteiligten, sondern darin, wie die Beziehung entsteht und geführt wird. Eine Triade, in der alle drei von Anfang an mitentscheiden, ist etwas fundamental anderes als eine Suche, bei der zwei Menschen bereits alles festgelegt haben und die dritte Person nur noch „passen" muss.
 
 ## Wie Paare gemeinsames Dating fair gestalten
 

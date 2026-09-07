@@ -4,7 +4,7 @@ description: 'What "unicorn hunting" means, why the poly community often uses th
 pubDate: 2026-07-07
 lang: 'en'
 translationKey: 'unicorn-hunting-polyamory'
-tags: ['Unicorn Hunting', 'Polyamory', 'Triads', 'Couple''s Privilege', 'Opening Up']
+tags: ['Unicorn Hunting', 'Polyamory', 'Triad', 'Couple''s Privilege', 'Opening Up']
 ---
 
 Spend enough time in poly spaces and you'll run into the term "unicorn hunting" – usually not said kindly. It describes a specific pattern in which an established couple (typically a man and a woman) look together for a bisexual woman to join their relationship. The term is a critique of a dynamic, not of the relationship shape itself. This article explains what it means, why the criticism is fair, and how couples who want to open up can do it better.
@@ -29,7 +29,7 @@ The criticism of unicorn hunting targets several recurring problems:
 
 ## Healthy triads are still absolutely possible
 
-Here's the important part: criticizing unicorn hunting does not mean three-person relationships are inherently a problem. Plenty of happy, stable triads and thruples exist, where three people genuinely meet each other as equals. The difference isn't the number of people involved – it's how the relationship comes together and is run. A triad where all three people help shape decisions from the start is something fundamentally different from a search where two people have already decided everything and the third person just needs to "fit."
+Here's the important part: criticizing unicorn hunting does not mean three-person relationships are inherently a problem. Plenty of happy, stable triads and [throuples](/en/blog/throuple-triad/) exist, where three people genuinely meet each other as equals. The difference isn't the number of people involved – it's how the relationship comes together and is run. A triad where all three people help shape decisions from the start is something fundamentally different from a search where two people have already decided everything and the third person just needs to "fit."
 
 ## How couples can date together fairly
 

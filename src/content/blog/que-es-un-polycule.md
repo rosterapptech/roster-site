@@ -36,7 +36,7 @@ Una persona tiene dos parejas que no tienen una relación romántica entre sí. 
 
 ### La tríada (throuple)
 
-Tres personas que todas tienen una relación entre sí. A diferencia de la V, las tres están conectadas romántica o sexualmente.
+Tres personas que todas tienen una relación entre sí. A diferencia de la V, las tres están conectadas romántica o sexualmente. Esta constelación es tan habitual que le hemos dedicado un artículo propio: [Throuple y tríada explicados](/es/blog/throuple-triada/).
 
 ### El cuarteto (quad)
 

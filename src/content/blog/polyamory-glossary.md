@@ -25,7 +25,7 @@ We have grouped the terms into four categories: relationship structures, people 
 
 **Polyfidelity:** A closed polyamorous group in which everyone only has intimate relationships within the group.
 
-**Triad / throuple:** A relationship between three people who are all connected to each other.
+**Triad / throuple:** A relationship between three people who are all connected to each other. More on this: [Throuple & Triad explained](/en/blog/throuple-triad/).
 
 **Quad:** A constellation of four people.
 
@@ -35,7 +35,7 @@ We have grouped the terms into four categories: relationship structures, people 
 
 **Metamour:** Your partner's partner, with whom you yourself do not have a relationship. One of the most central terms in the community.
 
-**Polycule:** The entire network of people connected to each other through relationships.
+**Polycule:** The entire network of people connected to each other through relationships. Explained in [What is a polycule?](/en/blog/what-is-a-polycule/) – and you can draw yours in the [polycule map maker](/en/polycule-map-maker/).
 
 **Hinge:** The person in a V-shaped structure who has two partners who are not together with each other.
 
@@ -47,7 +47,7 @@ We have grouped the terms into four categories: relationship structures, people 
 
 ## Feelings and dynamics
 
-**Compersion:** The joy you feel when your partner is happy with someone else. Often described as the opposite of jealousy.
+**Compersion:** The joy you feel when your partner is happy with someone else. Often described as the opposite of jealousy. Explained in depth in [Learning Compersion](/en/blog/compersion-learning/).
 
 **Jealousy:** In polyamorous relationships, not a taboo but a signal to be taken seriously and communicated.
 

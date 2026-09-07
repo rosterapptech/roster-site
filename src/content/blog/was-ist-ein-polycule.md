@@ -36,7 +36,7 @@ Eine Person hat zwei Partner, die untereinander aber keine romantische Beziehung
 
 ### Die Triade (Throuple)
 
-Drei Menschen, die alle untereinander eine Beziehung führen. Anders als bei der V-Form sind hier alle drei miteinander romantisch oder sexuell verbunden.
+Drei Menschen, die alle untereinander eine Beziehung führen. Anders als bei der V-Form sind hier alle drei miteinander romantisch oder sexuell verbunden. Diese Konstellation ist so verbreitet, dass wir ihr einen eigenen Artikel gewidmet haben: [Throuple & Triade einfach erklärt](/blog/throuple-triade/).
 
 ### Das Quad
 

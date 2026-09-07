@@ -21,7 +21,7 @@ Las rupturas duelen, sea cual sea la estructura de la relación. Pero en el poli
 
 ## Duelo y compersión al mismo tiempo
 
-Un sentimiento que sorprende a muchas personas: se puede estar genuinamente contento por otra relación que sigue adelante y, a la vez, de duelo por la que está terminando. Esa simultaneidad no es una contradicción, es típica de las situaciones de ruptura en el poliamor. Darte espacio para ambas cosas, sin enfrentar un sentimiento contra el otro, facilita bastante el proceso.
+Un sentimiento que sorprende a muchas personas: se puede estar genuinamente contento por otra relación que sigue adelante y, a la vez, de duelo por la que está terminando. Esa simultaneidad no es una contradicción, es típica de las situaciones de ruptura en el poliamor. Darte espacio para ambas cosas, sin enfrentar un sentimiento contra el otro, facilita bastante el proceso. Cómo se desarrolla la compersión se explica en [Aprender a sentir compersión](/es/blog/compersion-aprender/).
 
 ## Cómo incluir a los metamours en una ruptura
 

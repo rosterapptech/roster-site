@@ -4,7 +4,7 @@ description: 'O que significa "unicorn hunting" (caça de unicórnios), por que 
 pubDate: 2026-07-07
 lang: 'pt'
 translationKey: 'unicorn-hunting-polyamory'
-tags: ['Caça de unicórnios', 'Poliamoria', 'Tríades', 'Privilégio de casal', 'Abertura']
+tags: ['Caça de unicórnios', 'Poliamoria', 'Tríade', 'Privilégio de casal', 'Abertura']
 ---
 
 Quem passa tempo suficiente em espaços poliamorosos acaba esbarrando no termo "unicorn hunting" (caça de unicórnios) — e ele quase nunca é usado de forma gentil. Descreve um padrão específico em que um casal já estabelecido (geralmente um homem e uma mulher) busca junto uma mulher bissexual para se somar ao relacionamento deles. O termo é uma crítica a uma dinâmica, não à forma de relacionamento em si. Este artigo explica do que se trata, por que a crítica tem fundamento, e como casais que querem se abrir podem fazer isso melhor.
@@ -29,7 +29,7 @@ A crítica à caça de unicórnios aponta para vários problemas recorrentes:
 
 ## Tríades saudáveis existem, sim
 
-É importante entender: criticar a caça de unicórnios não significa que relacionamentos de três pessoas sejam um problema em si. Existem muitas tríades e throuples felizes e estáveis em que as três pessoas se tratam de verdade como iguais. A diferença não está no número de pessoas envolvidas, mas em como o relacionamento se forma e é conduzido. Uma tríade em que as três pessoas participam das decisões desde o início é algo fundamentalmente diferente de uma busca em que duas pessoas já decidiram tudo e a terceira só precisa "se encaixar".
+É importante entender: criticar a caça de unicórnios não significa que relacionamentos de três pessoas sejam um problema em si. Existem muitas tríades e [throuples](/pt/blog/throuple-triade-pt/) felizes e estáveis em que as três pessoas se tratam de verdade como iguais. A diferença não está no número de pessoas envolvidas, mas em como o relacionamento se forma e é conduzido. Uma tríade em que as três pessoas participam das decisões desde o início é algo fundamentalmente diferente de uma busca em que duas pessoas já decidiram tudo e a terceira só precisa "se encaixar".
 
 ## Como casais podem buscar juntos de forma justa
 

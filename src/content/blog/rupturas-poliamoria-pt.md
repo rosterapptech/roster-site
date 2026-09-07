@@ -21,7 +21,7 @@ Términos doem, seja qual for a estrutura do relacionamento. Mas na poliamoria e
 
 ## Luto e compersão ao mesmo tempo
 
-Um sentimento que surpreende muita gente: dá para estar genuinamente feliz por outro relacionamento que segue em frente e, ao mesmo tempo, de luto pelo que está terminando. Essa simultaneidade não é uma contradição, é típica das situações de término na poliamoria. Se dar espaço para as duas coisas, sem colocar um sentimento contra o outro, facilita bastante o processo.
+Um sentimento que surpreende muita gente: dá para estar genuinamente feliz por outro relacionamento que segue em frente e, ao mesmo tempo, de luto pelo que está terminando. Essa simultaneidade não é uma contradição, é típica das situações de término na poliamoria. Se dar espaço para as duas coisas, sem colocar um sentimento contra o outro, facilita bastante o processo. Como a compersão se desenvolve está no artigo [Aprender a sentir compersão](/pt/blog/compersao-aprender/).
 
 ## Como incluir os metamours num término
 

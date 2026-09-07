@@ -26,7 +26,7 @@ Agrupamos os termos em quatro categorias: estruturas de relacionamento, pessoas 
 
 **Polifidelidade:** Um grupo poliamoroso fechado em que todos só têm relacionamentos íntimos dentro do próprio grupo.
 
-**Tríade / throuple:** Um relacionamento entre três pessoas que estão todas conectadas entre si.
+**Tríade / throuple:** Um relacionamento entre três pessoas que estão todas conectadas entre si. Mais sobre isso: [Throuple e tríade explicados](/pt/blog/throuple-triade-pt/).
 
 **Quadra (quad):** Uma constelação de quatro pessoas.
 
@@ -36,7 +36,7 @@ Agrupamos os termos em quatro categorias: estruturas de relacionamento, pessoas 
 
 **Metamour:** O parceiro do seu parceiro, com quem você mesmo não tem um relacionamento. Um dos termos mais centrais da comunidade.
 
-**Polycule:** A rede completa de pessoas conectadas entre si por meio de relacionamentos.
+**Polycule:** A rede completa de pessoas conectadas entre si por meio de relacionamentos. Explicado em [O que é um polycule?](/pt/blog/o-que-e-um-polycule/) – para desenhar existe o [gerador de mapa de polycule](/pt/criar-mapa-de-polycule/).
 
 **Hinge (dobradiça):** A pessoa em uma estrutura em V que tem dois parceiros que não estão juntos entre si.
 
@@ -48,7 +48,7 @@ Agrupamos os termos em quatro categorias: estruturas de relacionamento, pessoas 
 
 ## Sentimentos e dinâmicas
 
-**Compersão:** A alegria que você sente quando seu parceiro está feliz com outra pessoa. Muitas vezes descrita como o oposto do ciúme.
+**Compersão:** A alegria que você sente quando seu parceiro está feliz com outra pessoa. Muitas vezes descrita como o oposto do ciúme. Explicado em detalhe em [Aprender a sentir compersão](/pt/blog/compersao-aprender/).
 
 **Ciúme:** Em relacionamentos poliamorosos, não é um tabu, mas um sinal que é levado a sério e comunicado.
 

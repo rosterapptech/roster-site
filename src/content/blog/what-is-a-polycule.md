@@ -36,7 +36,7 @@ One person has two partners who do not have a romantic relationship with each ot
 
 ### The triad (throuple)
 
-Three people who all have a relationship with each other. Unlike the V, all three are romantically or sexually connected.
+Three people who all have a relationship with each other. Unlike the V, all three are romantically or sexually connected. This constellation is common enough that we gave it its own article: [Throuple & Triad explained](/en/blog/throuple-triad/).
 
 ### The quad
 

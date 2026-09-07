@@ -21,7 +21,7 @@ Trennungen tun weh, egal in welcher Beziehungsform. In der Polyamorie kommt aber
 
 ## Trauer und Compersion gleichzeitig
 
-Ein Gefühl, das viele überrascht: Man kann sich für eine andere, weiterhin bestehende Beziehung ehrlich freuen und gleichzeitig um die endende trauern. Diese Gleichzeitigkeit ist kein Widerspruch, sondern typisch für polyamore Trennungssituationen. Sich diesen Freiraum zu geben – ohne das eine Gefühl gegen das andere auszuspielen – erleichtert den Prozess erheblich.
+Ein Gefühl, das viele überrascht: Man kann sich für eine andere, weiterhin bestehende Beziehung ehrlich freuen und gleichzeitig um die endende trauern. Diese Gleichzeitigkeit ist kein Widerspruch, sondern typisch für polyamore Trennungssituationen. Sich diesen Freiraum zu geben – ohne das eine Gefühl gegen das andere auszuspielen – erleichtert den Prozess erheblich. Wie sich Compersion überhaupt entwickelt, steht im Artikel [Compersion lernen](/blog/compersion-lernen/).
 
 ## Wie man Metamours in eine Trennung einbezieht
 

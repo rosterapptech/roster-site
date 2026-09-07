@@ -21,7 +21,7 @@ Breuken doen pijn, ongeacht de relatievorm. Binnen polyamorie komt er echter een
 
 ## Verdriet en compersion tegelijkertijd
 
-Een gevoel dat velen verrast: je kunt oprecht blij zijn met een andere, nog bestaande relatie en tegelijk rouwen om de relatie die eindigt. Die gelijktijdigheid is geen tegenstrijdigheid, maar typisch voor breuksituaties binnen polyamorie. Jezelf die ruimte geven – zonder het ene gevoel tegen het andere uit te spelen – maakt het proces aanzienlijk lichter.
+Een gevoel dat velen verrast: je kunt oprecht blij zijn met een andere, nog bestaande relatie en tegelijk rouwen om de relatie die eindigt. Die gelijktijdigheid is geen tegenstrijdigheid, maar typisch voor breuksituaties binnen polyamorie. Jezelf die ruimte geven – zonder het ene gevoel tegen het andere uit te spelen – maakt het proces aanzienlijk lichter. Hoe compersion überhaupt ontstaat, lees je in [Compersion leren](/nl/blog/compersion-leren/).
 
 ## Hoe je metamours betrekt bij een breuk
 

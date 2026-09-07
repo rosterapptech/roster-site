@@ -4,7 +4,7 @@ description: 'Wat "unicorn hunting" betekent, waarom de poly-community de term v
 pubDate: 2026-07-07
 lang: 'nl'
 translationKey: 'unicorn-hunting-polyamory'
-tags: ['Unicorn Hunting', 'Polyamorie', 'Triades', 'Koppelprivilege', 'Openstellen']
+tags: ['Unicorn Hunting', 'Polyamorie', 'Triade', 'Koppelprivilege', 'Openstellen']
 ---
 
 Wie genoeg tijd doorbrengt in poly-kringen, komt vroeg of laat de term "unicorn hunting" tegen – meestal niet vriendelijk bedoeld. Het beschrijft een specifiek patroon waarbij een bestaand koppel (meestal een man en een vrouw) samen op zoek gaat naar een biseksuele vrouw die bij hen komt. De term is kritiek op een dynamiek, niet op de relatievorm zelf. Dit artikel legt uit wat het inhoudt, waarom de kritiek terecht is, en hoe koppels die zich willen openstellen het beter kunnen aanpakken.
@@ -29,7 +29,7 @@ De kritiek op unicorn hunting richt zich op een aantal terugkerende problemen:
 
 ## Gezonde triades bestaan wel degelijk
 
-Belangrijk om te weten: kritiek op unicorn hunting betekent niet dat relaties met drie mensen fundamenteel problematisch zijn. Er bestaan genoeg gelukkige, stabiele triades en throuples waarin drie mensen elkaar daadwerkelijk als gelijken benaderen. Het verschil zit niet in het aantal betrokkenen, maar in hoe de relatie ontstaat en geleid wordt. Een triade waarin alle drie vanaf het begin meebeslissen is fundamenteel anders dan een zoektocht waarbij twee mensen al alles hebben vastgelegd en de derde persoon alleen nog hoeft te "passen".
+Belangrijk om te weten: kritiek op unicorn hunting betekent niet dat relaties met drie mensen fundamenteel problematisch zijn. Er bestaan genoeg gelukkige, stabiele triades en [throuples](/nl/blog/throuple-triade-nl/) waarin drie mensen elkaar daadwerkelijk als gelijken benaderen. Het verschil zit niet in het aantal betrokkenen, maar in hoe de relatie ontstaat en geleid wordt. Een triade waarin alle drie vanaf het begin meebeslissen is fundamenteel anders dan een zoektocht waarbij twee mensen al alles hebben vastgelegd en de derde persoon alleen nog hoeft te "passen".
 
 ## Hoe koppels samen eerlijk kunnen daten
 

@@ -21,7 +21,7 @@ Uppbrott gör ont, oavsett relationsform. Men inom polyamori tillkommer ett extr
 
 ## Sorg och compersion samtidigt
 
-En känsla som förvånar många: man kan vara genuint glad över en annan, fortsatt relation och samtidigt sörja den som tar slut. Den samtidigheten är ingen motsägelse utan typisk för uppbrottssituationer inom polyamori. Att ge sig själv utrymme för båda – utan att ställa den ena känslan mot den andra – gör processen betydligt lättare.
+En känsla som förvånar många: man kan vara genuint glad över en annan, fortsatt relation och samtidigt sörja den som tar slut. Den samtidigheten är ingen motsägelse utan typisk för uppbrottssituationer inom polyamori. Att ge sig själv utrymme för båda – utan att ställa den ena känslan mot den andra – gör processen betydligt lättare. Hur compersion över huvud taget utvecklas står i artikeln [Lära sig compersion](/sv/blog/compersion-lara/).
 
 ## Så involverar du metamours i ett uppbrott
 

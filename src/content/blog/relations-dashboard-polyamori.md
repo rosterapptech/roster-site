@@ -28,7 +28,7 @@ Behovet bag er som regel det samme, uanset hvilket værktøj man vælger: et cen
 
 **Notion-skabeloner ("Polyamory Couple's Dashboard").** Mest udbredt er selvbyggede eller community-delte Notion-skabeloner, der samler oprindelseshistorier, aftaler, dateidéer og sundhedsoplysninger i databaser. Fordelen: maksimal tilpasningsevne, alle bygger præcis det, de har brug for. Ulempen: Notion er et alround-værktøj til noter og projekter, ikke bygget til forhold – forbindelser mellem personer, en netværksvisning eller wellness-tracking skal møjsommeligt konstrueres selv, og skabelonen kræver løbende vedligeholdelse.
 
-**polycul.es.** En browserbaseret, visuel webapp, hvor man kan tegne sit eget polycule som et udvideligt relationsdiagram – hvem der er forbundet med hvem, og i hvilken konstellation. God til ren visualisering af netværket, men uden tracking af aftaler, terminstyring eller wellness-funktioner; den viser strukturen, ikke hverdagen.
+**polycul.es.** En browserbaseret, visuel webapp, hvor man kan tegne sit eget polycule som et udvideligt relationsdiagram – hvem der er forbundet med hvem, og i hvilken konstellation. God til ren visualisering af netværket, men uden tracking af aftaler, terminstyring eller wellness-funktioner; den viser strukturen, ikke hverdagen. Har du kun brug for tegningen: Vores [polycule-kort-generator](/da/lav-polycule-kort/) gør det samme gratis og uden konto, og navnene forlader ikke din browser.
 
 **PYE Poly Calendar App.** En kalender udviklet specifikt til planlægningslogistik med flere partnere. Løser dermed målrettet planlægningsproblemet, men dækker hverken aftaler, relationssundhed eller et netværksoverblik – et værktøj til en del af behovet, ikke til helheden.
 

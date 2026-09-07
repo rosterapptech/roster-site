@@ -36,7 +36,7 @@ En person har två partners som inte har en romantisk relation med varandra. Per
 
 ### Triaden (throuple)
 
-Tre människor som alla har en relation med varandra. Till skillnad från V-formen är alla tre romantiskt eller sexuellt förbundna.
+Tre människor som alla har en relation med varandra. Till skillnad från V-formen är alla tre romantiskt eller sexuellt förbundna. Den här konstellationen är så vanlig att vi har gett den en egen artikel: [Throuple & triad förklarat](/sv/blog/throuple-triad-sv/).
 
 ### Kvartetten (quad)
 

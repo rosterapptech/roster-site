@@ -25,7 +25,7 @@ We hebben de begrippen ingedeeld in vier groepen: relatievormen, mensen & rollen
 
 **Polyfideliteit:** Een gesloten polyamore groep waarbij iedereen alleen binnen de groep intieme relaties heeft.
 
-**Triade / throuple:** Een relatie tussen drie personen die allemaal met elkaar verbonden zijn.
+**Triade / throuple:** Een relatie tussen drie personen die allemaal met elkaar verbonden zijn. Meer hierover: [Throuple & triade uitgelegd](/nl/blog/throuple-triade-nl/).
 
 **Quad:** Een constellatie van vier personen.
 
@@ -35,7 +35,7 @@ We hebben de begrippen ingedeeld in vier groepen: relatievormen, mensen & rollen
 
 **Metamour:** De partner van je partner, met wie jij zelf geen relatie hebt. Een van de meest centrale begrippen in de gemeenschap.
 
-**Polycule:** Het gehele netwerk van mensen die via relaties met elkaar verbonden zijn.
+**Polycule:** Het gehele netwerk van mensen die via relaties met elkaar verbonden zijn. Uitgelegd in [Wat is een polycule?](/nl/blog/wat-is-een-polycule/) – tekenen kan in de [polycule map maker](/nl/polycule-map-maken/).
 
 **Hinge (scharnier):** De persoon in een V-vorm die twee partners heeft die onderling niet samen zijn.
 
@@ -47,7 +47,7 @@ We hebben de begrippen ingedeeld in vier groepen: relatievormen, mensen & rollen
 
 ## Gevoelens & dynamieken
 
-**Compersion:** De vreugde die je voelt als je partner gelukkig is met iemand anders. Vaak beschreven als het tegenovergestelde van jaloezie.
+**Compersion:** De vreugde die je voelt als je partner gelukkig is met iemand anders. Vaak beschreven als het tegenovergestelde van jaloezie. Uitgebreid uitgelegd in [Compersion leren](/nl/blog/compersion-leren/).
 
 **Jaloezie:** In polyamore relaties geen taboe, maar een signaal dat serieus wordt genomen en gecommuniceerd.
 

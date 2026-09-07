@@ -28,7 +28,7 @@ Behovet bakom är oftast detsamma, oavsett vilket verktyg man väljer: en centra
 
 **Notion-mallar ("Polyamory Couple's Dashboard").** Mest utbrett är självbyggda eller community-delade Notion-mallar som samlar ursprungshistorier, överenskommelser, dejtidéer och hälsoinformation i databaser. Fördelen: maximal anpassningsbarhet, alla bygger precis det de behöver. Nackdelen: Notion är ett allmänt verktyg för anteckningar och projekt, inte byggt för relationer – kopplingar mellan personer, en nätverksvy eller wellness-spårning måste mödosamt konstrueras för hand, och mallen kräver löpande underhåll.
 
-**polycul.es.** En webbläsarbaserad, visuell webbapp där man ritar sitt eget polycule som ett utbyggbart relationsdiagram – vem som är kopplad till vem, och i vilken konstellation. Bra för ren visualisering av nätverket, men utan spårning av överenskommelser, schemaläggning eller wellness-funktioner; den visar strukturen, inte vardagen.
+**polycul.es.** En webbläsarbaserad, visuell webbapp där man ritar sitt eget polycule som ett utbyggbart relationsdiagram – vem som är kopplad till vem, och i vilken konstellation. Bra för ren visualisering av nätverket, men utan spårning av överenskommelser, schemaläggning eller wellness-funktioner; den visar strukturen, inte vardagen. Behöver du bara ritningen: Vår [polycule-kartgenerator](/sv/gor-polycule-karta/) gör samma sak gratis och utan konto, och namnen lämnar aldrig din webbläsare.
 
 **PYE Poly Calendar App.** En kalender utvecklad specifikt för schemaläggningslogistik med flera partners. Löser därmed schemaläggningsproblemet väl, men täcker varken överenskommelser, relationshälsa eller en nätverksöversikt – ett verktyg för en del av behovet, inte för helheten.
 

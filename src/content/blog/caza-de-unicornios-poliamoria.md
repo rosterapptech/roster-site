@@ -4,7 +4,7 @@ description: 'Qué significa la "caza de unicornios" (unicorn hunting), por qué
 pubDate: 2026-07-07
 lang: 'es'
 translationKey: 'unicorn-hunting-polyamory'
-tags: ['Caza de unicornios', 'Poliamor', 'Tríadas', 'Privilegio de pareja', 'Apertura']
+tags: ['Caza de unicornios', 'Poliamor', 'Tríada', 'Privilegio de pareja', 'Apertura']
 ---
 
 Quien pasa tiempo suficiente en espacios poliamorosos acaba topándose con el término "unicorn hunting" (caza de unicornios) – y casi nunca se usa de forma amable. Describe un patrón concreto en el que una pareja ya establecida (normalmente un hombre y una mujer) busca junta a una mujer bisexual que se sume a su relación. El término es una crítica a una dinámica, no a la forma de relación en sí. Este artículo explica de qué se trata, por qué la crítica tiene fundamento, y cómo las parejas que quieren abrirse pueden hacerlo mejor.
@@ -29,7 +29,7 @@ La crítica a la caza de unicornios apunta a varios problemas recurrentes:
 
 ## Las tríadas sanas sí existen
 
-Es importante entenderlo: criticar la caza de unicornios no significa que las relaciones de tres personas sean un problema en sí mismas. Existen muchas tríadas y throuples felices y estables en las que tres personas se tratan realmente como iguales. La diferencia no está en el número de personas involucradas, sino en cómo se forma y se lleva la relación. Una tríada en la que las tres personas participan en las decisiones desde el principio es algo fundamentalmente distinto de una búsqueda en la que dos personas ya lo tienen todo decidido y la tercera solo tiene que "encajar".
+Es importante entenderlo: criticar la caza de unicornios no significa que las relaciones de tres personas sean un problema en sí mismas. Existen muchas tríadas y [throuples](/es/blog/throuple-triada/) felices y estables en las que tres personas se tratan realmente como iguales. La diferencia no está en el número de personas involucradas, sino en cómo se forma y se lleva la relación. Una tríada en la que las tres personas participan en las decisiones desde el principio es algo fundamentalmente distinto de una búsqueda en la que dos personas ya lo tienen todo decidido y la tercera solo tiene que "encajar".
 
 ## Cómo pueden las parejas buscar juntas de forma justa
 

@@ -36,7 +36,7 @@ Uma pessoa tem dois parceiros que não têm um relacionamento romântico entre s
 
 ### A tríade (throuple)
 
-Três pessoas que têm relacionamento entre si. Diferente do V, as três estão conectadas romântica ou sexualmente.
+Três pessoas que têm relacionamento entre si. Diferente do V, as três estão conectadas romântica ou sexualmente. Essa constelação é tão comum que dedicamos a ela um artigo próprio: [Throuple e tríade explicados](/pt/blog/throuple-triade-pt/).
 
 ### O quad
 

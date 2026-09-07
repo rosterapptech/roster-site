@@ -25,7 +25,7 @@ Hemos agrupado los términos en cuatro categorías: estructuras de relación, pe
 
 **Polifidelidad:** Un grupo poliamoroso cerrado en el que todos solo tienen relaciones íntimas dentro del grupo.
 
-**Tríada / throuple:** Una relación entre tres personas que están todas conectadas entre sí.
+**Tríada / throuple:** Una relación entre tres personas que están todas conectadas entre sí. Más sobre esto: [Throuple y tríada explicados](/es/blog/throuple-triada/).
 
 **Cuarteto (quad):** Una constelación de cuatro personas.
 
@@ -35,7 +35,7 @@ Hemos agrupado los términos en cuatro categorías: estructuras de relación, pe
 
 **Metamour:** La pareja de tu pareja, con quien tú mismo no tienes una relación. Uno de los términos más centrales en la comunidad.
 
-**Polycule:** La red completa de personas conectadas entre sí a través de relaciones.
+**Polycule:** La red completa de personas conectadas entre sí a través de relaciones. Explicado en [¿Qué es un polycule?](/es/blog/que-es-un-polycule/); para dibujarlo está el [generador de mapas de polycule](/es/crear-mapa-de-polycule/).
 
 **Hinge (bisagra):** La persona en una estructura en V que tiene dos parejas que no están juntas entre sí.
 
@@ -47,7 +47,7 @@ Hemos agrupado los términos en cuatro categorías: estructuras de relación, pe
 
 ## Sentimientos y dinámicas
 
-**Compersión:** La alegría que sientes cuando tu pareja es feliz con otra persona. A menudo se describe como lo opuesto a los celos.
+**Compersión:** La alegría que sientes cuando tu pareja es feliz con otra persona. A menudo se describe como lo opuesto a los celos. Explicado a fondo en [Aprender a sentir compersión](/es/blog/compersion-aprender/).
 
 **Celos:** En las relaciones poliamorosas no son un tabú, sino una señal que se toma en serio y se comunica.
 

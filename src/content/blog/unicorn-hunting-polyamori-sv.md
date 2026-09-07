@@ -4,7 +4,7 @@ description: 'Vad "unicorn hunting" betyder, varför poly-communityn ofta använ
 pubDate: 2026-07-07
 lang: 'sv'
 translationKey: 'unicorn-hunting-polyamory'
-tags: ['Unicorn Hunting', 'Polyamori', 'Triader', 'Parprivilegium', 'Öppna upp']
+tags: ['Unicorn Hunting', 'Polyamori', 'Triad', 'Parprivilegium', 'Öppna upp']
 ---
 
 Den som spenderar tillräckligt mycket tid i poly-sammanhang stöter förr eller senare på begreppet "unicorn hunting" – och sällan i positiv bemärkelse. Det beskriver ett specifikt mönster där ett etablerat par (oftast en man och en kvinna) tillsammans letar efter en bisexuell kvinna som ska bli en del av deras relation. Begreppet är en kritik av en dynamik, inte av själva relationsformen. Den här artikeln förklarar vad det handlar om, varför kritiken är befogad – och hur par som vill öppna upp kan göra det bättre.
@@ -29,7 +29,7 @@ Kritiken mot unicorn hunting riktar sig mot flera återkommande problem:
 
 ## Sunda triader finns fortfarande
 
-Det viktiga att förstå är att kritiken mot unicorn hunting inte betyder att relationer med tre personer i sig är problematiska. Det finns gott om lyckliga, stabila triader och thruples där tre människor faktiskt möter varandra som jämlikar. Skillnaden ligger inte i antalet inblandade, utan i hur relationen uppstår och sköts. En triad där alla tre är med och fattar beslut från början är något fundamentalt annat än ett sökande där två personer redan har bestämt allt och den tredje personen bara behöver "passa in".
+Det viktiga att förstå är att kritiken mot unicorn hunting inte betyder att relationer med tre personer i sig är problematiska. Det finns gott om lyckliga, stabila triader och [throuples](/sv/blog/throuple-triad-sv/) där tre människor faktiskt möter varandra som jämlikar. Skillnaden ligger inte i antalet inblandade, utan i hur relationen uppstår och sköts. En triad där alla tre är med och fattar beslut från början är något fundamentalt annat än ett sökande där två personer redan har bestämt allt och den tredje personen bara behöver "passa in".
 
 ## Så kan par träffa nya partners tillsammans på ett schysst sätt
 

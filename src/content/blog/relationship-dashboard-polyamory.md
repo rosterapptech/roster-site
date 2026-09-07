@@ -28,7 +28,7 @@ The underlying need is usually the same, regardless of which tool people pick: a
 
 **Notion templates ("Polyamory Couple's Dashboard").** The most widespread option is a DIY or community-shared Notion template that maps origin stories, agreements, date ideas, and health info into databases. The upside: maximum customizability — everyone builds exactly what they need. The downside: Notion is a general-purpose tool for notes and projects, not built for relationships — links between people, a network view, or wellness tracking all have to be painstakingly constructed by hand, and the template demands ongoing upkeep.
 
-**polycul.es.** A browser-based, visual web app for drawing your own polycule as an expandable relationship diagram — who's connected to whom, in what configuration. Good for pure network visualization, but with no agreement tracking, scheduling, or wellness features; it maps the structure, not the day-to-day.
+**polycul.es.** A browser-based, visual web app for drawing your own polycule as an expandable relationship diagram — who's connected to whom, in what configuration. Good for pure network visualization, but with no agreement tracking, scheduling, or wellness features; it maps the structure, not the day-to-day. If the drawing is all you need: our [polycule map maker](/en/polycule-map-maker/) does the same thing free and without an account, and the names never leave your browser.
 
 **PYE Poly Calendar App.** A calendar built specifically for scheduling logistics across multiple partners. It solves the scheduling problem well, but covers neither agreements nor relationship health nor a network overview — a tool for one slice of the need, not the whole picture.
 

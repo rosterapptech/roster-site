@@ -25,7 +25,7 @@ Vi har delat in begreppen i fyra grupper: relationsformer, människor och roller
 
 **Polyfidelitet:** En sluten polyamorös grupp där alla bara har intima relationer inom gruppen.
 
-**Triad / throuple:** En relation mellan tre personer som alla är förbundna med varandra.
+**Triad / throuple:** En relation mellan tre personer som alla är förbundna med varandra. Mer om det: [Throuple & triad förklarat](/sv/blog/throuple-triad-sv/).
 
 **Kvartett (quad):** En konstellation av fyra personer.
 
@@ -35,7 +35,7 @@ Vi har delat in begreppen i fyra grupper: relationsformer, människor och roller
 
 **Metamour:** Din partners partner, som du själv inte har en relation med. Ett av de mest centrala begreppen i gemenskapen.
 
-**Polycule:** Det samlade nätverket av människor som är förbundna med varandra via relationer.
+**Polycule:** Det samlade nätverket av människor som är förbundna med varandra via relationer. Utförligt i [Vad är ett polycule?](/sv/blog/vad-ar-ett-polycule/) – rita ditt eget i [polycule-kartgeneratorn](/sv/gor-polycule-karta/).
 
 **Hinge (gångjärn):** Personen i en V-form som har två partners som inte är ihop med varandra.
 
@@ -47,7 +47,7 @@ Vi har delat in begreppen i fyra grupper: relationsformer, människor och roller
 
 ## Känslor och dynamiker
 
-**Compersion:** Den glädje du känner när din partner är lycklig med någon annan. Beskrivs ofta som motsatsen till svartsjuka.
+**Compersion:** Den glädje du känner när din partner är lycklig med någon annan. Beskrivs ofta som motsatsen till svartsjuka. Utförligt förklarat i [Lära sig compersion](/sv/blog/compersion-lara/).
 
 **Svartsjuka:** I polyamorös kontext inget tabu, utan en signal som tas på allvar och kommuniceras.
 

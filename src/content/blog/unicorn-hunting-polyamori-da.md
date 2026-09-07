@@ -4,7 +4,7 @@ description: 'Hvad "unicorn hunting" betyder, hvorfor poly-communityet ofte brug
 pubDate: 2026-07-07
 lang: 'da'
 translationKey: 'unicorn-hunting-polyamory'
-tags: ['Unicorn Hunting', 'Polyamori', 'Triader', 'Parprivilegium', 'Åbne op']
+tags: ['Unicorn Hunting', 'Polyamori', 'Triade', 'Parprivilegium', 'Åbne op']
 ---
 
 Bruger man nok tid i poly-miljøer, støder man før eller siden på begrebet "unicorn hunting" – og sjældent i positiv forstand. Det beskriver et bestemt mønster, hvor et etableret par (typisk en mand og en kvinde) sammen leder efter en biseksuel kvinde, der kan blive en del af deres forhold. Begrebet er en kritik af en dynamik, ikke af selve relationsformen. Denne artikel forklarer, hvad det handler om, hvorfor kritikken er berettiget – og hvordan par, der gerne vil åbne op, kan gøre det bedre.
@@ -29,7 +29,7 @@ Kritikken af unicorn hunting retter sig mod flere tilbagevendende problemer:
 
 ## Sunde triader findes stadig
 
-Det er vigtigt at forstå: Kritikken af unicorn hunting betyder ikke, at trekantsforhold i sig selv er problematiske. Der findes mange lykkelige, stabile triader og thruples, hvor tre mennesker rent faktisk møder hinanden som ligeværdige. Forskellen ligger ikke i antallet af involverede, men i hvordan forholdet opstår og ledes. En triade, hvor alle tre er med til at træffe beslutninger fra starten, er noget fundamentalt andet end en søgning, hvor to mennesker allerede har fastlagt alt, og den tredje person bare skal "passe ind".
+Det er vigtigt at forstå: Kritikken af unicorn hunting betyder ikke, at trekantsforhold i sig selv er problematiske. Der findes mange lykkelige, stabile triader og [throuples](/da/blog/throuple-triade-da/), hvor tre mennesker rent faktisk møder hinanden som ligeværdige. Forskellen ligger ikke i antallet af involverede, men i hvordan forholdet opstår og ledes. En triade, hvor alle tre er med til at træffe beslutninger fra starten, er noget fundamentalt andet end en søgning, hvor to mennesker allerede har fastlagt alt, og den tredje person bare skal "passe ind".
 
 ## Sådan kan par date sammen på en fair måde
 

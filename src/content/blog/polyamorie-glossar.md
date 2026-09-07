@@ -25,7 +25,7 @@ Wir haben die Begriffe in vier Gruppen geordnet: Beziehungsformen, Menschen & Ro
 
 **Polyfidelität:** Eine geschlossene polyamore Gruppe, in der alle nur innerhalb der Gruppe intime Beziehungen haben.
 
-**Triade / Throuple:** Eine Beziehung zwischen drei Personen, die alle miteinander verbunden sind.
+**Triade / Throuple:** Eine Beziehung zwischen drei Personen, die alle miteinander verbunden sind. Mehr dazu: [Throuple & Triade einfach erklärt](/blog/throuple-triade/).
 
 **Quad:** Eine Konstellation aus vier Personen.
 
@@ -35,7 +35,7 @@ Wir haben die Begriffe in vier Gruppen geordnet: Beziehungsformen, Menschen & Ro
 
 **Metamour:** Der Partner deines Partners, mit dem du selbst keine Beziehung führst. Einer der zentralsten Begriffe der Szene.
 
-**Polycule (Polykül):** Das gesamte Netzwerk aus Menschen, die über Beziehungen miteinander verbunden sind.
+**Polycule (Polykül):** Das gesamte Netzwerk aus Menschen, die über Beziehungen miteinander verbunden sind. Ausführlich in [Was ist ein Polycule?](/blog/was-ist-ein-polycule/) – zeichnen lässt es sich im [Polycule-Map-Generator](/polycule-map-erstellen/).
 
 **Hinge (Scharnier):** Die Person in einer V-Form, die zwei Partner hat, welche untereinander nicht zusammen sind.
 
@@ -47,7 +47,7 @@ Wir haben die Begriffe in vier Gruppen geordnet: Beziehungsformen, Menschen & Ro
 
 ## Gefühle & Dynamiken
 
-**Compersion:** Die Freude, die du empfindest, wenn dein Partner mit einem anderen Menschen glücklich ist. Wird oft als das Gegenteil von Eifersucht beschrieben.
+**Compersion:** Die Freude, die du empfindest, wenn dein Partner mit einem anderen Menschen glücklich ist. Wird oft als das Gegenteil von Eifersucht beschrieben. Ausführlich erklärt im Artikel [Compersion lernen](/blog/compersion-lernen/).
 
 **Eifersucht:** In poly Beziehungen kein Tabu, sondern ein Signal, das ernst genommen und kommuniziert wird.
 

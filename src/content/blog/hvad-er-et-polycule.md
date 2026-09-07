@@ -36,7 +36,7 @@ En person har to partnere, der ikke har en romantisk relation med hinanden. Pers
 
 ### Triaden (throuple)
 
-Tre mennesker, der alle har en relation med hinanden. I modsætning til V-formen er alle tre romantisk eller seksuelt forbundne.
+Tre mennesker, der alle har en relation med hinanden. I modsætning til V-formen er alle tre romantisk eller seksuelt forbundne. Denne konstellation er så udbredt, at vi har givet den sin egen artikel: [Throuple & triade forklaret](/da/blog/throuple-triade-da/).
 
 ### Kvadruplen (quad)
 

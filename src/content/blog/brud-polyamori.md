@@ -21,7 +21,7 @@ Brud gør ondt, uanset relationsform. Men i polyamori kommer der et ekstra lag: 
 
 ## Sorg og compersion på samme tid
 
-En følelse, der overrasker mange: man kan være ægte glad for et andet, fortsat forhold og samtidig sørge over det, der slutter. Denne samtidighed er ikke en modsigelse, men typisk for brudsituationer i polyamori. At give sig selv rum til begge dele – uden at spille den ene følelse ud mod den anden – gør processen betydeligt lettere.
+En følelse, der overrasker mange: man kan være ægte glad for et andet, fortsat forhold og samtidig sørge over det, der slutter. Denne samtidighed er ikke en modsigelse, men typisk for brudsituationer i polyamori. At give sig selv rum til begge dele – uden at spille den ene følelse ud mod den anden – gør processen betydeligt lettere. Hvordan compersion overhovedet udvikler sig, står i artiklen [Lære compersion](/da/blog/compersion-laere/).
 
 ## Sådan inddrager man metamours i et brud
 

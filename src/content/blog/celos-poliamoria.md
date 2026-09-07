@@ -46,7 +46,7 @@ Los celos se sienten enormes y caóticos en el momento. Escribirlos los ordena. 
 
 ## 6. Permítete practicar lo contrario
 
-La compersión —la alegría por la felicidad de tu pareja con otra persona— no surge sola en la mayoría de las personas. Pero se puede practicar. Un primer paso: fíjate conscientemente en los momentos en que te resulta fácil alegrarte con alguien, y recuérdate que la felicidad de tu pareja no te quita nada.
+La [compersión](/es/blog/compersion-aprender/) —la alegría por la felicidad de tu pareja con otra persona— no surge sola en la mayoría de las personas. Pero se puede practicar. Un primer paso: fíjate conscientemente en los momentos en que te resulta fácil alegrarte con alguien, y recuérdate que la felicidad de tu pareja no te quita nada.
 
 Los celos rara vez son lo único que se tensa cuando hay varias relaciones a la vez: a menudo el verdadero culpable es, simplemente, la falta de estructura en el día a día. Cómo repartir tiempo, comunicación y capacidad de forma justa entre varias conexiones lo explicamos en el artículo [Gestionar varias relaciones a la vez](/es/blog/gestionar-varias-relaciones/).
 

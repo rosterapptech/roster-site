@@ -46,7 +46,7 @@ Jealousy feels huge and chaotic in the moment. Writing it down sorts it out. Not
 
 ## 6. Allow yourself to practise the opposite
 
-Compersion – the joy over your partner's happiness with someone else – does not come naturally for most people. But it can be practised. A first step: consciously notice the moments when it feels easy to share in someone's joy, and remind yourself that your partner's happiness takes nothing away from you.
+[Compersion](/en/blog/compersion-learning/) – the joy over your partner's happiness with someone else – does not come naturally for most people. But it can be practised. A first step: consciously notice the moments when it feels easy to share in someone's joy, and remind yourself that your partner's happiness takes nothing away from you.
 
 Jealousy is rarely the only thing under pressure once you have several relationships – often the real culprit is simply too little structure in everyday life. For how to fairly distribute time, communication, and capacity across multiple connections, see [Managing Multiple Relationships](/en/blog/managing-multiple-relationships/).
 

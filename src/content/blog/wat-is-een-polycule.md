@@ -36,7 +36,7 @@ Polycules bestaan in eindeloos veel varianten. Deze basisvormen helpen je het vo
 
 ### De triade (throuple)
 
-Drie mensen die allemaal een relatie met elkaar hebben. Anders dan bij de V-vorm zijn alle drie romantisch of seksueel verbonden.
+Drie mensen die allemaal een relatie met elkaar hebben. Anders dan bij de V-vorm zijn alle drie romantisch of seksueel verbonden. Deze constellatie komt zo vaak voor dat we er een eigen artikel aan hebben gewijd: [Throuple & triade uitgelegd](/nl/blog/throuple-triade-nl/).
 
 ### De quad
 
