@@ -23,7 +23,7 @@ In der Polyamorie geht es um mehrere parallele Liebesbeziehungen. Viele poly Men
 
 ## Beziehungsanarchie im Detail
 
-Beziehungsanarchie (englisch *Relationship Anarchy*, RA) geht einen Schritt weiter und stellt die Kategorien selbst infrage. Der Grundgedanke: Keine Beziehung sollte automatisch über einer anderen stehen, nur weil sie romantisch oder sexuell ist. Eine tiefe Freundschaft kann genauso zentral sein wie eine Liebesbeziehung. Statt nach gesellschaftlichen Vorlagen zu funktionieren, wird jede Verbindung individuell ausgehandelt – nach den Bedürfnissen der Beteiligten, nicht nach einem festen Skript.
+Beziehungsanarchie (englisch *Relationship Anarchy*, RA) geht einen Schritt weiter und stellt die Kategorien selbst infrage. Der Grundgedanke: Keine Beziehung sollte automatisch über einer anderen stehen, nur weil sie romantisch oder sexuell ist. Eine tiefe Freundschaft kann genauso zentral sein wie eine Liebesbeziehung. Statt nach gesellschaftlichen Vorlagen zu funktionieren, wird jede Verbindung individuell ausgehandelt – nach den Bedürfnissen der Beteiligten, nicht nach einem festen Skript. Dieses Skript hat einen eigenen Namen: den [Relationship Escalator](/blog/beziehungsrolltreppe-relationship-escalator/).
 
 Wichtig: Beziehungsanarchie bedeutet nicht „keine Verbindlichkeit" oder „keine Regeln". Es bedeutet die Abwesenheit von vorgegebener Hierarchie – nicht die Abwesenheit von Verantwortung. Beziehungsanarchisten treffen sehr wohl Absprachen, sie übernehmen sie nur bewusst, statt sie als selbstverständlich vorauszusetzen.
 

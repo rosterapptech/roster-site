@@ -77,7 +77,7 @@ Was in Beiträgen über Throuples selten vorkommt, im Alltag aber den größten 
 
 **Geld.** Drei Einkommen, drei unterschiedliche finanzielle Ausgangslagen, oft eine gemeinsame Wohnung. Die Miete zu dritt zu teilen klingt einfach, wird aber schnell schief, wenn nur zwei im Mietvertrag stehen. Mehr dazu unter [Finanzen in der Polyamorie](/blog/finanzen-polyamorie/).
 
-**Recht.** Der unromantische Teil: In Deutschland wie in den meisten Ländern können nur zwei Personen heiraten oder eine eingetragene Partnerschaft eingehen. Für die dritte Person heißt das im Ernstfall: keine automatischen Besuchs-, Auskunfts- oder Erbrechte. Vieles davon lässt sich privat regeln – Vorsorgevollmacht, Testament, alle Namen im Mietvertrag –, aber es passiert nicht von allein. Wer zu dritt langfristig plant, sollte das früh besprechen, am besten mit fachkundiger Beratung.
+**Recht.** Der unromantische Teil: In Deutschland wie in den meisten Ländern können nur zwei Personen heiraten oder eine eingetragene Partnerschaft eingehen. Für die dritte Person heißt das im Ernstfall: keine automatischen Besuchs-, Auskunfts- oder Erbrechte. Vieles davon lässt sich privat regeln – Vorsorgevollmacht, Testament, alle Namen im Mietvertrag –, aber es passiert nicht von allein. Wer zu dritt langfristig plant, sollte das früh besprechen, am besten mit fachkundiger Beratung. Einen Überblick über die Möglichkeiten gibt [Polyamorie und Recht](/blog/polyamorie-rechtliches-vorsorge/).
 
 **Kinder.** Auch hier gilt: Elternschaft zu dritt ist gelebte Realität, rechtlich aber meist nicht auf drei Personen abbildbar. Wie Familien damit umgehen, steht im Artikel [Polyamorie und Elternschaft](/blog/polyamorie-elternschaft/).
 

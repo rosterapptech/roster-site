@@ -44,7 +44,7 @@ Mehrere Beziehungen zu managen bedeutet auch, nicht bei jeder Kleinigkeit neu zu
 
 ### 3. Emotionale Kapazität ehrlich einschätzen
 
-Der am meisten unterschätzte Faktor: Zeit lässt sich einteilen, emotionale Kapazität nicht beliebig strecken. Wer merkt, dass er bei jeder neuen Verbindung erschöpfter statt erfüllter ist, managt nicht mehr – er überlebt nur noch. Ein ehrlicher, wiederkehrender Check mit dir selbst ("Trage ich das gerade wirklich gut, oder funktioniere ich nur noch?") ist wichtiger als jedes Zeitmanagement-System.
+Der am meisten unterschätzte Faktor: Zeit lässt sich einteilen, emotionale Kapazität nicht beliebig strecken. Wer merkt, dass er bei jeder neuen Verbindung erschöpfter statt erfüllter ist, managt nicht mehr – er überlebt nur noch. Ein ehrlicher, wiederkehrender Check mit dir selbst ("Trage ich das gerade wirklich gut, oder funktioniere ich nur noch?") ist wichtiger als jedes Zeitmanagement-System. Wenn die Antwort dauerhaft „nur noch funktionieren" lautet, bist du vermutlich [polysaturiert](/blog/polysaturation-polyamorie/).
 
 ## Die vier Bereiche, die du im Blick behalten solltest
 

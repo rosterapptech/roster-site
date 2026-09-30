@@ -23,7 +23,7 @@ Polyamory is about multiple parallel romantic relationships. Many polyamorous pe
 
 ## Relationship anarchy in detail
 
-Relationship anarchy (RA) goes a step further and questions the categories themselves. The core idea: no relationship should automatically rank above another just because it is romantic or sexual. A deep friendship can be just as central as a love relationship. Instead of following social templates, every connection is negotiated individually – based on the needs of those involved, not a fixed script.
+Relationship anarchy (RA) goes a step further and questions the categories themselves. The core idea: no relationship should automatically rank above another just because it is romantic or sexual. A deep friendship can be just as central as a love relationship. Instead of following social templates, every connection is negotiated individually – based on the needs of those involved, not a fixed script. That script has a name of its own: the [relationship escalator](/en/blog/relationship-escalator/).
 
 Important: relationship anarchy does not mean "no commitment" or "no rules". It means the absence of predetermined hierarchy – not the absence of responsibility. Relationship anarchists absolutely do make agreements; they simply take them on consciously rather than assuming them as given.
 

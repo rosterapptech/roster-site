@@ -44,7 +44,7 @@ Managing multiple relationships also means not renegotiating every little thing.
 
 ### 3. Honestly assessing your emotional capacity
 
-The most underestimated factor: time can be divided up, emotional capacity can't be stretched indefinitely. If you notice you feel more drained than fulfilled with every new connection, you're no longer managing – you're just surviving. An honest, recurring check-in with yourself ("Am I actually carrying this well, or just functioning?") matters more than any time-management system.
+The most underestimated factor: time can be divided up, emotional capacity can't be stretched indefinitely. If you notice you feel more drained than fulfilled with every new connection, you're no longer managing – you're just surviving. An honest, recurring check-in with yourself ("Am I actually carrying this well, or just functioning?") matters more than any time-management system. If the answer keeps coming back as "just functioning", you may well be [polysaturated](/en/blog/polysaturation/).
 
 ## The four areas worth tracking
 

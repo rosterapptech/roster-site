@@ -77,7 +77,7 @@ What rarely shows up in posts about throuples, but makes the biggest difference 
 
 **Money.** Three incomes, three different financial starting points, often one shared home. Splitting rent three ways sounds simple but gets lopsided fast when only two names are on the lease. More on this in [finances in polyamory](/en/blog/finances-polyamory/).
 
-**Law.** The unromantic part: in most countries only two people can marry or enter a registered partnership. For the third person that means no automatic visitation, information or inheritance rights when it matters. A lot of this can be arranged privately – power of attorney, a will, all names on the lease – but it does not happen by itself. If you are planning long term as three, discuss it early, ideally with qualified advice.
+**Law.** The unromantic part: in most countries only two people can marry or enter a registered partnership. For the third person that means no automatic visitation, information or inheritance rights when it matters. A lot of this can be arranged privately – power of attorney, a will, all names on the lease – but it does not happen by itself. If you are planning long term as three, discuss it early, ideally with qualified advice. An overview of the options is in [Polyamory and the law](/en/blog/polyamory-legal-protections/).
 
 **Children.** Same picture here: parenting as three is lived reality, but legally it usually cannot be mapped onto three people. How families handle that is covered in [polyamory and parenting](/en/blog/polyamory-parenting/).
 

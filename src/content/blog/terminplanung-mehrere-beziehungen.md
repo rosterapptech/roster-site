@@ -43,7 +43,7 @@ Das hängt stark vom gewählten Beziehungsmodell ab. Wer nach dem Prinzip [Kitch
 
 ## Wenn Termine kollidieren
 
-Kollisionen passieren trotz gutem System irgendwann – Krankheit, spontane Wünsche, Notfälle. Entscheidend ist dann nicht, dass es nie passiert, sondern wie damit umgegangen wird: schnell und ehrlich informieren, gemeinsam eine faire Lösung finden, und im Zweifel demjenigen Vorrang geben, dessen Termin am wenigsten flexibel verschiebbar ist – statt automatisch der "wichtigeren" Beziehung.
+Kollisionen passieren trotz gutem System irgendwann – Krankheit, spontane Wünsche, Notfälle. Entscheidend ist dann nicht, dass es nie passiert, sondern wie damit umgegangen wird: schnell und ehrlich informieren, gemeinsam eine faire Lösung finden, und im Zweifel demjenigen Vorrang geben, dessen Termin am wenigsten flexibel verschiebbar ist – statt automatisch der "wichtigeren" Beziehung. Besonders heikel wird das an Terminen, die es nur einmal im Jahr gibt – wie du damit umgehst, steht in [Weihnachten in der Polyamorie](/blog/feiertage-weihnachten-polyamorie/).
 
 ## Terminplanung und emotionale Fairness
 

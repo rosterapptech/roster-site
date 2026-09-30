@@ -43,7 +43,7 @@ That depends heavily on the relationship model. Anyone living by [kitchen table 
 
 ## When plans collide
 
-Collisions happen eventually, even with a good system – illness, spontaneous plans, emergencies. What matters isn't that it never happens, but how it's handled: communicate quickly and honestly, work out a fair solution together, and when in doubt, give priority to whichever plan is least flexible to move – not automatically to the "more important" relationship.
+Collisions happen eventually, even with a good system – illness, spontaneous plans, emergencies. What matters isn't that it never happens, but how it's handled: communicate quickly and honestly, work out a fair solution together, and when in doubt, give priority to whichever plan is least flexible to move – not automatically to the "more important" relationship. It gets especially tricky with dates that only come once a year – how to handle those is covered in [Polyamory at Christmas](/en/blog/polyamory-holidays-christmas/).
 
 ## Scheduling and emotional fairness
 
