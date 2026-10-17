@@ -70,7 +70,7 @@ const faqs = [
   { q: 'Vem är Roster till för?', a: 'För personer i polyamorösa, öppna eller på annat sätt etiskt icke-monogama relationer som vill behålla överblicken — utan kalkylblad, utan spårning.' },
   { q: 'Lagrar Roster mina data i molnet?', a: 'Nej. Roster är local-first: dina data finns på din enhet. Det finns ingen Roster-backend och ingen spårning.' },
   { q: 'Behöver jag ett konto?', a: 'Nej. Ladda ner appen och sätt igång. Ingen registrering, ingen e-postadress behövs.' },
-  { q: 'Vad kostar Roster?', a: 'Grundfunktionerna är gratis. Premium kostar 0,99 €/vecka, 2,99 €/månad (med 3 dagars gratis provperiod) eller 29,90 €/år.' },
+  { q: 'Vad kostar Roster?', a: 'Grundfunktionerna är gratis. Premium kostar 1,99 €/vecka, 3,99 €/månad eller 34,99 €/år (med 7 dagars gratis provperiod).' },
   { q: 'På vilka enheter fungerar Roster?', a: 'Roster är en native iOS-app för iPhone, byggd med SwiftUI. Tillgänglig på tyska, engelska, spanska, nederländska, danska och svenska.' },
 ];
 
@@ -92,9 +92,9 @@ const schema = {
       downloadUrl: 'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8',
       installUrl: 'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8',
       offers: [
-        { '@type': 'Offer', price: '0.99', priceCurrency: 'EUR', name: 'Veckovis' },
-        { '@type': 'Offer', price: '2.99', priceCurrency: 'EUR', name: 'Månadsvis' },
-        { '@type': 'Offer', price: '29.90', priceCurrency: 'EUR', name: 'Årsvis' },
+        { '@type': 'Offer', price: '1.99', priceCurrency: 'EUR', name: 'Veckovis' },
+        { '@type': 'Offer', price: '3.99', priceCurrency: 'EUR', name: 'Månadsvis' },
+        { '@type': 'Offer', price: '34.99', priceCurrency: 'EUR', name: 'Årsvis' },
       ],
       author: { '@type': 'Organization', name: 'Slowcraft' },
     },
@@ -164,19 +164,19 @@ const schema = {
         <div class="price-grid">
           <div class="card price">
             <span class="price-name">Veckovis</span>
-            <span class="price-amount">0,99 €<small>/vecka</small></span>
+            <span class="price-amount">1,99 €<small>/vecka</small></span>
             <p class="price-note">För att prova.</p>
           </div>
           <div class="card price">
             <span class="price-name">Månadsvis</span>
-            <span class="price-amount">2,99 €<small>/månad</small></span>
-            <p class="price-note">Inkl. 3 dagars gratis provperiod.</p>
+            <span class="price-amount">3,99 €<small>/månad</small></span>
+            <p class="price-note">Flexibelt, avsluta när du vill.</p>
           </div>
           <div class="card price featured">
             <span class="badge">Populär</span>
             <span class="price-name">Årsvis</span>
-            <span class="price-amount">29,90 €<small>/år</small></span>
-            <p class="price-note">Spara över 50 % jämfört med månadsvis.</p>
+            <span class="price-amount">34,99 €<small>/år</small></span>
+            <p class="price-note">7 dagars gratis provperiod. Spara cirka 27 % jämfört med månadsvis.</p>
           </div>
         </div>
       </div>
@@ -247,7 +247,8 @@ const schema = {
       grid-template-columns: 1fr;
     }
     .pricing .price-grid {
-      gap: 10px;
+      grid-template-columns: 1fr;
+      gap: 12px;
     }
     .price {
       padding: 16px 12px;

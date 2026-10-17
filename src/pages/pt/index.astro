@@ -70,7 +70,7 @@ const faqs = [
   { q: 'Para quem é o Roster?', a: 'Para pessoas em relacionamentos poliamorosos, abertos ou de qualquer outro tipo eticamente não monogâmico que querem manter uma visão geral — sem planilhas, sem rastreamento.' },
   { q: 'O Roster guarda meus dados na nuvem?', a: 'Não. O Roster é local-first: seus dados ficam no seu dispositivo. Não existe backend do Roster nem rastreamento.' },
   { q: 'Preciso criar uma conta?', a: 'Não. Baixe o app e comece a usar. Sem cadastro, sem e-mail necessário.' },
-  { q: 'Quanto custa o Roster?', a: 'O básico é gratuito. O Premium custa 0,99 €/semana, 2,99 €/mês (com 3 dias grátis) ou 29,90 €/ano.' },
+  { q: 'Quanto custa o Roster?', a: 'O básico é gratuito. O Premium custa 1,99 €/semana, 3,99 €/mês ou 34,99 €/ano (com 7 dias grátis).' },
   { q: 'Em quais dispositivos o Roster funciona?', a: 'O Roster é um app nativo de iOS para iPhone, desenvolvido com SwiftUI. Disponível em alemão, inglês, espanhol, neerlandês, dinamarquês, sueco e português.' },
 ];
 
@@ -92,9 +92,9 @@ const schema = {
       downloadUrl: 'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8',
       installUrl: 'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8',
       offers: [
-        { '@type': 'Offer', price: '0.99', priceCurrency: 'EUR', name: 'Semanal' },
-        { '@type': 'Offer', price: '2.99', priceCurrency: 'EUR', name: 'Mensal' },
-        { '@type': 'Offer', price: '29.90', priceCurrency: 'EUR', name: 'Anual' },
+        { '@type': 'Offer', price: '1.99', priceCurrency: 'EUR', name: 'Semanal' },
+        { '@type': 'Offer', price: '3.99', priceCurrency: 'EUR', name: 'Mensal' },
+        { '@type': 'Offer', price: '34.99', priceCurrency: 'EUR', name: 'Anual' },
       ],
       author: { '@type': 'Organization', name: 'Slowcraft' },
     },
@@ -164,19 +164,19 @@ const schema = {
         <div class="price-grid">
           <div class="card price">
             <span class="price-name">Semanal</span>
-            <span class="price-amount">0,99 €<small>/semana</small></span>
+            <span class="price-amount">1,99 €<small>/semana</small></span>
             <p class="price-note">Para experimentar.</p>
           </div>
           <div class="card price">
             <span class="price-name">Mensal</span>
-            <span class="price-amount">2,99 €<small>/mês</small></span>
-            <p class="price-note">Inclui 3 dias grátis.</p>
+            <span class="price-amount">3,99 €<small>/mês</small></span>
+            <p class="price-note">Flexível, cancele quando quiser.</p>
           </div>
           <div class="card price featured">
             <span class="badge">Popular</span>
             <span class="price-name">Anual</span>
-            <span class="price-amount">29,90 €<small>/ano</small></span>
-            <p class="price-note">Economize mais de 50% em relação ao mensal.</p>
+            <span class="price-amount">34,99 €<small>/ano</small></span>
+            <p class="price-note">7 dias grátis. Economize cerca de 27% em relação ao mensal.</p>
           </div>
         </div>
       </div>
@@ -247,7 +247,8 @@ const schema = {
       grid-template-columns: 1fr;
     }
     .pricing .price-grid {
-      gap: 10px;
+      grid-template-columns: 1fr;
+      gap: 12px;
     }
     .price {
       padding: 16px 12px;

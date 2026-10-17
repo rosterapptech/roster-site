@@ -111,7 +111,7 @@ const faqs = [
   },
   {
     q: 'Was kostet Roster?',
-    a: 'Die Basis ist kostenlos nutzbar. Premium gibt es für 0,99 € pro Woche, 2,99 € pro Monat (mit 3 Tagen gratis) oder 29,90 € pro Jahr.',
+    a: 'Die Basis ist kostenlos nutzbar. Premium gibt es für 1,99 € pro Woche, 3,99 € pro Monat oder 34,99 € pro Jahr (mit 7 Tagen gratis).',
   },
   {
     q: 'Auf welchen Geräten läuft Roster?',
@@ -155,9 +155,9 @@ const schema = {
       downloadUrl: 'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8',
       installUrl: 'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8',
       offers: [
-        { '@type': 'Offer', price: '0.99', priceCurrency: 'EUR', name: 'Wöchentlich' },
-        { '@type': 'Offer', price: '2.99', priceCurrency: 'EUR', name: 'Monatlich' },
-        { '@type': 'Offer', price: '29.90', priceCurrency: 'EUR', name: 'Jährlich' },
+        { '@type': 'Offer', price: '1.99', priceCurrency: 'EUR', name: 'Wöchentlich' },
+        { '@type': 'Offer', price: '3.99', priceCurrency: 'EUR', name: 'Monatlich' },
+        { '@type': 'Offer', price: '34.99', priceCurrency: 'EUR', name: 'Jährlich' },
       ],
       author: { '@type': 'Organization', name: 'Slowcraft' },
     },
@@ -257,19 +257,19 @@ const schema = {
         <div class="price-grid">
           <div class="card price">
             <span class="price-name">Wöchentlich</span>
-            <span class="price-amount">0,99 €<small>/Woche</small></span>
+            <span class="price-amount">1,99 €<small>/Woche</small></span>
             <p class="price-note">Zum Reinschnuppern.</p>
           </div>
           <div class="card price">
             <span class="price-name">Monatlich</span>
-            <span class="price-amount">2,99 €<small>/Monat</small></span>
-            <p class="price-note">Inklusive 3 Tage gratis.</p>
+            <span class="price-amount">3,99 €<small>/Monat</small></span>
+            <p class="price-note">Flexibel, jederzeit kündbar.</p>
           </div>
           <div class="card price featured">
             <span class="badge">Beliebt</span>
             <span class="price-name">Jährlich</span>
-            <span class="price-amount">29,90 €<small>/Jahr</small></span>
-            <p class="price-note">Spare über 50 % gegenüber monatlich.</p>
+            <span class="price-amount">34,99 €<small>/Jahr</small></span>
+            <p class="price-note">7 Tage gratis testen. Spare rund 27 % gegenüber monatlich.</p>
           </div>
         </div>
       </div>
@@ -416,9 +416,11 @@ const schema = {
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     cursor: default;
   }
-  .price:hover {
-    transform: scale(1.04);
-    z-index: 1;
+  @media (hover: hover) {
+    .price:hover {
+      transform: scale(1.04);
+      z-index: 1;
+    }
   }
   .price-name {
     font-size: 0.85rem;
@@ -537,7 +539,8 @@ const schema = {
       grid-template-columns: 1fr;
     }
     .pricing .price-grid {
-      gap: 10px;
+      grid-template-columns: 1fr;
+      gap: 12px;
     }
     .price {
       padding: 16px 12px;

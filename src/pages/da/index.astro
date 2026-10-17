@@ -70,7 +70,7 @@ const faqs = [
   { q: 'Hvem er Roster til?', a: 'Til mennesker i polyamorøse, åbne eller på anden måde etisk ikke-monogame forhold, der vil bevare overblikket — uden regneark, uden sporing.' },
   { q: 'Gemmer Roster mine data i skyen?', a: 'Nej. Roster er local-first: Dine data ligger på din enhed. Der er ingen Roster-backend og ingen sporing.' },
   { q: 'Har jeg brug for en konto?', a: 'Nej. Download appen og kom i gang. Ingen registrering, ingen e-mail nødvendig.' },
-  { q: 'Hvad koster Roster?', a: 'Basis er gratis. Premium koster 0,99 €/uge, 2,99 €/måned (med 3 dages gratis prøve) eller 29,90 €/år.' },
+  { q: 'Hvad koster Roster?', a: 'Basis er gratis. Premium koster 1,99 €/uge, 3,99 €/måned eller 34,99 €/år (med 7 dages gratis prøve).' },
   { q: 'På hvilke enheder kører Roster?', a: 'Roster er en native iOS-app til iPhone, bygget med SwiftUI. Tilgængelig på tysk, engelsk, spansk, nederlandsk, dansk og svensk.' },
 ];
 
@@ -92,9 +92,9 @@ const schema = {
       downloadUrl: 'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8',
       installUrl: 'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8',
       offers: [
-        { '@type': 'Offer', price: '0.99', priceCurrency: 'EUR', name: 'Ugentlig' },
-        { '@type': 'Offer', price: '2.99', priceCurrency: 'EUR', name: 'Månedlig' },
-        { '@type': 'Offer', price: '29.90', priceCurrency: 'EUR', name: 'Årlig' },
+        { '@type': 'Offer', price: '1.99', priceCurrency: 'EUR', name: 'Ugentlig' },
+        { '@type': 'Offer', price: '3.99', priceCurrency: 'EUR', name: 'Månedlig' },
+        { '@type': 'Offer', price: '34.99', priceCurrency: 'EUR', name: 'Årlig' },
       ],
       author: { '@type': 'Organization', name: 'Slowcraft' },
     },
@@ -164,19 +164,19 @@ const schema = {
         <div class="price-grid">
           <div class="card price">
             <span class="price-name">Ugentlig</span>
-            <span class="price-amount">0,99 €<small>/uge</small></span>
+            <span class="price-amount">1,99 €<small>/uge</small></span>
             <p class="price-note">Til at prøve af.</p>
           </div>
           <div class="card price">
             <span class="price-name">Månedlig</span>
-            <span class="price-amount">2,99 €<small>/måned</small></span>
-            <p class="price-note">Inkl. 3 dages gratis prøve.</p>
+            <span class="price-amount">3,99 €<small>/måned</small></span>
+            <p class="price-note">Fleksibelt, kan opsiges når som helst.</p>
           </div>
           <div class="card price featured">
             <span class="badge">Populær</span>
             <span class="price-name">Årlig</span>
-            <span class="price-amount">29,90 €<small>/år</small></span>
-            <p class="price-note">Spar over 50 % ift. månedlig.</p>
+            <span class="price-amount">34,99 €<small>/år</small></span>
+            <p class="price-note">7 dages gratis prøve. Spar ca. 27 % ift. månedlig.</p>
           </div>
         </div>
       </div>
@@ -247,7 +247,8 @@ const schema = {
       grid-template-columns: 1fr;
     }
     .pricing .price-grid {
-      gap: 10px;
+      grid-template-columns: 1fr;
+      gap: 12px;
     }
     .price {
       padding: 16px 12px;

@@ -70,7 +70,7 @@ const faqs = [
   { q: 'Voor wie is Roster gemaakt?', a: 'Voor mensen in polyamoreuze, open of anderszins consensueel niet-monogame relaties die het overzicht willen bewaren — zonder spreadsheets, zonder tracking.' },
   { q: 'Slaat Roster mijn gegevens op in de cloud?', a: 'Nee. Roster is local-first: jouw gegevens staan op jouw apparaat. Er is geen Roster-backend en geen tracking.' },
   { q: 'Heb ik een account nodig?', a: 'Nee. Download de app en begin. Geen registratie, geen e-mail vereist.' },
-  { q: 'Wat kost Roster?', a: 'De basis is gratis. Premium kost €0,99/week, €2,99/maand (met 3 dagen gratis) of €29,90/jaar.' },
+  { q: 'Wat kost Roster?', a: 'De basis is gratis. Premium kost €1,99/week, €3,99/maand of €34,99/jaar (met 7 dagen gratis).' },
   { q: 'Op welke apparaten werkt Roster?', a: 'Roster is een native iOS-app voor iPhone, gebouwd met SwiftUI. Beschikbaar in het Duits, Engels, Spaans, Nederlands, Deens en Zweeds.' },
 ];
 
@@ -92,9 +92,9 @@ const schema = {
       downloadUrl: 'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8',
       installUrl: 'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8',
       offers: [
-        { '@type': 'Offer', price: '0.99', priceCurrency: 'EUR', name: 'Wekelijks' },
-        { '@type': 'Offer', price: '2.99', priceCurrency: 'EUR', name: 'Maandelijks' },
-        { '@type': 'Offer', price: '29.90', priceCurrency: 'EUR', name: 'Jaarlijks' },
+        { '@type': 'Offer', price: '1.99', priceCurrency: 'EUR', name: 'Wekelijks' },
+        { '@type': 'Offer', price: '3.99', priceCurrency: 'EUR', name: 'Maandelijks' },
+        { '@type': 'Offer', price: '34.99', priceCurrency: 'EUR', name: 'Jaarlijks' },
       ],
       author: { '@type': 'Organization', name: 'Slowcraft' },
     },
@@ -164,19 +164,19 @@ const schema = {
         <div class="price-grid">
           <div class="card price">
             <span class="price-name">Wekelijks</span>
-            <span class="price-amount">€0,99<small>/week</small></span>
+            <span class="price-amount">€1,99<small>/week</small></span>
             <p class="price-note">Om te proberen.</p>
           </div>
           <div class="card price">
             <span class="price-name">Maandelijks</span>
-            <span class="price-amount">€2,99<small>/maand</small></span>
-            <p class="price-note">Inclusief 3 dagen gratis.</p>
+            <span class="price-amount">€3,99<small>/maand</small></span>
+            <p class="price-note">Flexibel, altijd opzegbaar.</p>
           </div>
           <div class="card price featured">
             <span class="badge">Populair</span>
             <span class="price-name">Jaarlijks</span>
-            <span class="price-amount">€29,90<small>/jaar</small></span>
-            <p class="price-note">Bespaar meer dan 50% t.o.v. maandelijks.</p>
+            <span class="price-amount">€34,99<small>/jaar</small></span>
+            <p class="price-note">7 dagen gratis proberen. Bespaar ongeveer 27% t.o.v. maandelijks.</p>
           </div>
         </div>
       </div>
@@ -247,7 +247,8 @@ const schema = {
       grid-template-columns: 1fr;
     }
     .pricing .price-grid {
-      gap: 10px;
+      grid-template-columns: 1fr;
+      gap: 12px;
     }
     .price {
       padding: 16px 12px;

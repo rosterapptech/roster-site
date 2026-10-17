@@ -102,4 +102,17 @@ const base = lang === 'de' ? '' : `/${lang}`;
       margin-left: auto;
     }
   }
+  /* Sehr schmale Handys (320px): langer CTA-Text darf nicht über den Rand ragen */
+  @media (max-width: 400px) {
+    .header-cta {
+      font-size: 0.8rem;
+      padding: 0.55em 0.9em;
+    }
+  }
+  @media (max-width: 340px) {
+    .header-cta {
+      font-size: 0.7rem;
+      padding: 0.5em 0.7em;
+    }
+  }
 </style>

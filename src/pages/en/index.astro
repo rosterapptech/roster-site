@@ -70,7 +70,7 @@ const faqs = [
   { q: 'Who is Roster for?', a: 'People in polyamorous, open or otherwise ethically non-monogamous relationships who want to stay on top of things — without spreadsheets, without tracking.' },
   { q: 'Does Roster store my data in the cloud?', a: 'No. Roster is local-first: your data lives on your device. There is no Roster backend and no tracking.' },
   { q: 'Do I need an account?', a: 'No. Download the app and start. No sign-up, no email required.' },
-  { q: 'What does Roster cost?', a: 'The basics are free. Premium is €0.99/week, €2.99/month (with a 3-day free trial) or €29.90/year.' },
+  { q: 'What does Roster cost?', a: 'The basics are free. Premium is €1.99/week, €3.99/month or €34.99/year (with a 7-day free trial).' },
   { q: 'Which devices does Roster run on?', a: 'Roster is a native iOS app for iPhone, built with SwiftUI. Available in German, English, Spanish, Dutch, Danish and Swedish.' },
   { q: 'What is Vio?', a: 'Vio is your personal companion inside the app — a gentle inner voice that checks in with you daily. Sometimes light, sometimes deeper. Vio retains nothing long-term; everything stays on your device.' },
 ];
@@ -93,9 +93,9 @@ const schema = {
       downloadUrl: 'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8',
       installUrl: 'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8',
       offers: [
-        { '@type': 'Offer', price: '0.99', priceCurrency: 'EUR', name: 'Weekly' },
-        { '@type': 'Offer', price: '2.99', priceCurrency: 'EUR', name: 'Monthly' },
-        { '@type': 'Offer', price: '29.90', priceCurrency: 'EUR', name: 'Yearly' },
+        { '@type': 'Offer', price: '1.99', priceCurrency: 'EUR', name: 'Weekly' },
+        { '@type': 'Offer', price: '3.99', priceCurrency: 'EUR', name: 'Monthly' },
+        { '@type': 'Offer', price: '34.99', priceCurrency: 'EUR', name: 'Yearly' },
       ],
       author: { '@type': 'Organization', name: 'Slowcraft' },
     },
@@ -169,19 +169,19 @@ const schema = {
         <div class="price-grid">
           <div class="card price">
             <span class="price-name">Weekly</span>
-            <span class="price-amount">€0.99<small>/week</small></span>
+            <span class="price-amount">€1.99<small>/week</small></span>
             <p class="price-note">To try it out.</p>
           </div>
           <div class="card price">
             <span class="price-name">Monthly</span>
-            <span class="price-amount">€2.99<small>/month</small></span>
-            <p class="price-note">Includes 3 days free.</p>
+            <span class="price-amount">€3.99<small>/month</small></span>
+            <p class="price-note">Flexible, cancel anytime.</p>
           </div>
           <div class="card price featured">
             <span class="badge">Popular</span>
             <span class="price-name">Yearly</span>
-            <span class="price-amount">€29.90<small>/year</small></span>
-            <p class="price-note">Save over 50% vs monthly.</p>
+            <span class="price-amount">€34.99<small>/year</small></span>
+            <p class="price-note">7 days free trial. Save about 27% vs monthly.</p>
           </div>
         </div>
       </div>
@@ -252,7 +252,8 @@ const schema = {
       grid-template-columns: 1fr;
     }
     .pricing .price-grid {
-      gap: 10px;
+      grid-template-columns: 1fr;
+      gap: 12px;
     }
     .price {
       padding: 16px 12px;
