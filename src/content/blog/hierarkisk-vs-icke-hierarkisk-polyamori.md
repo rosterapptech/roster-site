@@ -11,7 +11,7 @@ Få frågor skapar så mycket diskussion i poly-communities som denna: bör rela
 
 ## Vad hierarkisk polyamori innebär
 
-I hierarkisk polyamori finns en uttryckligen namngiven rangordning mellan relationer. Oftast finns en "primary partner" eller "nesting partner" – någon du bor tillsammans med, delar ekonomi med eller fattar långsiktiga livsbeslut tillsammans med. Andra relationer benämns "secondary" och har ofta mindre inflytande över viktiga beslut. Vetorätt är ett vanligt inslag: primary-partnern kan begränsa eller till och med avsluta en ny relation om den uppfattas som ett hot mot primärrelationen. Modellen har ofta praktiska rötter – att dela bostad, barn eller ett gemensamt konto innebär oundvikligen beslut som påverkar andra relationer.
+I hierarkisk polyamori finns en uttryckligen namngiven rangordning mellan relationer. Oftast finns en "primary partner" eller "[nesting partner](/sv/blog/nesting-partner-forklarad/)" – någon du bor tillsammans med, delar ekonomi med eller fattar långsiktiga livsbeslut tillsammans med. Andra relationer benämns "secondary" och har ofta mindre inflytande över viktiga beslut. Vetorätt är ett vanligt inslag: primary-partnern kan begränsa eller till och med avsluta en ny relation om den uppfattas som ett hot mot primärrelationen. Modellen har ofta praktiska rötter – att dela bostad, barn eller ett gemensamt konto innebär oundvikligen beslut som påverkar andra relationer.
 
 ## Vad icke-hierarkisk polyamori innebär
 

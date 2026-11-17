@@ -9,6 +9,8 @@ tags: ['Polyamorie', 'Mythes', 'Vooroordelen', 'Relaties']
 
 Weinig relatievormen worden zo hardnekkig verkeerd begrepen als polyamorie. Wie openlijk meerdere relaties onderhoudt, krijgt vroeg of laat dezelfde vragen en aannames te horen – meestal met een ondertoon die meer zegt over de vooroordelen van de vragensteller dan over de werkelijkheid van poly leven. Tijd om de meest gehoorde mythes eens grondig te ontrafelen.
 
+Hoeveel mensen echt niet-monogaam leven, lees je in de [polyamorie-statistieken](/nl/blog/polyamorie-statistieken/).
+
 ## Mythe: polyamorie is gewoon een excuus om vreemd te gaan
 
 Het verschil is eigenlijk simpel: vreemdgaan betekent iets verbergen voor je partner. Polyamorie betekent dat iedereen die erbij betrokken is het weet en ermee instemt. Niet het hebben van meerdere relaties bepaalt of iets ontrouw is, maar het ontbreken van eerlijkheid en toestemming. Poly mensen steken vaak zelfs meer tijd in afspraken en openheid dan monogame stellen, omdat hun relatievorm zonder die transparantie simpelweg niet werkt. Vreemdgaan zoekt juist de afwezigheid van gevolgen; polyamorie zoekt het tegenovergestelde – een structuur waarin eerlijke communicatie de basisvoorwaarde is.

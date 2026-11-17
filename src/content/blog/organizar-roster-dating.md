@@ -1,6 +1,7 @@
 ---
 title: 'Organizar el Roster Dating: cómo no perder el hilo con varias citas'
-description: 'Roster Dating en la práctica: cómo organizar varias citas en paralelo, no mezclar los detalles y ser honesto con tu propia capacidad.'
+seoTitle: 'Roster dating: 3 reglas para organizar varias citas'
+description: 'Varias citas a la vez sin perder el hilo: 3 reglas básicas para el roster dating: anota detalles de cada persona, sé honesto con tu capacidad y habla claro.'
 pubDate: 2026-07-06
 lang: 'es'
 translationKey: 'roster-dating-guide'

@@ -11,7 +11,7 @@ Few questions spark as much discussion in polyamorous communities as this one: s
 
 ## What hierarchical polyamory means
 
-In hierarchical polyamory, there is an explicitly named rank between relationships. Usually there is a "primary partner" or "nesting partner" – someone you live with, share finances with, or make long-term life decisions alongside. Other relationships are labeled "secondary" and often have less say in major decisions. Veto power is a common feature: the primary partner can restrict or even end a new relationship if it's seen as threatening the primary one. This model often grew out of practical necessity – sharing a home, kids, or a joint bank account inevitably means making decisions that affect other relationships too.
+In hierarchical polyamory, there is an explicitly named rank between relationships. Usually there is a "primary partner" or "[nesting partner](/en/blog/nesting-partner-explained/)" – someone you live with, share finances with, or make long-term life decisions alongside. Other relationships are labeled "secondary" and often have less say in major decisions. Veto power is a common feature: the primary partner can restrict or even end a new relationship if it's seen as threatening the primary one. This model often grew out of practical necessity – sharing a home, kids, or a joint bank account inevitably means making decisions that affect other relationships too.
 
 ## What non-hierarchical polyamory means
 

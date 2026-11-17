@@ -84,7 +84,7 @@ Systemer har brug for et sted at leve. I praksis krystalliserer fire tilgange si
 
 ## At organisere er omsorg, ikke kontrol
 
-**Roster** er bygget netop til dette hul – en app, der giver struktur uden at kontrollere. Under "Relationer" er en hurtig swipe nok til at registrere, at du har set en person i dag – ingen omstændelig log, bare et ærligt øjebliksbillede. Vibe Radar viser dig med et blik, hvordan hvert forhold har det, fra solrigt til radiotavshed. Og Polycule Map gør hele dit netværk synligt på én gang. Alle data forbliver lokalt på din enhed, uden konto og uden sporing. Det er kernen: struktur, ikke kontrol – et værktøj, der hjælper dig med at være til stede i stedet for at diktere, hvordan dine forhold skal se ud.
+**[Roster](/da/blog/app-til-at-organisere-polyamorose-forhold/)** er bygget netop til dette hul – en app, der giver struktur uden at kontrollere. Under "Relationer" er en hurtig swipe nok til at registrere, at du har set en person i dag – ingen omstændelig log, bare et ærligt øjebliksbillede. Vibe Radar viser dig med et blik, hvordan hvert forhold har det, fra solrigt til radiotavshed. Og Polycule Map gør hele dit netværk synligt på én gang. Alle data forbliver lokalt på din enhed, uden konto og uden sporing. Det er kernen: struktur, ikke kontrol – et værktøj, der hjælper dig med at være til stede i stedet for at diktere, hvordan dine forhold skal se ud.
 
 Fylder jalousi også noget for dig, går [Jalousi i polyamori](/da/blog/jalousi-polyamori/) mere i dybden med det. Og vil du forstå dit hele netværk bedre, er det værd at læse [Hvad er et polycule?](/da/blog/hvad-er-et-polycule/)
 

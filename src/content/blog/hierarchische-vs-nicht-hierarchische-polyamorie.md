@@ -11,7 +11,7 @@ Kaum eine Frage sorgt in poly Communities für so viel Diskussion wie diese: Sol
 
 ## Was hierarchische Polyamorie bedeutet
 
-Bei hierarchischer Polyamorie gibt es eine explizit benannte Rangordnung zwischen Beziehungen. Meist existiert ein „Primary Partner" oder „Nesting Partner" – jemand, mit dem man zusammenlebt, Finanzen teilt oder langfristige Lebensentscheidungen abstimmt. Weitere Beziehungen werden als „Secondary" bezeichnet und haben oft weniger Mitspracherecht bei wichtigen Entscheidungen. Häufig gehört ein Vetorecht dazu: Der Primary Partner kann neue Beziehungen einschränken oder sogar beenden, wenn sie die Primärbeziehung bedrohen. Dieses Modell entstand oft aus praktischen Gründen – wer eine gemeinsame Wohnung, Kinder oder ein gemeinsames Konto hat, trifft zwangsläufig Entscheidungen, die andere Beziehungen mitbeeinflussen.
+Bei hierarchischer Polyamorie gibt es eine explizit benannte Rangordnung zwischen Beziehungen. Meist existiert ein „Primary Partner" oder „[Nesting Partner](/blog/nesting-partner-erklaert/)" – jemand, mit dem man zusammenlebt, Finanzen teilt oder langfristige Lebensentscheidungen abstimmt. Weitere Beziehungen werden als „Secondary" bezeichnet und haben oft weniger Mitspracherecht bei wichtigen Entscheidungen. Häufig gehört ein Vetorecht dazu: Der Primary Partner kann neue Beziehungen einschränken oder sogar beenden, wenn sie die Primärbeziehung bedrohen. Dieses Modell entstand oft aus praktischen Gründen – wer eine gemeinsame Wohnung, Kinder oder ein gemeinsames Konto hat, trifft zwangsläufig Entscheidungen, die andere Beziehungen mitbeeinflussen.
 
 ## Was nicht-hierarchische Polyamorie bedeutet
 

@@ -40,7 +40,7 @@ Agrupamos os termos em quatro categorias: estruturas de relacionamento, pessoas 
 
 **Hinge (dobradiça):** A pessoa em uma estrutura em V que tem dois parceiros que não estão juntos entre si.
 
-**Nesting partner:** Um parceiro com quem você mora, independentemente de esse relacionamento ser considerado "primário".
+**[Nesting partner](/pt/blog/nesting-partner-explicado-pt/):** Um parceiro com quem você mora, independentemente de esse relacionamento ser considerado "primário".
 
 **Parceiro primário / secundário:** Termos da poliamoria hierárquica que descrevem diferentes níveis de prioridade entre relacionamentos. Na anarquia relacional, são deliberadamente rejeitados.
 

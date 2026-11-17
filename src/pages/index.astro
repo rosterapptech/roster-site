@@ -1,4 +1,5 @@
 ---
+import { APP_STORE_PLAIN_URL, appStoreUrl } from '../config/appStore';
 export const prerender = true;
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Header from '../components/Header.astro';
@@ -149,11 +150,11 @@ const schema = {
       inLanguage: ['de', 'en', 'es', 'nl', 'da', 'sv'],
       url: 'https://rosterapp.tech/',
       sameAs: [
-        'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8',
+        APP_STORE_PLAIN_URL,
         'https://www.reddit.com/user/EliasBra/',
       ],
-      downloadUrl: 'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8',
-      installUrl: 'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8',
+      downloadUrl: APP_STORE_PLAIN_URL,
+      installUrl: APP_STORE_PLAIN_URL,
       offers: [
         { '@type': 'Offer', price: '1.99', priceCurrency: 'EUR', name: 'Wöchentlich' },
         { '@type': 'Offer', price: '3.99', priceCurrency: 'EUR', name: 'Monatlich' },
@@ -195,7 +196,7 @@ const schema = {
             Blick – lokal auf deinem Gerät, ohne Konto und ohne Tracking.
           </p>
           <div class="hero-cta">
-            <a href="https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&amp;ct=Website&amp;mt=8" class="btn btn-primary"
+            <a href={appStoreUrl('home-de-hero')} class="btn btn-primary"
               >Im App Store laden</a
             >
             <a href="#features" class="btn btn-ghost">Funktionen ansehen</a>
@@ -302,7 +303,7 @@ const schema = {
       <div class="container closing-inner">
         <Vio size={48} />
         <h2>Bereit, den Kopf frei zu kriegen?</h2>
-        <a href="https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&amp;ct=Website&amp;mt=8" class="btn btn-primary"
+        <a href={appStoreUrl('home-de-end')} class="btn btn-primary"
           >Roster im App Store laden</a
         >
       </div>

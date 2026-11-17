@@ -1,6 +1,7 @@
 ---
 title: 'Anarquía relacional vs. poliamor: ¿Cuál es la diferencia?'
-description: '¿Anarquía relacional o poliamor? Explicamos las diferencias en torno a jerarquía, reglas y cómo se definen las relaciones, y te ayudamos a descubrir qué encaja contigo.'
+seoTitle: 'Anarquía relacional vs. poliamor: diferencias clave'
+description: '¿Anarquía relacional o poliamor? La respuesta corta, las diferencias en jerarquía, reglas y etiquetas de relación, y qué modelo encaja contigo.'
 pubDate: 2026-06-26
 lang: 'es'
 translationKey: 'relationship-anarchy-vs-polyamory'
@@ -19,7 +20,7 @@ Dicho de otra manera: el poliamor es una estructura de relación; la anarquía r
 
 ## El poliamor en detalle
 
-El poliamor trata de múltiples relaciones románticas paralelas. Muchas personas poliamorosas trabajan con estructuras: quizás hay una nesting partner con quien conviven y otras relaciones además. Algunas constelaciones poliamorosas son explícitamente **jerárquicas** – con parejas primarias y secundarias donde ciertas relaciones tienen prioridad. Otras son **igualitarias** y tratan todas las relaciones con igual valor. El punto clave: el poliamor no dice nada sobre si rechazas o utilizas jerarquías. Para más sobre los conceptos básicos, consulta nuestro [glosario del poliamor](/es/blog/glosario-poliamoria/).
+El poliamor trata de múltiples relaciones románticas paralelas. Muchas personas poliamorosas trabajan con estructuras: quizás hay una [nesting partner](/es/blog/nesting-partner-explicado/) con quien conviven y otras relaciones además. Algunas constelaciones poliamorosas son explícitamente **jerárquicas** – con parejas primarias y secundarias donde ciertas relaciones tienen prioridad. Otras son **igualitarias** y tratan todas las relaciones con igual valor. El punto clave: el poliamor no dice nada sobre si rechazas o utilizas jerarquías. Para más sobre los conceptos básicos, consulta nuestro [glosario del poliamor](/es/blog/glosario-poliamoria/).
 
 ## La anarquía relacional en detalle
 

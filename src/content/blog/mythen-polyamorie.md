@@ -9,6 +9,8 @@ tags: ['Polyamorie', 'Mythen', 'Vorurteile', 'Beziehungen']
 
 Kaum ein Beziehungsmodell wird so hartnäckig missverstanden wie Polyamorie. Wer offen mehrere Beziehungen führt, bekommt früher oder später dieselben Fragen und Unterstellungen zu hören – meist mit einem Unterton, der mehr über die Vorurteile der Fragenden verrät als über die Realität poly lebender Menschen. Zeit, die häufigsten Mythen einmal gründlich zu entwirren.
 
+Wie viele Menschen tatsächlich nicht-monogam leben, fassen wir in den [Polyamorie-Statistiken](/blog/polyamorie-statistiken/) zusammen.
+
 ## Mythos: Polyamorie ist nur eine Ausrede zum Fremdgehen
 
 Der Unterschied ist eigentlich simpel: Fremdgehen bedeutet, etwas vor dem Partner zu verheimlichen. Polyamorie bedeutet, dass alle Beteiligten wissen und zustimmen. Es ist nicht das Vorhandensein mehrerer Beziehungen, das Untreue definiert, sondern das Fehlen von Ehrlichkeit und Einverständnis. Poly Menschen investieren oft sogar mehr Zeit in Absprachen und Transparenz als monogame Paare, weil ihr Modell ohne diese Offenheit gar nicht funktioniert. Wer fremdgeht, sucht gerade die Abwesenheit von Konsequenzen – wer poly lebt, sucht das genaue Gegenteil: eine Struktur, in der ehrliche Kommunikation die Grundvoraussetzung ist.

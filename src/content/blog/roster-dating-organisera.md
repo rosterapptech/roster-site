@@ -1,6 +1,7 @@
 ---
 title: 'Organisera Roster Dating: så håller du koll på flera dejter'
-description: 'Roster Dating i praktiken: hur du organiserar flera dejter parallellt, inte blandar ihop detaljer och är ärlig om din egen kapacitet.'
+seoTitle: 'Roster dating: 3 regler för att hålla koll på flera dejter'
+description: 'Flera dejter samtidigt utan att tappa överblicken: 3 grundregler för roster dating – anteckna detaljer, var ärlig om din kapacitet och prata öppet om läget.'
 pubDate: 2026-07-06
 lang: 'sv'
 translationKey: 'roster-dating-guide'

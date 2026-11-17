@@ -84,7 +84,7 @@ Systemen hebben een plek nodig om te bestaan. In de praktijk kristalliseren zich
 
 ## Organiseren is zorg, geen controle
 
-**Roster** is precies voor dat gat gebouwd – een app die structuur geeft zonder te controleren. Onder "Verbindingen" volstaat een korte swipe om vast te leggen dat je iemand vandaag hebt gezien – geen uitgebreid logboek, alleen een eerlijke momentopname. De Vibe Radar laat je in één oogopslag zien hoe elke relatie ervoor staat, van zonnig tot radiostilte. En de Polycule Map maakt je hele netwerk in één keer zichtbaar. Alle gegevens blijven lokaal op je apparaat, zonder account en zonder tracking. Dat is de kern: structuur, geen controle – een hulpmiddel dat je helpt aanwezig te zijn, in plaats van je voor te schrijven hoe je relaties eruit moeten zien.
+**[Roster](/nl/blog/app-voor-polyamore-relaties-organiseren/)** is precies voor dat gat gebouwd – een app die structuur geeft zonder te controleren. Onder "Verbindingen" volstaat een korte swipe om vast te leggen dat je iemand vandaag hebt gezien – geen uitgebreid logboek, alleen een eerlijke momentopname. De Vibe Radar laat je in één oogopslag zien hoe elke relatie ervoor staat, van zonnig tot radiostilte. En de Polycule Map maakt je hele netwerk in één keer zichtbaar. Alle gegevens blijven lokaal op je apparaat, zonder account en zonder tracking. Dat is de kern: structuur, geen controle – een hulpmiddel dat je helpt aanwezig te zijn, in plaats van je voor te schrijven hoe je relaties eruit moeten zien.
 
 Speelt jaloezie ook mee in wat jij ervaart, dan gaat [Jaloezie in de polyamorie](/nl/blog/jaloezie-polyamorie/) daar dieper op in. En wil je je hele netwerk beter begrijpen, kijk dan bij [Wat is een polycule?](/nl/blog/wat-is-een-polycule/)
 

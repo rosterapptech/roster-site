@@ -1,6 +1,7 @@
 ---
 title: 'Poliamoria vs. relación abierta: ¿Cuál es la diferencia?'
-description: '¿Relación abierta, poliamoria, poligamia o anarquía relacional? El panorama claro de los cuatro modelos – y cómo una app como Roster funciona para cada uno.'
+seoTitle: 'Poliamor vs. relación abierta: 4 modelos comparados'
+description: '¿Relación abierta, poliamor, poligamia o anarquía relacional? Los cuatro modelos explicados de forma sencilla y comparados, con sus diferencias clave.'
 pubDate: 2026-06-20
 lang: 'es'
 translationKey: 'polyamory-vs-open-relationship'

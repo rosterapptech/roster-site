@@ -1,6 +1,7 @@
 ---
 title: 'Estatísticas da poliamoria: o quanto ela é realmente comum?'
-description: 'O que os estudos mostram sobre a prevalência da poliamoria e da não monogamia ética: números sobre experiência vivida, interesse e percepção social.'
+seoTitle: 'Quantas pessoas são poliamorosas? Dados e estudos'
+description: 'Cerca de 4–5% vivem hoje em uma relação não monogâmica e mais de 20% já experimentaram: o que os estudos mostram sobre o quanto a poliamoria é comum.'
 pubDate: 2026-07-06
 lang: 'pt'
 translationKey: 'polyamory-statistics'

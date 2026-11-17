@@ -1,6 +1,7 @@
 ---
 title: 'Throuple & triade: Forhold mellem tre personer forklaret enkelt'
-description: 'Hvad er et throuple, og hvordan adskiller det sig fra andre polyamori-former? De forskellige triade-strukturer, typiske udfordringer, og hvad en god balance mellem tre mennesker kræver.'
+seoTitle: 'Throuple: betydning og hvad et trekantsforhold er'
+description: 'Hvad er et throuple? Betydningen, forskellen på en V-struktur, typiske udfordringer, og hvordan bolig, økonomi og hverdag fungerer for tre.'
 pubDate: 2026-07-06
 updatedDate: 2026-08-25
 lang: 'da'

@@ -20,6 +20,8 @@ faq:
 
 If you're coming across the term for the first time, you probably have a fuzzy picture in your head — something about "multiple partners," maybe picked up from a show or an article somewhere. This piece is here to sharpen that picture: a clear definition, an honest distinction from what polyamory is not, a short look at where the word comes from, and an overview of where to go from here.
 
+For how many people actually live non-monogamously, see our [polyamory statistics](/en/blog/polyamory-statistics/).
+
 ## Polyamory: a clear definition
 
 Polyamory — from the Greek *poly* ("many") and the Latin *amor* ("love") — describes the practice or the desire to maintain more than one romantic relationship at the same time, with everyone involved knowing about it and agreeing to it. That's the shortest possible definition, but every word in it carries weight:

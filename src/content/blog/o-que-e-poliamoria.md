@@ -20,6 +20,8 @@ faq:
 
 Quem encontra o termo pela primeira vez costuma ter uma imagem vaga na cabeça: algo sobre "vários parceiros", talvez pego de uma série ou de um artigo. Este texto quer esclarecer essa imagem: uma definição clara, uma distinção honesta do que a poliamoria não é, um breve olhar sobre a origem da palavra e um panorama de por onde seguir se aprofundando a partir daqui.
 
+Quantas pessoas realmente vivem de forma não monogâmica, resumimos nas [estatísticas da poliamoria](/pt/blog/estatisticas-poliamoria/).
+
 ## Poliamoria: uma definição clara
 
 Poliamoria — do grego *poly* ("muitos") e do latim *amor* ("amor") — descreve a prática ou o desejo de manter mais de um relacionamento romântico ao mesmo tempo, com o conhecimento e o consentimento de todas as pessoas envolvidas. Essa é a definição mais curta possível, mas cada palavra tem seu peso:

@@ -1,6 +1,7 @@
 ---
 title: 'Roster Dating organisieren: So behältst du bei mehreren Dates den Überblick'
-description: 'Roster Dating in der Praxis: Wie du mehrere Dates parallel organisierst, Details nicht durcheinanderbringst und ehrlich mit deiner Kapazität umgehst.'
+seoTitle: 'Roster Dating organisieren: 3 Regeln für mehrere Dates'
+description: 'Mehrere Dates, ohne den Überblick zu verlieren: 3 Grundregeln für Roster Dating – Details festhalten, Kapazität ehrlich prüfen, offen kommunizieren.'
 pubDate: 2026-07-06
 lang: 'de'
 translationKey: 'roster-dating-guide'

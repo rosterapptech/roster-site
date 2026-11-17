@@ -20,6 +20,8 @@ faq:
 
 Den som stöter på begreppet för första gången har ofta en luddig bild i huvudet – något om "flera partner", kanske uppsnappat från en serie eller en artikel. Den här texten ska göra bilden skarpare: en tydlig definition, en ärlig avgränsning av vad polyamori inte är, en kort blick på ordets ursprung – och en översikt över vart man kan gå vidare härifrån.
 
+Hur många som faktiskt lever icke-monogamt kan du läsa i [polyamoristatistiken](/sv/blog/polyamori-statistik-sv/).
+
 ## Polyamori: en tydlig definition
 
 Polyamori – av grekiskans *poly* ("många") och latinets *amor* ("kärlek") – beskriver praktiken eller viljan att ha mer än en romantisk relation samtidigt, där alla inblandade vet om det och samtycker till det. Det är den kortaste möjliga definitionen, men varje ord i den väger tungt:

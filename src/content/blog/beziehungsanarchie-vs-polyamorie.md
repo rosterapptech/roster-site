@@ -1,6 +1,7 @@
 ---
 title: 'Beziehungsanarchie vs. Polyamorie: Was ist der Unterschied?'
-description: 'Beziehungsanarchie oder Polyamorie? Wir erklären die Unterschiede bei Hierarchie, Regeln und Beziehungsdefinition – und helfen dir herauszufinden, was zu dir passt.'
+seoTitle: 'Beziehungsanarchist oder polyamor? Der Unterschied erklärt'
+description: 'Beziehungsanarchie oder Polyamorie? Die kurze Antwort, die Unterschiede bei Hierarchie, Regeln und Beziehungsbegriffen – und welches Modell zu dir passt.'
 pubDate: 2026-06-26
 lang: 'de'
 translationKey: 'relationship-anarchy-vs-polyamory'
@@ -19,7 +20,7 @@ Anders gesagt: Polyamorie ist eine Beziehungsform, Beziehungsanarchie ist eine B
 
 ## Polyamorie im Detail
 
-In der Polyamorie geht es um mehrere parallele Liebesbeziehungen. Viele poly Menschen arbeiten dabei mit Strukturen: Es gibt vielleicht einen Nesting Partner, mit dem man zusammenlebt, und weitere Beziehungen daneben. Manche poly Konstellationen sind ausdrücklich **hierarchisch** – mit Primär- und Sekundärpartnern, bei denen bestimmte Beziehungen Vorrang haben. Andere sind **egalitär** und behandeln alle Beziehungen gleichwertig. Entscheidend ist: Polyamorie sagt nichts darüber aus, ob du Hierarchien ablehnst oder nutzt. Mehr zu den Grundbegriffen findest du in unserem [Polyamorie-Glossar](/blog/polyamorie-glossar/).
+In der Polyamorie geht es um mehrere parallele Liebesbeziehungen. Viele poly Menschen arbeiten dabei mit Strukturen: Es gibt vielleicht einen [Nesting Partner](/blog/nesting-partner-erklaert/), mit dem man zusammenlebt, und weitere Beziehungen daneben. Manche poly Konstellationen sind ausdrücklich **hierarchisch** – mit Primär- und Sekundärpartnern, bei denen bestimmte Beziehungen Vorrang haben. Andere sind **egalitär** und behandeln alle Beziehungen gleichwertig. Entscheidend ist: Polyamorie sagt nichts darüber aus, ob du Hierarchien ablehnst oder nutzt. Mehr zu den Grundbegriffen findest du in unserem [Polyamorie-Glossar](/blog/polyamorie-glossar/).
 
 ## Beziehungsanarchie im Detail
 

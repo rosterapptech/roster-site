@@ -1,6 +1,7 @@
 ---
 title: 'Polyamori-statistik: Hvor udbredt er polyamori egentlig?'
-description: 'Hvad studier viser om udbredelsen af polyamori og etisk ikke-monogami – tal om levet erfaring, interesse og samfundsmæssig opfattelse.'
+seoTitle: 'Hvor mange er polyamorøse? Tal og undersøgelser'
+description: 'Omkring 4–5 % lever lige nu i et ikke-monogamt forhold, og over 20 % har prøvet det: hvad undersøgelser viser om, hvor udbredt polyamori er.'
 pubDate: 2026-07-06
 lang: 'da'
 translationKey: 'polyamory-statistics'

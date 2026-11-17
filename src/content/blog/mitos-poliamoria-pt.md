@@ -10,6 +10,8 @@ tags: ['Poliamoria', 'Mitos', 'Preconceitos', 'Relacionamentos']
 
 Poucos modelos de relacionamento são tão persistentemente mal interpretados quanto a poliamoria. Quem mantém abertamente vários relacionamentos cedo ou tarde ouve as mesmas perguntas e suposições, quase sempre com um tom que revela mais sobre os preconceitos de quem pergunta do que sobre a realidade da vida poliamorosa. É hora de desfazer com calma os mitos mais comuns.
 
+Quantas pessoas realmente vivem de forma não monogâmica, resumimos nas [estatísticas da poliamoria](/pt/blog/estatisticas-poliamoria/).
+
 ## Mito: a poliamoria é só uma desculpa para trair
 
 A diferença, na verdade, é simples: trair significa esconder algo do seu parceiro. Poliamoria significa que todas as pessoas envolvidas sabem e concordam. Não é a existência de vários relacionamentos que define a infidelidade, mas a ausência de honestidade e consentimento. Pessoas poliamorosas costumam investir ainda mais tempo em acordos e transparência do que casais monogâmicos, porque o modelo delas simplesmente não funciona sem essa abertura. Quem trai busca justamente a ausência de consequências; quem vive a poliamoria busca exatamente o oposto: uma estrutura em que a comunicação honesta é o requisito básico.

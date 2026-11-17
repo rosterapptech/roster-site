@@ -1,6 +1,7 @@
 ---
 title: 'Throuple & triad: relationer mellan tre personer förklarat enkelt'
-description: 'Vad är ett throuple och hur skiljer det sig från andra polyamori-former? De olika triad-strukturerna, vanliga utmaningar och vad en bra balans mellan tre personer behöver.'
+seoTitle: 'Throuple: betydelse och vad en triadrelation är'
+description: 'Vad är ett throuple? Betydelsen, skillnaden mot en V-struktur, vanliga utmaningar och hur boende, ekonomi och vardag fungerar för tre personer.'
 pubDate: 2026-07-06
 updatedDate: 2026-08-25
 lang: 'sv'

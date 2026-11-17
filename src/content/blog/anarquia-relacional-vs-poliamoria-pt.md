@@ -1,6 +1,7 @@
 ---
 title: 'Anarquia relacional vs. poliamoria: qual é a diferença?'
-description: 'Anarquia relacional ou poliamoria? Explicamos as diferenças em torno de hierarquia, regras e como os relacionamentos são definidos, e te ajudamos a descobrir o que combina com você.'
+seoTitle: 'Anarquia relacional vs. poliamoria: diferenças-chave'
+description: 'Anarquia relacional ou poliamoria? A resposta curta, as diferenças em hierarquia, regras e rótulos de relacionamento – e qual modelo combina com você.'
 pubDate: 2026-06-26
 lang: 'pt'
 translationKey: 'relationship-anarchy-vs-polyamory'
@@ -19,7 +20,7 @@ Dito de outra forma: a poliamoria é uma estrutura de relacionamento; a anarquia
 
 ## A poliamoria em detalhes
 
-A poliamoria trata de múltiplos relacionamentos românticos paralelos. Muitas pessoas poliamorosas trabalham com estruturas: talvez exista um nesting partner com quem se mora junto e outros relacionamentos além dele. Algumas configurações poliamorosas são explicitamente **hierárquicas** — com parceiros primários e secundários, onde certos relacionamentos têm prioridade. Outras são **igualitárias** e tratam todos os relacionamentos com o mesmo valor. O ponto-chave: a poliamoria não diz nada sobre se você rejeita ou usa hierarquias. Para mais sobre os conceitos básicos, veja nosso [glossário da poliamoria](/pt/blog/glossario-poliamoria/).
+A poliamoria trata de múltiplos relacionamentos românticos paralelos. Muitas pessoas poliamorosas trabalham com estruturas: talvez exista um [nesting partner](/pt/blog/nesting-partner-explicado-pt/) com quem se mora junto e outros relacionamentos além dele. Algumas configurações poliamorosas são explicitamente **hierárquicas** — com parceiros primários e secundários, onde certos relacionamentos têm prioridade. Outras são **igualitárias** e tratam todos os relacionamentos com o mesmo valor. O ponto-chave: a poliamoria não diz nada sobre se você rejeita ou usa hierarquias. Para mais sobre os conceitos básicos, veja nosso [glossário da poliamoria](/pt/blog/glossario-poliamoria/).
 
 ## A anarquia relacional em detalhes
 

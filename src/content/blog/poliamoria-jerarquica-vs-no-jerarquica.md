@@ -11,7 +11,7 @@ Pocas preguntas generan tanto debate en las comunidades poliamorosas como esta: 
 
 ## Qué significa la poliamoría jerárquica
 
-En la poliamoría jerárquica existe un rango explícitamente nombrado entre relaciones. Normalmente hay una "pareja primaria" o "nesting partner" — alguien con quien convives, compartes finanzas o tomas decisiones vitales a largo plazo. Otras relaciones se etiquetan como "secundarias" y suelen tener menos voz en decisiones importantes. El poder de veto es un rasgo habitual: la pareja primaria puede limitar o incluso poner fin a una nueva relación si se percibe como una amenaza para la relación primaria. Este modelo suele surgir de necesidades prácticas: compartir casa, hijos o una cuenta conjunta implica inevitablemente tomar decisiones que afectan a otras relaciones.
+En la poliamoría jerárquica existe un rango explícitamente nombrado entre relaciones. Normalmente hay una "pareja primaria" o "[nesting partner](/es/blog/nesting-partner-explicado/)" — alguien con quien convives, compartes finanzas o tomas decisiones vitales a largo plazo. Otras relaciones se etiquetan como "secundarias" y suelen tener menos voz en decisiones importantes. El poder de veto es un rasgo habitual: la pareja primaria puede limitar o incluso poner fin a una nueva relación si se percibe como una amenaza para la relación primaria. Este modelo suele surgir de necesidades prácticas: compartir casa, hijos o una cuenta conjunta implica inevitablemente tomar decisiones que afectan a otras relaciones.
 
 ## Qué significa la poliamoría no jerárquica
 

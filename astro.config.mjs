@@ -4,6 +4,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import mdx from '@astrojs/mdx';
 import vercel from '@astrojs/vercel';
+import rehypeAppStoreCampaign from './src/plugins/rehype-app-store-campaign.mjs';
 
 const SITE = 'https://rosterapp.tech';
 
@@ -171,6 +172,10 @@ export default defineConfig({
     defaultLocale: 'de',
     locales: ['de', 'en', 'nl', 'es', 'da', 'sv', 'pt'],
     routing: 'manual',
+  },
+  // App-Store-Links im Blog-Fliesstext bekommen ein artikelgenaues Kampagnen-Kuerzel.
+  markdown: {
+    rehypePlugins: [rehypeAppStoreCampaign],
   },
   integrations: [
     sitemap({

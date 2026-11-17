@@ -1,4 +1,5 @@
 ---
+import { appStoreUrl } from '../../config/appStore';
 export const prerender = true;
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Header from '../../components/Header.astro';
@@ -8,7 +9,7 @@ import { QUIZ_SLUG, quizPath } from '../../i18n/quizPath';
 import { slugAlternates } from '../../i18n/slugAlternates';
 
 const lang = 'es';
-const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8';
+const APP_STORE_URL = appStoreUrl('test-es');
 
 const questions: QuizQuestion[] = [
   {

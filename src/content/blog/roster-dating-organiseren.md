@@ -1,6 +1,7 @@
 ---
 title: 'Roster Dating organiseren: zo hou je het overzicht bij meerdere dates'
-description: 'Roster Dating in de praktijk: hoe je meerdere dates tegelijk organiseert, details niet door elkaar haalt en eerlijk blijft over je eigen capaciteit.'
+seoTitle: 'Roster dating organiseren: 3 regels voor meerdere dates'
+description: 'Meerdere dates tegelijk zonder het overzicht te verliezen: 3 basisregels voor roster dating – details bijhouden, eerlijk over je capaciteit, open communiceren.'
 pubDate: 2026-07-06
 lang: 'nl'
 translationKey: 'roster-dating-guide'

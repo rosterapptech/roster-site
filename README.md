@@ -57,9 +57,11 @@ Neue Datei in `src/content/blog/` anlegen, z. B. `mein-artikel.md`:
 ```markdown
 ---
 title: 'Titel des Artikels'
+seoTitle: 'Kurzer Google-Titel, max. 60 Zeichen'
 description: 'Ein Satz, der die Frage direkt beantwortet (wichtig für GEO).'
 pubDate: 2026-06-25
 lang: 'de'
+translationKey: 'mein-artikel'
 tags: ['Grundlagen']
 ---
 
@@ -68,6 +70,46 @@ beantworten – das mögen sowohl Google als auch KI-Systeme.
 ```
 
 Übersicht, Artikelseite, Sitemap-Eintrag entstehen automatisch.
+
+### Google-Snippet (Titel & Beschreibung)
+
+- `title` ist die H1 auf der Seite. `seoTitle` ist der Titel in Google (`<title>`,
+  `og:title`) – ohne „– Roster", max. **60 Zeichen**, Hauptkeyword vorne, dahinter
+  ein konkreter Nutzen (Zahl, „kostenloser Generator", „Leitfaden" …).
+- `description`: **120–160 Zeichen**, beginnt mit dem Versprechen bzw. der Antwort.
+- Ohne `seoTitle` wird `title – Roster` verwendet (oft zu lang, wird gekürzt).
+- `npm run check-snippets` prüft die Längen; läuft automatisch vor jedem Build.
+- Zahlen im Titel nur, wenn sie im Text in **allen** Sprachen stimmen.
+
+### App-Store-Buttons im Artikel
+
+Kommen automatisch aus `src/components/ArticleCtas.astro` (Box in der Mitte,
+CTA am Ende, Sticky-Leiste auf dem iPhone). Die Überschrift hängt vom Thema ab:
+neuen `translationKey` in `src/i18n/appCta.ts` einem Cluster zuordnen
+(`map`, `feelings`, `organize`, `health`, `privacy`), sonst gilt `general`.
+
+## App-Store-Kampagnen auswerten
+
+Alle App-Store-Links laufen über `appStoreUrl()` in `src/config/appStore.ts` und
+tragen ein eigenes Kampagnen-Kürzel (`ct`). Nie einen App-Store-Link von Hand
+einfügen – in Markdown ist das okay, dort setzt ein Build-Plugin das Kürzel.
+
+Auswertung: **App Store Connect → App Analytics → Akquisition → Kampagnen**.
+Dort pro Kürzel: Produktseitenaufrufe, Downloads, Umsatz.
+
+| Kürzel | Wo |
+|---|---|
+| `b-{lang}-{key}-m` | Box in der Artikelmitte |
+| `b-{lang}-{key}-e` | CTA am Artikelende |
+| `b-{lang}-{key}-s` | Sticky-Leiste (iPhone) |
+| `b-{lang}-{key}-t` | Link im Fließtext |
+| `b-{lang}-{key}-sb` / `sb-{lang}` | Smart App Banner (Safari iOS) |
+| `h-{lang}` | Button im Header |
+| `home-{lang}-hero` / `home-{lang}-end` | Startseite |
+| `feat-{lang}`, `test-{lang}`, `map-{lang}`, `rp-{lang}` | Feature-Seiten, Test, Polycule-Generator, Landingpage |
+
+Bis 2026-11 lief alles über `ct=Website` (und `PolyculeMapper`) – ältere Zahlen
+stehen dort.
 
 ## Eine Sprache ergänzen (ES / NL)
 

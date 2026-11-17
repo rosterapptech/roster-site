@@ -1,4 +1,5 @@
 ---
+import { appStoreUrl } from '../config/appStore';
 export const prerender = true;
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Header from '../components/Header.astro';
@@ -10,7 +11,7 @@ import { rosterPolyBreadcrumb } from '../i18n/breadcrumbs';
 import { quizPath } from '../i18n/quizPath';
 
 const lang = 'de';
-const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8';
+const APP_STORE_URL = appStoreUrl('rp-de');
 
 const highlights = [
   { slug: 'polycule-map', name: 'Polycule Map', desc: 'Dein Beziehungsnetz als lebendige Karte statt als Kopf-Tabelle – du im Zentrum, alle Verbindungen farbcodiert nach Typ.' },

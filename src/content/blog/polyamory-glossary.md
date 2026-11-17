@@ -21,7 +21,7 @@ We have grouped the terms into four categories: relationship structures, people 
 
 **Relationship anarchy (RA):** An approach that treats all relationships as equally valuable and does not organise them into fixed categories or hierarchies. Each connection is negotiated individually.
 
-**Solo polyamory:** A form of polyamory in which someone has multiple relationships but deliberately has no primary or nesting partner, maintaining their independence.
+**Solo polyamory:** A form of polyamory in which someone has multiple relationships but deliberately has no primary or [nesting partner](/en/blog/nesting-partner-explained/), maintaining their independence.
 
 **Polyfidelity:** A closed polyamorous group in which everyone only has intimate relationships within the group.
 

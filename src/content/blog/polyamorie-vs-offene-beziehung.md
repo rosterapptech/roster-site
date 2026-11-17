@@ -1,6 +1,7 @@
 ---
 title: 'Polyamorie vs. offene Beziehung: Wo liegt der Unterschied?'
-description: 'Offene Beziehung, Polyamorie, Polygamie oder Beziehungsanarchie? Der klare Überblick über alle vier Modelle – plus wie eine App wie Roster für jedes davon funktioniert.'
+seoTitle: 'Polyamorie vs. offene Beziehung: 4 Modelle im Vergleich'
+description: 'Offene Beziehung, Polyamorie, Polygamie oder Beziehungsanarchie? Die vier Modelle einfach erklärt und im direkten Vergleich – mit den wichtigsten Unterschieden.'
 pubDate: 2026-06-20
 lang: 'de'
 translationKey: 'polyamory-vs-open-relationship'

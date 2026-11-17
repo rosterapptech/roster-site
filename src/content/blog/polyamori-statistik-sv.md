@@ -1,6 +1,7 @@
 ---
 title: 'Polyamori-statistik: hur vanligt är polyamori egentligen?'
-description: 'Vad studier visar om utbredningen av polyamori och etisk icke-monogami – siffror om levd erfarenhet, intresse och samhällelig uppfattning.'
+seoTitle: 'Hur många är polyamorösa? Siffror och studier'
+description: 'Omkring 4–5 % lever just nu i en icke-monogam relation och över 20 % har provat: vad studier visar om hur vanligt polyamori egentligen är.'
 pubDate: 2026-07-06
 lang: 'sv'
 translationKey: 'polyamory-statistics'

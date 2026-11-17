@@ -21,7 +21,7 @@ Vi har inddelt begreberne i fire grupper: relationsformer, mennesker og roller, 
 
 **Relationsanarki (RA):** En tilgang, der betragter alle relationer som ligeværdige og ikke organiserer dem i faste kategorier eller hierarkier. Hver forbindelse forhandles individuelt.
 
-**Solo-polyamori:** En form for polyamori, hvor nogen har flere relationer, men bevidst ikke har en primær eller nesting-partner og forbliver uafhængig.
+**Solo-polyamori:** En form for polyamori, hvor nogen har flere relationer, men bevidst ikke har en primær eller [nesting-partner](/da/blog/nesting-partner-forklaret/) og forbliver uafhængig.
 
 **Polyfidelitet:** En lukket polyamorøs gruppe, hvor alle kun har intime relationer inden for gruppen.
 

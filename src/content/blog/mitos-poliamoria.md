@@ -9,6 +9,8 @@ tags: ['Poliamoría', 'Mitos', 'Prejuicios', 'Relaciones']
 
 Pocos modelos de relación se malinterpretan tan persistentemente como la poliamoría. Quien mantiene abiertamente varias relaciones tarde o temprano escucha las mismas preguntas y suposiciones, casi siempre con un matiz que revela más sobre los prejuicios de quien pregunta que sobre la realidad de la vida poliamorosa. Es hora de desenredar con calma los mitos más comunes.
 
+Cuántas personas viven realmente de forma no monógama lo resumimos en las [estadísticas del poliamor](/es/blog/estadisticas-poliamor/).
+
 ## Mito: la poliamoría es solo una excusa para engañar
 
 La diferencia es en realidad sencilla: engañar significa ocultarle algo a tu pareja. La poliamoría significa que todas las personas implicadas lo saben y están de acuerdo. No es la existencia de varias relaciones lo que define la infidelidad, sino la ausencia de honestidad y consentimiento. Las personas poliamorosas suelen invertir incluso más tiempo en acuerdos y transparencia que las parejas monógamas, porque su modelo simplemente no funciona sin esa apertura. Quien engaña busca precisamente la ausencia de consecuencias; quien vive la poliamoría busca justo lo contrario: una estructura en la que la comunicación honesta es el requisito básico.

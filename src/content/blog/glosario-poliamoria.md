@@ -39,7 +39,7 @@ Hemos agrupado los términos en cuatro categorías: estructuras de relación, pe
 
 **Hinge (bisagra):** La persona en una estructura en V que tiene dos parejas que no están juntas entre sí.
 
-**Nesting partner:** Una pareja con quien convives, independientemente de si esa relación se considera "primaria".
+**[Nesting partner](/es/blog/nesting-partner-explicado/):** Una pareja con quien convives, independientemente de si esa relación se considera "primaria".
 
 **Pareja primaria / secundaria:** Términos del poliamor jerárquico que describen diferentes niveles de prioridad entre relaciones. En la anarquía relacional se rechazan deliberadamente.
 

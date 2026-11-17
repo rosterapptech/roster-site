@@ -20,6 +20,8 @@ faq:
 
 Wer zum ersten Mal auf den Begriff stößt, hat oft ein diffuses Bild im Kopf – irgendwas mit "mehreren Partnern", vielleicht aus einer Serie oder einem Artikel aufgeschnappt. Dieser Text soll das gerade rücken: eine klare Definition, eine ehrliche Abgrenzung zu dem, was Polyamorie nicht ist, ein kurzer Blick auf die Herkunft des Begriffs – und ein Überblick, wohin es von hier aus weitergeht.
 
+Wie viele Menschen tatsächlich nicht-monogam leben, fassen wir in den [Polyamorie-Statistiken](/blog/polyamorie-statistiken/) zusammen.
+
 ## Polyamorie: eine klare Definition
 
 Polyamorie – von griechisch *poly* ("viele") und lateinisch *amor* ("Liebe") – bezeichnet die Praxis oder das Bedürfnis, mehr als eine romantische Beziehung gleichzeitig zu führen, wobei alle beteiligten Personen davon wissen und dem zustimmen. Das ist die knappste Definition, aber jedes Wort darin trägt Gewicht:

@@ -1,6 +1,7 @@
 ---
 title: 'Nesting partner forklaret: at bo sammen i polyamori'
-description: 'Hvad er en nesting partner? Begrebet beskriver, hvem du bor sammen med – uanset hvem der er "vigtigst". Definition, afgrænsning og typiske udfordringer.'
+seoTitle: 'Nesting partner: betydning og forskel på primærpartner'
+description: 'Hvad er en nesting partner? Betydningen forklaret enkelt, forskellen på en primærpartner, og hvordan samliv fungerer, når der er flere partnere.'
 pubDate: 2026-07-11
 lang: 'da'
 translationKey: 'nesting-partner-explained'

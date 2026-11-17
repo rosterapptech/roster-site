@@ -9,6 +9,8 @@ tags: ['Polyamory', 'Myths', 'Misconceptions', 'Relationships']
 
 Few relationship models get misunderstood as persistently as polyamory. Anyone who is openly involved in more than one relationship will sooner or later hear the same questions and assumptions – usually with an undertone that says more about the asker's prejudices than about the reality of polyamorous life. Time to untangle the most common myths, one by one.
 
+For how many people actually live non-monogamously, see our [polyamory statistics](/en/blog/polyamory-statistics/).
+
 ## Myth: Polyamory is just an excuse to cheat
 
 The distinction is actually simple: cheating means hiding something from your partner. Polyamory means everyone involved knows and has agreed. It is not the presence of multiple relationships that defines infidelity, but the absence of honesty and consent. Polyamorous people often invest even more time in communication and transparency than monogamous couples, because their model simply does not work without that openness. Cheating seeks the absence of consequences; polyamory seeks the exact opposite – a structure in which honest communication is the baseline requirement.

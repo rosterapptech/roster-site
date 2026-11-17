@@ -1,4 +1,5 @@
 ---
+import { APP_STORE_PLAIN_URL, smartBannerContent } from '../config/appStore';
 import '../styles/global.css';
 import Analytics from '@vercel/analytics/astro';
 import type { Lang } from '../i18n/ui';
@@ -27,6 +28,11 @@ interface Props {
   publishedTime?: string;
   /** ISO-Datum: setzt article:modified_time. */
   modifiedTime?: string;
+  /**
+   * Kampagnen-Kuerzel fuer den Smart App Banner (Safari iOS), siehe config/appStore.ts.
+   * Default: sb-{lang}. Blogartikel uebergeben ein artikelgenaues Kuerzel.
+   */
+  appCampaign?: string;
 }
 
 const {
@@ -40,6 +46,7 @@ const {
   ogType = 'website',
   publishedTime,
   modifiedTime,
+  appCampaign,
 } = Astro.props;
 
 const site = Astro.site ?? new URL('https://rosterapp.tech');
@@ -80,7 +87,7 @@ const organizationSchema = {
       url: site.href,
       logo: new URL('/favicon.svg', site).href,
       sameAs: [
-        'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=Website&mt=8',
+        APP_STORE_PLAIN_URL,
         'https://www.reddit.com/user/EliasBra/',
       ],
     },
@@ -106,6 +113,9 @@ const organizationSchema = {
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
     {noindex && <meta name="robots" content="noindex, follow" />}
+
+    <!-- Smart App Banner: nativer "Laden/Öffnen"-Banner in Safari auf iPhone/iPad -->
+    <meta name="apple-itunes-app" content={smartBannerContent(appCampaign ?? `sb-${lang}`)} />
 
     {alternates.map((a) => (
       <link rel="alternate" hreflang={a.hreflang} href={a.href} />

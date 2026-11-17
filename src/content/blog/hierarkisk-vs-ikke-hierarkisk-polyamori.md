@@ -11,7 +11,7 @@ Få spørgsmål skaber så meget debat i poly-fællesskaber som dette: Bør forh
 
 ## Hvad hierarkisk polyamori betyder
 
-I hierarkisk polyamori findes der en eksplicit navngivet rangorden mellem forhold. Der er som regel en "primary partner" eller "nesting partner" – nogen, du bor sammen med, deler økonomi med eller tager langsigtede livsbeslutninger sammen med. Andre forhold betegnes som "secondary" og har ofte mindre indflydelse på vigtige beslutninger. Vetoret er ofte en del af billedet: primary partneren kan begrænse eller endda afslutte et nyt forhold, hvis det opfattes som en trussel mod primærforholdet. Modellen opstår ofte af praktiske årsager – deler man bolig, børn eller en fælles konto, træffer man uundgåeligt beslutninger, der påvirker andre forhold.
+I hierarkisk polyamori findes der en eksplicit navngivet rangorden mellem forhold. Der er som regel en "primary partner" eller "[nesting partner](/da/blog/nesting-partner-forklaret/)" – nogen, du bor sammen med, deler økonomi med eller tager langsigtede livsbeslutninger sammen med. Andre forhold betegnes som "secondary" og har ofte mindre indflydelse på vigtige beslutninger. Vetoret er ofte en del af billedet: primary partneren kan begrænse eller endda afslutte et nyt forhold, hvis det opfattes som en trussel mod primærforholdet. Modellen opstår ofte af praktiske årsager – deler man bolig, børn eller en fælles konto, træffer man uundgåeligt beslutninger, der påvirker andre forhold.
 
 ## Hvad ikke-hierarkisk polyamori betyder
 

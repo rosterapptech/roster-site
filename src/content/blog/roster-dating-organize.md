@@ -1,6 +1,7 @@
 ---
 title: 'Organizing Roster Dating: How to Keep Track When You Are Seeing Multiple People'
-description: 'Roster Dating in practice: how to organize multiple dates in parallel, keep details straight, and stay honest about your capacity.'
+seoTitle: 'Roster Dating: 3 Rules for Keeping Track of Multiple Dates'
+description: 'Seeing several people without losing track: 3 ground rules for roster dating – note details per person, be honest about capacity, keep status talk open.'
 pubDate: 2026-07-06
 lang: 'en'
 translationKey: 'roster-dating-guide'

@@ -9,6 +9,8 @@ tags: ['Polyamori', 'Myter', 'Fördomar', 'Relationer']
 
 Få sätt att ha relationer på blir så envist missförstådda som polyamori. Den som öppet har flera relationer samtidigt får förr eller senare höra samma frågor och antaganden – oftast med en underton som avslöjar mer om frågeställarens fördomar än om verkligheten för poly-levande människor. Dags att reda ut de vanligaste myterna ordentligt.
 
+Hur många som faktiskt lever icke-monogamt kan du läsa i [polyamoristatistiken](/sv/blog/polyamori-statistik-sv/).
+
 ## Myt: polyamori är bara en ursäkt för att vara otrogen
 
 Skillnaden är egentligen enkel: otrohet handlar om att dölja något för sin partner. Polyamori betyder att alla inblandade vet om det och har gett sitt samtycke. Det är inte förekomsten av flera relationer som definierar otrohet, utan avsaknaden av ärlighet och samtycke. Polyamorösa personer lägger ofta ner ännu mer tid på överenskommelser och öppenhet än monogama par, eftersom deras modell helt enkelt inte fungerar utan den öppenheten. Den som är otrogen söker just frånvaron av konsekvenser; den som lever poly söker motsatsen – en struktur där ärlig kommunikation är grundförutsättningen.

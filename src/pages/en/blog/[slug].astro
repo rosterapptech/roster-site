@@ -3,7 +3,8 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import RelatedPosts from '../../../components/RelatedPosts.astro';
-import Vio from '../../../components/Vio.astro';
+import ArticleCtas from '../../../components/ArticleCtas.astro';
+import { blogCampaign } from '../../../config/appStore';
 import { getCollection, render } from 'astro:content';
 import { t } from '../../../i18n/ui';
 import { blogAlternates } from '../../../i18n/blogAlternates';
@@ -21,6 +22,7 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const posts = await getCollection('blog');
 const { Content } = await render(post);
+const ctKey = post.data.translationKey ?? post.id;
 const lang = 'en';
 const tr = t(lang);
 const alternates = blogAlternates(posts, post, Astro.site!);
@@ -33,8 +35,11 @@ const articleSchema = {
   headline: post.data.title,
   description: post.data.description,
   datePublished: post.data.pubDate.toISOString(),
-  ...(post.data.updatedDate && { dateModified: post.data.updatedDate.toISOString() }),
-  author: { '@type': 'Organization', name: post.data.author },
+  dateModified: (post.data.updatedDate ?? post.data.pubDate).toISOString(),
+  author: { '@type': 'Organization', name: post.data.author, url: Astro.site!.href },
+  publisher: { '@id': new URL('/#organization', Astro.site!).href },
+  image: new URL('/og.png', Astro.site!).href,
+  mainEntityOfPage: new URL(lang === 'de' ? `/blog/${post.id}/` : `/${lang}/blog/${post.id}/`, Astro.site!).href,
   inLanguage: lang,
 };
 
@@ -67,6 +72,7 @@ const schema = {
   schema={schema}
   alternates={alternates}
   ogType="article"
+  appCampaign={blogCampaign(lang, ctKey, 'sb')}
   publishedTime={post.data.pubDate.toISOString()}
   modifiedTime={post.data.updatedDate?.toISOString()}
 >
@@ -78,13 +84,7 @@ const schema = {
     <div class="body">
       <Content />
     </div>
-    <section class="cta">
-      <Vio size={40} />
-      <h2>{tr('blog.cta.title')}</h2>
-      <a href="https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&amp;ct=Website&amp;mt=8" class="btn btn-primary"
-        >{tr('nav.cta')}</a
-      >
-    </section>
+    <ArticleCtas lang={lang} ctKey={ctKey} />
     <RelatedPosts lang={lang} currentId={post.id} tags={post.data.tags} />
   </main>
   <Footer lang={lang} />
@@ -99,6 +99,4 @@ const schema = {
   .body :global(p) { color: var(--text-muted); line-height: 1.75; }
   .body :global(blockquote) { border-left: 3px solid var(--purple); margin: 1.5em 0; padding: 4px 0 4px 20px; color: var(--lavender); font-style: italic; }
   .body :global(strong) { color: var(--text); }
-  .cta { text-align: center; display: flex; flex-direction: column; align-items: center; gap: 14px; margin-top: 48px; padding-top: 40px; border-top: 1px solid var(--border); }
-  .cta h2 { max-width: 20ch; }
 </style>

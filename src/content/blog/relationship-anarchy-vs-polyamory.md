@@ -1,6 +1,7 @@
 ---
 title: 'Relationship Anarchy vs. Polyamory: What Is the Difference?'
-description: 'Relationship anarchy or polyamory? We explain the differences around hierarchy, rules and how relationships are defined – and help you work out which fits you.'
+seoTitle: 'Relationship Anarchy vs. Polyamory: Key Differences'
+description: 'Relationship anarchy or polyamory? The short answer, the key differences in hierarchy, rules and relationship labels – and which model fits you.'
 pubDate: 2026-06-26
 lang: 'en'
 translationKey: 'relationship-anarchy-vs-polyamory'
@@ -19,7 +20,7 @@ Put differently: polyamory is a relationship structure; relationship anarchy is 
 
 ## Polyamory in detail
 
-Polyamory is about multiple parallel romantic relationships. Many polyamorous people work with structures: there might be a nesting partner they live with and further relationships alongside. Some polyamorous constellations are explicitly **hierarchical** – with primary and secondary partners where certain relationships take precedence. Others are **egalitarian** and treat all relationships as equally valued. The key point: polyamory says nothing about whether you reject or use hierarchies. For more on the core vocabulary, see our [polyamory glossary](/en/blog/polyamory-glossary/).
+Polyamory is about multiple parallel romantic relationships. Many polyamorous people work with structures: there might be a [nesting partner](/en/blog/nesting-partner-explained/) they live with and further relationships alongside. Some polyamorous constellations are explicitly **hierarchical** – with primary and secondary partners where certain relationships take precedence. Others are **egalitarian** and treat all relationships as equally valued. The key point: polyamory says nothing about whether you reject or use hierarchies. For more on the core vocabulary, see our [polyamory glossary](/en/blog/polyamory-glossary/).
 
 ## Relationship anarchy in detail
 

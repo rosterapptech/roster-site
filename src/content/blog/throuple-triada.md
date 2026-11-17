@@ -1,6 +1,7 @@
 ---
 title: 'Throuple y tríada: relaciones de tres personas explicadas de forma sencilla'
-description: '¿Qué es un throuple y en qué se diferencia de otras estructuras del poliamor? Los distintos tipos de tríada, los retos habituales y qué necesita un buen equilibrio entre tres personas.'
+seoTitle: 'Throuple y tríada: qué es una relación de tres'
+description: '¿Qué es un throuple? Su significado, la diferencia con la estructura en V, los retos típicos y cómo funcionan la casa, el dinero y el día a día entre tres.'
 pubDate: 2026-07-06
 updatedDate: 2026-08-25
 lang: 'es'

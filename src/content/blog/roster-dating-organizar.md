@@ -1,6 +1,7 @@
 ---
 title: 'Organizar o Roster Dating: como não se perder entre vários encontros'
-description: 'Roster Dating na prática: como organizar vários encontros em paralelo, não misturar os detalhes e ser honesto sobre sua própria capacidade.'
+seoTitle: 'Roster dating: 3 regras para organizar vários encontros'
+description: 'Vários encontros ao mesmo tempo sem se perder: 3 regras básicas para o roster dating – anote detalhes, seja honesto sobre sua capacidade e converse abertamente.'
 pubDate: 2026-07-06
 lang: 'pt'
 translationKey: 'roster-dating-guide'

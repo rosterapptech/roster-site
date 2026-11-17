@@ -1,6 +1,7 @@
 ---
 title: 'Polyamorie-statistieken: hoe wijdverbreid is polyamorie echt?'
-description: 'Wat onderzoeken laten zien over de verspreiding van polyamorie en ethische non-monogamie – cijfers over ervaring, interesse en maatschappelijke perceptie.'
+seoTitle: 'Hoeveel mensen zijn polyamoor? Cijfers en onderzoek'
+description: 'Zo''n 4–5% leeft nu in een niet-monogame relatie en meer dan 20% heeft het al geprobeerd: wat onderzoek laat zien over hoe vaak polyamorie voorkomt.'
 pubDate: 2026-07-06
 lang: 'nl'
 translationKey: 'polyamory-statistics'

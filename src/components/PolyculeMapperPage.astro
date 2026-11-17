@@ -1,4 +1,5 @@
 ---
+import { appStoreUrl } from '../config/appStore';
 // Komplette Polycule-Mapper-Seite. Die 7 Sprachseiten sind reine Wrapper und
 // uebergeben nur ihre Sprache – so kann keine Sprachversion strukturell
 // auseinanderlaufen, nur der Text aus polyculeContent.ts unterscheidet sich.
@@ -19,8 +20,7 @@ interface Props {
 const { lang } = Astro.props;
 const c = POLYCULE_CONTENT[lang];
 
-const APP_STORE_URL =
-  'https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&ct=PolyculeMapper&mt=8';
+const APP_STORE_URL = appStoreUrl(`map-${lang}`);
 
 const blogHref = (slug: string) =>
   lang === 'de' ? `/blog/${slug}/` : `/${lang}/blog/${slug}/`;

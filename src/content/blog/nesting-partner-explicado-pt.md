@@ -1,6 +1,7 @@
 ---
 title: 'Nesting partner explicado: morar junto na poliamoria'
-description: 'O que é um nesting partner? O termo descreve com quem você mora, independentemente de quem é "mais importante". Definição, diferenças e desafios comuns.'
+seoTitle: 'Nesting partner: o que é e a diferença para o primário'
+description: 'O que é um nesting partner? O significado explicado de forma simples, a diferença para o parceiro primário e como morar junto quando há outros parceiros.'
 pubDate: 2026-07-11
 lang: 'pt'
 translationKey: 'nesting-partner-explained'

@@ -1,6 +1,7 @@
 ---
 title: 'Throuple & Triade: Beziehungen zu dritt einfach erklärt'
-description: 'Was ist ein Throuple und wie unterscheidet es sich von anderen Polyamorie-Formen? Die verschiedenen Triaden-Strukturen, typische Herausforderungen und was für ein gutes Gleichgewicht zu dritt wichtig ist.'
+seoTitle: 'Throuple & Triade: Bedeutung und Beziehung zu dritt'
+description: 'Was ist ein Throuple? Bedeutung, der Unterschied zur V-Struktur, typische Herausforderungen und wie Alltag, Wohnen und Geld zu dritt funktionieren.'
 pubDate: 2026-07-06
 updatedDate: 2026-08-25
 lang: 'de'

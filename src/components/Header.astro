@@ -1,4 +1,5 @@
 ---
+import { appStoreUrl } from '../config/appStore';
 import Vio from './Vio.astro';
 import { t, type Lang } from '../i18n/ui';
 import { quizPath } from '../i18n/quizPath';
@@ -28,7 +29,7 @@ const base = lang === 'de' ? '' : `/${lang}`;
     </nav>
 
     <a
-      href="https://apps.apple.com/app/apple-store/id6786782804?pt=129111138&amp;ct=Website&amp;mt=8"
+      href={appStoreUrl(`h-${lang}`)}
       class="btn btn-primary header-cta"
       rel="noopener">{tr('nav.cta')}</a>
   </div>

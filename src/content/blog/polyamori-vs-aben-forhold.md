@@ -1,6 +1,7 @@
 ---
 title: 'Polyamori vs. åbent forhold: Hvad er forskellen?'
-description: 'Åbent forhold, polyamori, polygami eller relationsanarki? Det klare overblik over alle fire modeller – plus hvordan en app som Roster fungerer til hver af dem.'
+seoTitle: 'Polyamori vs. åbent forhold: 4 modeller sammenlignet'
+description: 'Åbent forhold, polyamori, polygami eller relationsanarki? De fire modeller forklaret enkelt og sammenlignet side om side – med de vigtigste forskelle.'
 pubDate: 2026-06-20
 lang: 'da'
 translationKey: 'polyamory-vs-open-relationship'

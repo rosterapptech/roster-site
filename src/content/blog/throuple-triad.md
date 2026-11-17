@@ -1,6 +1,7 @@
 ---
 title: 'Throuple & Triad: Three-Person Relationships Explained Simply'
-description: 'What is a throuple and how does it differ from other polyamory structures? The different triad structures, common challenges, and what a good balance between three people needs.'
+seoTitle: 'Throuple Meaning: What a Triad Relationship Really Is'
+description: 'What is a throuple? The meaning, how it differs from a V structure, common challenges and how daily life, housing and money work for three people.'
 pubDate: 2026-07-06
 updatedDate: 2026-08-25
 lang: 'en'

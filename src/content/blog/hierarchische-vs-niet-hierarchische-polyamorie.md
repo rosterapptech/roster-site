@@ -11,7 +11,7 @@ Weinig vragen zorgen voor zoveel discussie in poly-communities als deze: moeten 
 
 ## Wat hiërarchische polyamorie inhoudt
 
-Bij hiërarchische polyamorie bestaat er een expliciet benoemde rangorde tussen relaties. Meestal is er een "primary partner" of "nesting partner" – iemand met wie je samenwoont, financiën deelt of langetermijnbeslissingen op elkaar afstemt. Andere relaties worden "secondary" genoemd en hebben vaak minder inspraak bij belangrijke beslissingen. Vetorecht komt hierbij vaak kijken: de primary partner kan een nieuwe relatie beperken of zelfs beëindigen als die als bedreigend voor de primaire relatie wordt ervaren. Dit model ontstaat vaak uit praktische noodzaak – wie samen een woning, kinderen of een gezamenlijke rekening heeft, neemt onvermijdelijk beslissingen die andere relaties raken.
+Bij hiërarchische polyamorie bestaat er een expliciet benoemde rangorde tussen relaties. Meestal is er een "primary partner" of "[nesting partner](/nl/blog/nesting-partner-uitgelegd/)" – iemand met wie je samenwoont, financiën deelt of langetermijnbeslissingen op elkaar afstemt. Andere relaties worden "secondary" genoemd en hebben vaak minder inspraak bij belangrijke beslissingen. Vetorecht komt hierbij vaak kijken: de primary partner kan een nieuwe relatie beperken of zelfs beëindigen als die als bedreigend voor de primaire relatie wordt ervaren. Dit model ontstaat vaak uit praktische noodzaak – wie samen een woning, kinderen of een gezamenlijke rekening heeft, neemt onvermijdelijk beslissingen die andere relaties raken.
 
 ## Wat niet-hiërarchische polyamorie inhoudt
 

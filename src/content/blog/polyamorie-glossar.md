@@ -21,7 +21,7 @@ Wir haben die Begriffe in vier Gruppen geordnet: Beziehungsformen, Menschen & Ro
 
 **Beziehungsanarchie (RA):** Eine Haltung, die alle Beziehungen als gleichwertig betrachtet und sie nicht in feste Kategorien oder Hierarchien einordnet. Jede Verbindung wird individuell ausgehandelt.
 
-**Solo-Polyamorie:** Eine Form der Polyamorie, bei der jemand mehrere Beziehungen führt, aber bewusst keinen primären oder Nesting-Partner hat und unabhängig bleibt.
+**Solo-Polyamorie:** Eine Form der Polyamorie, bei der jemand mehrere Beziehungen führt, aber bewusst keinen primären oder [Nesting-Partner](/blog/nesting-partner-erklaert/) hat und unabhängig bleibt.
 
 **Polyfidelität:** Eine geschlossene polyamore Gruppe, in der alle nur innerhalb der Gruppe intime Beziehungen haben.
 

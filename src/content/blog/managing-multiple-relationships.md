@@ -84,7 +84,7 @@ Systems need somewhere to live. In practice, four approaches tend to emerge – 
 
 ## Organising is care, not control
 
-**Roster** was built precisely for that gap – an app that gives you structure without control. Under "Connections", a quick swipe is all it takes to log that you saw someone today – no elaborate protocol, just an honest snapshot. The Vibe Radar shows you at a glance how each relationship is doing, from sunny to radio silence. And the Polycule Map makes your entire network visible at a glance. All data stays local on your device, with no account and no tracking. That's the point: structure, not control – a tool that helps you be present instead of dictating what your relationships should look like.
+**[Roster](/en/blog/app-for-organizing-polyamorous-relationships/)** was built precisely for that gap – an app that gives you structure without control. Under "Connections", a quick swipe is all it takes to log that you saw someone today – no elaborate protocol, just an honest snapshot. The Vibe Radar shows you at a glance how each relationship is doing, from sunny to radio silence. And the Polycule Map makes your entire network visible at a glance. All data stays local on your device, with no account and no tracking. That's the point: structure, not control – a tool that helps you be present instead of dictating what your relationships should look like.
 
 If jealousy is also part of what you're navigating, [Jealousy in Polyamory](/en/blog/jealousy-polyamory/) goes deeper into that. And if you want to understand your whole network better, it's worth reading [What Is a Polycule?](/en/blog/what-is-a-polycule/)
 

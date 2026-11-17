@@ -1,6 +1,7 @@
 ---
 title: 'Nesting partner explicado: convivir en el poliamor'
-description: '¿Qué es un nesting partner? El término describe con quién convives, sin importar quién es "más importante". Definición, diferencias y retos habituales.'
+seoTitle: 'Nesting partner: qué es y en qué se diferencia del primario'
+description: '¿Qué es un nesting partner? El significado explicado fácil, la diferencia con la pareja primaria y cómo funciona convivir cuando hay más parejas.'
 pubDate: 2026-07-11
 lang: 'es'
 translationKey: 'nesting-partner-explained'

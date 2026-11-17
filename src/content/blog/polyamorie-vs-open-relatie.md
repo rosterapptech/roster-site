@@ -1,6 +1,7 @@
 ---
 title: 'Polyamorie vs. open relatie: Wat is het verschil?'
-description: 'Open relatie, polyamorie, polygamie of relatieanarchie? Het duidelijke overzicht van alle vier de modellen – plus hoe een app als Roster voor elk daarvan werkt.'
+seoTitle: 'Polyamorie vs. open relatie: 4 modellen vergeleken'
+description: 'Open relatie, polyamorie, polygamie of relatieanarchie? De vier modellen eenvoudig uitgelegd en naast elkaar gezet – met de belangrijkste verschillen.'
 pubDate: 2026-06-20
 lang: 'nl'
 translationKey: 'polyamory-vs-open-relationship'

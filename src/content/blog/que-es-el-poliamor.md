@@ -20,6 +20,8 @@ faq:
 
 Quien se topa por primera vez con el término suele tener una imagen difusa en la cabeza: algo sobre "varias parejas", quizás recogido de una serie o un artículo. Este texto quiere aclarar esa imagen: una definición clara, una distinción honesta de lo que el poliamor no es, un breve vistazo al origen de la palabra y un panorama de hacia dónde seguir profundizando desde aquí.
 
+Cuántas personas viven realmente de forma no monógama lo resumimos en las [estadísticas del poliamor](/es/blog/estadisticas-poliamor/).
+
 ## Poliamor: una definición clara
 
 Poliamor —del griego *poly* ("muchos") y el latín *amor* ("amor")— describe la práctica o el deseo de mantener más de una relación romántica al mismo tiempo, con el conocimiento y el consentimiento de todas las personas implicadas. Esa es la definición más breve posible, pero cada palabra pesa lo suyo:

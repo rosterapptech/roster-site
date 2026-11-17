@@ -1,0 +1,287 @@
+---
+// App-Store-CTAs fuer Blogartikel. Eine Komponente fuer alle 7 Sprachen:
+//   1. Box in der Artikelmitte (per JS vor die mittlere H2 verschoben)
+//   2. CTA am Artikelende, Ueberschrift passend zum Thema des Artikels
+//   3. Sticky-Leiste unten, nur auf iPhone/iPad, ab ca. 30 % Scrolltiefe
+// Geraetelogik: iOS → App-Store-Button · Android → Hinweis "nur iPhone" + Test/
+// Generator als Alternative · Desktop → Button + Hinweis "auf dem iPhone oeffnen".
+// Keine Daten verlassen den Browser; jeder Button hat ein eigenes Kampagnen-Kuerzel
+// (config/appStore.ts), ausgewertet wird nur in App Store Connect.
+import Vio from './Vio.astro';
+import type { Lang } from '../i18n/ui';
+import { CTA_COPY, ctaCluster } from '../i18n/appCta';
+import { appStoreUrl, blogCampaign, type BlogCtaPos } from '../config/appStore';
+import { quizPath } from '../i18n/quizPath';
+import { polyculePath } from '../i18n/polyculePath';
+
+interface Props {
+  lang: Lang;
+  /** translationKey des Artikels (Fallback: Slug) – fuer Thema und Kampagnen-Kuerzel */
+  ctKey: string;
+}
+
+const { lang, ctKey } = Astro.props;
+const c = CTA_COPY[lang];
+const cluster = ctaCluster(ctKey);
+const copy = c.clusters[cluster];
+const url = (pos: BlogCtaPos) => appStoreUrl(blogCampaign(lang, ctKey, pos));
+const altHref = cluster === 'map' ? polyculePath(lang) : quizPath(lang);
+const altLabel = cluster === 'map' ? c.androidMap : c.androidTest;
+---
+
+<aside class="app-box" data-app-mid aria-label={c.eyebrow}>
+  <div class="app-box-text">
+    <p class="app-eyebrow"><Vio size={18} /> {c.eyebrow}</p>
+    <p class="app-box-title">{copy.title}</p>
+    <p class="app-box-desc">{copy.text}</p>
+  </div>
+  <div class="app-actions">
+    <a class="btn btn-primary app-btn" href={url('m')} rel="noopener">{c.button}</a>
+    <p class="app-android">{c.androidNote} <a href={altHref}>{altLabel}</a></p>
+  </div>
+</aside>
+
+<section class="app-end" data-app-end>
+  <Vio size={44} />
+  <h2>{copy.title}</h2>
+  <p class="app-end-desc">{copy.text}</p>
+  <ul class="app-bullets">
+    {c.bullets.map((b) => <li>{b}</li>)}
+  </ul>
+  <a class="btn btn-primary app-btn" href={url('e')} rel="noopener">{c.button}</a>
+  <p class="app-desktop">{c.desktopNote}</p>
+  <p class="app-android">{c.androidNote} <a href={altHref}>{altLabel}</a></p>
+</section>
+
+<div class="app-sticky" data-app-sticky hidden>
+  <Vio size={26} />
+  <span class="app-sticky-text">{c.sticky}</span>
+  <a class="btn btn-primary app-sticky-btn" href={url('s')} rel="noopener">{c.buttonShort}</a>
+  <button type="button" class="app-sticky-close" aria-label={c.close} data-app-sticky-close>×</button>
+</div>
+
+<script>
+  const ua = navigator.userAgent;
+  // Android zuerst pruefen: die iPad-Regel (MacIntel + Touch) darf Android nie treffen.
+  const android = /Android/i.test(ua);
+  const ios =
+    !android &&
+    (/iPhone|iPad|iPod/.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1));
+  document.documentElement.dataset.platform = ios ? 'ios' : android ? 'android' : 'desktop';
+
+  // 1. Box in die Artikelmitte verschieben (nur bei Artikeln mit genug Abschnitten)
+  const box = document.querySelector<HTMLElement>('[data-app-mid]');
+  const body = document.querySelector<HTMLElement>('.article .body');
+  if (box && body) {
+    const h2s = body.querySelectorAll(':scope > h2');
+    if (h2s.length >= 3) {
+      h2s[Math.floor(h2s.length / 2)].before(box);
+      box.classList.add('is-placed');
+    }
+  }
+
+  // 3. Sticky-Leiste: nur iOS, ab 30 % Scrolltiefe, nicht solange der End-CTA sichtbar ist
+  const sticky = document.querySelector<HTMLElement>('[data-app-sticky]');
+  const end = document.querySelector<HTMLElement>('[data-app-end]');
+  let dismissed = false;
+  try {
+    dismissed = sessionStorage.getItem('roster-sticky-dismissed') === '1';
+  } catch {}
+
+  if (sticky && ios && !dismissed) {
+    let endVisible = false;
+    const update = () => {
+      const max = document.documentElement.scrollHeight - window.innerHeight;
+      const progress = max > 0 ? window.scrollY / max : 0;
+      sticky.hidden = dismissed || endVisible || progress < 0.3;
+    };
+    if (end && 'IntersectionObserver' in window) {
+      new IntersectionObserver(([entry]) => {
+        endVisible = entry.isIntersecting;
+        update();
+      }).observe(end);
+    }
+    window.addEventListener('scroll', update, { passive: true });
+    sticky.querySelector('[data-app-sticky-close]')?.addEventListener('click', () => {
+      dismissed = true;
+      sticky.hidden = true;
+      try {
+        sessionStorage.setItem('roster-sticky-dismissed', '1');
+      } catch {}
+    });
+  }
+</script>
+
+<style>
+  /* Plattform-Sichtbarkeit (data-platform setzt das Skript oben auf <html>) */
+  .app-android,
+  .app-desktop {
+    display: none;
+  }
+  :global(html[data-platform='android']) .app-android,
+  :global(html[data-platform='desktop']) .app-desktop {
+    display: block;
+  }
+  :global(html[data-platform='android']) .app-btn {
+    display: none;
+  }
+  .app-android,
+  .app-desktop {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    margin: 0;
+  }
+  .app-android a {
+    color: var(--lavender);
+  }
+
+  /* 1. Box in der Artikelmitte */
+  .app-box {
+    display: none;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2.2em 0;
+    padding: 22px 24px;
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--purple);
+    border-radius: var(--radius-sm);
+    background: var(--surface);
+  }
+  .app-box.is-placed {
+    display: flex;
+  }
+  .app-eyebrow {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 0 0 6px;
+    color: var(--lavender);
+    font-size: 0.78rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+  .app-box-title {
+    margin: 0 0 4px;
+    color: var(--text);
+    font-family: var(--font-display);
+    font-size: 1.15rem;
+    line-height: 1.3;
+  }
+  .app-box-desc {
+    margin: 0;
+    font-size: 0.92rem;
+    line-height: 1.55;
+  }
+  .app-actions {
+    flex-shrink: 0;
+    max-width: 260px;
+  }
+  .app-box .app-btn {
+    font-size: 0.92rem;
+    white-space: nowrap;
+  }
+  @media (max-width: 640px) {
+    .app-box.is-placed {
+      flex-direction: column;
+      align-items: stretch;
+    }
+    .app-actions {
+      max-width: none;
+    }
+    .app-box .app-btn {
+      width: 100%;
+      justify-content: center;
+      white-space: normal;
+      text-align: center;
+    }
+  }
+
+  /* 2. CTA am Artikelende */
+  .app-end {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+    margin-top: 48px;
+    padding: 40px 24px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: radial-gradient(120% 120% at 50% 0%, rgba(139, 92, 246, 0.14), transparent 60%),
+      var(--surface);
+  }
+  .app-end h2 {
+    max-width: 22ch;
+    margin: 0;
+  }
+  .app-end-desc {
+    max-width: 48ch;
+    margin: 0;
+    color: var(--text-muted);
+    line-height: 1.65;
+  }
+  .app-bullets {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px 18px;
+    margin: 4px 0;
+    padding: 0;
+    list-style: none;
+    color: var(--text);
+    font-size: 0.88rem;
+  }
+  .app-bullets li::before {
+    content: '✓ ';
+    color: var(--accent-teal);
+  }
+  .app-end .app-btn {
+    margin-top: 4px;
+  }
+
+  /* 3. Sticky-Leiste (nur iOS) */
+  .app-sticky {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 60;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
+    border-top: 1px solid var(--border);
+    background: rgba(19, 18, 23, 0.94);
+    backdrop-filter: blur(12px);
+  }
+  .app-sticky:not([hidden]) {
+    display: flex;
+  }
+  .app-sticky-text {
+    flex: 1;
+    min-width: 0;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    color: var(--text);
+    font-size: 0.85rem;
+    line-height: 1.3;
+  }
+  .app-sticky-btn {
+    font-size: 0.88rem;
+    padding: 0.55em 1.1em;
+  }
+  .app-sticky-close {
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
+    border: 0;
+    border-radius: 50%;
+    background: transparent;
+    color: var(--text-muted);
+    font-size: 1.3rem;
+    line-height: 1;
+    cursor: pointer;
+  }
+</style>

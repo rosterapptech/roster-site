@@ -20,6 +20,8 @@ faq:
 
 Wie voor het eerst met de term in aanraking komt, heeft vaak een wat vaag beeld in het hoofd – iets met "meerdere partners", misschien opgepikt uit een serie of een artikel. Deze tekst is bedoeld om dat beeld scherper te maken: een heldere definitie, een eerlijke afbakening van wat polyamorie niet is, een korte blik op de herkomst van het woord, en een overzicht van waar je vanaf hier verder kunt lezen.
 
+Hoeveel mensen echt niet-monogaam leven, lees je in de [polyamorie-statistieken](/nl/blog/polyamorie-statistieken/).
+
 ## Polyamorie: een heldere definitie
 
 Polyamorie – van het Griekse *poly* ("veel") en het Latijnse *amor* ("liefde") – beschrijft de praktijk of het verlangen om meer dan één romantische relatie tegelijk te hebben, waarbij alle betrokkenen daarvan weten en ermee instemmen. Dat is de kortste definitie, maar elk woord erin weegt zwaar:

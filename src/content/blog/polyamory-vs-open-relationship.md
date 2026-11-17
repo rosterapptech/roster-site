@@ -1,6 +1,7 @@
 ---
 title: "Polyamory vs. Open Relationship: What's the Difference?"
-description: 'Open relationship, polyamory, polygamy, or relationship anarchy? A clear overview of all four models – plus how an app like Roster works for each one.'
+seoTitle: 'Polyamory vs. Open Relationship: 4 Models Compared'
+description: 'Open relationship, polyamory, polygamy or relationship anarchy? The four models explained simply and compared side by side – with the key differences.'
 pubDate: 2026-06-20
 lang: 'en'
 translationKey: 'polyamory-vs-open-relationship'

@@ -9,6 +9,8 @@ tags: ['Polyamori', 'Myter', 'Fordomme', 'Parforhold']
 
 Få måder at have parforhold på bliver misforstået så hårdnakket som polyamori. Den, der åbent har flere forhold ad gangen, kommer før eller siden til at høre de samme spørgsmål og antagelser – som regel med en undertone, der afslører mere om spørgerens fordomme end om virkeligheden i poly liv. På tide at rede de mest udbredte myter grundigt ud.
 
+Hvor mange der faktisk lever ikke-monogamt, kan du læse i [polyamori-statistikken](/da/blog/polyamori-statistik/).
+
 ## Myte: polyamori er bare en undskyldning for utroskab
 
 Forskellen er faktisk enkel: utroskab handler om at skjule noget for sin partner. Polyamori betyder, at alle involverede ved det og har givet deres samtykke. Det er ikke det at have flere forhold, der definerer utroskab, men fraværet af ærlighed og samtykke. Polyamorøse mennesker bruger ofte endnu mere tid på aftaler og åbenhed end monogame par, fordi deres model simpelthen ikke fungerer uden den åbenhed. Utroskab søger netop fraværet af konsekvenser; polyamori søger det modsatte – en struktur, hvor ærlig kommunikation er den grundlæggende forudsætning.

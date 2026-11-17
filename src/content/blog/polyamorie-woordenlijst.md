@@ -21,7 +21,7 @@ We hebben de begrippen ingedeeld in vier groepen: relatievormen, mensen & rollen
 
 **RelatieAnarchie (RA):** Een benadering waarbij alle relaties als gelijkwaardig worden beschouwd en niet in vaste categorieën of hiërarchieën worden ingedeeld. Elke verbinding wordt individueel onderhandeld.
 
-**Solo-polyamorie:** Een vorm van polyamorie waarbij iemand meerdere relaties heeft, maar bewust geen primaire of nesting partner heeft en onafhankelijk blijft.
+**Solo-polyamorie:** Een vorm van polyamorie waarbij iemand meerdere relaties heeft, maar bewust geen primaire of [nesting partner](/nl/blog/nesting-partner-uitgelegd/) heeft en onafhankelijk blijft.
 
 **Polyfideliteit:** Een gesloten polyamore groep waarbij iedereen alleen binnen de groep intieme relaties heeft.
 

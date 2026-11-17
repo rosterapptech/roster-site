@@ -1,6 +1,7 @@
 ---
 title: 'Throuple & triade: relaties met drie personen eenvoudig uitgelegd'
-description: 'Wat is een throuple en hoe verschilt het van andere polyamorie-vormen? De verschillende triade-structuren, veelvoorkomende uitdagingen en wat een goede balans tussen drie mensen nodig heeft.'
+seoTitle: 'Throuple betekenis: wat is een triade-relatie?'
+description: 'Wat is een throuple? De betekenis, het verschil met een V-structuur, typische uitdagingen en hoe wonen, geld en dagelijks leven met z''n drieën werken.'
 pubDate: 2026-07-06
 updatedDate: 2026-08-25
 lang: 'nl'

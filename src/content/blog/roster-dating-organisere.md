@@ -1,6 +1,7 @@
 ---
 title: 'Organisere Roster Dating: sådan holder du styr på flere dates'
-description: 'Roster Dating i praksis: hvordan du organiserer flere dates parallelt, ikke blander detaljer sammen og er ærlig om din egen kapacitet.'
+seoTitle: 'Roster dating: 3 regler til at holde styr på flere dates'
+description: 'Flere dates på én gang uden at miste overblikket: 3 grundregler for roster dating – noter detaljer, vær ærlig om din kapacitet, og tal åbent om status.'
 pubDate: 2026-07-06
 lang: 'da'
 translationKey: 'roster-dating-guide'

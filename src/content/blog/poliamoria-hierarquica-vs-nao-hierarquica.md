@@ -11,7 +11,7 @@ Poucas perguntas geram tanto debate nas comunidades poliamorosas quanto esta: os
 
 ## O que significa a poliamoria hierárquica
 
-Na poliamoria hierárquica existe um status explicitamente nomeado entre relacionamentos. Normalmente há uma "parceira primária" ou "nesting partner" — alguém com quem você mora, compartilha finanças ou toma decisões de vida a longo prazo. Outros relacionamentos são rotulados como "secundários" e costumam ter menos voz em decisões importantes. O poder de veto é uma característica comum: a parceira primária pode limitar ou até encerrar um novo relacionamento se ele for percebido como uma ameaça ao relacionamento primário. Esse modelo costuma surgir de necessidades práticas: dividir casa, filhos ou uma conta conjunta implica inevitavelmente tomar decisões que afetam outros relacionamentos.
+Na poliamoria hierárquica existe um status explicitamente nomeado entre relacionamentos. Normalmente há uma "parceira primária" ou "[nesting partner](/pt/blog/nesting-partner-explicado-pt/)" — alguém com quem você mora, compartilha finanças ou toma decisões de vida a longo prazo. Outros relacionamentos são rotulados como "secundários" e costumam ter menos voz em decisões importantes. O poder de veto é uma característica comum: a parceira primária pode limitar ou até encerrar um novo relacionamento se ele for percebido como uma ameaça ao relacionamento primário. Esse modelo costuma surgir de necessidades práticas: dividir casa, filhos ou uma conta conjunta implica inevitavelmente tomar decisões que afetam outros relacionamentos.
 
 ## O que significa a poliamoria não hierárquica
 

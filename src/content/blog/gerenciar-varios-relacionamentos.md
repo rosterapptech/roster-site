@@ -85,7 +85,7 @@ Os sistemas precisam de um lugar para viver. Na prática, quatro abordagens se c
 
 ## Organizar é cuidar, não controlar
 
-O **Roster** foi criado exatamente para preencher esse vazio: um app que dá estrutura sem controlar. Em "Relacionamentos", basta um gesto rápido de deslizar para registrar que você viu alguém hoje, sem protocolos complicados, apenas um retrato honesto. O Vibe Radar mostra de relance como está cada relacionamento, do ensolarado ao silêncio total. E o mapa do polycule torna toda a sua rede visível de uma vez. Todos os dados permanecem locais no seu aparelho, sem conta e sem rastreamento. Esse é o ponto: estrutura, não controle, uma ferramenta que ajuda você a estar presente em vez de ditar como seus relacionamentos devem ser.
+O **[Roster](/pt/blog/app-para-organizar-relacionamentos-poliamorosos/)** foi criado exatamente para preencher esse vazio: um app que dá estrutura sem controlar. Em "Relacionamentos", basta um gesto rápido de deslizar para registrar que você viu alguém hoje, sem protocolos complicados, apenas um retrato honesto. O Vibe Radar mostra de relance como está cada relacionamento, do ensolarado ao silêncio total. E o mapa do polycule torna toda a sua rede visível de uma vez. Todos os dados permanecem locais no seu aparelho, sem conta e sem rastreamento. Esse é o ponto: estrutura, não controle, uma ferramenta que ajuda você a estar presente em vez de ditar como seus relacionamentos devem ser.
 
 Se o ciúme também faz parte do que você está vivendo, [Ciúmes na poliamoria](/pt/blog/ciumes-poliamoria/) aprofunda o tema. E se você quer entender melhor toda a sua rede, vale a pena ler [O que é um polycule?](/pt/blog/o-que-e-um-polycule/)
 

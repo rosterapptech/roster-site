@@ -84,7 +84,7 @@ System behöver en plats att leva på. I praktiken kristalliseras fyra angreppss
 
 ## Att organisera är omtanke, inte kontroll
 
-**Roster** byggdes exakt för det glappet – en app som ger struktur utan att kontrollera. Under "Relationer" räcker en snabb svep-gest för att notera att du sett en person idag – ingen omständlig logg, bara en ärlig ögonblicksbild. Vibe Radar visar dig direkt hur varje relation mår, från soligt till radiotystnad. Och Polycule Map gör hela ditt nätverk synligt på en gång. All data stannar lokalt på din enhet, utan konto och utan spårning. Det är kärnan: struktur, inte kontroll – ett verktyg som hjälper dig vara närvarande i stället för att diktera hur dina relationer ska se ut.
+**[Roster](/sv/blog/app-for-att-organisera-polyamorosa-relationer/)** byggdes exakt för det glappet – en app som ger struktur utan att kontrollera. Under "Relationer" räcker en snabb svep-gest för att notera att du sett en person idag – ingen omständlig logg, bara en ärlig ögonblicksbild. Vibe Radar visar dig direkt hur varje relation mår, från soligt till radiotystnad. Och Polycule Map gör hela ditt nätverk synligt på en gång. All data stannar lokalt på din enhet, utan konto och utan spårning. Det är kärnan: struktur, inte kontroll – ett verktyg som hjälper dig vara närvarande i stället för att diktera hur dina relationer ska se ut.
 
 Spelar svartsjuka också in i det du hanterar, går [Svartsjuka i polyamori](/sv/blog/svaartsjuka-polyamori/) djupare in på det. Och vill du förstå hela ditt nätverk bättre, är det värt att läsa [Vad är ett polycule?](/sv/blog/vad-ar-ett-polycule/)
 

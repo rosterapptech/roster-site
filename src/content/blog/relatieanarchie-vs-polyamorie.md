@@ -1,6 +1,7 @@
 ---
 title: 'RelatieAnarchie vs. polyamorie: Wat is het verschil?'
-description: 'RelatieAnarchie of polyamorie? We leggen de verschillen uit rond hiërarchie, regels en hoe relaties worden gedefinieerd – en helpen je erachter te komen wat bij jou past.'
+seoTitle: 'Relatieanarchie vs. polyamorie: het verschil uitgelegd'
+description: 'Relatieanarchie of polyamorie? Het korte antwoord, de verschillen in hiërarchie, regels en relatielabels – en welk model bij jou past.'
 pubDate: 2026-06-26
 lang: 'nl'
 translationKey: 'relationship-anarchy-vs-polyamory'
@@ -19,7 +20,7 @@ Anders gezegd: polyamorie is een relatievorm; relatieAnarchie is een relatie-fil
 
 ## Polyamorie nader bekeken
 
-Polyamorie draait om meerdere parallelle liefdesrelaties. Veel polyamoreuze mensen werken met structuren: er is misschien een nesting partner met wie je samenwoont en verdere relaties daarnaast. Sommige polyamoreuze constellaties zijn uitdrukkelijk **hiërarchisch** – met primaire en secundaire partners waarbij bepaalde relaties voorrang hebben. Andere zijn **egalitair** en behandelen alle relaties als gelijkwaardig. Het kernpunt: polyamorie zegt niets over of je hiërarchieën afwijst of gebruikt. Voor meer over de kernbegrippen, zie onze [polyamorie-woordenlijst](/nl/blog/polyamorie-woordenlijst/).
+Polyamorie draait om meerdere parallelle liefdesrelaties. Veel polyamoreuze mensen werken met structuren: er is misschien een [nesting partner](/nl/blog/nesting-partner-uitgelegd/) met wie je samenwoont en verdere relaties daarnaast. Sommige polyamoreuze constellaties zijn uitdrukkelijk **hiërarchisch** – met primaire en secundaire partners waarbij bepaalde relaties voorrang hebben. Andere zijn **egalitair** en behandelen alle relaties als gelijkwaardig. Het kernpunt: polyamorie zegt niets over of je hiërarchieën afwijst of gebruikt. Voor meer over de kernbegrippen, zie onze [polyamorie-woordenlijst](/nl/blog/polyamorie-woordenlijst/).
 
 ## RelatieAnarchie nader bekeken
 
