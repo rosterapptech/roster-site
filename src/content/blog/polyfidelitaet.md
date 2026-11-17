@@ -1,6 +1,7 @@
 ---
 title: 'Polyfidelität: Wenn eine geschlossene Gruppe polyamor zusammen ist'
-description: 'Was ist Polyfidelität? Definition, Abgrenzung zu Throuple und Kitchen-Table-Polyamorie sowie die typischen Herausforderungen einer geschlossenen Poly-Gruppe.'
+seoTitle: 'Was ist Polyfidelität? Bedeutung & Unterschied zum Throuple'
+description: 'Polyfidelität einfach erklärt: Bedeutung, der Unterschied zu Throuple und Kitchen-Table-Polyamorie und die echten Herausforderungen einer festen Gruppe.'
 pubDate: 2026-07-11
 lang: 'de'
 translationKey: 'polyfidelity'

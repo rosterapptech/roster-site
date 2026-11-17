@@ -1,6 +1,7 @@
 ---
 title: 'Was ist ein Polycule? Beziehungsformen, Beispiele und wie du den Überblick behältst'
-description: 'Polycule einfach erklärt: Bedeutung, Beziehungsformen wie Triade, V und Quad, echte Beispiele und praktische Tipps, wie du dein Beziehungsnetzwerk im Blick behältst.'
+seoTitle: 'Polycule: Bedeutung, Formen & kostenloser Generator'
+description: 'Was ein Polycule ist, einfach auf Deutsch erklärt: V, Triade, Quad und Netzwerk mit Beispielen – plus kostenloser Generator für deine eigene Polycule-Map.'
 pubDate: 2026-06-26
 lang: 'de'
 translationKey: 'what-is-a-polycule'
@@ -19,6 +20,8 @@ faq:
 Wenn du anfängst, dich mit Polyamorie oder ethischer Nicht-Monogamie zu beschäftigen, stolperst du früher oder später über das Wort **Polycule**. Es klingt erst mal technisch, beschreibt aber etwas sehr Menschliches: das Netzwerk aus Menschen, die über Liebes- und Beziehungsverbindungen miteinander verbunden sind.
 
 In diesem Artikel erklären wir, was ein Polycule genau ist, welche Formen es gibt, was ein Metamour eigentlich ist, wie aus einer einzelnen Beziehung schnell ein ganzes Netzwerk wird – und, weil das in der Praxis oft die eigentliche Herausforderung ist, wie du dabei den Überblick behältst.
+
+**Tipp:** Du willst dein eigenes Polycule sehen? Mit dem kostenlosen [Polycule-Generator](/polycule-map-erstellen/) zeichnest du es in wenigen Minuten – ohne Konto, direkt im Browser.
 
 ## Polycule: die Bedeutung
 

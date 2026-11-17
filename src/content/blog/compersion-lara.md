@@ -1,6 +1,7 @@
 ---
 title: 'Lära sig compersion: Hur du kan glädjas för dina partners'
-description: 'Compersion är motsatsen till svartsjuka – glädjen du känner när din partner är lycklig med någon annan. Betydelse, ursprung, konkreta exempel och hur du övar.'
+seoTitle: 'Compersion på svenska: betydelse + 5 sätt att lära dig'
+description: 'Compersion är motsatsen till svartsjuka: glädjen över din partners lycka med någon annan. Betydelse, exempel och 5 sätt att öva upp känslan.'
 pubDate: 2026-06-26
 updatedDate: 2026-08-25
 lang: 'sv'

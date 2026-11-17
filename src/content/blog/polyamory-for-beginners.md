@@ -1,6 +1,7 @@
 ---
 title: 'Polyamory for Beginners: An Honest Introduction to Ethical Non-Monogamy'
-description: 'Polyamory for beginners without clichés: what polyamory really means, common myths, the first steps and honest expectations for the start of the journey.'
+seoTitle: 'Polyamory for Beginners: 5 First Steps & Myths Busted'
+description: 'New to polyamory? What it really means, which myths are wrong and 5 first steps for an honest, relaxed start – no clichés, no sugarcoating.'
 pubDate: 2026-06-26
 lang: 'en'
 translationKey: 'polyamory-for-beginners'

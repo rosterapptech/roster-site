@@ -1,6 +1,7 @@
 ---
 title: '¿Qué es un polycule? Estructuras de relación, ejemplos y cómo mantener el control'
-description: 'Polycule explicado de forma sencilla: significado, estructuras como triadas, V y cuartetos, ejemplos reales y consejos prácticos para gestionar tu red de relaciones.'
+seoTitle: '¿Qué es un polycule? Significado, tipos y generador gratis'
+description: 'Qué es un polycule, explicado fácil: V, tríada, cuarteto y red con ejemplos reales, y un generador gratuito para crear el mapa de tu polycule.'
 pubDate: 2026-06-26
 lang: 'es'
 translationKey: 'what-is-a-polycule'
@@ -19,6 +20,8 @@ faq:
 Cuando comienzas a explorar el poliamor o la no monogamia ética, tarde o temprano te encuentras con la palabra **polycule**. Suena técnica al principio, pero describe algo muy humano: la red de personas conectadas entre sí a través de relaciones románticas e íntimas.
 
 En este artículo explicamos exactamente qué es un polycule, qué formas puede adoptar, qué es en realidad un metamour, cómo una sola relación puede convertirse rápidamente en toda una red y —porque ese suele ser el verdadero reto en la práctica— cómo mantener el control de todo ello.
+
+**Consejo:** ¿Quieres ver tu propio polycule? Con el [generador de polycule](/es/crear-mapa-de-polycule/) gratuito lo dibujas en pocos minutos, sin cuenta y directamente en tu navegador.
 
 ## Polycule: el significado
 

@@ -1,6 +1,7 @@
 ---
 title: 'Polyamorie voor beginners: De eerlijke start in ethische niet-monogamie'
-description: 'Polyamorie voor beginners zonder clichés: wat polyamorie echt betekent, welke mythes er zijn, de eerste stappen en eerlijke verwachtingen voor het begin.'
+seoTitle: 'Polyamorie voor beginners: 5 eerste stappen + mythes'
+description: 'Nieuw in polyamorie? Wat het echt betekent, welke mythes niet kloppen en 5 eerste stappen voor een eerlijke, ontspannen start.'
 pubDate: 2026-06-26
 lang: 'nl'
 translationKey: 'polyamory-for-beginners'

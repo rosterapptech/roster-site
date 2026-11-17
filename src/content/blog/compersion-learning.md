@@ -1,6 +1,7 @@
 ---
 title: 'Learning Compersion: How to Feel Joy for Your Partners'
-description: 'Compersion is the opposite of jealousy – the joy you feel when your partner is happy with someone else. Meaning, origin, concrete examples and how to practise it.'
+seoTitle: 'Compersion: Meaning, Examples & 5 Ways to Feel It'
+description: 'Compersion is the opposite of jealousy: joy at your partner''s happiness with someone else. Meaning, real examples and 5 practical ways to build it.'
 pubDate: 2026-06-26
 updatedDate: 2026-08-25
 lang: 'en'

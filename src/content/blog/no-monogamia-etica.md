@@ -1,6 +1,7 @@
 ---
 title: 'No monogamia ética (ENM): definición, tipos y diferencias'
-description: '¿Qué significa la no monogamia ética (ENM)? El término paraguas explicado de forma sencilla, con una distinción clara respecto al poliamor, las relaciones abiertas y el intercambio de parejas.'
+seoTitle: 'ENM: qué es la no monogamia ética y qué tipos hay'
+description: '¿Qué significa ENM? La no monogamia ética explicada de forma sencilla: sus tipos y en qué se diferencia del poliamor, la relación abierta y el swinging.'
 pubDate: 2026-07-06
 lang: 'es'
 translationKey: 'ethical-non-monogamy'

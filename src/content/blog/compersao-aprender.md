@@ -1,6 +1,7 @@
 ---
 title: 'Aprender a sentir compersão: como se alegrar pelos seus parceiros'
-description: 'A compersão é o oposto do ciúme: a alegria que você sente quando seu parceiro é feliz com outra pessoa. Significado, origem, exemplos concretos e como praticar.'
+seoTitle: 'Compersão: o que é, exemplos e 5 formas de senti-la'
+description: 'A compersão é o oposto do ciúme: a alegria pela felicidade do seu parceiro com outra pessoa. Significado, exemplos e 5 formas de praticar.'
 pubDate: 2026-06-26
 updatedDate: 2026-08-25
 lang: 'pt'

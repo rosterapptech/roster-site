@@ -1,6 +1,7 @@
 ---
 title: 'What Is a Polycule? Relationship Structures, Examples and How to Stay Organised'
-description: 'Polycule explained simply: meaning, relationship structures like triads, V and quads, real examples and practical tips for keeping track of your relationship network.'
+seoTitle: 'What Is a Polycule? Meaning, Shapes & Free Map Maker'
+description: 'Polycule meaning explained simply: V, triad, quad and network shapes with real examples – plus a free polycule map maker to draw your own in minutes.'
 pubDate: 2026-06-26
 lang: 'en'
 translationKey: 'what-is-a-polycule'
@@ -19,6 +20,8 @@ faq:
 When you start exploring polyamory or ethical non-monogamy, you will sooner or later come across the word **polycule**. It sounds technical at first, but it describes something very human: the network of people connected to each other through romantic and intimate relationships.
 
 In this article we explain exactly what a polycule is, what forms it can take, what a metamour actually is, how a single relationship can quickly turn into a whole network – and, because this is often the real challenge in practice, how to stay on top of it all.
+
+**Tip:** Want to see your own polycule? With the free [polycule map maker](/en/polycule-map-maker/) you can draw it in a few minutes – no account, right in your browser.
 
 ## Polycule: the meaning
 

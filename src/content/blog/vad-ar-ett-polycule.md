@@ -1,6 +1,7 @@
 ---
 title: 'Vad är ett polycule? Relationsformer, exempel och hur du behåller överblicken'
-description: 'Polycule förklarat enkelt: betydelse, relationsformer som triader, V och kvartetter, verkliga exempel och praktiska tips för att hålla koll på ditt relationsnätverk.'
+seoTitle: 'Vad är ett polycule? Betydelse, former & gratis generator'
+description: 'Polycule förklarat enkelt: V, triad, kvartett och nätverk med exempel – plus en gratis generator där du gör din egen polycule-karta.'
 pubDate: 2026-06-26
 lang: 'sv'
 translationKey: 'what-is-a-polycule'
@@ -19,6 +20,8 @@ faq:
 När du börjar utforska polyamori eller etisk icke-monogami stöter du förr eller senare på ordet **polycule**. Det låter tekniskt till en början, men beskriver något mycket mänskligt: nätverket av människor som är sammankopplade med varandra genom romantiska och intima relationer.
 
 I den här artikeln förklarar vi precis vad ett polycule är, vilka former det kan ta, vad ett metamour egentligen är, hur en enda relation snabbt kan växa till ett helt nätverk – och, eftersom det ofta är den verkliga utmaningen i praktiken, hur du behåller överblicken under tiden.
+
+**Tips:** Vill du se ditt eget polycule? Med den kostnadsfria [polycule-generatorn](/sv/gor-polycule-karta/) ritar du det på några minuter – utan konto, direkt i webbläsaren.
 
 ## Polycule: betydelsen
 

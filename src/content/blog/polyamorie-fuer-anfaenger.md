@@ -1,6 +1,7 @@
 ---
 title: 'Polyamorie für Anfänger: Der ehrliche Einstieg in ethische Nicht-Monogamie'
-description: 'Polyamorie für Einsteiger ohne Klischees: Was Polyamorie wirklich bedeutet, welche Mythen es gibt, die ersten Schritte und ehrliche Erwartungen an den Anfang.'
+seoTitle: 'Polyamorie für Anfänger: 5 erste Schritte + Mythen-Check'
+description: 'Neu in der Polyamorie? Was sie wirklich bedeutet, welche Mythen nicht stimmen und 5 erste Schritte für einen ehrlichen, entspannten Einstieg.'
 pubDate: 2026-06-26
 lang: 'de'
 translationKey: 'polyamory-for-beginners'

@@ -1,6 +1,7 @@
 ---
 title: 'Ethische non-monogamie (ENM): definitie, vormen en verschillen'
-description: 'Wat betekent ethische non-monogamie (ENM)? De overkoepelende term eenvoudig uitgelegd, met een duidelijk onderscheid ten opzichte van polyamorie, open relaties en swingen.'
+seoTitle: 'ENM betekenis: wat ethische non-monogamie is (+ vormen)'
+description: 'Wat betekent ENM? Ethische non-monogamie eenvoudig uitgelegd: de belangrijkste vormen en het verschil met polyamorie, open relaties en swingen.'
 pubDate: 2026-07-06
 lang: 'nl'
 translationKey: 'ethical-non-monogamy'

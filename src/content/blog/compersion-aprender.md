@@ -1,6 +1,7 @@
 ---
 title: 'Aprender a sentir compersión: Cómo alegrarte por tus parejas'
-description: 'La compersión es lo opuesto a los celos: la alegría que sientes cuando tu pareja es feliz con otra persona. Significado, origen, ejemplos concretos y cómo practicarla.'
+seoTitle: 'Compersión: qué es, ejemplos y 5 formas de sentirla'
+description: 'La compersión es lo opuesto a los celos: alegrarte por la felicidad de tu pareja con otra persona. Qué significa, ejemplos y 5 formas de practicarla.'
 pubDate: 2026-06-26
 updatedDate: 2026-08-25
 lang: 'es'

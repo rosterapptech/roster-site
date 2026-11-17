@@ -1,6 +1,7 @@
 ---
 title: 'Polifidelidade: quando um grupo fechado é poliamoroso entre si'
-description: 'O que é polifidelidade? Definição, diferença para um throuple e para a poliamoria kitchen-table, e os desafios reais de um grupo poli fechado.'
+seoTitle: 'Polifidelidade: o que é, significado e desafios reais'
+description: 'O que é polifidelidade? O significado explicado de forma simples, a diferença para um throuple e a poliamoria kitchen-table, e os desafios reais.'
 pubDate: 2026-07-11
 lang: 'pt'
 translationKey: 'polyfidelity'

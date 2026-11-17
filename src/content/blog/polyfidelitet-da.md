@@ -1,6 +1,7 @@
 ---
 title: 'Polyfidelitet: når en lukket gruppe er polyamorøs sammen'
-description: 'Hvad er polyfidelitet? Definition, forskellen fra et throuple og kitchen-table-polyamori, og de reelle udfordringer ved en lukket poly-gruppe.'
+seoTitle: 'Polyfidelitet: betydning og forskel på et throuple'
+description: 'Hvad er polyfidelitet? Betydningen forklaret enkelt, forskellen fra et throuple og kitchen-table-polyamori, og de reelle udfordringer.'
 pubDate: 2026-07-11
 lang: 'da'
 translationKey: 'polyfidelity'

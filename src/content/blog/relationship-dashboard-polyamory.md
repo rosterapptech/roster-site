@@ -1,6 +1,7 @@
 ---
 title: 'Relationship Dashboard for Polyamory: Notion, polycul.es & More Compared'
-description: 'Notion templates, polycul.es, the PYE Poly Calendar App, Multiamory RADAR, and CRM tools like Monica: what these relationship-dashboard approaches actually deliver — and where a dedicated app like Roster picks up.'
+seoTitle: 'Polyamory Relationship Dashboard: 5 Options Compared'
+description: 'Notion templates, polycul.es, PYE Poly Calendar, Multiamory RADAR or a CRM like Monica: what each relationship dashboard really does – and where it falls short.'
 pubDate: 2026-07-18
 lang: 'en'
 translationKey: 'relationship-dashboard-tools'

@@ -1,6 +1,7 @@
 ---
 title: 'Poliamor para principiantes: La introducción honesta a la no monogamia ética'
-description: 'Poliamor para principiantes sin clichés: qué significa realmente el poliamor, qué mitos existen, los primeros pasos y expectativas honestas para el comienzo.'
+seoTitle: 'Poliamor para principiantes: 5 primeros pasos y mitos'
+description: '¿Nuevo en el poliamor? Qué significa de verdad, qué mitos son falsos y 5 primeros pasos para empezar con honestidad y sin presión.'
 pubDate: 2026-06-26
 lang: 'es'
 translationKey: 'polyamory-for-beginners'

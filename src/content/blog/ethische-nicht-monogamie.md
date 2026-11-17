@@ -1,6 +1,7 @@
 ---
 title: 'Ethische Nicht-Monogamie (ENM): Definition, Formen und Abgrenzung'
-description: 'Was bedeutet Ethische Nicht-Monogamie (ENM)? Der Oberbegriff einfach erklärt, mit Abgrenzung zu Polyamorie, offenen Beziehungen und Swinging.'
+seoTitle: 'ENM: Was ethische Nicht-Monogamie bedeutet + alle Formen'
+description: 'ENM einfach erklärt: Was ethische Nicht-Monogamie bedeutet, welche Formen es gibt und wie sie sich von Polyamorie, offener Beziehung und Swingen unterscheidet.'
 pubDate: 2026-07-06
 lang: 'de'
 translationKey: 'ethical-non-monogamy'

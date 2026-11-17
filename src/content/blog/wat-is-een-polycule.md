@@ -1,6 +1,7 @@
 ---
 title: 'Wat is een polycule? Relatievormen, voorbeelden en hoe je het overzicht bewaart'
-description: 'Polycule eenvoudig uitgelegd: betekenis, relatievormen zoals triades, V en quads, echte voorbeelden en praktische tips om je relatienetwerk bij te houden.'
+seoTitle: 'Wat is een polycule? Betekenis, vormen & gratis generator'
+description: 'Polycule eenvoudig uitgelegd: V, triade, quad en netwerk met voorbeelden – plus een gratis generator om je eigen polycule-map te maken.'
 pubDate: 2026-06-26
 lang: 'nl'
 translationKey: 'what-is-a-polycule'
@@ -19,6 +20,8 @@ faq:
 Als je begint met het verkennen van polyamorie of ethische niet-monogamie, stuit je vroeg of laat op het woord **polycule**. Het klinkt technisch, maar beschrijft iets heel menselijks: het netwerk van mensen die door romantische en intieme relaties met elkaar verbonden zijn.
 
 In dit artikel leggen we uit wat een polycule precies is, welke vormen het kan aannemen, wat een metamour eigenlijk is, hoe één relatie snel kan uitgroeien tot een heel netwerk – en, want dat is in de praktijk vaak de echte uitdaging, hoe je daarbij het overzicht bewaart.
+
+**Tip:** Wil je je eigen polycule zien? Met de gratis [polycule-generator](/nl/polycule-map-maken/) teken je hem in een paar minuten – zonder account, direct in je browser.
 
 ## Polycule: de betekenis
 

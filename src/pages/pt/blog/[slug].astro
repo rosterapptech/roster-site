@@ -62,7 +62,7 @@ const schema = {
 <BaseLayout
   lang={lang}
   path={`/blog/${post.id}`}
-  title={`${post.data.title} – Roster`}
+  title={post.data.seoTitle ?? `${post.data.title} – Roster`}
   description={post.data.description}
   schema={schema}
   alternates={alternates}

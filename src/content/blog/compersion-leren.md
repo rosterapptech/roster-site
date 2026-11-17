@@ -1,6 +1,7 @@
 ---
 title: 'Compersion leren: Hoe je je kunt meeverheugen met je partners'
-description: 'Compersion is het tegenovergestelde van jaloezie – de vreugde over het geluk van je partner. Betekenis, herkomst, concrete voorbeelden en hoe je het kunt oefenen.'
+seoTitle: 'Compersion: betekenis + 5 manieren om het te leren'
+description: 'Compersion is het tegenovergestelde van jaloezie: blij zijn met het geluk van je partner. Betekenis, voorbeelden en 5 manieren om het te oefenen.'
 pubDate: 2026-06-26
 updatedDate: 2026-08-25
 lang: 'nl'

@@ -1,6 +1,7 @@
 ---
 title: 'Relations-dashboard til polyamori: Notion, polycul.es & co. sammenlignet'
-description: 'Notion-skabeloner, polycul.es, PYE Poly Calendar App, Multiamory RADAR og CRM-værktøjer som Monica: Hvad disse relations-dashboard-tilgange egentlig kan – og hvor en dedikeret app som Roster tager over.'
+seoTitle: 'Relations-dashboard til polyamori: 5 muligheder'
+description: 'Notion-skabeloner, polycul.es, PYE Poly Calendar, Multiamory RADAR eller et CRM som Monica: Hvad hvert relations-dashboard virkelig kan – og hvor det stopper.'
 pubDate: 2026-07-18
 lang: 'da'
 translationKey: 'relationship-dashboard-tools'

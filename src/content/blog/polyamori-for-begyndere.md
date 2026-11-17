@@ -1,6 +1,7 @@
 ---
 title: 'Polyamori for begyndere: Den ærlige indgang til etisk ikke-monogami'
-description: 'Polyamori for begyndere uden klichéer: hvad polyamori virkelig betyder, hvilke myter der er, de første skridt og ærlige forventninger til starten.'
+seoTitle: 'Polyamori for begyndere: 5 første skridt og myter'
+description: 'Ny i polyamori? Hvad det virkelig betyder, hvilke myter der ikke holder, og 5 første skridt til en ærlig og rolig start.'
 pubDate: 2026-06-26
 lang: 'da'
 translationKey: 'polyamory-for-beginners'
