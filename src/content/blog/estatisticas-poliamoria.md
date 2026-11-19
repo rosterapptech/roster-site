@@ -2,6 +2,8 @@
 title: 'Estatísticas da poliamoria: o quanto ela é realmente comum?'
 seoTitle: 'Quantas pessoas são poliamorosas? Dados e estudos'
 description: 'Cerca de 4–5% vivem hoje em uma relação não monogâmica e mais de 20% já experimentaram: o que os estudos mostram sobre o quanto a poliamoria é comum.'
+image: '/images/blog/estatisticas-poliamoria.png'
+imageAlt: 'Gráfico: cerca de 5 em cada 100 pessoas vivem hoje uma relação não monogâmica ética e mais de 20 em cada 100 já experimentaram'
 pubDate: 2026-07-06
 lang: 'pt'
 translationKey: 'polyamory-statistics'

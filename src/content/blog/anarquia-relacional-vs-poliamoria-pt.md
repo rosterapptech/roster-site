@@ -2,6 +2,8 @@
 title: 'Anarquia relacional vs. poliamoria: qual é a diferença?'
 seoTitle: 'Anarquia relacional vs. poliamoria: diferenças-chave'
 description: 'Anarquia relacional ou poliamoria? A resposta curta, as diferenças em hierarquia, regras e rótulos de relacionamento – e qual modelo combina com você.'
+image: '/images/blog/anarquia-relacional-vs-poliamoria-pt.png'
+imageAlt: 'Comparação: a anarquia relacional define cada vínculo de forma individual, sem categorias fixas; a poliamoria costuma separar relações amorosas e amizades'
 pubDate: 2026-06-26
 lang: 'pt'
 translationKey: 'relationship-anarchy-vs-polyamory'

@@ -2,6 +2,8 @@
 title: 'Estadísticas del poliamor: ¿qué tan extendido está realmente?'
 seoTitle: '¿Cuántas personas son poliamorosas? Datos y estudios'
 description: 'Cerca del 4–5 % vive hoy en una relación no monógama y más del 20 % ya lo ha probado: lo que muestran los estudios sobre lo extendido que está el poliamor.'
+image: '/images/blog/estadisticas-poliamor.png'
+imageAlt: 'Gráfico: unas 5 de cada 100 personas viven actualmente una relación no monógama ética y más de 20 de cada 100 lo han probado alguna vez'
 pubDate: 2026-07-06
 lang: 'es'
 translationKey: 'polyamory-statistics'

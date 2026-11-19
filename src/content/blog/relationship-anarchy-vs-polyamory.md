@@ -2,6 +2,8 @@
 title: 'Relationship Anarchy vs. Polyamory: What Is the Difference?'
 seoTitle: 'Relationship Anarchy vs. Polyamory: Key Differences'
 description: 'Relationship anarchy or polyamory? The short answer, the key differences in hierarchy, rules and relationship labels – and which model fits you.'
+image: '/images/blog/relationship-anarchy-vs-polyamory.png'
+imageAlt: 'Comparison: relationship anarchy shapes each connection individually without fixed categories, polyamory usually separates romantic relationships and friendships'
 pubDate: 2026-06-26
 lang: 'en'
 translationKey: 'relationship-anarchy-vs-polyamory'

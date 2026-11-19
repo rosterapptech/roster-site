@@ -2,6 +2,8 @@
 title: 'Lære compersion: Sådan kan du glæde dig for dine partnere'
 seoTitle: 'Compersion: betydning, eksempler og 5 måder at lære det'
 description: 'Compersion er det modsatte af jalousi: glæden over din partners lykke med en anden. Betydning, eksempler og 5 måder, du kan øve det på.'
+image: '/images/blog/compersion-laere.png'
+imageAlt: 'Grafik: compersion er glæden, når din partner er lykkelig med en anden – jalousi og compersion kan være der på samme tid'
 pubDate: 2026-06-26
 updatedDate: 2026-08-25
 lang: 'da'

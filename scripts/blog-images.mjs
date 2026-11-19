@@ -10,8 +10,8 @@
 // Bilder sind bewusst sprachneutral aufgebaut (Knoten A, B, C …), nur Beschriftungen
 // werden übersetzt. Rendering via sharp (librsvg) mit Systemschrift Avenir Next.
 //
-// Messhinweis: Die Auswahl ist 6 Artikel mit seoTitle + 6 ohne (Kontrollgruppe),
-// damit die CTR-Auswertung im Dezember 2026 nicht einseitig verzerrt wird.
+// Messhinweis: 10 Artikel mit seoTitle (6 ab 2026-11-19, 4 Top-Impressionen ab 2026-11-20)
+// + 6 ohne (Kontrollgruppe) – bei der CTR-Auswertung Titel × Bild getrennt betrachten.
 import sharp from 'sharp';
 import { readFileSync, writeFileSync, readdirSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
@@ -51,6 +51,7 @@ const EDGE = {
   meta: { stroke: C.lavender, w: 5, dash: '2 14' },
   casual: { stroke: C.teal, w: 6, dash: '18 14' },
   none: { stroke: C.dim, w: 4, dash: '10 12' },
+  friend: { stroke: C.muted, w: 5, op: 0.85 },
 };
 const edgeAttrs = (type) => {
   const e = EDGE[type];
@@ -106,13 +107,13 @@ const captions = (cx, cap, sub, maxW = 680) =>
 
 // ---------- Übersetzungen (geteilt) ----------
 const LEGEND = {
-  de: { love: 'Liebesbeziehung', casual: 'Sex / Dates', meta: 'Metamours (kein Paar)' },
-  en: { love: 'Romantic relationship', casual: 'Sex / dates', meta: 'Metamours (not together)' },
-  nl: { love: 'Liefdesrelatie', casual: 'Seks / dates', meta: 'Metamours (geen relatie)' },
-  es: { love: 'Relación amorosa', casual: 'Sexo / citas', meta: 'Metamours (sin relación)' },
-  da: { love: 'Kærlighedsforhold', casual: 'Sex / dates', meta: 'Metamours (ikke sammen)' },
-  sv: { love: 'Kärleksrelation', casual: 'Sex / dejter', meta: 'Metamours (inte ihop)' },
-  pt: { love: 'Relação amorosa', casual: 'Sexo / encontros', meta: 'Metamours (sem relação)' },
+  de: { love: 'Liebesbeziehung', casual: 'Sex / Dates', meta: 'Metamours (kein Paar)', friend: 'Freundschaft' },
+  en: { love: 'Romantic relationship', casual: 'Sex / dates', meta: 'Metamours (not together)', friend: 'Friendship' },
+  nl: { love: 'Liefdesrelatie', casual: 'Seks / dates', meta: 'Metamours (geen relatie)', friend: 'Vriendschap' },
+  es: { love: 'Relación amorosa', casual: 'Sexo / citas', meta: 'Metamours (sin relación)', friend: 'Amistad' },
+  da: { love: 'Kærlighedsforhold', casual: 'Sex / dates', meta: 'Metamours (ikke sammen)', friend: 'Venskab' },
+  sv: { love: 'Kärleksrelation', casual: 'Sex / dejter', meta: 'Metamours (inte ihop)', friend: 'Vänskap' },
+  pt: { love: 'Relação amorosa', casual: 'Sexo / encontros', meta: 'Metamours (sem relação)', friend: 'Amizade' },
 };
 
 // ---------- Diagramme ----------
@@ -272,6 +273,132 @@ const DIAGRAMS = {
         text(cx, 748, L.g, { size: 38, weight: 600, fill: C.lavender, maxW: 640 }) +
         text(E.x, cy + 104, L.o, { size: 34, fill: C.muted, maxW: 420 });
       return frame(L.title, body, [['love', G.love]]);
+    },
+  },
+
+  'relationship-anarchy-vs-polyamory': {
+    t: {
+      de: { title: 'Beziehungsanarchie vs. Polyamorie', l: ['Beziehungsanarchie', 'keine festen Kategorien'], r: ['Polyamorie', 'mehrere Liebesbeziehungen'], partners: 'Liebesbeziehungen', friends: 'Freundschaften', alt: 'Vergleich: Beziehungsanarchie gestaltet jede Verbindung individuell ohne feste Kategorien, Polyamorie trennt meist Liebesbeziehungen und Freundschaften' },
+      en: { title: 'Relationship anarchy vs. polyamory', l: ['Relationship anarchy', 'no fixed categories'], r: ['Polyamory', 'several romantic relationships'], partners: 'Romantic partners', friends: 'Friendships', alt: 'Comparison: relationship anarchy shapes each connection individually without fixed categories, polyamory usually separates romantic relationships and friendships' },
+      nl: { title: 'Relatieanarchie vs. polyamorie', l: ['Relatieanarchie', 'geen vaste categorieën'], r: ['Polyamorie', 'meerdere liefdesrelaties'], partners: 'Liefdesrelaties', friends: 'Vriendschappen', alt: 'Vergelijking: relatieanarchie geeft elke verbinding individueel vorm zonder vaste categorieën, polyamorie scheidt meestal liefdesrelaties en vriendschappen' },
+      es: { title: 'Anarquía relacional vs. poliamor', l: ['Anarquía relacional', 'sin categorías fijas'], r: ['Poliamor', 'varias relaciones amorosas'], partners: 'Relaciones amorosas', friends: 'Amistades', alt: 'Comparación: la anarquía relacional define cada vínculo de forma individual, sin categorías fijas; el poliamor suele separar relaciones amorosas y amistades' },
+      da: { title: 'Relationsanarki vs. polyamori', l: ['Relationsanarki', 'ingen faste kategorier'], r: ['Polyamori', 'flere kærlighedsforhold'], partners: 'Kærlighedsforhold', friends: 'Venskaber', alt: 'Sammenligning: Relationsanarki former hver forbindelse individuelt uden faste kategorier, polyamori skelner oftest mellem kærlighedsforhold og venskaber' },
+      sv: { title: 'Relationsanarki vs. polyamori', l: ['Relationsanarki', 'inga fasta kategorier'], r: ['Polyamori', 'flera kärleksrelationer'], partners: 'Kärleksrelationer', friends: 'Vänskaper', alt: 'Jämförelse: relationsanarki formar varje relation individuellt utan fasta kategorier, polyamori skiljer oftast mellan kärleksrelationer och vänskaper' },
+      pt: { title: 'Anarquia relacional vs. poliamoria', l: ['Anarquia relacional', 'sem categorias fixas'], r: ['Poliamoria', 'várias relações amorosas'], partners: 'Relações amorosas', friends: 'Amizades', alt: 'Comparação: a anarquia relacional define cada vínculo de forma individual, sem categorias fixas; a poliamoria costuma separar relações amorosas e amizades' },
+    },
+    draw(L, G) {
+      const r = 40;
+      // links: Beziehungsanarchie – jede Verbindung individuell, ohne Ebenen
+      const ax = 430, ay = 440;
+      const hub = P(ax, ay, 'A', C.purple, 50);
+      const ring = [-90, -18, 54, 126, 198].map((deg, i) => {
+        const a = (deg * Math.PI) / 180;
+        return P(Math.round(ax + 205 * Math.cos(a)), Math.round(ay + 190 * Math.sin(a)), 'BCDEF'[i], [C.rose, C.teal, C.amber, C.sky, C.lavender][i], r);
+      });
+      const types = ['strong', 'friend', 'love', 'casual', 'weak'];
+      // rechts: Polyamorie – Liebesbeziehungen oben, Freundschaften unten
+      const px = 1170;
+      const A = P(px, 415, 'A', C.purple, 50);
+      const top = [P(px - 160, 280, 'B', C.rose, r), P(px + 160, 280, 'C', C.teal, r)];
+      const bot = [P(px - 160, 550, 'D', C.amber, r), P(px + 160, 550, 'E', C.sky, r)];
+      const body = divider +
+        ring.map((p, i) => line(hub, p, types[i])).join('') +
+        top.map((p) => line(A, p)).join('') + bot.map((p) => line(A, p, 'friend')).join('') +
+        [hub, ...ring, A, ...top, ...bot].map(node).join('') +
+        text(px, 214, L.partners, { size: 30, weight: 600, fill: C.lavender, maxW: 600 }) +
+        text(px, 630, L.friends, { size: 30, fill: C.muted, maxW: 600 }) +
+        captions(430, ...L.l) + captions(1170, ...L.r);
+      return frame(L.title, body, [['love', G.love], ['friend', G.friend], ['casual', G.casual]]);
+    },
+  },
+
+  'polyamory-statistics': {
+    t: {
+      de: { title: 'Wie verbreitet ist Polyamorie?', a: ['≈ 5 von 100', 'leben aktuell in einer ENM-Beziehung'], b: ['über 20 von 100', 'haben es schon einmal ausprobiert'], note: 'Umfragen aus den USA und Europa, gerundet', alt: 'Grafik: Etwa 5 von 100 Menschen leben aktuell in einer ethisch nicht-monogamen Beziehung, über 20 von 100 haben es schon einmal ausprobiert' },
+      en: { title: 'How common is polyamory?', a: ['≈ 5 in 100', 'currently live in an ENM relationship'], b: ['over 20 in 100', 'have tried it at some point'], note: 'Surveys from the US and Europe, rounded', alt: 'Chart: about 5 in 100 people currently live in an ethically non-monogamous relationship, over 20 in 100 have tried it at some point' },
+      nl: { title: 'Hoe vaak komt polyamorie voor?', a: ['≈ 5 op 100', 'leven nu in een ENM-relatie'], b: ['ruim 20 op 100', 'hebben het al eens geprobeerd'], note: 'Enquêtes uit de VS en Europa, afgerond', alt: 'Grafiek: ongeveer 5 op de 100 mensen leven nu in een ethisch non-monogame relatie, ruim 20 op de 100 hebben het al eens geprobeerd' },
+      es: { title: '¿Qué tan común es el poliamor?', a: ['≈ 5 de cada 100', 'viven ahora una relación ENM'], b: ['más de 20 de cada 100', 'lo han probado alguna vez'], note: 'Encuestas de EE. UU. y Europa, redondeado', alt: 'Gráfico: unas 5 de cada 100 personas viven actualmente una relación no monógama ética y más de 20 de cada 100 lo han probado alguna vez' },
+      da: { title: 'Hvor udbredt er polyamori?', a: ['≈ 5 ud af 100', 'lever lige nu i et ENM-forhold'], b: ['over 20 ud af 100', 'har prøvet det'], note: 'Undersøgelser fra USA og Europa, afrundet', alt: 'Grafik: omkring 5 ud af 100 lever lige nu i et etisk ikke-monogamt forhold, over 20 ud af 100 har prøvet det' },
+      sv: { title: 'Hur vanligt är polyamori?', a: ['≈ 5 av 100', 'lever just nu i en ENM-relation'], b: ['över 20 av 100', 'har provat någon gång'], note: 'Undersökningar från USA och Europa, avrundat', alt: 'Grafik: omkring 5 av 100 lever just nu i en etiskt icke-monogam relation, över 20 av 100 har provat någon gång' },
+      pt: { title: 'Quão comum é a poliamoria?', a: ['≈ 5 em 100', 'vivem hoje uma relação ENM'], b: ['mais de 20 em 100', 'já experimentaram'], note: 'Pesquisas dos EUA e da Europa, arredondado', alt: 'Gráfico: cerca de 5 em cada 100 pessoas vivem hoje uma relação não monogâmica ética e mais de 20 em cada 100 já experimentaram' },
+    },
+    draw(L) {
+      let dots = '';
+      for (let i = 0; i < 100; i++) {
+        const x = 150 + (i % 10) * 50, y = 245 + Math.floor(i / 10) * 50;
+        const fill = i < 5 ? C.rose : i < 22 ? C.purple : C.border;
+        dots += `<circle cx="${x}" cy="${y}" r="17" fill="${fill}"/>`;
+      }
+      const tx = 740;
+      const body = dots +
+        `<circle cx="${tx + 16}" cy="${330}" r="16" fill="${C.rose}"/>` +
+        text(tx + 52, 348, L.a[0], { size: 60, weight: 700, fill: C.rose, anchor: 'start', maxW: 760 }) +
+        text(tx + 52, 400, L.a[1], { size: 34, fill: C.text, anchor: 'start', maxW: 760 }) +
+        `<circle cx="${tx + 16}" cy="${510}" r="16" fill="${C.purple}"/>` +
+        text(tx + 52, 528, L.b[0], { size: 60, weight: 700, fill: C.lavender, anchor: 'start', maxW: 760 }) +
+        text(tx + 52, 580, L.b[1], { size: 34, fill: C.text, anchor: 'start', maxW: 760 }) +
+        text(tx + 52, 690, L.note, { size: 26, fill: C.dim, anchor: 'start', maxW: 760 });
+      return frame(L.title, body);
+    },
+  },
+
+  'compersion-learning': {
+    t: {
+      de: { title: 'Was ist Compersion?', you: 'Du', l: ['Compersion', 'Mitfreude am Glück deines Partners'], j: 'Eifersucht', c: 'Compersion', both: 'beides', r: ['Kein Entweder-oder', 'beide Gefühle dürfen da sein'], alt: 'Grafik: Compersion ist die Mitfreude, wenn dein Partner mit jemand anderem glücklich ist – Eifersucht und Compersion können gleichzeitig da sein' },
+      en: { title: 'What is compersion?', you: 'You', l: ['Compersion', "joy in your partner's happiness"], j: 'Jealousy', c: 'Compersion', both: 'both', r: ['Not either-or', 'both feelings can be there'], alt: 'Graphic: compersion is the joy you feel when your partner is happy with someone else – jealousy and compersion can exist at the same time' },
+      nl: { title: 'Wat is compersion?', you: 'Jij', l: ['Compersion', 'meevreugde om het geluk van je partner'], j: 'Jaloezie', c: 'Compersion', both: 'allebei', r: ['Geen of-of', 'beide gevoelens mogen er zijn'], alt: 'Afbeelding: compersion is de vreugde die je voelt als je partner gelukkig is met iemand anders – jaloezie en compersion kunnen tegelijk bestaan' },
+      es: { title: '¿Qué es la compersión?', you: 'Tú', l: ['Compersión', 'alegría por la felicidad de tu pareja'], j: 'Celos', c: 'Compersión', both: 'ambos', r: ['No es uno u otro', 'ambos sentimientos pueden estar'], alt: 'Gráfico: la compersión es la alegría que sientes cuando tu pareja es feliz con otra persona; los celos y la compersión pueden darse a la vez' },
+      da: { title: 'Hvad er compersion?', you: 'Du', l: ['Compersion', 'glæde over din partners lykke'], j: 'Jalousi', c: 'Compersion', both: 'begge', r: ['Ikke enten-eller', 'begge følelser må være der'], alt: 'Grafik: compersion er glæden, når din partner er lykkelig med en anden – jalousi og compersion kan være der på samme tid' },
+      sv: { title: 'Vad är compersion?', you: 'Du', l: ['Compersion', 'glädje över din partners lycka'], j: 'Svartsjuka', c: 'Compersion', both: 'båda', r: ['Inte antingen-eller', 'båda känslorna får finnas'], alt: 'Grafik: compersion är glädjen när din partner är lycklig med någon annan – svartsjuka och compersion kan finnas samtidigt' },
+      pt: { title: 'O que é compersão?', you: 'Você', l: ['Compersão', 'alegria pela felicidade do seu parceiro'], j: 'Ciúmes', c: 'Compersão', both: 'ambos', r: ['Não é um ou outro', 'os dois sentimentos podem existir'], alt: 'Gráfico: compersão é a alegria que você sente quando seu parceiro está feliz com outra pessoa – ciúmes e compersão podem existir ao mesmo tempo' },
+    },
+    draw(L, G) {
+      const cx = 430;
+      const A = P(cx - 170, 560, L.you, C.purple, 56), B = P(cx, 320, 'B', C.rose, 50), Cn = P(cx + 170, 560, 'C', C.teal, 50);
+      const halo = `<circle cx="${A.x}" cy="${A.y}" r="92" fill="${C.teal}" fill-opacity="0.16" stroke="${C.teal}" stroke-width="4" stroke-dasharray="3 12" stroke-linecap="round"/>`;
+      const glow = `<line x1="${B.x}" y1="${B.y}" x2="${Cn.x}" y2="${Cn.y}" stroke="${C.rose}" stroke-width="30" stroke-linecap="round" opacity="0.18"/>`;
+      // Pfeil: Glück von B–C strahlt zu dir zurück
+      const arrow = `<path d="M${cx + 70},${448} Q${cx + 10},${600} ${A.x + 100},${A.y + 6}" fill="none" stroke="${C.teal}" stroke-width="5" stroke-linecap="round"/>` +
+        `<path d="M${A.x + 120},${A.y - 10} L${A.x + 98},${A.y + 7} L${A.x + 122},${A.y + 22}" fill="none" stroke="${C.teal}" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>`;
+      const vx = 1170, vy = 450;
+      const venn =
+        `<circle cx="${vx - 115}" cy="${vy}" r="175" fill="${C.amber}" fill-opacity="0.18" stroke="${C.amber}" stroke-width="5"/>` +
+        `<circle cx="${vx + 115}" cy="${vy}" r="175" fill="${C.teal}" fill-opacity="0.18" stroke="${C.teal}" stroke-width="5"/>` +
+        text(vx - 180, vy + 12, L.j, { size: 34, weight: 600, maxW: 200 }) +
+        text(vx + 180, vy + 12, L.c, { size: 34, weight: 600, maxW: 200 }) +
+        text(vx, vy + 10, L.both, { size: 28, weight: 600, fill: C.lavender, maxW: 110 });
+      const body = divider + glow + halo + line(A, B) + line(B, Cn, 'strong') + arrow +
+        [A, B, Cn].map(node).join('') + venn +
+        captions(430, ...L.l) + captions(1170, ...L.r);
+      return frame(L.title, body, [['love', G.love]]);
+    },
+  },
+
+  'polyamory-for-beginners': {
+    t: {
+      de: { title: 'Polyamorie für Anfänger: 5 erste Schritte', s: [['Dich selbst', 'kennenlernen'], ['Vokabular', 'lernen'], ['Ehrlich', 'kommunizieren'], ['Mit Gefühlen', 'rechnen'], ['Langsam', 'angehen']], alt: 'Grafik: Die fünf ersten Schritte in die Polyamorie – dich selbst kennenlernen, Vokabular lernen, ehrlich kommunizieren, mit Gefühlen rechnen und es langsam angehen' },
+      en: { title: 'Polyamory for beginners: 5 first steps', s: [['Get to know', 'yourself'], ['Learn the', 'vocabulary'], ['Communicate', 'honestly'], ['Expect', 'feelings'], ['Take it', 'slowly']], alt: 'Graphic: the five first steps into polyamory – get to know yourself, learn the vocabulary, communicate honestly, expect feelings and take it slowly' },
+      nl: { title: 'Polyamorie voor beginners: 5 eerste stappen', s: [['Leer jezelf', 'kennen'], ['Leer het', 'vocabulaire'], ['Communiceer', 'eerlijk'], ['Reken op', 'gevoelens'], ['Doe het', 'rustig aan']], alt: 'Afbeelding: de vijf eerste stappen in polyamorie – leer jezelf kennen, leer het vocabulaire, communiceer eerlijk, reken op gevoelens en doe het rustig aan' },
+      es: { title: 'Poliamor para principiantes: 5 primeros pasos', s: [['Conócete', 'a fondo'], ['Aprende el', 'vocabulario'], ['Comunica con', 'honestidad'], ['Espera', 'sentimientos'], ['Ve', 'despacio']], alt: 'Gráfico: los cinco primeros pasos en el poliamor – conocerte, aprender el vocabulario, comunicar con honestidad, esperar sentimientos e ir despacio' },
+      da: { title: 'Polyamori for begyndere: 5 første skridt', s: [['Lær dig selv', 'at kende'], ['Lær', 'vokabularet'], ['Kommuniker', 'ærligt'], ['Regn med', 'følelser'], ['Tag det', 'langsomt']], alt: 'Grafik: de fem første skridt ind i polyamori – lær dig selv at kende, lær vokabularet, kommuniker ærligt, regn med følelser og tag det langsomt' },
+      sv: { title: 'Polyamori för nybörjare: 5 första steg', s: [['Lär känna', 'dig själv'], ['Lär dig', 'vokabulären'], ['Kommunicera', 'ärligt'], ['Räkna med', 'känslor'], ['Ta det', 'lugnt']], alt: 'Grafik: de fem första stegen in i polyamori – lär känna dig själv, lär dig vokabulären, kommunicera ärligt, räkna med känslor och ta det lugnt' },
+      pt: { title: 'Poliamoria para iniciantes: 5 primeiros passos', s: [['Conheça', 'a si mesmo'], ['Aprenda o', 'vocabulário'], ['Comunique-se', 'com honestidade'], ['Espere', 'sentimentos'], ['Vá', 'devagar']], alt: 'Gráfico: os cinco primeiros passos na poliamoria – conhecer a si mesmo, aprender o vocabulário, comunicar-se com honestidade, esperar sentimentos e ir devagar' },
+    },
+    draw(L) {
+      const pts = [200, 500, 800, 1100, 1400].map((x, i) => ({ x, y: i % 2 ? 530 : 380 }));
+      let d = `M${pts[0].x},${pts[0].y}`;
+      for (let i = 1; i < pts.length; i++) {
+        const a = pts[i - 1], b = pts[i];
+        d += ` C${a.x + 150},${a.y} ${b.x - 150},${b.y} ${b.x},${b.y}`;
+      }
+      const cols = [C.purple, C.rose, C.teal, C.amber, C.sky];
+      const body =
+        `<path d="${d}" fill="none" stroke="${C.lavender}" stroke-width="6" stroke-dasharray="2 16" stroke-linecap="round"/>` +
+        pts.map((p, i) => node(P(p.x, p.y, String(i + 1), cols[i], 58))).join('') +
+        pts.map((p, i) =>
+          text(p.x, p.y + 112, L.s[i][0], { size: 34, weight: 600, maxW: 280 }) +
+          text(p.x, p.y + 154, L.s[i][1], { size: 34, weight: 600, maxW: 280 })).join('');
+      return frame(L.title, body);
     },
   },
 

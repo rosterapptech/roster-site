@@ -2,6 +2,8 @@
 title: 'Polyamorie-statistieken: hoe wijdverbreid is polyamorie echt?'
 seoTitle: 'Hoeveel mensen zijn polyamoor? Cijfers en onderzoek'
 description: 'Zo''n 4–5% leeft nu in een niet-monogame relatie en meer dan 20% heeft het al geprobeerd: wat onderzoek laat zien over hoe vaak polyamorie voorkomt.'
+image: '/images/blog/polyamorie-statistieken.png'
+imageAlt: 'Grafiek: ongeveer 5 op de 100 mensen leven nu in een ethisch non-monogame relatie, ruim 20 op de 100 hebben het al eens geprobeerd'
 pubDate: 2026-07-06
 lang: 'nl'
 translationKey: 'polyamory-statistics'

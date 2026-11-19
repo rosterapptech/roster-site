@@ -2,6 +2,8 @@
 title: 'Polyamori för nybörjare: Den ärliga introduktionen till etisk icke-monogami'
 seoTitle: 'Polyamori för nybörjare: 5 första steg och vanliga myter'
 description: 'Ny inom polyamori? Vad det verkligen betyder, vilka myter som inte stämmer och 5 första steg för en ärlig och lugn start.'
+image: '/images/blog/polyamori-for-nyborjare.png'
+imageAlt: 'Grafik: de fem första stegen in i polyamori – lär känna dig själv, lär dig vokabulären, kommunicera ärligt, räkna med känslor och ta det lugnt'
 pubDate: 2026-06-26
 lang: 'sv'
 translationKey: 'polyamory-for-beginners'

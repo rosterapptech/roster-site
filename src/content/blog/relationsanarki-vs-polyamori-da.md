@@ -2,6 +2,8 @@
 title: 'Relationsanarki vs. polyamori: Hvad er forskellen?'
 seoTitle: 'Relationsanarkist eller polyamorøs? Forskellen forklaret'
 description: 'Relationsanarki eller polyamori? Det korte svar, forskellene i hierarki, regler og relationsbegreber – og hvilken model der passer til dig.'
+image: '/images/blog/relationsanarki-vs-polyamori-da.png'
+imageAlt: 'Sammenligning: Relationsanarki former hver forbindelse individuelt uden faste kategorier, polyamori skelner oftest mellem kærlighedsforhold og venskaber'
 pubDate: 2026-06-26
 lang: 'da'
 translationKey: 'relationship-anarchy-vs-polyamory'

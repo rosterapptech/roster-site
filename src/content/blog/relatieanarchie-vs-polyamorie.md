@@ -2,6 +2,8 @@
 title: 'RelatieAnarchie vs. polyamorie: Wat is het verschil?'
 seoTitle: 'Relatieanarchie vs. polyamorie: het verschil uitgelegd'
 description: 'Relatieanarchie of polyamorie? Het korte antwoord, de verschillen in hiërarchie, regels en relatielabels – en welk model bij jou past.'
+image: '/images/blog/relatieanarchie-vs-polyamorie.png'
+imageAlt: 'Vergelijking: relatieanarchie geeft elke verbinding individueel vorm zonder vaste categorieën, polyamorie scheidt meestal liefdesrelaties en vriendschappen'
 pubDate: 2026-06-26
 lang: 'nl'
 translationKey: 'relationship-anarchy-vs-polyamory'

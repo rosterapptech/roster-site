@@ -2,6 +2,8 @@
 title: 'Polyamorie-Statistiken: Wie verbreitet ist Polyamorie wirklich?'
 seoTitle: 'Wie viele Menschen leben polyamor? Zahlen & Studien'
 description: 'Etwa 4–5 % leben aktuell in einer nicht-monogamen Beziehung, über 20 % haben es schon ausprobiert: Was Studien zur Verbreitung von Polyamorie zeigen.'
+image: '/images/blog/polyamorie-statistiken.png'
+imageAlt: 'Grafik: Etwa 5 von 100 Menschen leben aktuell in einer ethisch nicht-monogamen Beziehung, über 20 von 100 haben es schon einmal ausprobiert'
 pubDate: 2026-07-06
 lang: 'de'
 translationKey: 'polyamory-statistics'

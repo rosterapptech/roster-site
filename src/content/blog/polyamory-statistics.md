@@ -2,6 +2,8 @@
 title: 'Polyamory Statistics: How Common Is Polyamory, Really?'
 seoTitle: 'How Many People Are Polyamorous? Statistics & Studies'
 description: 'Around 4–5% currently live in a non-monogamous relationship and over 20% have tried it: what studies really show about how common polyamory is.'
+image: '/images/blog/polyamory-statistics.png'
+imageAlt: 'Chart: about 5 in 100 people currently live in an ethically non-monogamous relationship, over 20 in 100 have tried it at some point'
 pubDate: 2026-07-06
 lang: 'en'
 translationKey: 'polyamory-statistics'

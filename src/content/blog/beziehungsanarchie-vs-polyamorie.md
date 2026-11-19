@@ -2,6 +2,8 @@
 title: 'Beziehungsanarchie vs. Polyamorie: Was ist der Unterschied?'
 seoTitle: 'Beziehungsanarchist oder polyamor? Der Unterschied erklärt'
 description: 'Beziehungsanarchie oder Polyamorie? Die kurze Antwort, die Unterschiede bei Hierarchie, Regeln und Beziehungsbegriffen – und welches Modell zu dir passt.'
+image: '/images/blog/beziehungsanarchie-vs-polyamorie.png'
+imageAlt: 'Vergleich: Beziehungsanarchie gestaltet jede Verbindung individuell ohne feste Kategorien, Polyamorie trennt meist Liebesbeziehungen und Freundschaften'
 pubDate: 2026-06-26
 lang: 'de'
 translationKey: 'relationship-anarchy-vs-polyamory'

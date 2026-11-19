@@ -2,6 +2,8 @@
 title: 'Compersion lernen: Wie du dich für deine Partner mitfreuen kannst'
 seoTitle: 'Compersion: Bedeutung auf Deutsch + 5 Wege, sie zu lernen'
 description: 'Compersion ist das Gegenteil von Eifersucht: Freude über das Glück deines Partners. Bedeutung, Beispiele und 5 Wege, wie du Compersion lernen kannst.'
+image: '/images/blog/compersion-lernen.png'
+imageAlt: 'Grafik: Compersion ist die Mitfreude, wenn dein Partner mit jemand anderem glücklich ist – Eifersucht und Compersion können gleichzeitig da sein'
 pubDate: 2026-06-26
 updatedDate: 2026-08-25
 lang: 'de'
