@@ -1,6 +1,8 @@
 ---
 title: 'Hiërarchische vs. niet-hiërarchische polyamorie: twee modellen vergeleken'
 description: 'Primary/secondary-structuren vs. relaties zonder vaste rangorde: wat hiërarchische en niet-hiërarchische polyamorie onderscheidt – en hoe je het model vindt dat bij jou past.'
+image: '/images/blog/hierarchische-vs-niet-hierarchische-polyamorie.png'
+imageAlt: 'Vergelijking: bij hiërarchische polyamorie is er een primaire relatie en zijn er secundaire relaties, bij niet-hiërarchische polyamorie zijn alle relaties gelijkwaardig'
 pubDate: 2026-07-07
 lang: 'nl'
 translationKey: 'hierarchical-vs-nonhierarchical-polyamory'

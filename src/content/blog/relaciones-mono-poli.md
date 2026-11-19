@@ -1,6 +1,8 @@
 ---
 title: 'Relaciones mono-poli: Cuando una persona sigue siendo monógama y la otra tiene varias parejas'
 description: '¿Cómo funciona una relación mono-poli, en la que una persona sigue siendo monógama y la otra mantiene varias relaciones? Retos, acuerdos y qué ayuda de verdad.'
+image: '/images/blog/relaciones-mono-poli.png'
+imageAlt: 'Diagrama: una persona monógama está con una pareja poliamorosa que también tiene otras parejas'
 pubDate: 2026-07-06
 lang: 'es'
 translationKey: 'mono-poly-relationships'

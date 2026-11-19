@@ -1,6 +1,8 @@
 ---
 title: 'Solo-Polyamorie: Mehrere Beziehungen führen, ohne Nesting-Partner'
 description: 'Solo-Polyamorie erklärt: mehrere Beziehungen leben und trotzdem unabhängig bleiben. Was Solo-Poly bedeutet, für wen es passt und wie der Alltag aussieht.'
+image: '/images/blog/solo-polyamorie.png'
+imageAlt: 'Diagramm: Bei Solo-Polyamorie lebst du in deinem eigenen Zuhause und hast mehrere Beziehungen ohne Nesting Partner'
 pubDate: 2026-06-26
 lang: 'de'
 translationKey: 'solo-polyamory'

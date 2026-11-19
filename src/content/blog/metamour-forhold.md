@@ -1,6 +1,8 @@
 ---
 title: 'Metamour: Sådan får du et godt forhold til din partners partner'
 description: 'Hvad er en metamour, og hvordan bygger man et godt forhold til vedkommende? Fra venskab til "parallel" – de vigtigste dynamikker, faldgruber og tips til et mere afslappet forhold.'
+image: '/images/blog/metamour-forhold.png'
+imageAlt: 'Diagram: dig, din partner og din partners anden partner – du og din partners partner er metamours'
 pubDate: 2026-07-06
 lang: 'da'
 translationKey: 'metamour-relationships'

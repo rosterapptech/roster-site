@@ -1,6 +1,8 @@
 ---
 title: 'Solo Polyamory: Multiple Relationships Without a Nesting Partner'
 description: 'Solo polyamory explained: living multiple relationships while staying independent. What solo poly means, who it suits and what daily life looks like.'
+image: '/images/blog/solo-polyamory.png'
+imageAlt: 'Diagram: in solo polyamory you keep your own home and have several relationships without a nesting partner'
 pubDate: 2026-06-26
 lang: 'en'
 translationKey: 'solo-polyamory'

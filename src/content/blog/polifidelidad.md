@@ -2,6 +2,8 @@
 title: 'Polifidelidad: cuando un grupo cerrado es poliamoroso entre sí'
 seoTitle: 'Polifidelidad: qué es, significado y sus retos reales'
 description: '¿Qué es la polifidelidad? Su significado explicado fácil, la diferencia con un throuple y el poliamor kitchen-table, y los retos reales de un grupo cerrado.'
+image: '/images/blog/polifidelidad.png'
+imageAlt: 'Diagrama: cuatro personas forman un grupo polifiel cerrado, sin parejas nuevas de fuera'
 pubDate: 2026-07-11
 lang: 'es'
 translationKey: 'polyfidelity'

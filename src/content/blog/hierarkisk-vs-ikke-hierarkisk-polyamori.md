@@ -1,6 +1,8 @@
 ---
 title: 'Hierarkisk vs. ikke-hierarkisk polyamori: To modeller sammenlignet'
 description: 'Primary/secondary-strukturer vs. forhold uden fast rangorden: hvad der adskiller hierarkisk og ikke-hierarkisk polyamori – og hvordan du finder den model, der passer til dig.'
+image: '/images/blog/hierarkisk-vs-ikke-hierarkisk-polyamori.png'
+imageAlt: 'Sammenligning: I hierarkisk polyamori er der et primært forhold og sekundære forhold, i ikke-hierarkisk polyamori er alle forhold ligeværdige'
 pubDate: 2026-07-07
 lang: 'da'
 translationKey: 'hierarchical-vs-nonhierarchical-polyamory'

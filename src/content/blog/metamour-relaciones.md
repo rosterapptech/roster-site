@@ -1,6 +1,8 @@
 ---
 title: 'Metamour: cómo llevarte bien con la pareja de tu pareja'
 description: 'Qué es un metamour y cómo construir una buena relación con esa persona. De la amistad a lo "paralelo": las dinámicas clave, los obstáculos habituales y consejos prácticos.'
+image: '/images/blog/metamour-relaciones.png'
+imageAlt: 'Diagrama: tú, tu pareja y la otra pareja de tu pareja; tú y la pareja de tu pareja son metamours'
 pubDate: 2026-07-06
 lang: 'es'
 translationKey: 'metamour-relationships'

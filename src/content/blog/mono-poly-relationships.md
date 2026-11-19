@@ -1,6 +1,8 @@
 ---
 title: 'Mono-Poly Relationships: When One Partner Stays Monogamous and the Other Has Several'
 description: 'How does a mono-poly relationship work, where one partner stays monogamous and the other has multiple relationships? Challenges, agreements, and what actually helps.'
+image: '/images/blog/mono-poly-relationships.png'
+imageAlt: 'Diagram: a monogamous person is with a polyamorous partner who also has other partners'
 pubDate: 2026-07-06
 lang: 'en'
 translationKey: 'mono-poly-relationships'

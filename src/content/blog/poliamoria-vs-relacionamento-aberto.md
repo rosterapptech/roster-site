@@ -2,6 +2,8 @@
 title: 'Poliamoria vs. relacionamento aberto: qual é a diferença?'
 seoTitle: 'Poliamoria vs. relacionamento aberto: 4 modelos'
 description: 'Relacionamento aberto, poliamoria, poligamia ou anarquia relacional? Os quatro modelos explicados de forma simples e comparados, com as diferenças principais.'
+image: '/images/blog/poliamoria-vs-relacionamento-aberto.png'
+imageAlt: 'Comparação: no relacionamento aberto o amor fica no casal e o sexo com outras pessoas é permitido; na poliamoria há relações amorosas com várias pessoas'
 pubDate: 2026-06-20
 lang: 'pt'
 translationKey: 'polyamory-vs-open-relationship'

@@ -2,6 +2,8 @@
 title: 'Throuple & Triade: Beziehungen zu dritt einfach erklärt'
 seoTitle: 'Throuple & Triade: Bedeutung und Beziehung zu dritt'
 description: 'Was ist ein Throuple? Bedeutung, der Unterschied zur V-Struktur, typische Herausforderungen und wie Alltag, Wohnen und Geld zu dritt funktionieren.'
+image: '/images/blog/throuple-triade.png'
+imageAlt: 'Vergleich: In einem Throuple sind alle drei miteinander zusammen, in einer V-Beziehung ist nur eine Person mit beiden anderen zusammen'
 pubDate: 2026-07-06
 updatedDate: 2026-08-25
 lang: 'de'

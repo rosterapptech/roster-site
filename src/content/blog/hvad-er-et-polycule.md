@@ -2,6 +2,8 @@
 title: 'Hvad er et polycule? Relationsformer, eksempler og hvordan du bevarer overblikket'
 seoTitle: 'Hvad er et polycule? Betydning, former & gratis generator'
 description: 'Polycule forklaret enkelt: V, triade, quad og netværk med eksempler – plus en gratis generator, så du kan lave dit eget polycule-kort.'
+image: '/images/blog/hvad-er-et-polycule.png'
+imageAlt: 'Diagram over de fire mest almindelige polycule-former: V, triade, quad og netværk'
 pubDate: 2026-06-26
 lang: 'da'
 translationKey: 'what-is-a-polycule'

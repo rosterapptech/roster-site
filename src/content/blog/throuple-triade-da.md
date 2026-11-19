@@ -2,6 +2,8 @@
 title: 'Throuple & triade: Forhold mellem tre personer forklaret enkelt'
 seoTitle: 'Throuple: betydning og hvad et trekantsforhold er'
 description: 'Hvad er et throuple? Betydningen, forskellen på en V-struktur, typiske udfordringer, og hvordan bolig, økonomi og hverdag fungerer for tre.'
+image: '/images/blog/throuple-triade-da.png'
+imageAlt: 'Sammenligning: I en throuple er alle tre sammen med hinanden, i et V-forhold er kun én person sammen med begge de andre'
 pubDate: 2026-07-06
 updatedDate: 2026-08-25
 lang: 'da'

@@ -1,6 +1,8 @@
 ---
 title: 'Metamour: como se dar bem com o parceiro do seu parceiro'
 description: 'O que é um metamour e como construir um bom relacionamento com essa pessoa. Da amizade ao "paralelo": as dinâmicas-chave, os obstáculos comuns e dicas práticas.'
+image: '/images/blog/metamour-relacionamentos.png'
+imageAlt: 'Diagrama: você, seu parceiro e o outro parceiro do seu parceiro – você e o parceiro do seu parceiro são metamours'
 pubDate: 2026-07-06
 lang: 'pt'
 translationKey: 'metamour-relationships'

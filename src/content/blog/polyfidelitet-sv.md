@@ -2,6 +2,8 @@
 title: 'Polyfidelitet: när en sluten grupp är polyamorös tillsammans'
 seoTitle: 'Polyfidelitet: betydelse och skillnad mot ett throuple'
 description: 'Vad är polyfidelitet? Betydelsen förklarad enkelt, skillnaden mot ett throuple och kitchen-table-polyamori, och de verkliga utmaningarna.'
+image: '/images/blog/polyfidelitet-sv.png'
+imageAlt: 'Diagram: fyra personer bildar en sluten polyfidel grupp utan nya partner utifrån'
 pubDate: 2026-07-11
 lang: 'sv'
 translationKey: 'polyfidelity'

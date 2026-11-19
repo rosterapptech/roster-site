@@ -1,6 +1,8 @@
 ---
 title: 'Swinging vs. Polyamory: What Is the Actual Difference?'
 description: 'Swinging and polyamory get confused constantly, but they differ in a fundamental way. The distinction isn''t the number of partners — it''s the emotional focus.'
+image: '/images/blog/swinging-vs-polyamory.png'
+imageAlt: 'Comparison: in swinging, couples meet other couples together, mostly for sex; in polyamory people have their own romantic relationships with several partners'
 pubDate: 2026-07-11
 lang: 'en'
 translationKey: 'swinging-vs-polyamory'

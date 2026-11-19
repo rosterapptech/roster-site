@@ -33,6 +33,10 @@ interface Props {
    * Default: sb-{lang}. Blogartikel uebergeben ein artikelgenaues Kuerzel.
    */
   appCampaign?: string;
+  /** Eigenes Vorschaubild (Pfad unter /public, 1600x900 PNG). Default: /og.png */
+  image?: string;
+  /** Alt-Text fuer das Vorschaubild (og:image:alt) */
+  imageAlt?: string;
 }
 
 const {
@@ -47,6 +51,8 @@ const {
   publishedTime,
   modifiedTime,
   appCampaign,
+  image,
+  imageAlt,
 } = Astro.props;
 
 const site = Astro.site ?? new URL('https://rosterapp.tech');
@@ -112,7 +118,7 @@ const organizationSchema = {
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
-    {noindex && <meta name="robots" content="noindex, follow" />}
+    <meta name="robots" content={noindex ? 'noindex, follow' : 'max-image-preview:large'} />
 
     <!-- Smart App Banner: nativer "Laden/Öffnen"-Banner in Safari auf iPhone/iPad -->
     <meta name="apple-itunes-app" content={smartBannerContent(appCampaign ?? `sb-${lang}`)} />
@@ -126,7 +132,10 @@ const organizationSchema = {
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
-    <meta property="og:image" content={new URL('/og.png', site).href} />
+    <meta property="og:image" content={new URL(image ?? '/og.png', site).href} />
+    <meta property="og:image:width" content={image ? '1600' : '1200'} />
+    <meta property="og:image:height" content={image ? '900' : '630'} />
+    {imageAlt && <meta property="og:image:alt" content={imageAlt} />}
     <meta property="og:locale" content={ogLocale} />
     {ogType === 'article' && publishedTime && (
       <meta property="article:published_time" content={publishedTime} />

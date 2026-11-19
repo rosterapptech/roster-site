@@ -1,6 +1,8 @@
 ---
 title: 'Solo-polyamori: Flera relationer utan en nesting-partner'
 description: 'Solo-polyamori förklarat: leva flera relationer och ändå förbli självständig. Vad solo-poly betyder, vem det passar och hur vardagen ser ut.'
+image: '/images/blog/solo-polyamori-sv.png'
+imageAlt: 'Diagram: i solo-polyamori bor du i ditt eget hem och har flera relationer utan nesting partner'
 pubDate: 2026-06-26
 lang: 'sv'
 translationKey: 'solo-polyamory'

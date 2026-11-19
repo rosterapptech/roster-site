@@ -38,7 +38,7 @@ const articleSchema = {
   dateModified: (post.data.updatedDate ?? post.data.pubDate).toISOString(),
   author: { '@type': 'Organization', name: post.data.author, url: Astro.site!.href },
   publisher: { '@id': new URL('/#organization', Astro.site!).href },
-  image: new URL('/og.png', Astro.site!).href,
+  image: new URL(post.data.image ?? '/og.png', Astro.site!).href,
   mainEntityOfPage: new URL(lang === 'de' ? `/blog/${post.id}/` : `/${lang}/blog/${post.id}/`, Astro.site!).href,
   inLanguage: lang,
 };
@@ -75,12 +75,22 @@ const schema = {
   appCampaign={blogCampaign(lang, ctKey, 'sb')}
   publishedTime={post.data.pubDate.toISOString()}
   modifiedTime={post.data.updatedDate?.toISOString()}
+  image={post.data.image}
+  imageAlt={post.data.imageAlt}
 >
   <Header lang={lang} />
   <main class="container article">
     <a href="/pt/blog/" class="back">{tr('blog.back')}</a>
     <time datetime={post.data.pubDate.toISOString()}>{fmt(post.data.pubDate)}</time>
     <h1>{post.data.title}</h1>
+    {post.data.image && (
+      <figure class="article-hero">
+        <picture>
+          <source srcset={post.data.image.replace(/\.png$/, '.webp')} type="image/webp" />
+          <img src={post.data.image} alt={post.data.imageAlt ?? ''} width="1600" height="900" fetchpriority="high" decoding="async" />
+        </picture>
+      </figure>
+    )}
     <div class="body">
       <Content />
     </div>

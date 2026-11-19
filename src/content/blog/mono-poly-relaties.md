@@ -1,6 +1,8 @@
 ---
 title: 'Mono-poly relaties: Als één persoon monogaam blijft en de ander meerdere partners heeft'
 description: 'Hoe werkt een mono-poly relatie, waarbij één partner monogaam blijft en de ander meerdere relaties heeft? Uitdagingen, afspraken en wat echt helpt.'
+image: '/images/blog/mono-poly-relaties.png'
+imageAlt: 'Diagram: een monogame persoon heeft een relatie met een polyamoreuze partner die ook andere partners heeft'
 pubDate: 2026-07-06
 lang: 'nl'
 translationKey: 'mono-poly-relationships'

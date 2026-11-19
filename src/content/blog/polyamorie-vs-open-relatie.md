@@ -2,6 +2,8 @@
 title: 'Polyamorie vs. open relatie: Wat is het verschil?'
 seoTitle: 'Polyamorie vs. open relatie: 4 modellen vergeleken'
 description: 'Open relatie, polyamorie, polygamie of relatieanarchie? De vier modellen eenvoudig uitgelegd en naast elkaar gezet – met de belangrijkste verschillen.'
+image: '/images/blog/polyamorie-vs-open-relatie.png'
+imageAlt: 'Vergelijking: in een open relatie blijft de liefde bij het stel en is seks met anderen mogelijk, bij polyamorie zijn er liefdesrelaties met meerdere mensen'
 pubDate: 2026-06-20
 lang: 'nl'
 translationKey: 'polyamory-vs-open-relationship'

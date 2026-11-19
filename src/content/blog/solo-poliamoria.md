@@ -1,6 +1,8 @@
 ---
 title: 'Solo-poliamor: Varias relaciones sin nesting partner'
 description: 'Solo-poliamor explicado: vivir varias relaciones manteniéndose independiente. Qué significa el solo-poly, para quién encaja y cómo es la vida cotidiana.'
+image: '/images/blog/solo-poliamoria.png'
+imageAlt: 'Diagrama: en el solo-poliamor vives en tu propia casa y tienes varias relaciones sin nesting partner'
 pubDate: 2026-06-26
 lang: 'es'
 translationKey: 'solo-polyamory'

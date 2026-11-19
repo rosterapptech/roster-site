@@ -2,6 +2,8 @@
 title: 'Etisk icke-monogami (ENM): definition, former och skillnader'
 seoTitle: 'Vad betyder ENM? Etisk icke-monogami förklarat enkelt'
 description: 'ENM betyder etisk icke-monogami. Här förklaras betydelsen enkelt, de vanligaste formerna och skillnaden mot polyamori, öppna förhållanden och swingers.'
+image: '/images/blog/etisk-icke-monogami.png'
+imageAlt: 'Översikt: monogami jämfört med formerna av etisk icke-monogami – monogamish, öppet förhållande, swinging, polyamori och relationsanarki'
 pubDate: 2026-07-06
 lang: 'sv'
 translationKey: 'ethical-non-monogamy'

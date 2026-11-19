@@ -2,6 +2,8 @@
 title: 'Throuple & triade: relaties met drie personen eenvoudig uitgelegd'
 seoTitle: 'Throuple betekenis: wat is een triade-relatie?'
 description: 'Wat is een throuple? De betekenis, het verschil met een V-structuur, typische uitdagingen en hoe wonen, geld en dagelijks leven met z''n drieën werken.'
+image: '/images/blog/throuple-triade-nl.png'
+imageAlt: 'Vergelijking: in een throuple hebben alle drie een relatie met elkaar, in een V-relatie heeft alleen één persoon een relatie met de andere twee'
 pubDate: 2026-07-06
 updatedDate: 2026-08-25
 lang: 'nl'

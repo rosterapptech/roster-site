@@ -1,6 +1,8 @@
 ---
 title: 'Swingen vs. Polyamorie: Wo liegt eigentlich der Unterschied?'
 description: 'Swingen und Polyamorie werden oft verwechselt, sind aber grundlegend verschieden. Der Unterschied liegt nicht in der Anzahl der Partner, sondern im emotionalen Fokus.'
+image: '/images/blog/swingen-vs-polyamorie.png'
+imageAlt: 'Vergleich: Beim Swingen treffen sich Paare gemeinsam mit anderen Paaren, meist für Sex, bei Polyamorie führen Menschen eigenständige Liebesbeziehungen mit mehreren Partnern'
 pubDate: 2026-07-11
 lang: 'de'
 translationKey: 'swinging-vs-polyamory'

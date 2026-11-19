@@ -2,6 +2,8 @@
 title: 'Polyfideliteit: als een gesloten groep samen polyamoor is'
 seoTitle: 'Polyfideliteit: betekenis en verschil met een throuple'
 description: 'Wat is polyfideliteit? De betekenis eenvoudig uitgelegd, het verschil met een throuple en kitchen-table-polyamorie, en de echte uitdagingen.'
+image: '/images/blog/polyfideliteit.png'
+imageAlt: 'Diagram: vier mensen vormen een gesloten polyfidele groep, zonder nieuwe partners van buitenaf'
 pubDate: 2026-07-11
 lang: 'nl'
 translationKey: 'polyfidelity'

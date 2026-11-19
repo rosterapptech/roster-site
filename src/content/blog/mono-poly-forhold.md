@@ -1,6 +1,8 @@
 ---
 title: 'Mono-poly-forhold: Når den ene forbliver monogam, og den anden har flere partnere'
 description: 'Hvordan fungerer et mono-poly-forhold, hvor den ene partner forbliver monogam, og den anden har flere forhold? Udfordringer, aftaler og hvad der virkelig hjælper.'
+image: '/images/blog/mono-poly-forhold.png'
+imageAlt: 'Diagram: en monogam person er sammen med en polyamorøs partner, som også har andre partnere'
 pubDate: 2026-07-06
 lang: 'da'
 translationKey: 'mono-poly-relationships'

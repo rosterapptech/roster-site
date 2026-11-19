@@ -2,6 +2,8 @@
 title: '¿Qué es un polycule? Estructuras de relación, ejemplos y cómo mantener el control'
 seoTitle: '¿Qué es un polycule? Significado, tipos y generador gratis'
 description: 'Qué es un polycule, explicado fácil: V, tríada, cuarteto y red con ejemplos reales, y un generador gratuito para crear el mapa de tu polycule.'
+image: '/images/blog/que-es-un-polycule.png'
+imageAlt: 'Diagrama de las cuatro formas de polycule más comunes: V, tríada, quad y red'
 pubDate: 2026-06-26
 lang: 'es'
 translationKey: 'what-is-a-polycule'

@@ -1,6 +1,8 @@
 ---
 title: 'Metamour: How to Have a Good Relationship With Your Partner''s Partner'
 description: 'What is a metamour and how do you build a good relationship with one? From friendship to "parallel" – the key dynamics, pitfalls, and tips for an easier connection.'
+image: '/images/blog/metamour-relationships.png'
+imageAlt: 'Diagram: you, your partner and your partner''s other partner – you and your partner''s partner are metamours'
 pubDate: 2026-07-06
 lang: 'en'
 translationKey: 'metamour-relationships'

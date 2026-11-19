@@ -1,6 +1,8 @@
 ---
 title: 'Hierarchische vs. nicht-hierarchische Polyamorie: Zwei Modelle im Vergleich'
 description: 'Primary/Secondary-Strukturen vs. Beziehungen ohne feste Rangordnung: Was hierarchische und nicht-hierarchische Polyamorie unterscheidet – und wie du das passende Modell für dich findest.'
+image: '/images/blog/hierarchische-vs-nicht-hierarchische-polyamorie.png'
+imageAlt: 'Vergleich: Bei hierarchischer Polyamorie gibt es eine Primärbeziehung und Sekundärbeziehungen, bei nicht-hierarchischer Polyamorie sind alle Beziehungen gleichrangig'
 pubDate: 2026-07-07
 lang: 'de'
 translationKey: 'hierarchical-vs-nonhierarchical-polyamory'

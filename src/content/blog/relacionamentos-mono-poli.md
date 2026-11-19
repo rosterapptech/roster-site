@@ -1,6 +1,8 @@
 ---
 title: 'Relacionamentos mono-poli: quando uma pessoa continua monogâmica e a outra tem vários parceiros'
 description: 'Como funciona um relacionamento mono-poli, em que uma pessoa continua monogâmica e a outra mantém vários relacionamentos? Desafios, acordos e o que realmente ajuda.'
+image: '/images/blog/relacionamentos-mono-poli.png'
+imageAlt: 'Diagrama: uma pessoa monogâmica está com um parceiro poliamoroso que também tem outros parceiros'
 pubDate: 2026-07-06
 lang: 'pt'
 translationKey: 'mono-poly-relationships'

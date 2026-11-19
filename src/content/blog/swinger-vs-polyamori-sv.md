@@ -1,6 +1,8 @@
 ---
 title: 'Swinger vs. polyamori: vad är egentligen skillnaden?'
 description: 'Swinger-livsstil och polyamori blandas ständigt ihop, men skiljer sig fundamentalt åt. Skillnaden ligger inte i antalet partner, utan i det emotionella fokuset.'
+image: '/images/blog/swinger-vs-polyamori-sv.png'
+imageAlt: 'Jämförelse: som swingers träffar par andra par tillsammans, mest för sex, i polyamori har man egna kärleksrelationer med flera partner'
 pubDate: 2026-07-11
 lang: 'sv'
 translationKey: 'swinging-vs-polyamory'

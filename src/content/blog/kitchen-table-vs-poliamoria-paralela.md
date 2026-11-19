@@ -1,6 +1,8 @@
 ---
 title: 'Kitchen Table vs. poliamor paralelo: ¿qué modelo encaja contigo?'
 description: 'Poliamor kitchen table y poliamor paralelo comparados: qué significan los términos, cómo se siente el día a día en cada uno y cómo averiguar cuál encaja contigo y con tu polycule.'
+image: '/images/blog/kitchen-table-vs-poliamoria-paralela.png'
+imageAlt: 'Comparación: en el poliamor kitchen table todas las personas se conocen y comparten mesa; en el poliamor paralelo las relaciones van por separado'
 pubDate: 2026-07-06
 lang: 'es'
 translationKey: 'kitchen-table-vs-parallel-polyamory'

@@ -1,6 +1,8 @@
 ---
 title: 'Metamour: Wie du gut mit dem Partner deines Partners umgehst'
 description: 'Was ist ein Metamour und wie gestaltet man diese Beziehung gut? Von Freundschaft bis "parallel" – die wichtigsten Dynamiken, Stolpersteine und Tipps für ein entspanntes Verhältnis.'
+image: '/images/blog/metamour-beziehung.png'
+imageAlt: 'Diagramm: Du, dein Partner und dessen weiterer Partner – du und der Partner deines Partners seid Metamours'
 pubDate: 2026-07-06
 lang: 'de'
 translationKey: 'metamour-relationships'

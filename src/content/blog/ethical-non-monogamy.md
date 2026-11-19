@@ -2,6 +2,8 @@
 title: 'Ethical Non-Monogamy (ENM): Definition, Types & How It Differs'
 seoTitle: 'ENM Meaning: What Ethical Non-Monogamy Is (+ Types)'
 description: 'What does ENM mean? Ethical non-monogamy explained simply: the main types and how ENM differs from polyamory, open relationships and swinging.'
+image: '/images/blog/ethical-non-monogamy.png'
+imageAlt: 'Overview: monogamy compared with the forms of ethical non-monogamy – monogamish, open relationship, swinging, polyamory and relationship anarchy'
 pubDate: 2026-07-06
 lang: 'en'
 translationKey: 'ethical-non-monogamy'

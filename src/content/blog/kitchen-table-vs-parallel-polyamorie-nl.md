@@ -1,6 +1,8 @@
 ---
 title: 'Kitchen Table vs. Parallel Polyamorie: welk model past bij jou?'
 description: 'Kitchen table polyamorie en parallelle polyamorie vergeleken: wat de termen betekenen, hoe het dagelijks leven bij elk model aanvoelt en hoe je uitzoekt welk model bij jou en je polycule past.'
+image: '/images/blog/kitchen-table-vs-parallel-polyamorie-nl.png'
+imageAlt: 'Vergelijking: bij kitchen table polyamorie kent iedereen elkaar en zit iedereen aan één tafel, bij parallelle polyamorie blijven de relaties gescheiden'
 pubDate: 2026-07-06
 lang: 'nl'
 translationKey: 'kitchen-table-vs-parallel-polyamory'

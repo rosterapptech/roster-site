@@ -2,6 +2,8 @@
 title: 'Polyamorie vs. offene Beziehung: Wo liegt der Unterschied?'
 seoTitle: 'Polyamorie vs. offene Beziehung: 4 Modelle im Vergleich'
 description: 'Offene Beziehung, Polyamorie, Polygamie oder Beziehungsanarchie? Die vier Modelle einfach erklärt und im direkten Vergleich – mit den wichtigsten Unterschieden.'
+image: '/images/blog/polyamorie-vs-offene-beziehung.png'
+imageAlt: 'Vergleich: In einer offenen Beziehung bleibt die Liebe beim Paar und Sex ist auch mit anderen möglich, bei Polyamorie gibt es Liebesbeziehungen zu mehreren Menschen'
 pubDate: 2026-06-20
 lang: 'de'
 translationKey: 'polyamory-vs-open-relationship'

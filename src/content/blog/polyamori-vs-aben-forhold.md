@@ -2,6 +2,8 @@
 title: 'Polyamori vs. åbent forhold: Hvad er forskellen?'
 seoTitle: 'Polyamori vs. åbent forhold: 4 modeller sammenlignet'
 description: 'Åbent forhold, polyamori, polygami eller relationsanarki? De fire modeller forklaret enkelt og sammenlignet side om side – med de vigtigste forskelle.'
+image: '/images/blog/polyamori-vs-aben-forhold.png'
+imageAlt: 'Sammenligning: I et åbent forhold bliver kærligheden i parret, og sex med andre er tilladt, i polyamori er der kærlighedsforhold med flere mennesker'
 pubDate: 2026-06-20
 lang: 'da'
 translationKey: 'polyamory-vs-open-relationship'

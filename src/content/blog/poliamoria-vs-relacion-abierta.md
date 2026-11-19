@@ -2,6 +2,8 @@
 title: 'Poliamoria vs. relación abierta: ¿Cuál es la diferencia?'
 seoTitle: 'Poliamor vs. relación abierta: 4 modelos comparados'
 description: '¿Relación abierta, poliamor, poligamia o anarquía relacional? Los cuatro modelos explicados de forma sencilla y comparados, con sus diferencias clave.'
+image: '/images/blog/poliamoria-vs-relacion-abierta.png'
+imageAlt: 'Comparación: en una relación abierta el amor se queda en la pareja y se permite el sexo con otras personas; en el poliamor hay relaciones amorosas con varias personas'
 pubDate: 2026-06-20
 lang: 'es'
 translationKey: 'polyamory-vs-open-relationship'

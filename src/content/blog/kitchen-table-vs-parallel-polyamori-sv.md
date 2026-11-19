@@ -1,6 +1,8 @@
 ---
 title: 'Kitchen Table vs. Parallell Polyamori: Vilken modell passar dig?'
 description: 'Kitchen table-polyamori och parallell polyamori jämförda: vad begreppen betyder, hur vardagen känns i respektive modell och hur du tar reda på vilken som passar dig och ditt polycule.'
+image: '/images/blog/kitchen-table-vs-parallel-polyamori-sv.png'
+imageAlt: 'Jämförelse: i kitchen table-polyamori känner alla varandra och sitter vid samma bord, i parallell polyamori hålls relationerna isär'
 pubDate: 2026-07-06
 lang: 'sv'
 translationKey: 'kitchen-table-vs-parallel-polyamory'

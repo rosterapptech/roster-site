@@ -1,6 +1,8 @@
 ---
 title: 'Swinger vs. polyamori: hvad er egentlig forskellen?'
 description: 'Swinger og polyamori bliver konstant forvekslet, men er grundlæggende forskellige. Forskellen ligger ikke i antallet af partnere, men i det følelsesmæssige fokus.'
+image: '/images/blog/swinger-vs-polyamori-da.png'
+imageAlt: 'Sammenligning: Som swingere mødes par sammen med andre par, mest for sex, i polyamori har man egne kærlighedsforhold med flere partnere'
 pubDate: 2026-07-11
 lang: 'da'
 translationKey: 'swinging-vs-polyamory'

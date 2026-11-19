@@ -2,6 +2,8 @@
 title: 'Was ist ein Polycule? Beziehungsformen, Beispiele und wie du den Überblick behältst'
 seoTitle: 'Polycule: Bedeutung, Formen & kostenloser Generator'
 description: 'Was ein Polycule ist, einfach auf Deutsch erklärt: V, Triade, Quad und Netzwerk mit Beispielen – plus kostenloser Generator für deine eigene Polycule-Map.'
+image: '/images/blog/was-ist-ein-polycule.png'
+imageAlt: 'Diagramm der vier häufigsten Polycule-Formen: V, Triade, Quad und Netzwerk'
 pubDate: 2026-06-26
 lang: 'de'
 translationKey: 'what-is-a-polycule'

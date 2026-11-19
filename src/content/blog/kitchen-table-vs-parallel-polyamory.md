@@ -1,6 +1,8 @@
 ---
 title: 'Kitchen Table vs. Parallel Polyamory: Which Model Fits You?'
 description: 'Kitchen table polyamory and parallel polyamory compared: what the terms mean, how daily life feels under each, and how to figure out which model fits you and your polycule.'
+image: '/images/blog/kitchen-table-vs-parallel-polyamory.png'
+imageAlt: 'Comparison: in kitchen table polyamory everyone knows each other and shares a table, in parallel polyamory the relationships stay separate'
 pubDate: 2026-07-06
 lang: 'en'
 translationKey: 'kitchen-table-vs-parallel-polyamory'

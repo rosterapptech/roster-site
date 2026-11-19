@@ -2,6 +2,8 @@
 title: 'What Is a Polycule? Relationship Structures, Examples and How to Stay Organised'
 seoTitle: 'What Is a Polycule? Meaning, Shapes & Free Map Maker'
 description: 'Polycule meaning explained simply: V, triad, quad and network shapes with real examples – plus a free polycule map maker to draw your own in minutes.'
+image: '/images/blog/what-is-a-polycule.png'
+imageAlt: 'Diagram of the four most common polycule shapes: V, triad, quad and network'
 pubDate: 2026-06-26
 lang: 'en'
 translationKey: 'what-is-a-polycule'

@@ -1,6 +1,8 @@
 ---
 title: 'Swing vs. poliamoria: qual é realmente a diferença?'
 description: 'Swing e poliamoria são constantemente confundidos, mas são fundamentalmente diferentes. A diferença não está no número de parceiros, mas no foco emocional.'
+image: '/images/blog/swing-vs-poliamoria.png'
+imageAlt: 'Comparação: no swing os casais encontram outros casais juntos, principalmente para sexo; na poliamoria cada pessoa tem relações amorosas próprias com vários parceiros'
 pubDate: 2026-07-11
 lang: 'pt'
 translationKey: 'swinging-vs-polyamory'

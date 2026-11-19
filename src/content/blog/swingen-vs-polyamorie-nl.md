@@ -1,6 +1,8 @@
 ---
 title: 'Swingen vs. polyamorie: wat is nu eigenlijk het verschil?'
 description: 'Swingen en polyamorie worden vaak door elkaar gehaald, maar verschillen fundamenteel. Het verschil zit niet in het aantal partners, maar in de emotionele focus.'
+image: '/images/blog/swingen-vs-polyamorie-nl.png'
+imageAlt: 'Vergelijking: bij swingen ontmoeten stellen samen andere stellen, meestal voor seks, bij polyamorie hebben mensen eigen liefdesrelaties met meerdere partners'
 pubDate: 2026-07-11
 lang: 'nl'
 translationKey: 'swinging-vs-polyamory'

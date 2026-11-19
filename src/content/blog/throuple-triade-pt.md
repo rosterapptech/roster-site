@@ -2,6 +2,8 @@
 title: 'Throuple e tríade: relacionamentos de três pessoas explicados de forma simples'
 seoTitle: 'Throuple e tríade: o que é um relacionamento a três'
 description: 'O que é um throuple? O significado, a diferença para a estrutura em V, os desafios comuns e como funcionam casa, dinheiro e rotina entre três pessoas.'
+image: '/images/blog/throuple-triade-pt.png'
+imageAlt: 'Comparação: em um throuple as três pessoas estão juntas; em uma relação em V só uma pessoa está com as outras duas'
 pubDate: 2026-07-06
 updatedDate: 2026-08-25
 lang: 'pt'

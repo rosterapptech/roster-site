@@ -2,6 +2,8 @@
 title: 'Throuple & Triad: Three-Person Relationships Explained Simply'
 seoTitle: 'Throuple Meaning: What a Triad Relationship Really Is'
 description: 'What is a throuple? The meaning, how it differs from a V structure, common challenges and how daily life, housing and money work for three people.'
+image: '/images/blog/throuple-triad.png'
+imageAlt: 'Comparison: in a throuple all three people are together, in a V relationship only one person is with both others'
 pubDate: 2026-07-06
 updatedDate: 2026-08-25
 lang: 'en'

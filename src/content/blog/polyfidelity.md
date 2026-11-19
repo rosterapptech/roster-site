@@ -2,6 +2,8 @@
 title: 'Polyfidelity: When a Closed Group Is Polyamorous Together'
 seoTitle: 'Polyfidelity: Meaning & How It Differs From a Throuple'
 description: 'What is polyfidelity? The meaning explained simply, how it differs from a throuple and kitchen-table polyamory, and the real challenges of a closed group.'
+image: '/images/blog/polyfidelity.png'
+imageAlt: 'Diagram: four people form a closed polyfidelitous group, with no new partners from outside'
 pubDate: 2026-07-11
 lang: 'en'
 translationKey: 'polyfidelity'

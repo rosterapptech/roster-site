@@ -1,6 +1,8 @@
 ---
 title: 'Metamour: Zo bouw je een goede band met de partner van je partner'
 description: 'Wat is een metamour en hoe bouw je hier een goede band mee op? Van vriendschap tot "parallel" – de belangrijkste dynamieken, valkuilen en tips voor een ontspannen relatie.'
+image: '/images/blog/metamour-relatie.png'
+imageAlt: 'Diagram: jij, je partner en de andere partner van je partner – jij en de partner van je partner zijn metamours'
 pubDate: 2026-07-06
 lang: 'nl'
 translationKey: 'metamour-relationships'

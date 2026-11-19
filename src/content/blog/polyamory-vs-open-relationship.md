@@ -2,6 +2,8 @@
 title: "Polyamory vs. Open Relationship: What's the Difference?"
 seoTitle: 'Polyamory vs. Open Relationship: 4 Models Compared'
 description: 'Open relationship, polyamory, polygamy or relationship anarchy? The four models explained simply and compared side by side – with the key differences.'
+image: '/images/blog/polyamory-vs-open-relationship.png'
+imageAlt: 'Comparison: in an open relationship love stays within the couple while sex with others is allowed, polyamory means romantic relationships with several people'
 pubDate: 2026-06-20
 lang: 'en'
 translationKey: 'polyamory-vs-open-relationship'

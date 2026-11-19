@@ -1,6 +1,8 @@
 ---
 title: 'Poliamoria hierárquica vs. não hierárquica: dois modelos comparados'
 description: 'Estruturas de parceria primária/secundária vs. relacionamentos sem status fixo: o que diferencia a poliamoria hierárquica da não hierárquica e como encontrar o modelo certo para você.'
+image: '/images/blog/poliamoria-hierarquica-vs-nao-hierarquica.png'
+imageAlt: 'Comparação: na poliamoria hierárquica existe uma relação primária e relações secundárias; na não hierárquica todas as relações são iguais'
 pubDate: 2026-07-07
 lang: 'pt'
 translationKey: 'hierarchical-vs-nonhierarchical-polyamory'

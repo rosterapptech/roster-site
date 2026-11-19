@@ -2,6 +2,8 @@
 title: 'Polyamori vs. öppet förhållande: Vad är skillnaden?'
 seoTitle: 'Polyamori vs. öppet förhållande: 4 modeller jämförda'
 description: 'Öppet förhållande, polyamori, polygami eller relationsanarki? De fyra modellerna förklarade enkelt och jämförda sida vid sida – med de viktigaste skillnaderna.'
+image: '/images/blog/polyamori-vs-oppet-forhallande.png'
+imageAlt: 'Jämförelse: i ett öppet förhållande stannar kärleken i paret och sex med andra är tillåtet, i polyamori finns kärleksrelationer med flera personer'
 pubDate: 2026-06-20
 lang: 'sv'
 translationKey: 'polyamory-vs-open-relationship'

@@ -2,6 +2,8 @@
 title: 'Nesting partner uitgelegd: samenwonen in de polyamorie'
 seoTitle: 'Wat is een nesting partner? Betekenis en verschil'
 description: 'Wat is een nesting partner? De betekenis eenvoudig uitgelegd, het verschil met een primaire partner en hoe samenwonen werkt met andere partners.'
+image: '/images/blog/nesting-partner-uitgelegd.png'
+imageAlt: 'Diagram: twee nesting partners delen een huis, andere partners wonen elders'
 pubDate: 2026-07-11
 lang: 'nl'
 translationKey: 'nesting-partner-explained'

@@ -1,6 +1,8 @@
 ---
 title: 'Hierarkisk vs. icke-hierarkisk polyamori: Två modeller jämförda'
 description: 'Primary/secondary-strukturer vs. relationer utan fast rangordning: vad som skiljer hierarkisk och icke-hierarkisk polyamori åt – och hur du hittar den modell som passar dig.'
+image: '/images/blog/hierarkisk-vs-icke-hierarkisk-polyamori.png'
+imageAlt: 'Jämförelse: i hierarkisk polyamori finns en primär relation och sekundära relationer, i icke-hierarkisk polyamori är alla relationer jämlika'
 pubDate: 2026-07-07
 lang: 'sv'
 translationKey: 'hierarchical-vs-nonhierarchical-polyamory'

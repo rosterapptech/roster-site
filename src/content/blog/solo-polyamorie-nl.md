@@ -1,6 +1,8 @@
 ---
 title: 'Solo-polyamorie: Meerdere relaties voeren zonder nesting partner'
 description: 'Solo-polyamorie uitgelegd: meerdere relaties leven en toch onafhankelijk blijven. Wat solo-poly betekent, voor wie het past en hoe het dagelijks leven eruitziet.'
+image: '/images/blog/solo-polyamorie-nl.png'
+imageAlt: 'Diagram: bij solo-polyamorie woon je in je eigen huis en heb je meerdere relaties zonder nesting partner'
 pubDate: 2026-06-26
 lang: 'nl'
 translationKey: 'solo-polyamory'

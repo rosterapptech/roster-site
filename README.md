@@ -88,6 +88,17 @@ CTA am Ende, Sticky-Leiste auf dem iPhone). Die Überschrift hängt vom Thema ab
 neuen `translationKey` in `src/i18n/appCta.ts` einem Cluster zuordnen
 (`map`, `feelings`, `organize`, `health`, `privacy`), sonst gilt `general`.
 
+### Diagramm / Vorschaubild
+
+Optionales Frontmatter `image` + `imageAlt`. Das Bild erscheint unter der H1
+und dient als `og:image` und Schema-Bild (sonst gilt `/og.png`). Die Diagramme
+werden nicht von Hand gebaut, sondern von `node scripts/blog-images.mjs` erzeugt:
+1600×900 PNG für Google/Social plus 1200×675 WebP für die Anzeige, benannt nach
+dem Artikel-Slug, Texte in allen 7 Sprachen im Skript. Das Skript setzt das
+Frontmatter selbst. Neues Diagramm = neuer Eintrag in `DIAGRAMS` (Schlüssel =
+`translationKey`). Mit `--sheet` entstehen Kontaktbögen zur Sichtprüfung auf
+Überlauf.
+
 ## App-Store-Kampagnen auswerten
 
 Alle App-Store-Links laufen über `appStoreUrl()` in `src/config/appStore.ts` und

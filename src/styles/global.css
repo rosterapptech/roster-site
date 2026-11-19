@@ -205,3 +205,15 @@ section {
   }
   .js-ready [data-reveal] { opacity: 1; transform: none; }
 }
+
+/* Diagramm unter der H1 von Blogartikeln (scripts/blog-images.mjs) */
+.article-hero {
+  margin: 0 0 32px;
+}
+.article-hero img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border);
+}

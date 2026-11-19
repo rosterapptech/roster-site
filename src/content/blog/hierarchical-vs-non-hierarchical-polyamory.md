@@ -1,6 +1,8 @@
 ---
 title: 'Hierarchical vs. Non-Hierarchical Polyamory: Two Models Compared'
 description: 'Primary/secondary structures vs. relationships without a fixed rank: what sets hierarchical and non-hierarchical polyamory apart – and how to find the right model for you.'
+image: '/images/blog/hierarchical-vs-non-hierarchical-polyamory.png'
+imageAlt: 'Comparison: hierarchical polyamory has a primary relationship and secondary relationships, non-hierarchical polyamory treats all relationships as equals'
 pubDate: 2026-07-07
 lang: 'en'
 translationKey: 'hierarchical-vs-nonhierarchical-polyamory'

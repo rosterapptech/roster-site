@@ -2,6 +2,8 @@
 title: 'Throuple & triad: relationer mellan tre personer förklarat enkelt'
 seoTitle: 'Throuple: betydelse och vad en triadrelation är'
 description: 'Vad är ett throuple? Betydelsen, skillnaden mot en V-struktur, vanliga utmaningar och hur boende, ekonomi och vardag fungerar för tre personer.'
+image: '/images/blog/throuple-triad-sv.png'
+imageAlt: 'Jämförelse: i en throuple är alla tre tillsammans, i en V-relation är bara en person tillsammans med båda de andra'
 pubDate: 2026-07-06
 updatedDate: 2026-08-25
 lang: 'sv'

@@ -1,6 +1,8 @@
 ---
 title: 'Swinging vs. poliamor: ¿cuál es realmente la diferencia?'
 description: 'El swinging y el poliamor se confunden constantemente, pero son fundamentalmente distintos. La diferencia no está en el número de parejas, sino en el enfoque emocional.'
+image: '/images/blog/swinging-vs-poliamoria.png'
+imageAlt: 'Comparación: en el swinging las parejas se encuentran juntas con otras parejas, sobre todo para el sexo; en el poliamor cada persona tiene sus propias relaciones amorosas'
 pubDate: 2026-07-11
 lang: 'es'
 translationKey: 'swinging-vs-polyamory'

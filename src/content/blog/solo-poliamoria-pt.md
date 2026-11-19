@@ -1,6 +1,8 @@
 ---
 title: 'Solo-poliamoria: vários relacionamentos sem nesting partner'
 description: 'Solo-poliamoria explicada: viver vários relacionamentos mantendo a independência. O que significa solo-poly, para quem faz sentido e como é o dia a dia.'
+image: '/images/blog/solo-poliamoria-pt.png'
+imageAlt: 'Diagrama: na solo-poliamoria você mora na sua própria casa e tem vários relacionamentos sem nesting partner'
 pubDate: 2026-06-26
 lang: 'pt'
 translationKey: 'solo-polyamory'

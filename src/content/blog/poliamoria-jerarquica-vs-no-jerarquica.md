@@ -1,6 +1,8 @@
 ---
 title: 'Poliamoría jerárquica vs. no jerárquica: dos modelos comparados'
 description: 'Estructuras de pareja primaria/secundaria vs. relaciones sin un rango fijo: qué diferencia a la poliamoría jerárquica de la no jerárquica y cómo encontrar el modelo adecuado para ti.'
+image: '/images/blog/poliamoria-jerarquica-vs-no-jerarquica.png'
+imageAlt: 'Comparación: en el poliamor jerárquico hay una relación primaria y relaciones secundarias; en el no jerárquico todas las relaciones son iguales'
 pubDate: 2026-07-07
 lang: 'es'
 translationKey: 'hierarchical-vs-nonhierarchical-polyamory'

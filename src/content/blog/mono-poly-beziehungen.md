@@ -1,6 +1,8 @@
 ---
 title: 'Mono-Poly-Beziehungen: Wenn eine Person monogam bleibt und die andere mehrere Partner hat'
 description: 'Wie funktioniert eine Mono-Poly-Beziehung, bei der ein Partner monogam bleibt und der andere mehrere Beziehungen führt? Herausforderungen, Absprachen und was wirklich hilft.'
+image: '/images/blog/mono-poly-beziehungen.png'
+imageAlt: 'Diagramm: Eine monogame Person ist mit einer polyamoren Person zusammen, die noch weitere Partner hat'
 pubDate: 2026-07-06
 lang: 'de'
 translationKey: 'mono-poly-relationships'
